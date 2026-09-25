@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 25 Sep 2026 14:09:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 18:30:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Populaire Qobuz-client QBZ voor Linux moet stoppen vanwege rechtenkwestie</title>
+    <link>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252628</guid>
+    <pubDate>Fri, 25 Sep 2026 19:10:01 +0200</pubDate>
+    <description>Een populaire open source Linux-client voor muziekstreamingdienst Qobuz is gestopt. QBZ werd algemeen gezien als de beste Linux-client voor de dienst, die geen native app voor dat besturingssysteem heeft. Volgens de ontwikkelaar gaat het om een rechtenkwestie.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html#reacties</comments>
+  </item>
+  <item>
+    <title>'OpenAI wil GPT-6 Cyber voor securityonderzoekers in komende weken uitbrengen'</title>
+    <link>https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252624</guid>
+    <pubDate>Fri, 25 Sep 2026 18:07:36 +0200</pubDate>
+    <description>OpenAI is van plan in de komende weken een aparte versie van ChatGPT uit te brengen die specifiek gericht is op cybersecurity. GPT-6 Cyber zou inmiddels in een alfatest beschikbaar zijn voor een beperkt aantal klanten. Steeds meer AI-bedrijven brengen zulke versies uit, juist nu er groeiende zorgen zijn over de hackcapaciteiten van deze modellen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Anthropic koopt 7 jaar lang voor 11,6 miljard dollar rekenkracht in bij Akamai</title>
+    <link>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252626</guid>
+    <pubDate>Fri, 25 Sep 2026 17:50:25 +0200</pubDate>
+    <description>Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro voor. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Lanparty's leven nog en Tweakers ging erheen: verslag van The Reality 2026</title>
+    <link>https://tweakers.net/reviews/15350/lanpartys-leven-nog-en-tweakers-ging-erheen-verslag-van-the-reality-2026.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15350</guid>
+    <pubDate>Fri, 25 Sep 2026 17:00:00 +0200</pubDate>
+    <description>Lanparty's leven nog. The Reality organiseerde er vorig weekend nog eentje. Tweakers ging erheen om een kijkje te nemen tussen de gamers en de Red Bull.</description>
+    <dc:creator>Michiel Berkhout</dc:creator>
+    <category>.Community / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15350/lanpartys-leven-nog-en-tweakers-ging-erheen-verslag-van-the-reality-2026.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gravity Linux voor Apple is Asahi-fork die vibecoden wél toelaat</title>
+    <link>https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252622</guid>
+    <pubDate>Fri, 25 Sep 2026 16:58:14 +0200</pubDate>
+    <description>Een groep ontwikkelaars heeft een vroege alfabuild van Gravity Linux vrijgegeven, een distro die gericht is op Mac-apparaten met Apples eigen M-soc. Gravity is een fork van Asahi, maar dan eentje waarin de ontwikkelaars wél mogen programmeren met behulp van llm's en AI. Dat is bij Asahi expliciet verboden. Gravity is een Fedora-distro met KDE.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Witte Huis verzoekt AI-bedrijven om modellen niet te delen met VK'</title>
+    <link>https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252604</guid>
+    <pubDate>Fri, 25 Sep 2026 16:24:34 +0200</pubDate>
+    <description>Het Witte Huis heeft OpenAI en Anthropic gevraagd om nieuwe AI-modellen niet meteen te delen met de testinstantie van de Britse overheid. Amerika wil de modellen eerst zelf testen. Dat meldt Politico op basis van anonieme bronnen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html#reacties</comments>
+  </item>
+  <item>
+    <title>Raspberry Pi wil doorverkooptactiek indammen en maakt geheugenupgrade onmogelijk</title>
+    <link>https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252620</guid>
+    <pubDate>Fri, 25 Sep 2026 16:21:46 +0200</pubDate>
+    <description>Gebruikers kunnen het geheugen van een Raspberry Pi niet zomaar upgraden omdat de firmware dat niet toestaat. Het bedrijf achter de populaire singleboardcomputer zegt dat het daarmee wil voorkomen dat kopers het ram upgraden en de pc'tjes daarna doorverkopen als origineel. Dat beleid en de aangepaste firmware bestaan al sinds 2024, voordat de ramcrisis begon.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Singleboardcomputers</category>
+    <comments>https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html#reacties</comments>
+  </item>
   <item>
     <title>Fedora-gebruikers discussiëren over het vervangen van LibreOffice door Collabora</title>
     <link>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html</link>

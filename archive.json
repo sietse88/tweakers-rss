@@ -263,11 +263,11 @@
   "author": "Jasper Bakker",
   "category": "Nieuws / Beeld en geluid / Spiegelreflexcamera's",
   "comments": "https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html#reacties",
-  "description": "NASA kiest detectietechnologie van Nederlandse bodem voor de nieuwe ruimtetelescoop die het in 2033 wil lanceren. De PRobe far-Infrared Mission for Astrophysics (PRIMA) wordt de eerste ruimtetelescoop met een actief gekoelde spiegel: op 4,5 kelvin. Daardoor is PRIMA veel gevoeliger.",
+  "description": "NASA kiest detectietechnologie van Nederlandse bodem voor de nieuwe ruimtetelescoop die het in 2033 wil lanceren. De PRobe far-Infrared Mission for Astrophysics (Prima) wordt de eerste ruimtetelescoop met een actief gekoelde spiegel: op 4,5 kelvin. Daardoor is Prima veel gevoeliger.",
   "guid": "https://tweakers.net/nieuws/252584",
   "link": "https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html",
   "pubDate": "Thu, 24 Sep 2026 20:06:02 +0200",
-  "title": "NASA kiest Nederlands detectiesysteem voor PRIMA-ruimtetelescoop"
+  "title": "NASA kiest Nederlands detectiesysteem voor Prima-ruimtetelescoop"
  },
  "https://tweakers.net/nieuws/252586": {
   "author": "Jasper Bakker",
@@ -349,6 +349,16 @@
   "pubDate": "Fri, 25 Sep 2026 12:06:20 +0200",
   "title": "Google wil in oktober eerste testsatelliet voor ruimtedatacenter lanceren"
  },
+ "https://tweakers.net/nieuws/252604": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html#reacties",
+  "description": "Het Witte Huis heeft OpenAI en Anthropic gevraagd om nieuwe AI-modellen niet meteen te delen met de testinstantie van de Britse overheid. Amerika wil de modellen eerst zelf testen. Dat meldt Politico op basis van anonieme bronnen.",
+  "guid": "https://tweakers.net/nieuws/252604",
+  "link": "https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html",
+  "pubDate": "Fri, 25 Sep 2026 16:24:34 +0200",
+  "title": "'Witte Huis verzoekt AI-bedrijven om modellen niet te delen met VK'"
+ },
  "https://tweakers.net/nieuws/252606": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / IT Pro / Websites en community's",
@@ -398,6 +408,66 @@
   "link": "https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html",
   "pubDate": "Fri, 25 Sep 2026 15:23:42 +0200",
   "title": "WiCi One-behuizing laat RTX-gpu's draadloos verbinding maken met pc via Wi-Fi 7"
+ },
+ "https://tweakers.net/nieuws/252620": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Singleboardcomputers",
+  "comments": "https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html#reacties",
+  "description": "Gebruikers kunnen het geheugen van een Raspberry Pi niet zomaar upgraden omdat de firmware dat niet toestaat. Het bedrijf achter de populaire singleboardcomputer zegt dat het daarmee wil voorkomen dat kopers het ram upgraden en de pc'tjes daarna doorverkopen als origineel. Dat beleid en de aangepaste firmware bestaan al sinds 2024, voordat de ramcrisis begon.",
+  "guid": "https://tweakers.net/nieuws/252620",
+  "link": "https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html",
+  "pubDate": "Fri, 25 Sep 2026 16:21:46 +0200",
+  "title": "Raspberry Pi wil doorverkooptactiek indammen en maakt geheugenupgrade onmogelijk"
+ },
+ "https://tweakers.net/nieuws/252622": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html#reacties",
+  "description": "Een groep ontwikkelaars heeft een vroege alfabuild van Gravity Linux vrijgegeven, een distro die gericht is op Mac-apparaten met Apples eigen M-soc. Gravity is een fork van Asahi, maar dan eentje waarin de ontwikkelaars wél mogen programmeren met behulp van llm's en AI. Dat is bij Asahi expliciet verboden. Gravity is een Fedora-distro met KDE.",
+  "guid": "https://tweakers.net/nieuws/252622",
+  "link": "https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html",
+  "pubDate": "Fri, 25 Sep 2026 16:58:14 +0200",
+  "title": "Gravity Linux voor Apple is Asahi-fork die vibecoden wél toelaat"
+ },
+ "https://tweakers.net/nieuws/252624": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html#reacties",
+  "description": "OpenAI is van plan in de komende weken een aparte versie van ChatGPT uit te brengen die specifiek gericht is op cybersecurity. GPT-6 Cyber zou inmiddels in een alfatest beschikbaar zijn voor een beperkt aantal klanten. Steeds meer AI-bedrijven brengen zulke versies uit, juist nu er groeiende zorgen zijn over de hackcapaciteiten van deze modellen.",
+  "guid": "https://tweakers.net/nieuws/252624",
+  "link": "https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html",
+  "pubDate": "Fri, 25 Sep 2026 18:07:36 +0200",
+  "title": "'OpenAI wil GPT-6 Cyber voor securityonderzoekers in komende weken uitbrengen'"
+ },
+ "https://tweakers.net/nieuws/252626": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html#reacties",
+  "description": "Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro voor. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.",
+  "guid": "https://tweakers.net/nieuws/252626",
+  "link": "https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html",
+  "pubDate": "Fri, 25 Sep 2026 17:50:25 +0200",
+  "title": "Anthropic koopt 7 jaar lang voor 11,6 miljard dollar rekenkracht in bij Akamai"
+ },
+ "https://tweakers.net/nieuws/252628": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Software development",
+  "comments": "https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html#reacties",
+  "description": "Een populaire open source Linux-client voor muziekstreamingdienst Qobuz is gestopt. QBZ werd algemeen gezien als de beste Linux-client voor de dienst, die geen native app voor dat besturingssysteem heeft. Volgens de ontwikkelaar gaat het om een rechtenkwestie.",
+  "guid": "https://tweakers.net/nieuws/252628",
+  "link": "https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html",
+  "pubDate": "Fri, 25 Sep 2026 19:10:01 +0200",
+  "title": "Populaire Qobuz-client QBZ voor Linux moet stoppen vanwege rechtenkwestie"
+ },
+ "https://tweakers.net/nieuws/252630": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Beeld en geluid / Televisies",
+  "comments": "https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-duiken-op.html#reacties",
+  "description": "Apple brengt naar verwachting volgende maand een iPad mini uit die draait op een A20 Pro-processor. MacRumors heeft beelden verschenen van die kleine tablet. Ook heeft de site beelden van de HomePod mini 2, die in nieuwe kleuren beschikbaar komt, en van een nieuwe Apple TV die er hetzelfde uitziet als het eerdere model maar krachtigere hardware heeft.",
+  "guid": "https://tweakers.net/nieuws/252630",
+  "link": "https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-duiken-op.html",
+  "pubDate": "Fri, 25 Sep 2026 19:43:00 +0200",
+  "title": "Beelden van nieuwe iPad mini, HomePod mini's en identieke Apple TV duiken op"
  },
  "https://tweakers.net/reviews/15078": {
   "author": "Reinoud Dik",
@@ -588,6 +658,16 @@
   "link": "https://tweakers.net/reviews/15348/hyves-is-terug-maar-kan-niet-alleen-leunen-op-nostalgie.html",
   "pubDate": "Thu, 24 Sep 2026 17:00:00 +0200",
   "title": "Achtergrond - Hyves is terug, maar kan niet alleen leunen op nostalgie"
+ },
+ "https://tweakers.net/reviews/15350": {
+  "author": "Michiel Berkhout",
+  "category": ".Community / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/reviews/15350/lanpartys-leven-nog-en-tweakers-ging-erheen-verslag-van-the-reality-2026.html#reacties",
+  "description": "Lanparty's leven nog. The Reality organiseerde er vorig weekend nog eentje. Tweakers ging erheen om een kijkje te nemen tussen de gamers en de Red Bull.",
+  "guid": "https://tweakers.net/reviews/15350",
+  "link": "https://tweakers.net/reviews/15350/lanpartys-leven-nog-en-tweakers-ging-erheen-verslag-van-the-reality-2026.html",
+  "pubDate": "Fri, 25 Sep 2026 17:00:00 +0200",
+  "title": ".Community - Lanparty's leven nog en Tweakers ging erheen: verslag van The Reality 2026"
  },
  "https://tweakers.net/reviews/15352": {
   "author": "Kevin Krikhaar",

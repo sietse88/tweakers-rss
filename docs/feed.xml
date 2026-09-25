@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Tweakers (gefilterd)</title>
+  <link>https://tweakers.net/</link>
+  <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
+  <language>nl-NL</language>
+  <lastBuildDate>Fri, 25 Sep 2026 14:09:23 +0000</lastBuildDate>
+  <ttl>60</ttl>
+  <image>
+    <url>https://tweakers.net/icon-192.png</url>
+    <title>Tweakers (gefilterd)</title>
+    <link>https://tweakers.net/</link>
+    <width>192</width>
+    <height>192</height>
+  </image>
+  <item>
+    <title>Fedora-gebruikers discussiëren over het vervangen van LibreOffice door Collabora</title>
+    <link>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252616</guid>
+    <pubDate>Fri, 25 Sep 2026 15:30:00 +0200</pubDate>
+    <description>Fedora-gebruikers en -ontwikkelaars voeren momenteel een lange discussie over het vervangen van LibreOffice door Collabora Office. De vervanging maakt nog geen deel uit van officieel beleid en wordt niet serieus nagestreefd, maar heeft wel veel voorstanders.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Officesoftware en suites</category>
+    <comments>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html#reacties</comments>
+  </item>
+  <item>
+    <title>Stichting begint massaclaim tegen Fortnite vanwege verslavend ontwerp</title>
+    <link>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252614</guid>
+    <pubDate>Fri, 25 Sep 2026 14:33:21 +0200</pubDate>
+    <description>De stichting Massaschade &amp; Consument is een nieuwe massaclaim gestart, dit keer tegen Epic Games. De stichting stelt dat Epic spelers onder druk zette om in-appaankopen in Fortnite te doen en hen zo misleidde. De stichting eist dat Epic Games onder andere stopt met aflopende timers en 'het verslavende ontwerp', maar wil ook een schadevergoeding.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft voegt programmeertool en OpenClaw-achtige agent toe aan Copilot-app</title>
+    <link>https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252606</guid>
+    <pubDate>Fri, 25 Sep 2026 14:00:00 +0200</pubDate>
+    <description>Microsoft komt met verschillende vernieuwingen voor de Copilot-app. Het bedrijf integreert de programmeertool GitHub Copilot in de app. Daarnaast introduceert Microsoft Autopilot. Deze OpenClaw-achtige AI-agent moet non-stop op de achtergrond taken kunnen uitvoeren.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ransomwaregroep hackt onlinesupermarkt Flink en vraagt slachtoffers om losgeld</title>
+    <link>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252608</guid>
+    <pubDate>Fri, 25 Sep 2026 13:38:13 +0200</pubDate>
+    <description>Bezorgbedrijf en onlinesupermarkt Flink is gehackt. Hackers van waarschijnlijk LPG Group zijn binnengedrongen in interne systemen van het bedrijf en hebben persoonsgegevens van klanten gestolen. Het gaat onder andere om naam-, adres- en woonplaatsgegevens, maar niet om wachtwoorden of betaalgegevens. Opvallend genoeg vragen de hackers losgeld aan individuele slachtoffers.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google wil in oktober eerste testsatelliet voor ruimtedatacenter lanceren</title>
+    <link>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252602</guid>
+    <pubDate>Fri, 25 Sep 2026 12:06:20 +0200</pubDate>
+    <description>Google wil op 1 oktober zijn eerste testsatelliet lanceren in het kader van Project Suncatcher. Het is de bedoeling dat er uiteindelijk een satellietconstellatie komt met de gezamenlijke rekenkracht van een volwaardig AI-datacenter.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Beheerder Switch-piraterijwebsites moet 4,5 miljoen dollar betalen aan Nintendo</title>
+    <link>https://tweakers.net/nieuws/252596/beheerder-switch-piraterijwebsites-moet-4-komma-5-miljoen-dollar-betalen-aan-nintendo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252596</guid>
+    <pubDate>Fri, 25 Sep 2026 09:36:39 +0200</pubDate>
+    <description>Een man die onder de naam Archbox meerdere Switch-piraterijwebsites en een piraterijsubreddit beheerde, moet 4,5 miljoen dollar schadevergoeding betalen aan Nintendo. Ook moet hij van de rechter zijn websites sluiten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252596/beheerder-switch-piraterijwebsites-moet-4-komma-5-miljoen-dollar-betalen-aan-nintendo.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft lijkt af te stappen van Copilot+-merknaam voor Windows-pc's</title>
+    <link>https://tweakers.net/nieuws/252594/microsoft-lijkt-af-te-stappen-van-copilot+-merknaam-voor-windows-pcs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252594</guid>
+    <pubDate>Fri, 25 Sep 2026 08:28:56 +0200</pubDate>
+    <description>Microsoft lijkt te stoppen met de merknaam Copilot+ voor systemen die krachtig genoeg zijn om specifieke AI-rekentaken uit te voeren. De nieuwe Surface-laptops worden niet Copilot+-pc's genoemd, hoewel ze wel aan de hardwarevereisten voldoen. Ook Qualcomm verwacht dat de merknaam bij toekomstige pc's verdwijnt.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252594/microsoft-lijkt-af-te-stappen-van-copilot+-merknaam-voor-windows-pcs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meta komt met Tamagotchi-gadget om zijn AI dichter bij mensen te brengen</title>
+    <link>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252590</guid>
+    <pubDate>Thu, 24 Sep 2026 21:19:31 +0200</pubDate>
+    <description>Meta brengt in december in de VS een wearable uit waarin het zijn AI-agent Muse in een schattig jasje steekt. Ceo Mark Zuckerberg onthulde de Muse Charm, die vooral bedoeld zou zijn om vast te houden. Het ontwerp is van voormalige Apple-werknemers, die eind vorig jaar overstapten naar Meta.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Verzamelaarsdoos GTA VI kost 400 euro en bevat veel extra's, maar niet de game</title>
+    <link>https://tweakers.net/nieuws/252588/verzamelaarsdoos-gta-vi-kost-400-euro-en-bevat-veel-extras-maar-niet-de-game.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252588</guid>
+    <pubDate>Thu, 24 Sep 2026 19:24:16 +0200</pubDate>
+    <description>Rockstar Games kondigt een luxe verzamelaarsdoos van GTA VI aan, die 399,99 euro kost. Deze Grand Theft Auto VI: The Goodtime State – Vice City Collection geeft gamers veel goodies, waaronder een Oakley-zonnebril, een crossbodybag en een sleutelhanger. GTA VI zelf zit niet in de doos.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Game-accessoires</category>
+    <comments>https://tweakers.net/nieuws/252588/verzamelaarsdoos-gta-vi-kost-400-euro-en-bevat-veel-extras-maar-niet-de-game.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Age of Empires 5 sneuvelt bij ontslagronde en reorganisatie World's Edge'</title>
+    <link>https://tweakers.net/nieuws/252586/age-of-empires-5-sneuvelt-bij-ontslagronde-en-reorganisatie-worlds-edge.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252586</guid>
+    <pubDate>Thu, 24 Sep 2026 18:56:11 +0200</pubDate>
+    <description>Bij XBOX-gamestudio World's Edge zou bijna de helft van het personeel zijn ontslagen . Ook zou het volgende grote project zijn geschrapt. Naar verluidt is dat onaangekondigde project Age of Empires 5. Dit melden gamenieuwssites op basis van posts van ontslagen medewerkers.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252586/age-of-empires-5-sneuvelt-bij-ontslagronde-en-reorganisatie-worlds-edge.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlanders kunnen DigiD downloaden als app voor Windows en macOS</title>
+    <link>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252582</guid>
+    <pubDate>Thu, 24 Sep 2026 17:53:15 +0200</pubDate>
+    <description>De Nederlandse overheid brengt de DigiD-app uit voor pc's, wat eerder al was aangekondigd. De pc-app is bedoeld voor mensen die geen smartphone hebben. In Nederland zijn dat er een miljoen, aldus de overheid. De app draait op Windows 11 en Mac-computers met macOS 15 (Sequoia) of hoger.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Overige software</category>
+    <comments>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Hyves is terug, maar kan niet alleen leunen op nostalgie</title>
+    <link>https://tweakers.net/reviews/15348/hyves-is-terug-maar-kan-niet-alleen-leunen-op-nostalgie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15348</guid>
+    <pubDate>Thu, 24 Sep 2026 17:00:00 +0200</pubDate>
+    <description>Hyves is terug, maar willen mensen wel overstappen?</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/reviews/15348/hyves-is-terug-maar-kan-niet-alleen-leunen-op-nostalgie.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlandse inlichtingendiensten, politie, OM, NCSC en NCTV waarschuwen voor AI</title>
+    <link>https://tweakers.net/nieuws/252578/nederlandse-inlichtingendiensten-politie-om-ncsc-en-nctv-waarschuwen-voor-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252578</guid>
+    <pubDate>Thu, 24 Sep 2026 16:02:15 +0200</pubDate>
+    <description>AI-gebruik door kwaadwillenden versnelt en vergroot de dreiging van cyberaanvallen. Daarvoor waarschuwen Nederlandse inlichtingen- en opsporingsdiensten, waaronder de AIVD en MIVD, de politie, het OM, het NCSC en de NCTV. Zij vragen om 'prioriteit voor cybersecurity'.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/252578/nederlandse-inlichtingendiensten-politie-om-ncsc-en-nctv-waarschuwen-voor-ai.html#reacties</comments>
+  </item>
+  <item>
+    <title>Populaire VR-game Beat Saber krijgt 'zijn grootste update ooit' in lente 2027</title>
+    <link>https://tweakers.net/nieuws/252572/populaire-vr-game-beat-saber-krijgt-zijn-grootste-update-ooit-in-lente-2027.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252572</guid>
+    <pubDate>Thu, 24 Sep 2026 15:15:22 +0200</pubDate>
+    <description>VR-ritmegame Beat Saber krijgt komend voorjaar 'zijn grootste update ooit', zeggen de ontwikkelaars. Het spel krijgt bijvoorbeeld een compleet nieuwe spelmodus. Ook gaat de campagne op de schop en verschijnt er een progressiesysteem waarmee je nieuwe items kunt vrijspelen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252572/populaire-vr-game-beat-saber-krijgt-zijn-grootste-update-ooit-in-lente-2027.html#reacties</comments>
+  </item>
+  <item>
+    <title>Schneider wil 1,2 miljard euro bieden voor smarthomefabrikant Shelly</title>
+    <link>https://tweakers.net/nieuws/252574/schneider-wil-1-komma-2-miljard-euro-bieden-voor-smarthomefabrikant-shelly.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252574</guid>
+    <pubDate>Thu, 24 Sep 2026 14:25:45 +0200</pubDate>
+    <description>Schneider Electric is officieel van plan om Shelly over te nemen. Het Franse bedrijf wil een bod van 70 euro per aandeel uitbrengen voor het smarthomemerk, wat in totaal neerkomt op zo'n 1,2 miljard euro. Shelly zelf steunt de overname.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252574/schneider-wil-1-komma-2-miljard-euro-bieden-voor-smarthomefabrikant-shelly.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Vooral Limburgse en Overijsselse zonnepaneelbezitters merken einde saldering'</title>
+    <link>https://tweakers.net/nieuws/252570/vooral-limburgse-en-overijsselse-zonnepaneelbezitters-merken-einde-saldering.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252570</guid>
+    <pubDate>Thu, 24 Sep 2026 13:36:47 +0200</pubDate>
+    <description>Vooral inwoners van Limburg en Overijssel gaan het verdwijnen van de salderingsregeling merken. Dat blijkt uit onderzoek van Independer. In die provincies wordt relatief veel stroom teruggeleverd aan het net, waardoor de gevolgen groter zijn.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252570/vooral-limburgse-en-overijsselse-zonnepaneelbezitters-merken-einde-saldering.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gerucht: XBOX Helix-gpu is tot 40 procent krachtiger dan PlayStation 6</title>
+    <link>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252566</guid>
+    <pubDate>Thu, 24 Sep 2026 11:59:38 +0200</pubDate>
+    <description>De gpu in de aanstaande XBOX Helix is mogelijk tot 40 procent krachtiger dan die in de PlayStation 6. Dat zegt de bekende hardwareleaker KeplerL2. Daarnaast hebben beide chips volgens Kepler de tape-outfase doorlopen. Dat betekent dat het ontwerp is afgerond.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Mac mini (M6) en Mac Studio (M5 Ultra) - Nieuwste hardware voor vertrouwde Macs</title>
+    <link>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15318</guid>
+    <pubDate>Thu, 24 Sep 2026 11:30:00 +0200</pubDate>
+    <description>De Apple M6-chip debuteert in de nieuwe Mac mini, terwijl de Mac Studio een upgrade krijgt naar de M5 Ultra. Hoe presteren Apples nieuwste cpu's?</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Pc's</category>
+    <comments>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Quake Champions is niet meer gratis, maar bestaande spelers houden toegang</title>
+    <link>https://tweakers.net/nieuws/252562/quake-champions-is-niet-meer-gratis-maar-bestaande-spelers-houden-toegang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252562</guid>
+    <pubDate>Thu, 24 Sep 2026 10:13:36 +0200</pubDate>
+    <description>Id Software brengt een update voor arenashooter Quake Champions uit. De game is vanaf nu niet langer gratis, maar kost voortaan tien euro. Tegelijkertijd krijgt het spel geen nieuwe content meer. Microtransacties en battlepasses worden ook uit het spel gehaald.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252562/quake-champions-is-niet-meer-gratis-maar-bestaande-spelers-houden-toegang.html#reacties</comments>
+  </item>
+  <item>
+    <title>EA verhelpt 'opwipglitch' in EA Sports FC 27 met update 1.0.1</title>
+    <link>https://tweakers.net/nieuws/252558/ea-verhelpt-opwipglitch-in-ea-sports-fc-27-met.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252558</guid>
+    <pubDate>Thu, 24 Sep 2026 09:46:59 +0200</pubDate>
+    <description>EA heeft een probleem in EA Sports FC 27 opgelost waardoor spelers de bal opwipten in plaats van hem te passen. Dat bevestigt een woordvoerder aan Tweakers. De ontwikkelaar pakt het probleem aan in de 1.0.1-update.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252558/ea-verhelpt-opwipglitch-in-ea-sports-fc-27-met.html#reacties</comments>
+  </item>
+  <item>
+    <title>OpenAI-agent hackt Australische overheidswebsite met zorgstatistieken</title>
+    <link>https://tweakers.net/nieuws/252556/openai-agent-hackt-australische-overheidswebsite-met-zorgstatistieken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252556</guid>
+    <pubDate>Thu, 24 Sep 2026 09:28:29 +0200</pubDate>
+    <description>Een AI-agent van OpenAI heeft een Australische overheidswebsite gehackt. Dat zegt premier Anthony Albanese. De agent kreeg toegang tot statistieken van een overheidsprogramma rond ziektekostenverzekeringen. Er zijn geen medische gegevens van inwoners ingezien.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252556/openai-agent-hackt-australische-overheidswebsite-met-zorgstatistieken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Cameraloze Meta-smartbril met AI verschijnt in oktober voor 349 euro</title>
+    <link>https://tweakers.net/nieuws/252554/cameraloze-meta-smartbril-met-ai-verschijnt-in-oktober-voor-349-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252554</guid>
+    <pubDate>Thu, 24 Sep 2026 08:30:54 +0200</pubDate>
+    <description>Meta komt met een variant van zijn Ray-Ban-smartbril zonder ingebouwde camera's. De bril heeft wel microfoons en speakers, waarmee je onder andere met een AI-assistent kunt praten. De bestaande Ray-Ban Meta-bril krijgt ook een nieuwe versie met een dunner montuur en een betere accuduur.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/nieuws/252554/cameraloze-meta-smartbril-met-ai-verschijnt-in-oktober-voor-349-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meta brengt VR-bril van 100 gram in de lente uit voor 1300 dollar</title>
+    <link>https://tweakers.net/nieuws/252544/meta-brengt-vr-bril-van-100-gram-in-de-lente-uit-voor-1300-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252544</guid>
+    <pubDate>Thu, 24 Sep 2026 08:13:49 +0200</pubDate>
+    <description>Meta introduceert zijn VR Glasses. Het gaat, zoals de naam suggereert, om een VR-headset die sterk lijkt op een bril. Daardoor weegt hij zo'n 100 gram. De VR-bril komt in de lente van 2027 uit voor 1300 dollar. De europrijs is nog niet bekend.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / VR-brillen</category>
+    <comments>https://tweakers.net/nieuws/252544/meta-brengt-vr-bril-van-100-gram-in-de-lente-uit-voor-1300-dollar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Nederland maakt soeverein alternatief voor Windows en Office op basis van Linux</title>
+    <link>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15334</guid>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+    <description>De Nederlandse overheid maakt een eigen digitale werkomgeving op basis van de Nederlandse Linux-distributie NixOS. De ontwikkelaars geven een kijkje in de keuken.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Achtergrond / Computers / Overige software</category>
+    <comments>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html#reacties</comments>
+  </item>
+  <item>
+    <title>Teardown toont dat Steam Frame-lenzen relatief makkelijk te vervangen zijn</title>
+    <link>https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252536</guid>
+    <pubDate>Wed, 23 Sep 2026 20:58:59 +0200</pubDate>
+    <description>IFixit heeft een teardown van de Steam Frame gepubliceerd. De reparatiewebsite schrijft dat Valve de VR-headset relatief goed repareerbaar heeft gemaakt. Onder meer de lenzen en de accu zijn makkelijk bereikbaar.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / VR-brillen</category>
+    <comments>https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html#reacties</comments>
+  </item>
+  <item>
+    <title>Machelen meldde geen aanwijzingen voor datalek, maar hackers stalen toch data</title>
+    <link>https://tweakers.net/nieuws/252534/machelen-meldde-geen-aanwijzingen-voor-datalek-maar-hackers-stalen-toch-data.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252534</guid>
+    <pubDate>Wed, 23 Sep 2026 19:57:49 +0200</pubDate>
+    <description>Bij de cyberaanval op de Belgische gemeente Machelen zijn toch persoonsgegevens van inwoners gestolen, meldt VRT NWS. Het is niet duidelijk om welke gegevens het gaat en hoeveel mensen slachtoffer zijn.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/252534/machelen-meldde-geen-aanwijzingen-voor-datalek-maar-hackers-stalen-toch-data.html#reacties</comments>
+  </item>
+  <item>
+    <title>Basic-Fit-leden krijgen gratis AI-coach die oefeningen en toestellen uitlegt</title>
+    <link>https://tweakers.net/nieuws/252532/basic-fit-leden-krijgen-gratis-ai-coach-die-oefeningen-en-toestellen-uitlegt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252532</guid>
+    <pubDate>Wed, 23 Sep 2026 19:38:08 +0200</pubDate>
+    <description>Basic-Fit introduceert een AI-fitnessassistent in zijn app. Deze is gratis te gebruiken voor alle leden van de sportschool. De assistent legt onder meer oefeningen en de werking van fitnesstoestellen uit en motiveert sporters.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphone-accessoires</category>
+    <comments>https://tweakers.net/nieuws/252532/basic-fit-leden-krijgen-gratis-ai-coach-die-oefeningen-en-toestellen-uitlegt.html#reacties</comments>
+  </item>
+  <item>
+    <title>24Kitchen stopt op tv: content wordt voortaan geserveerd op Disney+</title>
+    <link>https://tweakers.net/nieuws/252530/24kitchen-stopt-op-tv-content-wordt-voortaan-geserveerd-op-disney+.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252530</guid>
+    <pubDate>Wed, 23 Sep 2026 19:11:34 +0200</pubDate>
+    <description>24Kitchen stopt per 31 maart met uitzenden op de Nederlandse tv, bevestigt een woordvoerder aan RTL Boulevard. De zender heeft de chefs inmiddels geïnformeerd. 24Kitchen zendt sinds 2011 uit op de Nederlandse televisie. De content verhuist volledig naar Disney+.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/252530/24kitchen-stopt-op-tv-content-wordt-voortaan-geserveerd-op-disney+.html#reacties</comments>
+  </item>
+  <item>
+    <title>YouTube laat makers Shorts organiseren in afleveringen en seizoenen</title>
+    <link>https://tweakers.net/nieuws/252526/youtube-laat-makers-shorts-organiseren-in-afleveringen-en-seizoenen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252526</guid>
+    <pubDate>Wed, 23 Sep 2026 18:05:12 +0200</pubDate>
+    <description>YouTube introduceert Short Series, waarmee makers hun Shorts-video's kunnen organiseren in afleveringen en seizoenen. Op die manier krijgen gebruikers een serie Shorts als verhaal bekijken in plaats van verschillende, losse video's.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252526/youtube-laat-makers-shorts-organiseren-in-afleveringen-en-seizoenen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Halo Studios maakt geen Halo meer: waarom XBOX hard in zijn aanbod snoeit</title>
+    <link>https://tweakers.net/reviews/15338/halo-studios-maakt-geen-halo-meer-waarom-xbox-hard-in-zijn-aanbod-snoeit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15338</guid>
+    <pubDate>Wed, 23 Sep 2026 18:00:00 +0200</pubDate>
+    <description>De grootschalige reorganisatie bij XBOX gaat door: Call of Duty-maker Activision gaat Halo-games maken. Waarom neemt Microsoft zulke radicale beslissingen?</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Achtergrond / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15338/halo-studios-maakt-geen-halo-meer-waarom-xbox-hard-in-zijn-aanbod-snoeit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Schreef een mens of een machine het? Zo werkt AI-detectiesoftware</title>
+    <link>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15342</guid>
+    <pubDate>Wed, 23 Sep 2026 17:15:00 +0200</pubDate>
+    <description>De afgelopen weken kwam AI-detectiesoftware vaak in het nieuws, maar hoe werken deze eigenlijk?</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nieuwsblad vindt AI-sporen in ruim 40 procent van Belgische parlementsvragen</title>
+    <link>https://tweakers.net/nieuws/252514/nieuwsblad-vindt-ai-sporen-in-ruim-40-procent-van-belgische-parlementsvragen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252514</guid>
+    <pubDate>Wed, 23 Sep 2026 16:14:08 +0200</pubDate>
+    <description>Naar verluidt genereert kunstmatige intelligentie 22 procent van alle schriftelijke vragen in het Belgische parlement. Nog eens ruim 20 procent zou deels met AI gegenereerd zijn. Antwoorden van parlementsleden zijn wel bijna uitsluitend door mensen geschreven.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252514/nieuwsblad-vindt-ai-sporen-in-ruim-40-procent-van-belgische-parlementsvragen.html#reacties</comments>
+  </item>
+  <item>
+    <title>State of Decay-maker wordt onafhankelijk en ontslaat personeel - update</title>
+    <link>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252512</guid>
+    <pubDate>Wed, 23 Sep 2026 15:06:11 +0200</pubDate>
+    <description>Undead Labs, maker van de State of Decay-games, gaat door als een onafhankelijke studio. Ook ontslaat het bedrijf een 'aanzienlijk' deel van zijn personeel. Dinsdag werd al duidelijk dat XBOX de ontwikkelaar had afgestoten. Microsoft nam Undead Labs in 2018 over.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Big tech verdient miljarden aan Europeanen, maar de digitaks blijft uit</title>
+    <link>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15326</guid>
+    <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Eens in de zoveel tijd komt een 'digitaks' op Big Tech-bedrijven ter sprake. Waar gaat het dan om en hoe staat het met deze heffingen?</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Van stokoude code naar pc-port: zo moderniseren hobbyisten retrogames</title>
+    <link>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15316</guid>
+    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Retrogaming is in opmars. Dat is onder meer te zien aan het groeiende aantal ports van klassieke games. Hoe zetten hobbyisten die spellen over naar moderne hardware?</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Achtergrond / Gaming / Gameontwikkeling</category>
+    <comments>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html#reacties</comments>
+  </item>
+  <item>
+    <title>How-to - Zo laat een ESP32 Home Assistant je voordeur lokaal ontgrendelen</title>
+    <link>https://tweakers.net/reviews/15226/zo-laat-een-esp32-home-assistant-je-voordeur-lokaal-ontgrendelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15226</guid>
+    <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+    <description>In dit artikel leg ik uit hoe je een lokale geofencingfunctie bouwt in Home Assistant, zodat je niet afhankelijk bent van privacyonvriendelijke commerciële varianten.</description>
+    <dc:creator>Olaf Weijers</dc:creator>
+    <category>How-to / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/reviews/15226/zo-laat-een-esp32-home-assistant-je-voordeur-lokaal-ontgrendelen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - The Blood of Dawnwalker - Brutere versie van The Witcher</title>
+    <link>https://tweakers.net/reviews/15308/the-blood-of-dawnwalker-brutere-versie-van-the-witcher.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15308</guid>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+    <description>The Blood of Dawnwalker is een game van ontwikkelaars die hiervóór aan The Witcher 3 hebben gewerkt. Dat is te zien, al doet deze game ook genoeg dingen anders.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15308/the-blood-of-dawnwalker-brutere-versie-van-the-witcher.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - EU wil kinderen onder 13 van sociale media weren met een digitaal leeftijdsslot</title>
+    <link>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15314</guid>
+    <pubDate>Thu, 17 Sep 2026 17:00:00 +0200</pubDate>
+    <description>De Europese Commissie wil met een minimumleeftijd, leeftijdschecks en strengere wetten sociale media veiliger maken voor kinderen. De wet raakt ook volwassenen.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Achtergrond / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Versnipperde markt en 1,3 miljard euro verlies duwen SkyShowtime Europa uit</title>
+    <link>https://tweakers.net/reviews/15312/versnipperde-markt-en-1-komma-3-miljard-euro-verlies-duwen-skyshowtime-europa-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15312</guid>
+    <pubDate>Wed, 16 Sep 2026 17:15:00 +0200</pubDate>
+    <description>Het is niet uitgesloten dat SkyShowtime binnenkort afscheid neemt van de Europese markt. Hoe kan het dat het platform al vier jaar na zijn introductie op het hakblok ligt?</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/reviews/15312/versnipperde-markt-en-1-komma-3-miljard-euro-verlies-duwen-skyshowtime-europa-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Acht mislukkingen voor twee doorbraken: zo financiert NADI riskante technologie</title>
+    <link>https://tweakers.net/reviews/15306/acht-mislukkingen-voor-twee-doorbraken-zo-financiert-nadi-riskante-technologie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15306</guid>
+    <pubDate>Wed, 16 Sep 2026 16:15:00 +0200</pubDate>
+    <description>Nederland wil met innovatieagentschap NADI 'technologische doorbraken' financieren waarvoor nu geen financiering beschikbaar is. In dit artikel leggen we uit hoe en waarom.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Achtergrond / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/reviews/15306/acht-mislukkingen-voor-twee-doorbraken-zo-financiert-nadi-riskante-technologie.html#reacties</comments>
+  </item>
+</channel>
+</rss>

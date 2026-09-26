@@ -19,7 +19,7 @@ from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-from filter_regels import REGELS, WOORDEN
+from filter_regels import ALTIJD_DOOR, REGELS, WOORDEN
 
 USER_AGENT = "tweakers-rss/1.0 (github.com/sietse88/tweakers-rss)"
 SOURCES = [
@@ -98,13 +98,19 @@ def rule_for(category: str):
     return REGELS.get(hoofd, "alles")
 
 
+def matches(title: str, groepen) -> bool:
+    return any(p.search(title) for groep in groepen for p in WOORD_PATRONEN[groep])
+
+
 def passes(item: dict) -> bool:
+    if matches(item["title"], ALTIJD_DOOR):
+        return True
     rule = rule_for(item["category"])
     if rule == "alles":
         return True
     if rule == "niets":
         return False
-    return any(p.search(item["title"]) for groep in rule for p in WOORD_PATRONEN[groep])
+    return matches(item["title"], rule)
 
 
 # --- Archief -----------------------------------------------------------------

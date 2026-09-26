@@ -2,7 +2,7 @@ name: Update RSS feed
 
 on:
   schedule:
-    - cron: "5 * * * *"   # elk uur, om :05 (de minuut wijkt af om de scheduler-piek te vermijden)
+    - cron: "5,20,35,50 * * * *"   # vier keer per uur; GitHub slaat geplande starts vaak over (niet op :00, om de scheduler-piek te vermijden)
   workflow_dispatch:       # handmatig draaien via de GitHub-website
 
 permissions:

@@ -8,6 +8,9 @@ Per hoofdonderwerp, en eventueel per onderwerp, staat hieronder wat erdoor mag:
   "niets"            -> geen enkel artikel komt door
   ["apple", "ai"]    -> alleen artikelen met een woord uit die groepen in de kop
 
+Artikelen met een woord uit ALTIJD_DOOR (onderaan de woordenlijsten) komen
+altijd door, wat de regel ook zegt.
+
 Een regel voor een onderwerp ("Computers / Laptops") gaat voor de regel van het
 hoofdonderwerp ("Computers"). Een onderwerp zonder eigen regel volgt het
 hoofdonderwerp. Een hoofdonderwerp dat hier niet staat, komt helemaal door.
@@ -36,9 +39,14 @@ WOORDEN = {
         "Hunyuan", "GLM", "Zhipu", "MiniMax", "Manus",
     ],
     "windows": [
-        "Windows",
+        "Windows", "Microsoft",
     ],
 }
+
+# Artikelen met een woord uit deze groepen in de kop komen altijd door, ongeacht
+# de regel voor hun onderwerp (ook bij "niets"). Tweakers zet bijvoorbeeld een
+# artikel over een nieuwe iPad mini soms onder "Beeld en geluid / Televisies".
+ALTIJD_DOOR = ["apple", "ai"]
 
 REGELS = {
     "Gaming": "alles",

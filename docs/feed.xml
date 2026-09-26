@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 26 Sep 2026 07:29:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 12:26:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>TikTok schikt weer en wordt in ieder geval in Alabama veiliger voor kinderen</title>
+    <link>https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252648</guid>
+    <pubDate>Sat, 26 Sep 2026 12:45:16 +0200</pubDate>
+    <description>TikTok heeft in de Amerikaanse staat Alabama geschikt met aanklagers in een zaak over verslaving. TikTok en moederbedrijf ByteDance betalen honderd miljoen dollar boete, maar voeren ook veranderingen aan de app door. In principe gelden die aanpassingen alleen voor Alabama, maar de kans is groot dat de veranderingen later in de rest van de VS en mogelijk ook Europa worden doorgevoerd.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html#reacties</comments>
+  </item>
+  <item>
+    <title>SURF maakt AI-omgeving met commerciële en open llm's beschikbaar voor onderwijs</title>
+    <link>https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252646</guid>
+    <pubDate>Sat, 26 Sep 2026 12:15:58 +0200</pubDate>
+    <description>Ict-koepel SURF gaat een eigen AI-omgeving uitbrengen voor het Nederlandse onderwijs. SURF AI bestaat uit een omgeving waar instellingen llm's kunnen samenvoegen en een applicatie waarmee die modellen kunnen worden gebruikt. De data blijft dan binnen een afgesloten omgeving, zodat die omgeving aan privacy- en compliance-eisen voldoet. De tool komt vanaf begin volgend jaar beschikbaar.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Onderwijs en werkgelegenheid</category>
+    <comments>https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ruby on Rails-oprichter vibecodet zijn eigen software om naar 'vreselijk' Rust</title>
+    <link>https://tweakers.net/nieuws/252644/ruby-on-rails-oprichter-vibecodet-zijn-eigen-software-om-naar-vreselijk-rust.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252644</guid>
+    <pubDate>Sat, 26 Sep 2026 11:36:07 +0200</pubDate>
+    <description>De bedenker van Ruby on Rails gaat zijn belangrijkste softwarepakket, mailclient Hey, ombouwen naar Rust. David Heinemeier Hansson wil zijn software vooral nog vibecoden en dat kan beter in Rust, zegt hij uitgerekend op een Ruby on Rails-conferentie.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/252644/ruby-on-rails-oprichter-vibecodet-zijn-eigen-software-om-naar-vreselijk-rust.html#reacties</comments>
+  </item>
+  <item>
+    <title>Excel kan voortaan meerdere waardes aan één cel toekennen</title>
+    <link>https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252642</guid>
+    <pubDate>Sat, 26 Sep 2026 10:53:09 +0200</pubDate>
+    <description>Excel krijgt een functie waar Microsoft al meer dan veertig jaar niets van wil weten: het wordt mogelijk om meerdere waarden aan een cel toe te kennen. Gebruikers kunnen dan meerdere namen of cijfers in één cel zetten door die met komma's te scheiden. Excel behandelt ze als aparte waardes en kan ze dus los van elkaar filteren.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Officesoftware en suites</category>
+    <comments>https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Opnieuw gaan OpenAI-modellen de fout in door foto's te lekken en sites te hacken</title>
+    <link>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252640</guid>
+    <pubDate>Sat, 26 Sep 2026 09:52:24 +0200</pubDate>
+    <description>Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT bleek afbeeldingen van 53 gebruikers te hebben uitgelekt. In een tweede incident bleken AI-agents op Amerikaanse overheidswebsites te hebben ingebroken via gevonden inloggegevens.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Optionele Microsoft 365-update lijkt Office-installaties soms te verwijderen</title>
+    <link>https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252638</guid>
+    <pubDate>Fri, 25 Sep 2026 20:56:32 +0200</pubDate>
+    <description>Een recente, optionele update voor Microsoft 365 lijkt bij sommige gebruikers hun Office 2016 en -2019 installatie te verwijderen. Die software heeft officieel geen ondersteuning meer, maar veel gebruikers draaien die nog wel.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Beelden van nieuwe iPad mini, HomePod mini's en identieke Apple TV verschijnen</title>
+    <link>https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-verschijnen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252630</guid>
+    <pubDate>Fri, 25 Sep 2026 19:43:00 +0200</pubDate>
+    <description>Apple brengt naar verwachting volgende maand een iPad mini uit die draait op een A20 Pro-processor. MacRumors heeft beelden bemachtigd van die kleine tablet. Ook heeft de site beelden van de HomePod mini 2, die in nieuwe kleuren beschikbaar komt, en van een nieuwe Apple TV die er hetzelfde uitziet als het eerdere model maar krachtigere hardware heeft.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-verschijnen.html#reacties</comments>
+  </item>
   <item>
     <title>Populaire Qobuz-client QBZ voor Linux moet stoppen vanwege rechtenkwestie</title>
     <link>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html</link>

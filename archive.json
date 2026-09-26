@@ -463,7 +463,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / Beeld en geluid / Televisies",
   "comments": "https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-verschijnen.html#reacties",
-  "description": "Apple brengt naar verwachting volgende maand een iPad mini uit die draait op een A20 Pro-processor. MacRumors heeft beelden verschenen van die kleine tablet. Ook heeft de site beelden van de HomePod mini 2, die in nieuwe kleuren beschikbaar komt, en van een nieuwe Apple TV die er hetzelfde uitziet als het eerdere model maar krachtigere hardware heeft.",
+  "description": "Apple brengt naar verwachting volgende maand een iPad mini uit die draait op een A20 Pro-processor. MacRumors heeft beelden bemachtigd van die kleine tablet. Ook heeft de site beelden van de HomePod mini 2, die in nieuwe kleuren beschikbaar komt, en van een nieuwe Apple TV die er hetzelfde uitziet als het eerdere model maar krachtigere hardware heeft.",
   "guid": "https://tweakers.net/nieuws/252630",
   "link": "https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-verschijnen.html",
   "pubDate": "Fri, 25 Sep 2026 19:43:00 +0200",
@@ -488,6 +488,56 @@
   "link": "https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html",
   "pubDate": "Fri, 25 Sep 2026 20:56:32 +0200",
   "title": "Optionele Microsoft 365-update lijkt Office-installaties soms te verwijderen"
+ },
+ "https://tweakers.net/nieuws/252640": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties",
+  "description": "Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT bleek afbeeldingen van 53 gebruikers te hebben uitgelekt. In een tweede incident bleken AI-agents op Amerikaanse overheidswebsites te hebben ingebroken via gevonden inloggegevens.",
+  "guid": "https://tweakers.net/nieuws/252640",
+  "link": "https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html",
+  "pubDate": "Sat, 26 Sep 2026 09:52:24 +0200",
+  "title": "Opnieuw gaan OpenAI-modellen de fout in door foto's te lekken en sites te hacken"
+ },
+ "https://tweakers.net/nieuws/252642": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Officesoftware en suites",
+  "comments": "https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html#reacties",
+  "description": "Excel krijgt een functie waar Microsoft al meer dan veertig jaar niets van wil weten: het wordt mogelijk om meerdere waarden aan een cel toe te kennen. Gebruikers kunnen dan meerdere namen of cijfers in één cel zetten door die met komma's te scheiden. Excel behandelt ze als aparte waardes en kan ze dus los van elkaar filteren.",
+  "guid": "https://tweakers.net/nieuws/252642",
+  "link": "https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html",
+  "pubDate": "Sat, 26 Sep 2026 10:53:09 +0200",
+  "title": "Excel kan voortaan meerdere waardes aan één cel toekennen"
+ },
+ "https://tweakers.net/nieuws/252644": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Software development",
+  "comments": "https://tweakers.net/nieuws/252644/ruby-on-rails-oprichter-vibecodet-zijn-eigen-software-om-naar-vreselijk-rust.html#reacties",
+  "description": "De bedenker van Ruby on Rails gaat zijn belangrijkste softwarepakket, mailclient Hey, ombouwen naar Rust. David Heinemeier Hansson wil zijn software vooral nog vibecoden en dat kan beter in Rust, zegt hij uitgerekend op een Ruby on Rails-conferentie.",
+  "guid": "https://tweakers.net/nieuws/252644",
+  "link": "https://tweakers.net/nieuws/252644/ruby-on-rails-oprichter-vibecodet-zijn-eigen-software-om-naar-vreselijk-rust.html",
+  "pubDate": "Sat, 26 Sep 2026 11:36:07 +0200",
+  "title": "Ruby on Rails-oprichter vibecodet zijn eigen software om naar 'vreselijk' Rust"
+ },
+ "https://tweakers.net/nieuws/252646": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Onderwijs en werkgelegenheid",
+  "comments": "https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html#reacties",
+  "description": "Ict-koepel SURF gaat een eigen AI-omgeving uitbrengen voor het Nederlandse onderwijs. SURF AI bestaat uit een omgeving waar instellingen llm's kunnen samenvoegen en een applicatie waarmee die modellen kunnen worden gebruikt. De data blijft dan binnen een afgesloten omgeving, zodat die omgeving aan privacy- en compliance-eisen voldoet. De tool komt vanaf begin volgend jaar beschikbaar.",
+  "guid": "https://tweakers.net/nieuws/252646",
+  "link": "https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html",
+  "pubDate": "Sat, 26 Sep 2026 12:15:58 +0200",
+  "title": "SURF maakt AI-omgeving met commerciële en open llm's beschikbaar voor onderwijs"
+ },
+ "https://tweakers.net/nieuws/252648": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html#reacties",
+  "description": "TikTok heeft in de Amerikaanse staat Alabama geschikt met aanklagers in een zaak over verslaving. TikTok en moederbedrijf ByteDance betalen honderd miljoen dollar boete, maar voeren ook veranderingen aan de app door. In principe gelden die aanpassingen alleen voor Alabama, maar de kans is groot dat de veranderingen later in de rest van de VS en mogelijk ook Europa worden doorgevoerd.",
+  "guid": "https://tweakers.net/nieuws/252648",
+  "link": "https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html",
+  "pubDate": "Sat, 26 Sep 2026 12:45:16 +0200",
+  "title": "TikTok schikt weer en wordt in ieder geval in Alabama veiliger voor kinderen"
  },
  "https://tweakers.net/reviews/15078": {
   "author": "Reinoud Dik",

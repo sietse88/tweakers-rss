@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 27 Sep 2026 00:42:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 05:52:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - AI-agents die in het wilde weg bedrijven hacken: is dat strafbaar?</title>
+    <link>https://tweakers.net/reviews/15332/ai-agents-die-in-het-wilde-weg-bedrijven-hacken-is-dat-strafbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15332</guid>
+    <pubDate>Sun, 27 Sep 2026 06:00:00 +0200</pubDate>
+    <description>De ene na de andere AI-agent hackt op eigen houtje bedrijven. Kunnen de makers van die tools aansprakelijk worden gesteld voor hun losgeslagen creaties?</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Achtergrond / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/reviews/15332/ai-agents-die-in-het-wilde-weg-bedrijven-hacken-is-dat-strafbaar.html#reacties</comments>
+  </item>
   <item>
     <title>TikTok schikt weer en wordt in ieder geval in Alabama veiliger voor kinderen</title>
     <link>https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html</link>

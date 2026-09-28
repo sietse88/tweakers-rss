@@ -443,7 +443,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
   "comments": "https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html#reacties",
-  "description": "Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro voor. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.",
+  "description": "Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.",
   "guid": "https://tweakers.net/nieuws/252626",
   "link": "https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html",
   "pubDate": "Fri, 25 Sep 2026 17:50:25 +0200",
@@ -609,6 +609,46 @@
   "pubDate": "Sun, 27 Sep 2026 12:24:26 +0200",
   "title": "FT: investeringsbedrijf Apax wil Odido volledig overnemen"
  },
+ "https://tweakers.net/nieuws/252664": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html#reacties",
+  "description": "Het Nederlandse Nationaal Cyber Security Centrum (NCSC) waarschuwt voor kwetsbaarheden in Citrix NetScaler ADC en NetScaler Gateway. Bij diverse ziekenhuizen ontstonden daardoor problemen. Inmiddels zijn patches verschenen voor de kwetsbaarheden.",
+  "guid": "https://tweakers.net/nieuws/252664",
+  "link": "https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html",
+  "pubDate": "Mon, 28 Sep 2026 08:12:59 +0200",
+  "title": "Patiënten kunnen niet bij ziekenhuisdossiers vanwege Citrix-kwetsbaarheden"
+ },
+ "https://tweakers.net/nieuws/252666": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html#reacties",
+  "description": "Minecraft krijgt voor het eerst in meer dan veertien jaar een nieuwe dimensie: de Sift. Die komt in 2027 naar de Java- en Bedrock-versie van de game. De Sift wordt ook onderdeel van Minecraft Dungeons II.",
+  "guid": "https://tweakers.net/nieuws/252666",
+  "link": "https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html",
+  "pubDate": "Mon, 28 Sep 2026 08:32:06 +0200",
+  "title": "Minecraft krijgt na ruim veertien jaar een nieuwe dimensie: de Sift"
+ },
+ "https://tweakers.net/nieuws/252668": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Computers / Browsers",
+  "comments": "https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html#reacties",
+  "description": "De ondersteuning voor IE Mode in Microsoft Edge loopt tot in ieder geval het einde van 2029. Dat heeft Microsoft bekendgemaakt. Gebruikers kunnen via IE Mode nog altijd de engine van Internet Explorer gebruiken.",
+  "guid": "https://tweakers.net/nieuws/252668",
+  "link": "https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html",
+  "pubDate": "Mon, 28 Sep 2026 09:10:47 +0200",
+  "title": "Microsoft handhaaft IE Mode in Edge tot in ieder geval eind 2029"
+ },
+ "https://tweakers.net/nieuws/252670": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Tablets en telefoons / Mobiele netwerken",
+  "comments": "https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html#reacties",
+  "description": "Odido verwacht de kwaliteit van belgesprekken met klanten van andere providers voor het einde van dit jaar te verbeteren. Op dit moment is de belkwaliteit bij telefoongesprekken tussen Odido-sims en sims van andere providers niet optimaal. Tussen Odido-abonnees bestaan geen problemen.",
+  "guid": "https://tweakers.net/nieuws/252670",
+  "link": "https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html",
+  "pubDate": "Mon, 28 Sep 2026 08:46:50 +0200",
+  "title": "Odido verwacht belkwaliteit naar andere providers nog dit jaar te verbeteren"
+ },
  "https://tweakers.net/reviews/15078": {
   "author": "Reinoud Dik",
   "category": "Round-up / Computers / Processorkoeling",
@@ -678,6 +718,16 @@
   "link": "https://tweakers.net/reviews/15290/iiyama-g-master-gob2701qsc-b1-prijsvechter-met-ruwe-kantjes.html",
   "pubDate": "Sun, 20 Sep 2026 09:00:00 +0200",
   "title": "Quicktest - Iiyama G-Master GOB2701QSC-B1 - Prijsvechter met ruwe kantjes"
+ },
+ "https://tweakers.net/reviews/15296": {
+  "author": "Daan van Monsjou",
+  "category": "Hands-on / Computers / Laptops",
+  "comments": "https://tweakers.net/reviews/15296/siri-ai-apples-slimme-assistent-is-nu-bruikbaar-maar-niet-helemaal-foutloos.html#reacties",
+  "description": "Apple heeft Siri AI eindelijk uitgebracht. Die nieuwe versie moet Apples 'slimme' assistent daadwerkelijk nuttig maken. We probeerden het uit in macOS 27.",
+  "guid": "https://tweakers.net/reviews/15296",
+  "link": "https://tweakers.net/reviews/15296/siri-ai-apples-slimme-assistent-is-nu-bruikbaar-maar-niet-helemaal-foutloos.html",
+  "pubDate": "Mon, 28 Sep 2026 06:00:00 +0200",
+  "title": "Hands-on - Siri AI: Apples slimme assistent is nu bruikbaar, maar niet helemaal foutloos"
  },
  "https://tweakers.net/reviews/15306": {
   "author": "Hayte Hugo",

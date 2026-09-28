@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 28 Sep 2026 01:35:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 07:45:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft handhaaft IE Mode in Edge tot in ieder geval eind 2029</title>
+    <link>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252668</guid>
+    <pubDate>Mon, 28 Sep 2026 09:10:47 +0200</pubDate>
+    <description>De ondersteuning voor IE Mode in Microsoft Edge loopt tot in ieder geval het einde van 2029. Dat heeft Microsoft bekendgemaakt. Gebruikers kunnen via IE Mode nog altijd de engine van Internet Explorer gebruiken.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html#reacties</comments>
+  </item>
+  <item>
+    <title>Minecraft krijgt na ruim veertien jaar een nieuwe dimensie: de Sift</title>
+    <link>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252666</guid>
+    <pubDate>Mon, 28 Sep 2026 08:32:06 +0200</pubDate>
+    <description>Minecraft krijgt voor het eerst in meer dan veertien jaar een nieuwe dimensie: de Sift. Die komt in 2027 naar de Java- en Bedrock-versie van de game. De Sift wordt ook onderdeel van Minecraft Dungeons II.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hands-on - Siri AI: Apples slimme assistent is nu bruikbaar, maar niet helemaal foutloos</title>
+    <link>https://tweakers.net/reviews/15296/siri-ai-apples-slimme-assistent-is-nu-bruikbaar-maar-niet-helemaal-foutloos.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15296</guid>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Apple heeft Siri AI eindelijk uitgebracht. Die nieuwe versie moet Apples 'slimme' assistent daadwerkelijk nuttig maken. We probeerden het uit in macOS 27.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Hands-on / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15296/siri-ai-apples-slimme-assistent-is-nu-bruikbaar-maar-niet-helemaal-foutloos.html#reacties</comments>
+  </item>
   <item>
     <title>Lian Li-hub schakelt pc uit en stuurt een mailtje wanneer gpu-kabel oververhit</title>
     <link>https://tweakers.net/nieuws/252654/lian-li-hub-schakelt-pc-uit-en-stuurt-een-mailtje-wanneer-gpu-kabel-oververhit.html</link>
@@ -190,7 +220,7 @@
     <link>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252626</guid>
     <pubDate>Fri, 25 Sep 2026 17:50:25 +0200</pubDate>
-    <description>Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro voor. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.</description>
+    <description>Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html#reacties</comments>

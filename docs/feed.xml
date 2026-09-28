@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 28 Sep 2026 16:05:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 22:09:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Opgepakte Nederlandse ShinyHunters-verdachte zou net vrij zijn na celstraf</title>
+    <link>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252702</guid>
+    <pubDate>Mon, 28 Sep 2026 19:33:31 +0200</pubDate>
+    <description>De Nederlandse politie heeft een 24-jarige Nederlander opgepakt op verdenking van banden met ShinyHunters. Die cybercrimebende zit achter de grote hack op Odido en claimt ook de FBI te hebben gehackt. De verdachte zou sinds dit jaar weer vrij zijn na een celstraf voor hacken en afpersen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html#reacties</comments>
+  </item>
+  <item>
+    <title>Fans ronden decompilatie van Super Mario Galaxy voor pc-port af</title>
+    <link>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252700</guid>
+    <pubDate>Mon, 28 Sep 2026 18:02:30 +0200</pubDate>
+    <description>Een groep fans van de Super Mario Galaxy-games is klaar met het decompileren van de eerste game uit die Nintendo-serie. Daarmee maken de modders een speelbare pc-port van de game, die ze tonen in een YouTube-video. Werk aan Super Mario Galaxy 2 begint nu.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html#reacties</comments>
+  </item>
   <item>
     <title>Nederlandse ziekenhuizen brengen patiëntenportals langzaam weer online</title>
     <link>https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html</link>

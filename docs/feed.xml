@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 28 Sep 2026 07:45:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 16:05:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,116 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse ziekenhuizen brengen patiëntenportals langzaam weer online</title>
+    <link>https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252698</guid>
+    <pubDate>Mon, 28 Sep 2026 17:26:17 +0200</pubDate>
+    <description>Verschillende ziekenhuizen in Nederland brengen hun patiëntenportals langzaamaan weer online. Vanwege ernstige kwetsbaarheden in Citrix-systemen hadden ziekenhuizen delen van hun IT-omgevingen preventief offline gehaald. Het Amphia-ziekenhuis in Breda is nog niet toe aan herstel.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html#reacties</comments>
+  </item>
+  <item>
+    <title>ACM wil transparantie over computergestuurde prijzen, maar wetgeving is er niet</title>
+    <link>https://tweakers.net/nieuws/252692/acm-wil-transparantie-over-computergestuurde-prijzen-maar-wetgeving-is-er-niet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252692</guid>
+    <pubDate>Mon, 28 Sep 2026 17:10:55 +0200</pubDate>
+    <description>De Autoriteit Consument &amp; Markt (ACM) pleit voor meer transparantie over de 'black box' van computergestuurde prijzen. Variabele prijzen zijn wettelijk wel toegestaan, maar bedrijven zeggen vaak niets over de factoren achter die schommelingen. Bedrijven zijn wettelijk niet verplicht om die factoren bekend te maken.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252692/acm-wil-transparantie-over-computergestuurde-prijzen-maar-wetgeving-is-er-niet.html#reacties</comments>
+  </item>
+  <item>
+    <title>GMKtec en Minisforum brengen pc's met Ryzen AI Max+ 495 vanaf 6249 en 7799 euro</title>
+    <link>https://tweakers.net/nieuws/252696/gmktec-en-minisforum-brengen-pcs-met-ryzen-ai-max+-495-vanaf-6249-en-7799-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252696</guid>
+    <pubDate>Mon, 28 Sep 2026 17:00:22 +0200</pubDate>
+    <description>GMKtec en Minisforum kondigen AI-pc's aan met AMD's Ryzen AI Max+ 495-processor en 192GB geheugen. Deze computers zijn bedoeld om AI-modellen lokaal te draaien en kosten bij GMKtec minstens 6249 en bij Minisforum minstens 7799 euro. GMKtecs vanafprijs is voor een beperkt aantal.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/252696/gmktec-en-minisforum-brengen-pcs-met-ryzen-ai-max+-495-vanaf-6249-en-7799-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia koopt voor recordbedrag van 150 miljard dollar eigen aandelen op</title>
+    <link>https://tweakers.net/nieuws/252694/nvidia-koopt-voor-recordbedrag-van-150-miljard-dollar-eigen-aandelen-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252694</guid>
+    <pubDate>Mon, 28 Sep 2026 16:20:22 +0200</pubDate>
+    <description>Nvidia zet 150 miljard dollar opzij om zijn eigen aandelen terug te kopen op de beurs. De AI-chipmaker voegt dit recordbedrag toe aan zijn resterende budget van 85 miljard dollar voor het opkopen van eigen aandelen. Het besteedt dit totaalbedrag van 235 miljard dollar tot januari 2028.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/252694/nvidia-koopt-voor-recordbedrag-van-150-miljard-dollar-eigen-aandelen-op.html#reacties</comments>
+  </item>
+  <item>
+    <title>PS3 Slim en Super Slim komen dichter bij custom firmware door bootloaderhack</title>
+    <link>https://tweakers.net/nieuws/252690/ps3-slim-en-super-slim-komen-dichter-bij-custom-firmware-door-bootloaderhack.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252690</guid>
+    <pubDate>Mon, 28 Sep 2026 15:50:09 +0200</pubDate>
+    <description>Hackers hebben een beveiligingssleutel van de bootloader in de PlayStation 3 bemachtigd. Sony's Cell-processor beschermt deze sleutel, maar blijkt door goed getimede onderbreking gevoelige data te lekken. Hierdoor komt custom firmware voor de PS3 Slim en Super Slim een stap dichterbij.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/252690/ps3-slim-en-super-slim-komen-dichter-bij-custom-firmware-door-bootloaderhack.html#reacties</comments>
+  </item>
+  <item>
+    <title>Frans OVHcloud en Canadees CGI bouwen Europese infrastructuur voor satellietdata</title>
+    <link>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252688</guid>
+    <pubDate>Mon, 28 Sep 2026 15:01:08 +0200</pubDate>
+    <description>OVHcloud en CGI gaan een nieuwe infrastructuur bouwen voor het opslaan en verwerken van Europese observatiegegevens van satellieten. Het Franse en het Canadese bedrijf hebben daar een contract van dertig maanden voor binnengehaald bij de European Space Agency (ESA).</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html#reacties</comments>
+  </item>
+  <item>
+    <title>Privacystichting SDBN verruilt naam voor Data Justice Europe</title>
+    <link>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252684</guid>
+    <pubDate>Mon, 28 Sep 2026 13:47:00 +0200</pubDate>
+    <description>Stichting Data Bescherming Nederland (SDBN) heet voortaan Data Justice Europe. De nieuwe naam past volgens de stichting beter bij het werk dat zij doet en bij de landen waarin zij actief is. De stichting mag nu namelijk ook buiten Nederland actie voeren.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Poll: ruim 90 procent van de tweakers wil geen Steam Frame</title>
+    <link>https://tweakers.net/reviews/15362/poll-ruim-90-procent-van-de-tweakers-wil-geen-steam-frame.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15362</guid>
+    <pubDate>Mon, 28 Sep 2026 13:40:50 +0200</pubDate>
+    <description>Ruim 90 procent van de tweakers wil geen Steam Frame.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>.Community / Gaming / VR-brillen</category>
+    <comments>https://tweakers.net/reviews/15362/poll-ruim-90-procent-van-de-tweakers-wil-geen-steam-frame.html#reacties</comments>
+  </item>
+  <item>
+    <title>Australische Senaat ontbiedt OpenAI- en Anthropic-ceo's voor AI-verhoor</title>
+    <link>https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252682</guid>
+    <pubDate>Mon, 28 Sep 2026 12:54:51 +0200</pubDate>
+    <description>De ceo's van OpenAI en Anthropic zijn gevraagd om voor de Australische Senaat te verschijnen en vragen te beantwoorden. De Senaat doet onderzoek naar AI. Het verzoek komt enkele dagen nadat bekend werd dat een agent van OpenAI een Australische overheidswebsite hackte.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html#reacties</comments>
+  </item>
+  <item>
+    <title>Thermal Grizzly en Noctua brengen gpu-stekkerbewaker van 189,90 euro uit</title>
+    <link>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252680</guid>
+    <pubDate>Mon, 28 Sep 2026 11:53:20 +0200</pubDate>
+    <description>Thermal Grizzly en Noctua hebben de WireView Pro II Noctua Edition op de markt gebracht. Dit is een 12V-2x6-monitoringsapparaat voor high-end gpu's. Het apparaat heeft een adviesprijs van 189,90 euro en is per direct te koop.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Overige componenten</category>
+    <comments>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Inwoners van Harderwijk kunnen op één glasvezelnetwerk kiezen uit vier providers</title>
+    <link>https://tweakers.net/nieuws/252676/inwoners-van-harderwijk-kunnen-op-een-glasvezelnetwerk-kiezen-uit-vier-providers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252676</guid>
+    <pubDate>Mon, 28 Sep 2026 09:50:20 +0200</pubDate>
+    <description>Ziggo levert nu ook internet en tv via het glasvezelnetwerk van CAI Harderwijk. Daardoor kunnen inwoners van deze gemeente nu via één netwerk kiezen uit de vier grote landelijke internet- en tv-aanbieders. Volgens CAI Harderwijk is dit de eerste gemeente in Nederland waar dat mogelijk is.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Netwerk</category>
+    <comments>https://tweakers.net/nieuws/252676/inwoners-van-harderwijk-kunnen-op-een-glasvezelnetwerk-kiezen-uit-vier-providers.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft handhaaft IE Mode in Edge tot in ieder geval eind 2029</title>
     <link>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html</link>
@@ -170,7 +280,7 @@
     <link>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252640</guid>
     <pubDate>Sat, 26 Sep 2026 09:52:24 +0200</pubDate>
-    <description>Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT bleek afbeeldingen van 53 gebruikers te hebben uitgelekt. In een tweede incident bleken AI-agents op Amerikaanse overheidswebsites te hebben ingebroken via gevonden inloggegevens.</description>
+    <description>Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT blijkt afbeeldingen van 53 gebruikers te hebben laten uitlekken. In een tweede incident bleek dat AI-agents hebben ingebroken op Amerikaanse overheidswebsites via gevonden inloggegevens.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties</comments>

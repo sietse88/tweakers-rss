@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 29 Sep 2026 08:24:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 15:03:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,126 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Fairphone presenteert Fairbuds 2-oortjes van 119 euro over twee weken</title>
+    <link>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252750</guid>
+    <pubDate>Tue, 29 Sep 2026 16:45:00 +0200</pubDate>
+    <description>Fairphone gaat de Fairbuds 2 over twee weken presenteren. De nieuwe draadloze oordopjes gaan 119 euro kosten en dat is minder dan de Fairbuds kostten bij release twee jaar geleden. Fairphone had de komst van de oortjes eerder al bevestigd.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Mozilla brengt Firefox met nieuw ontwerp uit</title>
+    <link>https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252746</guid>
+    <pubDate>Tue, 29 Sep 2026 16:21:50 +0200</pubDate>
+    <description>Mozilla heeft Firefox 157 uitgebracht, de eerste versie van de browser met een nieuw ontwerp. Daarnaast keert de compacte modus terug en kunnen gebruikers sites vastzetten op de pagina voor een nieuw tabblad.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google lijkt ondersteuning voor ChromeOS in 2034 te beëindigen</title>
+    <link>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252738</guid>
+    <pubDate>Tue, 29 Sep 2026 15:08:21 +0200</pubDate>
+    <description>Google blijft ChromeOS tot halverwege 2034 ondersteunen. Het bedrijf zegt dat Chromebooks tot halverwege dat jaar updates blijven krijgen. Daarna stopt de ondersteuning vermoedelijk. Veel recente Chromebooks krijgen daarnaast overstapmogelijkheden naar het nieuwe Googlebook OS.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Laptops en systemen</category>
+    <comments>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Vouwbare Motorola-telefoon is veel kleiner dan iPhone Duo en Z Fold8'</title>
+    <link>https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252736</guid>
+    <pubDate>Tue, 29 Sep 2026 15:00:24 +0200</pubDate>
+    <description>De brede vouwbare smartphone waaraan Motorola werkt, zou veel kleiner zijn dan de Apple iPhone Duo en Samsung Galaxy Z Fold8. Dat meldt Android Headlines. Het vouwbare scherm is 6,9", tegenover 7,6" bij de concurrenten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - De beste +3-reacties van augustus: zelfbewuste AI en zo start je met LoRa</title>
+    <link>https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15360</guid>
+    <pubDate>Tue, 29 Sep 2026 14:45:00 +0200</pubDate>
+    <description>Dit zijn alle +3-reacties die lezers in augustus onder onze artikelen achterlieten.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>.Community / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Microsoft betaalt mensen om seksuele plaatjes van Copilot te verbeteren'</title>
+    <link>https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252730</guid>
+    <pubDate>Tue, 29 Sep 2026 14:29:54 +0200</pubDate>
+    <description>Microsoft heeft honderden mensen in dienst om afbeeldingen die Copilot genereert te beoordelen, inclusief de bijbehorende prompts. Sommige van die afbeeldingen zijn seksueel getint. Het doel is niet om content op te sporen die in strijd is met regels of wetten, maar om de output van Copilot te verbeteren, zo meldt 404 Media.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Sony is voor het eerst sinds 1967 niet op elektronicabeurs CES</title>
+    <link>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252728</guid>
+    <pubDate>Tue, 29 Sep 2026 14:09:57 +0200</pubDate>
+    <description>Muziek speelde je op lp's en tv keek je in zwart-wit: sinds de Consumer Electronics Show begon in 1967, was de Japanse elektronicagigant Sony er altijd bij. Tot de editie van 2027, want Sony heeft gezegd dat het volgend jaar niet op de beurs zal zijn.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bose bouwt noisecancellation in bedrade USB-C-oortjes voor 99,95 euro</title>
+    <link>https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252724</guid>
+    <pubDate>Tue, 29 Sep 2026 12:27:03 +0200</pubDate>
+    <description>Bose brengt voor het eerst in jaren nieuwe bedrade oordoppen uit. Ze werken via USB-C, ondersteunen actieve ruisonderdrukking en hebben fysieke knoppen. Ze komen in oktober uit voor 99,95 euro. Er is nog niets bekend over de beschikbaarheid in de Benelux.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>AMD neemt AI-bedrijf World Labs over voor 7,2 miljard euro in aandelen</title>
+    <link>https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252710</guid>
+    <pubDate>Tue, 29 Sep 2026 12:04:58 +0200</pubDate>
+    <description>AMD neemt AI-start-up World Labs over. Dat bedrijf werkt aan AI-modellen die gebruikt worden om 3d-omgevingen te simuleren. De overname wordt volledig betaald met AMD-aandelen en moet dit jaar nog worden afgerond.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Raspberry Pi-adapter voor slimme schermen kost 32 euro</title>
+    <link>https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252718</guid>
+    <pubDate>Tue, 29 Sep 2026 11:28:39 +0200</pubDate>
+    <description>Raspberry Pi komt met een nieuwe Smart Display-module. Gebruikers kunnen daar een Compute Module 5 op bevestigen en hem gebruiken om slimme schermen mee aan te sturen. Het apparaat kost 32 euro, maar lijkt nog niet beschikbaar te zijn in de Benelux.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Overige componenten</category>
+    <comments>https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>KPN TV+-update zet ESPN UHD bij sommige klanten op zwart</title>
+    <link>https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252672</guid>
+    <pubDate>Tue, 29 Sep 2026 11:09:25 +0200</pubDate>
+    <description>Een aantal klanten van KPN ontvangt geen aanvoersignaal voor ESPN UHD-kanalen sinds een update van KPN TV+. Daardoor zien zij op deze kanalen een zwart scherm. KPN verwacht het probleem eind oktober te hebben opgelost.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Decoders</category>
+    <comments>https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ziggo maakt netwerk klaar voor Docsis 4.0 om snelheden tot 8Gbit/s te bieden</title>
+    <link>https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252720</guid>
+    <pubDate>Tue, 29 Sep 2026 10:43:27 +0200</pubDate>
+    <description>VodafoneZiggo heeft zijn internetnetwerk klaargemaakt voor de Docsis 4.0-standaard. Daarmee is het netwerk klaar voor abonnementen met hogere snelheden. De provider wil op termijn abonnementen met downloadsnelheden tot 8Gbit/s introduceren.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html#reacties</comments>
+  </item>
   <item>
     <title>Nothing Headphone 1 Pro krijgt betere anc en drie drivers voor 349 euro</title>
     <link>https://tweakers.net/nieuws/252716/nothing-headphone-1-pro-krijgt-betere-anc-en-drie-drivers-voor-349-euro.html</link>

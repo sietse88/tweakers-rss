@@ -649,6 +649,16 @@
   "pubDate": "Mon, 28 Sep 2026 08:46:50 +0200",
   "title": "Odido verwacht belkwaliteit naar andere providers nog dit jaar te verbeteren"
  },
+ "https://tweakers.net/nieuws/252672": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Beeld en geluid / Decoders",
+  "comments": "https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html#reacties",
+  "description": "Een aantal klanten van KPN ontvangt geen aanvoersignaal voor ESPN UHD-kanalen sinds een update van KPN TV+. Daardoor zien zij op deze kanalen een zwart scherm. KPN verwacht het probleem eind oktober te hebben opgelost.",
+  "guid": "https://tweakers.net/nieuws/252672",
+  "link": "https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html",
+  "pubDate": "Tue, 29 Sep 2026 11:09:25 +0200",
+  "title": "KPN TV+-update zet ESPN UHD bij sommige klanten op zwart"
+ },
  "https://tweakers.net/nieuws/252676": {
   "author": "Eveline Meijer",
   "category": "Nieuws / Computers / Netwerk",
@@ -799,6 +809,16 @@
   "pubDate": "Mon, 28 Sep 2026 19:00:43 +0200",
   "title": "Lenovo komt met duurste Googlebook tot nu toe: 1499 euro voor Android-laptop"
  },
+ "https://tweakers.net/nieuws/252710": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html#reacties",
+  "description": "AMD neemt AI-start-up World Labs over. Dat bedrijf werkt aan AI-modellen die gebruikt worden om 3d-omgevingen te simuleren. De overname wordt volledig betaald met AMD-aandelen en moet dit jaar nog worden afgerond.",
+  "guid": "https://tweakers.net/nieuws/252710",
+  "link": "https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html",
+  "pubDate": "Tue, 29 Sep 2026 12:04:58 +0200",
+  "title": "AMD neemt AI-bedrijf World Labs over voor 7,2 miljard euro in aandelen"
+ },
  "https://tweakers.net/nieuws/252712": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / IT Pro / Wetenschap",
@@ -828,6 +848,126 @@
   "link": "https://tweakers.net/nieuws/252716/nothing-headphone-1-pro-krijgt-betere-anc-en-drie-drivers-voor-349-euro.html",
   "pubDate": "Tue, 29 Sep 2026 09:54:43 +0200",
   "title": "Nothing Headphone 1 Pro krijgt betere anc en drie drivers voor 349 euro"
+ },
+ "https://tweakers.net/nieuws/252718": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Overige componenten",
+  "comments": "https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html#reacties",
+  "description": "Raspberry Pi komt met een nieuwe Smart Display-module. Gebruikers kunnen daar een Compute Module 5 op bevestigen en hem gebruiken om slimme schermen mee aan te sturen. Het apparaat kost 32 euro, maar lijkt nog niet beschikbaar te zijn in de Benelux.",
+  "guid": "https://tweakers.net/nieuws/252718",
+  "link": "https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html",
+  "pubDate": "Tue, 29 Sep 2026 11:28:39 +0200",
+  "title": "Raspberry Pi-adapter voor slimme schermen kost 32 euro"
+ },
+ "https://tweakers.net/nieuws/252720": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Internettoegang",
+  "comments": "https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html#reacties",
+  "description": "VodafoneZiggo heeft zijn internetnetwerk klaargemaakt voor de Docsis 4.0-standaard. Daarmee is het netwerk klaar voor abonnementen met hogere snelheden. De provider wil op termijn abonnementen met downloadsnelheden tot 8Gbit/s introduceren.",
+  "guid": "https://tweakers.net/nieuws/252720",
+  "link": "https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html",
+  "pubDate": "Tue, 29 Sep 2026 10:43:27 +0200",
+  "title": "Ziggo maakt netwerk klaar voor Docsis 4.0 om snelheden tot 8Gbit/s te bieden"
+ },
+ "https://tweakers.net/nieuws/252724": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Beeld en geluid / Oordopjes",
+  "comments": "https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html#reacties",
+  "description": "Bose brengt voor het eerst in jaren nieuwe bedrade oordoppen uit. Ze werken via USB-C, ondersteunen actieve ruisonderdrukking en hebben fysieke knoppen. Ze komen in oktober uit voor 99,95 euro. Er is nog niets bekend over de beschikbaarheid in de Benelux.",
+  "guid": "https://tweakers.net/nieuws/252724",
+  "link": "https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html",
+  "pubDate": "Tue, 29 Sep 2026 12:27:03 +0200",
+  "title": "Bose bouwt noisecancellation in bedrade USB-C-oortjes voor 99,95 euro"
+ },
+ "https://tweakers.net/nieuws/252726": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / E-readers",
+  "comments": "https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html#reacties",
+  "description": "Een paar Kobo-bèta-updates zorgen voor problemen op sommige e-readers. Daardoor worden bepaalde boeken en notities onzichtbaar. Andere gebruikers melden 'eindeloze laadschermen'. Fabrikant Rakuten werkt aan een oplossing om verdwenen data te herstellen.",
+  "guid": "https://tweakers.net/nieuws/252726",
+  "link": "https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html",
+  "pubDate": "Tue, 29 Sep 2026 13:55:57 +0200",
+  "title": "Kobo-fabrikant belooft herstel van verdwenen boeken en notities na bug in bèta's"
+ },
+ "https://tweakers.net/nieuws/252728": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html#reacties",
+  "description": "Muziek speelde je op lp's en tv keek je in zwart-wit: sinds de Consumer Electronics Show begon in 1967, was de Japanse elektronicagigant Sony er altijd bij. Tot de editie van 2027, want Sony heeft gezegd dat het volgend jaar niet op de beurs zal zijn.",
+  "guid": "https://tweakers.net/nieuws/252728",
+  "link": "https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html",
+  "pubDate": "Tue, 29 Sep 2026 14:09:57 +0200",
+  "title": "Sony is voor het eerst sinds 1967 niet op elektronicabeurs CES"
+ },
+ "https://tweakers.net/nieuws/252730": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Software",
+  "comments": "https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html#reacties",
+  "description": "Microsoft heeft honderden mensen in dienst om afbeeldingen die Copilot genereert te beoordelen, inclusief de bijbehorende prompts. Sommige van die afbeeldingen zijn seksueel getint. Het doel is niet om content op te sporen die in strijd is met regels of wetten, maar om de output van Copilot te verbeteren, zo meldt 404 Media.",
+  "guid": "https://tweakers.net/nieuws/252730",
+  "link": "https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html",
+  "pubDate": "Tue, 29 Sep 2026 14:29:54 +0200",
+  "title": "'Microsoft betaalt mensen om seksuele plaatjes van Copilot te verbeteren'"
+ },
+ "https://tweakers.net/nieuws/252736": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html#reacties",
+  "description": "De brede vouwbare smartphone waaraan Motorola werkt, zou veel kleiner zijn dan de Apple iPhone Duo en Samsung Galaxy Z Fold8. Dat meldt Android Headlines. Het vouwbare scherm is 6,9\", tegenover 7,6\" bij de concurrenten.",
+  "guid": "https://tweakers.net/nieuws/252736",
+  "link": "https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html",
+  "pubDate": "Tue, 29 Sep 2026 15:00:24 +0200",
+  "title": "'Vouwbare Motorola-telefoon is veel kleiner dan iPhone Duo en Z Fold8'"
+ },
+ "https://tweakers.net/nieuws/252738": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Laptops en systemen",
+  "comments": "https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html#reacties",
+  "description": "Google blijft ChromeOS tot halverwege 2034 ondersteunen. Het bedrijf zegt dat Chromebooks tot halverwege dat jaar updates blijven krijgen. Daarna stopt de ondersteuning vermoedelijk. Veel recente Chromebooks krijgen daarnaast overstapmogelijkheden naar het nieuwe Googlebook OS.",
+  "guid": "https://tweakers.net/nieuws/252738",
+  "link": "https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html",
+  "pubDate": "Tue, 29 Sep 2026 15:08:21 +0200",
+  "title": "Google lijkt ondersteuning voor ChromeOS in 2034 te beëindigen"
+ },
+ "https://tweakers.net/nieuws/252744": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Wearable-accessoires",
+  "comments": "https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html#reacties",
+  "description": "Drie Nederlandse organisaties dreigen Meta voor de rechter te slepen als het bedrijf doorgaat met de verkoop van zijn slimme brillen in de huidige vorm. De Consumentenbond, Offlimits en The Firewall claimen dat gebruik van de brillen tegen de wet is en misbruik in de hand werkt.",
+  "guid": "https://tweakers.net/nieuws/252744",
+  "link": "https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html",
+  "pubDate": "Tue, 29 Sep 2026 16:00:18 +0200",
+  "title": "Consumentenbond, Offlimits en The Firewall slepen Meta voor rechter om gluurbril"
+ },
+ "https://tweakers.net/nieuws/252746": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Browsers",
+  "comments": "https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html#reacties",
+  "description": "Mozilla heeft Firefox 157 uitgebracht, de eerste versie van de browser met een nieuw ontwerp. Daarnaast keert de compacte modus terug en kunnen gebruikers sites vastzetten op de pagina voor een nieuw tabblad.",
+  "guid": "https://tweakers.net/nieuws/252746",
+  "link": "https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html",
+  "pubDate": "Tue, 29 Sep 2026 16:21:50 +0200",
+  "title": "Mozilla brengt Firefox met nieuw ontwerp uit"
+ },
+ "https://tweakers.net/nieuws/252750": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Beeld en geluid / Oordopjes",
+  "comments": "https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html#reacties",
+  "description": "Fairphone gaat de Fairbuds 2 over twee weken presenteren. De nieuwe draadloze oordopjes gaan 119 euro kosten en dat is minder dan de Fairbuds kostten bij release twee jaar geleden. Fairphone had de komst van de oortjes eerder al bevestigd.",
+  "guid": "https://tweakers.net/nieuws/252750",
+  "link": "https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html",
+  "pubDate": "Tue, 29 Sep 2026 16:45:00 +0200",
+  "title": "Fairphone presenteert Fairbuds 2-oortjes van 119 euro over twee weken"
+ },
+ "https://tweakers.net/reviews/12152": {
+  "author": "Friso Weijers",
+  "category": "Quicktest / Computers / Monitors",
+  "comments": "https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html#reacties",
+  "description": "BenQ richt zich met de RD280UG-monitor vol op developers. Hij heeft een bijzondere 3:2-verhouding, ingebouwde verlichting en andere functies voor comfortabeler code kloppen.",
+  "guid": "https://tweakers.net/reviews/12152",
+  "link": "https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html",
+  "pubDate": "Tue, 29 Sep 2026 14:00:00 +0200",
+  "title": "Quicktest - BenQ RD280UG - Bijzondere 3:2-monitor voor developers"
  },
  "https://tweakers.net/reviews/15078": {
   "author": "Reinoud Dik",
@@ -1078,6 +1218,16 @@
   "link": "https://tweakers.net/reviews/15352/meta-wil-af-van-het-slechte-imago-van-camerabrillen-dat-het-zelf-veroorzaakte.html",
   "pubDate": "Fri, 25 Sep 2026 08:15:00 +0200",
   "title": "Achtergrond - Meta wil af van het slechte imago van camerabrillen dat het zelf veroorzaakte"
+ },
+ "https://tweakers.net/reviews/15360": {
+  "author": "Yannick Spinner",
+  "category": ".Community / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html#reacties",
+  "description": "Dit zijn alle +3-reacties die lezers in augustus onder onze artikelen achterlieten.",
+  "guid": "https://tweakers.net/reviews/15360",
+  "link": "https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html",
+  "pubDate": "Tue, 29 Sep 2026 14:45:00 +0200",
+  "title": ".Community - De beste +3-reacties van augustus: zelfbewuste AI en zo start je met LoRa"
  },
  "https://tweakers.net/reviews/15362": {
   "author": "Lumen Heijdendael",

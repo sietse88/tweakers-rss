@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 29 Sep 2026 15:03:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 19:57:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,66 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Videoland gaat ook podcasts aanbieden</title>
+    <link>https://tweakers.net/nieuws/252764/videoland-gaat-ook-podcasts-aanbieden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252764</guid>
+    <pubDate>Tue, 29 Sep 2026 21:20:21 +0200</pubDate>
+    <description>Streamingdienst Videoland gaat vanaf 8 oktober podcasts aanbieden. Onder meer de podcast Moordcast is vanaf 23 oktober exclusief bij Videoland te luisteren. Ook Bankzitters de Podcast komt exclusief beschikbaar op de dienst van RTL. De podcast Bankzitters: Achter de Schermen was eerder alleen te luisteren op Podimo.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/252764/videoland-gaat-ook-podcasts-aanbieden.html#reacties</comments>
+  </item>
+  <item>
+    <title>GTA VI krijgt orkanen en twee keer grotere kaart dan GTA V</title>
+    <link>https://tweakers.net/nieuws/252762/gta-vi-krijgt-orkanen-en-twee-keer-grotere-kaart-dan-gta-v.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252762</guid>
+    <pubDate>Tue, 29 Sep 2026 20:49:29 +0200</pubDate>
+    <description>Grand Theft Auto VI krijgt een kaart die twee keer zo groot is als die van zijn voorganger, onthult Rockstar in een interview met Game Informer. De ontwikkelaar zegt dat de game 'met enige afstand' de grootste kaart heeft van alle games die Rockstar tot nu toe heeft gemaakt.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252762/gta-vi-krijgt-orkanen-en-twee-keer-grotere-kaart-dan-gta-v.html#reacties</comments>
+  </item>
+  <item>
+    <title>Remaster van The Witcher 3 is uit en breekt meteen spelersrecord op Steam</title>
+    <link>https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252752</guid>
+    <pubDate>Tue, 29 Sep 2026 18:41:47 +0200</pubDate>
+    <description>De remaster van The Witcher 3: Wild Hunt is uit. De game komt beschikbaar als update van de oude versie, die nog wel toegankelijk blijft via de bèta-instellingen. Op dinsdagavond speelden meer dan 120.000 spelers de game gelijktijdig op Steam.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackers bieden gegevens van 150.000 leden fitnessketen Jims aan op darkweb</title>
+    <link>https://tweakers.net/nieuws/252756/hackers-bieden-gegevens-van-150000-leden-fitnessketen-jims-aan-op-darkweb.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252756</guid>
+    <pubDate>Tue, 29 Sep 2026 18:09:19 +0200</pubDate>
+    <description>Hackers hebben de gegevens van 150.000 leden van fitnessketen Jims gestolen, bevestigt moederbedrijf Colruyt aan VRT NWS. Het gaat om leden van 31 van de 85 filialen. Om welke locaties het gaat, is niet bekend. Het lek vond al in juli plaats, maar nu pas wordt de omvang duidelijk.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/252756/hackers-bieden-gegevens-van-150000-leden-fitnessketen-jims-aan-op-darkweb.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Schrijvers in actie tegen Meta: 'Ik wil mijn woorden terug'</title>
+    <link>https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15366</guid>
+    <pubDate>Tue, 29 Sep 2026 18:00:00 +0200</pubDate>
+    <description>Organisaties verzamelen zich buiten het hoofdkantoor van Meta in Amsterdam om actie te voeren.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlandse gemeenten betaalden in 2025 185 miljoen euro voor Microsoft-diensten</title>
+    <link>https://tweakers.net/nieuws/252754/nederlandse-gemeenten-betaalden-in-2025-185-miljoen-euro-voor-microsoft-diensten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252754</guid>
+    <pubDate>Tue, 29 Sep 2026 17:40:40 +0200</pubDate>
+    <description>Nederlandse gemeenten betaalden vorig jaar ongeveer 185 miljoen euro voor producten en diensten van Microsoft. Dat blijkt uit een onderzoek van Binnenlands Bestuur en het AD. Het gaat daarbij uitsluitend om uitgaven van gemeenten en niet van andere overheidsorganisaties, zoals provincies en waterschappen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252754/nederlandse-gemeenten-betaalden-in-2025-185-miljoen-euro-voor-microsoft-diensten.html#reacties</comments>
+  </item>
   <item>
     <title>Fairphone presenteert Fairbuds 2-oortjes van 119 euro over twee weken</title>
     <link>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html</link>

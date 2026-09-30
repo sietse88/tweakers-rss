@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 30 Sep 2026 02:28:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 08:58:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Apple-ceo Ternus wil sneller meer nieuwe producten uitbrengen'</title>
+    <link>https://tweakers.net/nieuws/252772/apple-ceo-ternus-wil-sneller-meer-nieuwe-producten-uitbrengen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252772</guid>
+    <pubDate>Wed, 30 Sep 2026 10:09:04 +0200</pubDate>
+    <description>De nieuwe ceo van Apple, John Ternus, wil het bedrijf sneller en slanker maken om vaker nieuwe producten op de markt te brengen. De opvolger van Tim Cook heeft zijn plannen hiervoor al besproken met andere topmanagers. Dat meldt Bloomberg-journalist Mark Gurman op basis van bronnen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252772/apple-ceo-ternus-wil-sneller-meer-nieuwe-producten-uitbrengen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft rolt Windows 11 26H2 gefaseerd uit via Windows Update</title>
+    <link>https://tweakers.net/nieuws/252766/microsoft-rolt-windows-11-26h2-gefaseerd-uit-via-windows.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252766</guid>
+    <pubDate>Wed, 30 Sep 2026 08:22:08 +0200</pubDate>
+    <description>Windows-gebruikers krijgen de volgende grote release van Windows 11 aangeboden via Windows Update. Microsoft rolt deze 26H2-release gefaseerd uit. Het is volgens het bedrijf een lichte update die nieuwe functies activeert die al aanwezig zijn in het besturingssysteem.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252766/microsoft-rolt-windows-11-26h2-gefaseerd-uit-via-windows.html#reacties</comments>
+  </item>
+  <item>
+    <title>Axios: OpenAI zou omgerekend bijna 70 miljard dollar per jaar omzetten</title>
+    <link>https://tweakers.net/nieuws/252768/axios-openai-zou-omgerekend-bijna-70-miljard-dollar-per-jaar-omzetten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252768</guid>
+    <pubDate>Wed, 30 Sep 2026 08:01:51 +0200</pubDate>
+    <description>De geëxtrapoleerde jaaromzet van OpenAI zou nu uitkomen op bijna 70 miljard dollar. Dit meldt Axios op basis van ingewijde bronnen. OpenAI verkoopt meer van zijn diensten aan zakelijke klanten. De omzet daaruit zou ruim zijn verdubbeld in de loop van het derde kwartaal.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252768/axios-openai-zou-omgerekend-bijna-70-miljard-dollar-per-jaar-omzetten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Apple iPhone 18 Pro en Pro Max Review - Sterke update, slechte koop</title>
+    <link>https://tweakers.net/reviews/15322/apple-iphone-18-pro-en-pro-max-review-sterke-update-slechte-koop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15322</guid>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <description>De Apple iPhone 18 Pro (Max) is geen spannende update. Rechtvaardigen de kleine verbeteringen de flink gestegen prijs?</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Review / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15322/apple-iphone-18-pro-en-pro-max-review-sterke-update-slechte-koop.html#reacties</comments>
+  </item>
   <item>
     <title>Videoland gaat ook podcasts aanbieden</title>
     <link>https://tweakers.net/nieuws/252764/videoland-gaat-ook-podcasts-aanbieden.html</link>

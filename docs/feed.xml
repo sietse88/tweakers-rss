@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 30 Sep 2026 15:52:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 20:45:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Reddit blokkeert RSS-feeds en geeft nieuwe accounts geen toegang tot oude UI</title>
+    <link>https://tweakers.net/nieuws/252812/reddit-blokkeert-rss-feeds-en-geeft-nieuwe-accounts-geen-toegang-tot-oude-ui.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252812</guid>
+    <pubDate>Wed, 30 Sep 2026 21:11:56 +0200</pubDate>
+    <description>Het is vanaf november niet meer mogelijk om Reddit-posts via een RSS-feed te volgen. Dat doet het bedrijf naar eigen zeggen om scraping tegen te gaan. Om diezelfde reden beperkt het bedrijf de toegang tot Old Reddit, zijn oude interface.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252812/reddit-blokkeert-rss-feeds-en-geeft-nieuwe-accounts-geen-toegang-tot-oude-ui.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Google betaalt klein aantal uitgevers schrale vergoeding voor AI-overzichten'</title>
+    <link>https://tweakers.net/nieuws/252808/google-betaalt-klein-aantal-uitgevers-schrale-vergoeding-voor-ai-overzichten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252808</guid>
+    <pubDate>Wed, 30 Sep 2026 19:20:20 +0200</pubDate>
+    <description>Google betaalt een klein aantal uitgevers voor het gebruik van hun content in de AI-gegenereerde overzichten bovenaan de zoekresultaten en in Gemini. Dat schrijft The Information. Het zou vooralsnog gaan om circa honderd uitgevers. De vergoeding stelt naar verluidt niet veel voor.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/252808/google-betaalt-klein-aantal-uitgevers-schrale-vergoeding-voor-ai-overzichten.html#reacties</comments>
+  </item>
+  <item>
+    <title>XBOX komt na 18 jaar met eigen versie van PlayStations platina trofee</title>
+    <link>https://tweakers.net/nieuws/252806/xbox-komt-na-18-jaar-met-eigen-versie-van-playstations-platina-trofee.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252806</guid>
+    <pubDate>Wed, 30 Sep 2026 18:06:37 +0200</pubDate>
+    <description>Achttien jaar nadat PlayStation de platina trofee introduceerde, komt XBOX met een eigen variant. 'Completionists' ontvangen binnenkort een Mythic-achievement als ze de andere achievements in een game hebben behaald.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252806/xbox-komt-na-18-jaar-met-eigen-versie-van-playstations-platina-trofee.html#reacties</comments>
+  </item>
   <item>
     <title>'Apple brengt smarthomehub HomePad, HomePod mini en Apple TV op 13 oktober uit'</title>
     <link>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html</link>

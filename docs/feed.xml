@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 30 Sep 2026 08:58:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 15:52:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,156 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Apple brengt smarthomehub HomePad, HomePod mini en Apple TV op 13 oktober uit'</title>
+    <link>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252802</guid>
+    <pubDate>Wed, 30 Sep 2026 17:34:39 +0200</pubDate>
+    <description>Apple brengt zijn smarthomehub op 13 oktober uit. Dat zeggen bronnen tegen Mark Gurman van Bloomberg. Deze 'HomePad' zou eruitzien als de iMac G4. Tegelijkertijd komt Apple naar verluidt met een nieuwe HomePod mini en Apple TV.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Speakers</category>
+    <comments>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Samsung SmartTag 3 is compacter en werkt met iOS-apparaten</title>
+    <link>https://tweakers.net/nieuws/252804/samsung-smarttag-3-is-compacter-en-werkt-met-ios-apparaten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252804</guid>
+    <pubDate>Wed, 30 Sep 2026 17:28:58 +0200</pubDate>
+    <description>Samsung heeft zijn derde slimme tracker aangekondigd. Voor het eerst kunnen niet alleen Samsung Galaxy-apparaten deze SmartTag volgen, maar ook iOS-apparaten. De compacte tracker komt volgend jaar beschikbaar.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Bluetooth trackers</category>
+    <comments>https://tweakers.net/nieuws/252804/samsung-smarttag-3-is-compacter-en-werkt-met-ios-apparaten.html#reacties</comments>
+  </item>
+  <item>
+    <title>AI-bedrijven sluiten vrijwillig akkoord om toezicht te houden op AI-ontwikkeling</title>
+    <link>https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252782</guid>
+    <pubDate>Wed, 30 Sep 2026 17:08:25 +0200</pubDate>
+    <description>Leiders van een aantal grote techbedrijven hebben een vrijwillig akkoord gesloten met de Amerikaanse president Donald Trump om zelf AI te reguleren. In het akkoord staat onder andere dat de bedrijven zowel intern als extern toezicht gaan houden op de ontwikkeling van AI. Daarin staat ook dat het 'op termijn' logisch is om de vrijwillige afspraken wettelijk vast te leggen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html#reacties</comments>
+  </item>
+  <item>
+    <title>Klanten van EasyEnergy krijgen voortaan een gratis P1-dongel</title>
+    <link>https://tweakers.net/nieuws/252794/klanten-van-easyenergy-krijgen-voortaan-een-gratis-p1-dongel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252794</guid>
+    <pubDate>Wed, 30 Sep 2026 16:58:35 +0200</pubDate>
+    <description>EasyEnergy geeft klanten voortaan standaard een gratis Sparky-P1-dongel. Volgens de energieleverancier krijgen klanten daarmee meer inzicht in hun energiegebruik en kunnen zij hun stroom slimmer inzetten.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252794/klanten-van-easyenergy-krijgen-voortaan-een-gratis-p1-dongel.html#reacties</comments>
+  </item>
+  <item>
+    <title>DeepSeek maakt software voor Huawei-chips om onafhankelijker van Nvidia te zijn</title>
+    <link>https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252790</guid>
+    <pubDate>Wed, 30 Sep 2026 16:36:01 +0200</pubDate>
+    <description>Het Chinese AI-bedrijf DeepSeek heeft software voor chips van Huawei ontwikkeld op basis van de programmeertaal TileLang. Het bedrijf wil daarmee zijn afhankelijkheid van het Amerikaanse Nvidia afbouwen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html#reacties</comments>
+  </item>
+  <item>
+    <title>70 procent van EU-instellingen e-mailt via servers van Amerikaanse bedrijven</title>
+    <link>https://tweakers.net/nieuws/252778/70-procent-van-eu-instellingen-e-mailt-via-servers-van-amerikaanse-bedrijven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252778</guid>
+    <pubDate>Wed, 30 Sep 2026 16:03:18 +0200</pubDate>
+    <description>70 procent van de instellingen van de Europese Unie (EU) laat zijn e-mail via Amerikaanse servers lopen. Ook de e-mail van de Europese Commissie loopt via Amerikaanse diensten.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252778/70-procent-van-eu-instellingen-e-mailt-via-servers-van-amerikaanse-bedrijven.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Massa's massaclaims: schrijf je vooral in, maar verwacht er niets van</title>
+    <link>https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15374</guid>
+    <pubDate>Wed, 30 Sep 2026 16:00:00 +0200</pubDate>
+    <description>Massaclaims tegen techbedrijven klinken aantrekkelijk: schrijf je gratis in, misschien krijg je wel wat geld. Maar of dat werkt, is onzeker.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Achtergrond / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html#reacties</comments>
+  </item>
+  <item>
+    <title>OpenAI voegt abonnement van 500 dollar toe en knijpt abo van 200 dollar af</title>
+    <link>https://tweakers.net/nieuws/252798/openai-voegt-abonnement-van-500-dollar-toe-en-knijpt-abo-van-200-dollar-af.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252798</guid>
+    <pubDate>Wed, 30 Sep 2026 15:50:06 +0200</pubDate>
+    <description>Het duurste abonnement van OpenAI kost nu 500 dollar per maand. Daarvoor krijgen gebruikers de hoogste gebruikslimieten en snellere reacties. Tot dusver kostte het duurste abonnement 200 dollar. Dat blijft bestaan, maar de gebruikslimieten gaan door de helft.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/252798/openai-voegt-abonnement-van-500-dollar-toe-en-knijpt-abo-van-200-dollar-af.html#reacties</comments>
+  </item>
+  <item>
+    <title>Signal brengt lokale beveiligde back-ups naar iPhone, iPad en desktop</title>
+    <link>https://tweakers.net/nieuws/252796/signal-brengt-lokale-beveiligde-back-ups-naar-iphone-ipad-en-desktop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252796</guid>
+    <pubDate>Wed, 30 Sep 2026 15:46:55 +0200</pubDate>
+    <description>Signal introduceert lokale back-ups van gesprekken voor iPhone-, iPad- en desktopgebruikers. De back-ups zijn net als de reguliere berichtendienst versleuteld. Lokale back-ups zijn met Signals Android-app al jaren mogelijk.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252796/signal-brengt-lokale-beveiligde-back-ups-naar-iphone-ipad-en-desktop.html#reacties</comments>
+  </item>
+  <item>
+    <title>EU onderzoekt of Minecraft en Clash of Clans regels over in-gamevaluta schenden</title>
+    <link>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252788</guid>
+    <pubDate>Wed, 30 Sep 2026 14:47:39 +0200</pubDate>
+    <description>Een samenwerkingsverband van Europese toezichthouders gaat tien gamebedrijven onderzoeken, waaronder Minecraft-maker Mojang en het bedrijf achter Clash of Clans. Ze vermoeden dat de bedrijven zich niet houden aan de regels over in-gameaankopen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft verwijderde data van non-profits voortijdig en permanent</title>
+    <link>https://tweakers.net/nieuws/252748/microsoft-verwijderde-data-van-non-profits-voortijdig-en-permanent.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252748</guid>
+    <pubDate>Wed, 30 Sep 2026 13:38:21 +0200</pubDate>
+    <description>Microsoft erkent dat het gegevens van stichtingen en non-profitorganisaties door een fout voortijdig en permanent heeft verwijderd. Het gaat om stichtingen die gebruikmaakten van een gratis Microsoft 365 Business Premium-licentie voor non-profits. Het is onduidelijk hoeveel non-profits slachtoffer zijn.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Business software</category>
+    <comments>https://tweakers.net/nieuws/252748/microsoft-verwijderde-data-van-non-profits-voortijdig-en-permanent.html#reacties</comments>
+  </item>
+  <item>
+    <title>Aanvallers kwamen mogelijk binnen bij Rijksoverheid via Citrix-lekken</title>
+    <link>https://tweakers.net/nieuws/252786/aanvallers-kwamen-mogelijk-binnen-bij-rijksoverheid-via-citrix-lekken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252786</guid>
+    <pubDate>Wed, 30 Sep 2026 13:30:44 +0200</pubDate>
+    <description>Door de nieuwste beveiligingsgaten in Citrix-systemen zijn aanvallers mogelijk binnengedrongen bij de Nederlandse Rijksoverheid. Dit meldt de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Het gaat om systemen voor thuiswerken, die deels nog offline zijn.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/252786/aanvallers-kwamen-mogelijk-binnen-bij-rijksoverheid-via-citrix-lekken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Geheugenbedrijf Netlist eist importverbod VS op HBM-geheugenchips van Micron</title>
+    <link>https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252774</guid>
+    <pubDate>Wed, 30 Sep 2026 12:00:11 +0200</pubDate>
+    <description>Het Amerikaanse geheugenbedrijf Netlist eist van de handelstoezichthouder een importverbod op geheugenchips van Micron. Dit verbod zou ook moeten gelden voor afnemers Nvidia, Broadcom en Google. Volgens Netlist maakt geheugenfabrikant Micron inbreuk op zijn patenten op HBM-chips.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html#reacties</comments>
+  </item>
+  <item>
+    <title>XBOX maakt digitalisering van fysieke discs voor iedereen beschikbaar</title>
+    <link>https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252780</guid>
+    <pubDate>Wed, 30 Sep 2026 11:49:37 +0200</pubDate>
+    <description>Microsofts XBOX maakt de Disc to Digital-optie nu voor iedereen beschikbaar. Gebruikers kunnen daarmee hun fysieke disc koppelen aan hun account, en dezelfde game ook digitaal downloaden en spelen. 1581 games komen op dit moment in aanmerking voor de functie.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Veel datacenters in EU lijken water- en stroomgebruik onterecht geheim te houden</title>
+    <link>https://tweakers.net/nieuws/252776/veel-datacenters-in-eu-lijken-water-en-stroomgebruik-onterecht-geheim-te-houden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252776</guid>
+    <pubDate>Wed, 30 Sep 2026 11:03:35 +0200</pubDate>
+    <description>Veel datacenters, ook in Nederland, lijken hun water- en stroomgebruik onterecht geheim te houden. Daarnaast zou het voor EU-burgers lastig zijn om van overheidsinstanties inzage te krijgen in de milieu-impact van datacenters, terwijl die informatie openbaar zou moeten zijn. Er wordt een speciale procedure gestart.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252776/veel-datacenters-in-eu-lijken-water-en-stroomgebruik-onterecht-geheim-te-houden.html#reacties</comments>
+  </item>
   <item>
     <title>'Apple-ceo Ternus wil sneller meer nieuwe producten uitbrengen'</title>
     <link>https://tweakers.net/nieuws/252772/apple-ceo-ternus-wil-sneller-meer-nieuwe-producten-uitbrengen.html</link>

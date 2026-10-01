@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 01 Oct 2026 00:12:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 06:09:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Paramount neemt Warner Bros. volgende week over voor 111 miljard dollar</title>
+    <link>https://tweakers.net/nieuws/252818/paramount-neemt-warner-bros-volgende-week-over-voor-111-miljard-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252818</guid>
+    <pubDate>Thu, 01 Oct 2026 07:38:52 +0200</pubDate>
+    <description>Het Amerikaanse Paramount neemt Warner Bros. Discovery volgende week over voor 111 miljard dollar. Dat hebben beide bedrijven bekendgemaakt. De overname kan doorgaan, nu een rechter daarvoor toestemming heeft gegeven.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252818/paramount-neemt-warner-bros-volgende-week-over-voor-111-miljard-dollar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google kondigt Gemini 4 Argon aan, maar brengt het nog niet uit</title>
+    <link>https://tweakers.net/nieuws/252816/google-kondigt-gemini-4-argon-aan-maar-brengt-het-nog-niet-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252816</guid>
+    <pubDate>Thu, 01 Oct 2026 07:09:21 +0200</pubDate>
+    <description>Google heeft Gemini 4 Argon aangekondigd, zijn nieuwste AI-model. Alleen beveiligingsonderzoekers en specifieke testers kunnen het model gebruiken. Later moeten betalende klanten volgen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/252816/google-kondigt-gemini-4-argon-aan-maar-brengt-het-nog-niet-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - ASUS ROG Rapture GT-BN98-router - Wi-Fi 8 in huis, Wi-Fi 7 in de praktijk</title>
+    <link>https://tweakers.net/reviews/15340/asus-rog-rapture-gt-bn98-router-wi-fi-8-in-huis-wi-fi-7-in-de-praktijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15340</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>In dit artikel bekijken we de eerste Wi-Fi 8-router van ASUS. Die is zijn tijd ver vooruit: clients voor deze standaard zijn er nog niet. Toch al kopen, of nog wachten?</description>
+    <dc:creator>Olaf Weijers</dc:creator>
+    <category>Review / Computers / Modems en routers</category>
+    <comments>https://tweakers.net/reviews/15340/asus-rog-rapture-gt-bn98-router-wi-fi-8-in-huis-wi-fi-7-in-de-praktijk.html#reacties</comments>
+  </item>
   <item>
     <title>Reddit blokkeert RSS-feeds en geeft nieuwe accounts geen toegang tot oude UI</title>
     <link>https://tweakers.net/nieuws/252812/reddit-blokkeert-rss-feeds-en-geeft-nieuwe-accounts-geen-toegang-tot-oude-ui.html</link>

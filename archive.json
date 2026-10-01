@@ -1309,6 +1309,16 @@
   "pubDate": "Thu, 01 Oct 2026 10:41:54 +0200",
   "title": "ShinyHunters-site gaat offline dag na ultimatum aan FBI"
  },
+ "https://tweakers.net/nieuws/252828": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html#reacties",
+  "description": "De Amerikaanse overheid brengt een AI-chatbot uit waarmee gebruikers vragen kunnen stellen over overheidsdiensten. De website gebruikt de AI-modellen Google Gemini en Grok om vragen van gebruikers te beantwoorden, bijvoorbeeld over het aanvragen van een paspoort of het vinden van een baan.",
+  "guid": "https://tweakers.net/nieuws/252828",
+  "link": "https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html",
+  "pubDate": "Thu, 01 Oct 2026 17:42:48 +0200",
+  "title": "Amerikaanse overheid brengt AI-chatbot uit die overheidsvragen beantwoordt"
+ },
  "https://tweakers.net/nieuws/252830": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / Gaming / Game-accessoires",
@@ -1388,6 +1398,66 @@
   "link": "https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html",
   "pubDate": "Thu, 01 Oct 2026 15:13:32 +0200",
   "title": "'EU onderzoekt Binance omdat het Europese klanten bedient zonder vergunning'"
+ },
+ "https://tweakers.net/nieuws/252858": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/252858/autoriteiten-vinden-110tb-gestolen-gegevens-op-servers-ransomwarebende-killsec.html#reacties",
+  "description": "Politiediensten hebben de websites van ransomwaregroep KillSec offline gehaald. Tijdens een gezamenlijke actie arresteerden ze meerdere verdachten, onder wie een 16-jarige die mogelijk de leider van KillSec was. Daarbij werd ook 110TB aan gestolen gegevens in beslag genomen.",
+  "guid": "https://tweakers.net/nieuws/252858",
+  "link": "https://tweakers.net/nieuws/252858/autoriteiten-vinden-110tb-gestolen-gegevens-op-servers-ransomwarebende-killsec.html",
+  "pubDate": "Thu, 01 Oct 2026 15:59:43 +0200",
+  "title": "Autoriteiten vinden 110TB gestolen gegevens op servers ransomwarebende KillSec"
+ },
+ "https://tweakers.net/nieuws/252860": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/252860/pubg-makers-schrappen-extractionshooter-black-budget.html#reacties",
+  "description": "Extractionshooter PUBG: Black Budget wordt geannuleerd. Die game moest gaan concurreren met games als Escape From Tarkov en ARC Raiders. De game was op lange termijn niet leuk genoeg voor spelers, zegt uitgever Krafton.",
+  "guid": "https://tweakers.net/nieuws/252860",
+  "link": "https://tweakers.net/nieuws/252860/pubg-makers-schrappen-extractionshooter-black-budget.html",
+  "pubDate": "Thu, 01 Oct 2026 16:46:10 +0200",
+  "title": "PUBG-makers schrappen extractionshooter Black Budget"
+ },
+ "https://tweakers.net/nieuws/252862": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html#reacties",
+  "description": "Microsoft brengt WSL Containers officieel uit. Gebruikers kunnen daarmee Linux-containers draaien binnen Windows 11. De functie werd al langer getest, maar is nu voor iedereen beschikbaar.",
+  "guid": "https://tweakers.net/nieuws/252862",
+  "link": "https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html",
+  "pubDate": "Thu, 01 Oct 2026 20:34:07 +0200",
+  "title": "Windows-pc's kunnen nu Linux-containers draaien via WSL"
+ },
+ "https://tweakers.net/nieuws/252864": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html#reacties",
+  "description": "AMD's Ryzen Z3-chips voor handhelds worden mogelijk gebaseerd op de aanstaande Zen 6-architectuur. Dat blijkt uit informatie van meerdere leakers. De ingebouwde gpu wordt juist gebaseerd op RDNA 4m, een doorontwikkeling van de RDNA 3.5-architectuur.",
+  "guid": "https://tweakers.net/nieuws/252864",
+  "link": "https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html",
+  "pubDate": "Thu, 01 Oct 2026 18:15:07 +0200",
+  "title": "Gerucht: AMD Ryzen Z3-handheldchip krijgt Zen 6-cpu en RDNA 4m-igpu"
+ },
+ "https://tweakers.net/nieuws/252868": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html#reacties",
+  "description": "Samsung verhoogt stilletjes de adviesprijzen van zijn Galaxy S26-telefoons. In de meeste gevallen gaat het om een stijging van 100 euro, al wordt de duurste S26 Ultra-configuratie 200 euro duurder. De S26 FE, die onlangs verscheen, blijft buiten schot.",
+  "guid": "https://tweakers.net/nieuws/252868",
+  "link": "https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html",
+  "pubDate": "Thu, 01 Oct 2026 19:07:04 +0200",
+  "title": "Samsung verhoogt adviesprijzen Galaxy S26-serie met 100 tot 200 euro"
+ },
+ "https://tweakers.net/nieuws/252870": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Gaming / Consoles",
+  "comments": "https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html#reacties",
+  "description": "Sony en AMD brengen een AI-upscaler naar het PlayStation 5-basismodel: QSSR. Dat is een nieuwe versie van de PSSR-upscaler, die tot nu toe alleen op de PS5 Pro werkte. De upscaler wordt vanaf vandaag toegevoegd aan de eerste games.",
+  "guid": "https://tweakers.net/nieuws/252870",
+  "link": "https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html",
+  "pubDate": "Thu, 01 Oct 2026 19:41:43 +0200",
+  "title": "PlayStation 5-basismodel krijgt AI-upscaler voor betere beeldkwaliteit"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

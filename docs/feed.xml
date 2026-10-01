@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 01 Oct 2026 06:09:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 13:32:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,116 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'EU onderzoekt Binance omdat het Europese klanten bedient zonder vergunning'</title>
+    <link>https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252844</guid>
+    <pubDate>Thu, 01 Oct 2026 15:13:32 +0200</pubDate>
+    <description>Europese toezichthouders doen onderzoek naar Binance, meldt The Financial Times. De cryptobeurs heeft geen vergunning in Europa, maar bedient hier alsnog klanten. Het bedrijf beroept zich op een wettelijke uitzondering, maar de toezichthouders betwijfelen of die uitzondering hier wel geldt.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Naughty Dog brengt eerst nieuwe Uncharted uit en dan The Last of Us Part III'</title>
+    <link>https://tweakers.net/nieuws/252842/naughty-dog-brengt-eerst-nieuwe-uncharted-uit-en-dan-the-last-of-us-part-iii.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252842</guid>
+    <pubDate>Thu, 01 Oct 2026 14:00:00 +0200</pubDate>
+    <description>Naughty Dog werkt aan een nieuwe game in de Uncharted-franchise. Dat claimen bronnen van de doorgaans betrouwbare gamingwebsite MP1st en leaker NateTheHate. Volgens de site werkt de studio ook aan een nieuwe The Last of Us, die pas na de volgende Uncharted zou uitkomen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252842/naughty-dog-brengt-eerst-nieuwe-uncharted-uit-en-dan-the-last-of-us-part-iii.html#reacties</comments>
+  </item>
+  <item>
+    <title>Wehkamp haalt Meta-camerabrillen per direct uit verkoop door privacyzorgen</title>
+    <link>https://tweakers.net/nieuws/252838/wehkamp-haalt-meta-camerabrillen-per-direct-uit-verkoop-door-privacyzorgen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252838</guid>
+    <pubDate>Thu, 01 Oct 2026 13:15:07 +0200</pubDate>
+    <description>De grote Nederlandse webshop Wehkamp stopt per direct met de verkoop van de camerabrillen van Meta. Het bedrijf zegt tegen het Algemeen Dagblad dat het dit doet vanwege privacyzorgen. Andere webshops nemen deze maatregel vooralsnog niet.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/252838/wehkamp-haalt-meta-camerabrillen-per-direct-uit-verkoop-door-privacyzorgen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google vecht eis om zoekdata te delen met concurrenten aan</title>
+    <link>https://tweakers.net/nieuws/252836/google-vecht-eis-om-zoekdata-te-delen-met-concurrenten-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252836</guid>
+    <pubDate>Thu, 01 Oct 2026 12:37:30 +0200</pubDate>
+    <description>Google vecht de eis van de Europese Commissie om zijn zoekmachinedata te delen met concurrerende zoekmachines en AI-chatbots aan bij de op een na hoogste EU-rechtbank. Volgens het bedrijf schendt het besluit de privacy van Europese gebruikers.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252836/google-vecht-eis-om-zoekdata-te-delen-met-concurrenten-aan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Een jaar geheugenchaos: DDR5 is vier keer duurder en de prijzen stijgen weer</title>
+    <link>https://tweakers.net/reviews/15372/een-jaar-geheugenchaos-ddr5-is-vier-keer-duurder-en-de-prijzen-stijgen-weer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15372</guid>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+    <description>In het afgelopen jaar zijn de prijzen van DDR4- en DDR5-geheugen explosief gestegen. Hoe staat het er intussen voor?</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/reviews/15372/een-jaar-geheugenchaos-ddr5-is-vier-keer-duurder-en-de-prijzen-stijgen-weer.html#reacties</comments>
+  </item>
+  <item>
+    <title>KPN verhelpt zwart beeld op ESPN UHD voor meeste klanten</title>
+    <link>https://tweakers.net/nieuws/252834/kpn-verhelpt-zwart-beeld-op-espn-uhd-voor-meeste-klanten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252834</guid>
+    <pubDate>Thu, 01 Oct 2026 11:15:41 +0200</pubDate>
+    <description>KPN heeft de problemen met de ESPN UHD-kanalen voor 'het grootste deel' van zijn klanten opgelost, meldt de provider aan Tweakers. Bij een aantal klanten stonden die zenders sinds een update van de KPN TV+-launcher op zwart.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/252834/kpn-verhelpt-zwart-beeld-op-espn-uhd-voor-meeste-klanten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Toekomst Android Central onzeker nu moederbedrijf alle medewerkers ontslaat</title>
+    <link>https://tweakers.net/nieuws/252832/toekomst-android-central-onzeker-nu-moederbedrijf-alle-medewerkers-ontslaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252832</guid>
+    <pubDate>Thu, 01 Oct 2026 11:08:27 +0200</pubDate>
+    <description>De toekomst van Android-fansite Android Central is onzeker nu het moederbedrijf alle zes de medewerkers heeft ontslagen. Moederbedrijf Future PLC heeft nog geen verklaring gegeven. De site is nog online.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252832/toekomst-android-central-onzeker-nu-moederbedrijf-alle-medewerkers-ontslaat.html#reacties</comments>
+  </item>
+  <item>
+    <title>IKEA begint verkoop XBOX-collectie</title>
+    <link>https://tweakers.net/nieuws/252830/ikea-begint-verkoop-xbox-collectie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252830</guid>
+    <pubDate>Thu, 01 Oct 2026 10:55:01 +0200</pubDate>
+    <description>IKEA is donderdag begonnen met de verkoop van zijn XBOX-collectie YXSTABY. Beide bedrijven hadden de producten ruim een maand geleden aangekondigd. Het gaat onder meer om een krukje, kussen en bord voor controllers.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Game-accessoires</category>
+    <comments>https://tweakers.net/nieuws/252830/ikea-begint-verkoop-xbox-collectie.html#reacties</comments>
+  </item>
+  <item>
+    <title>ShinyHunters-site gaat offline dag na ultimatum aan FBI</title>
+    <link>https://tweakers.net/nieuws/252824/shinyhunters-site-gaat-offline-dag-na-ultimatum-aan-fbi.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252824</guid>
+    <pubDate>Thu, 01 Oct 2026 10:41:54 +0200</pubDate>
+    <description>De website van hackersgroep ShinyHunters is offline. De groep, verantwoordelijk voor onder meer hacks bij de Nederlandse provider Odido en de Amerikaanse inlichtingendienst FBI, heeft geen verklaring gegeven.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252824/shinyhunters-site-gaat-offline-dag-na-ultimatum-aan-fbi.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft-topvrouw: XBOX-divisie is niet te koop</title>
+    <link>https://tweakers.net/nieuws/252822/microsoft-topvrouw-xbox-divisie-is-niet-te-koop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252822</guid>
+    <pubDate>Thu, 01 Oct 2026 10:07:34 +0200</pubDate>
+    <description>De XBOX-divisie is niet te koop, zegt XBOX-topvrouw Asha Sharma in een interview. Er gingen de afgelopen maanden geruchten dat Microsoft misschien van zijn gamingdivisie af zou willen. Het citaat sluit niet uit dat Microsoft XBOX een zelfstandig bedrijf maakt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/252822/microsoft-topvrouw-xbox-divisie-is-niet-te-koop.html#reacties</comments>
+  </item>
+  <item>
+    <title>FTC onderzoekt OpenAI en Anthropic vanwege hacks door AI-agents</title>
+    <link>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252814</guid>
+    <pubDate>Thu, 01 Oct 2026 09:07:13 +0200</pubDate>
+    <description>De Amerikaanse Federal Trade Commission is begonnen met een onderzoek naar AI-bedrijven vanwege de risico's van AI. De hacks die AI-agents tijdens tests zelf hebben uitgevoerd, vormen de aanleiding.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html#reacties</comments>
+  </item>
   <item>
     <title>Paramount neemt Warner Bros. volgende week over voor 111 miljard dollar</title>
     <link>https://tweakers.net/nieuws/252818/paramount-neemt-warner-bros-volgende-week-over-voor-111-miljard-dollar.html</link>

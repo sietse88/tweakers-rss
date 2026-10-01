@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 01 Oct 2026 19:00:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 23:07:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>The Division-studio Massive krijgt controle over Splinter Cell en Ghost Recon</title>
+    <link>https://tweakers.net/nieuws/252866/the-division-studio-massive-krijgt-controle-over-splinter-cell-en-ghost-recon.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252866</guid>
+    <pubDate>Thu, 01 Oct 2026 21:02:44 +0200</pubDate>
+    <description>Ubisoft breidt Massive Entertainment uit. De Zweedse studio krijgt zeggenschap over twee bekende gamefranchises: Splinter Cell en Ghost Recon. Massive blijft ook werken aan The Division en aan andere nieuwe games.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252866/the-division-studio-massive-krijgt-controle-over-splinter-cell-en-ghost-recon.html#reacties</comments>
+  </item>
   <item>
     <title>Windows-pc's kunnen nu Linux-containers draaien via WSL</title>
     <link>https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html</link>

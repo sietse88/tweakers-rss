@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 02 Oct 2026 15:05:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 19:59:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,74 @@
     <height>192</height>
   </image>
   <item>
-    <title>Nederlander krijgt anderhalf jaar celstraf voor verkoop van GTA V-cheats</title>
-    <link>https://tweakers.net/nieuws/252894/nederlander-krijgt-anderhalf-jaar-celstraf-voor-verkoop-van-gta-v-cheats.html</link>
+    <title>Nabu Casa hernoemt Home Assistant Cloud omdat 'big tech cloud heeft verpest'</title>
+    <link>https://tweakers.net/nieuws/252920/nabu-casa-hernoemt-home-assistant-cloud-omdat-big-tech-cloud-heeft-verpest.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252920</guid>
+    <pubDate>Fri, 02 Oct 2026 20:29:36 +0200</pubDate>
+    <description>Nabu Casa heeft de naam van Home Assistant Cloud veranderd in Home Assistant Link. Volgens het bedrijf heeft big tech het begrip 'cloud' verpest en past het niet meer bij de dienst die het aanbiedt.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/252920/nabu-casa-hernoemt-home-assistant-cloud-omdat-big-tech-cloud-heeft-verpest.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia Shield TV Pro wordt zeven jaar na release 100 euro duurder</title>
+    <link>https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252916</guid>
+    <pubDate>Fri, 02 Oct 2026 19:28:04 +0200</pubDate>
+    <description>Nvidia heeft de Shield TV Pro duurder gemaakt, bevestigt het bedrijf aan Wccftech. In de Verenigde Staten stijgt de prijs van 199 naar 299 dollar. In Nederland en België kost het streamingapparaat nu 299 euro, 100 euro meer dan eerder. Het bedrijf stopt ook met de productie van de 'gewone' Shield TV.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html#reacties</comments>
+  </item>
+  <item>
+    <title>Amerikaans hof vernietigt vonnis na AI-video van overleden slachtoffer</title>
+    <link>https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252914</guid>
+    <pubDate>Fri, 02 Oct 2026 18:17:06 +0200</pubDate>
+    <description>Het hof van beroep van Arizona heeft een vonnis vernietigd dat mede tot stand kwam door een AI-video van het overleden slachtoffer. De doodgeschoten Christopher Pelkey legde een 'verklaring' af die was gemaakt met AI. De rechter liet de video toe en veroordeelde schutter Gabriel Horcasitas tot tien jaar cel.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Apple ontwikkelt smarthomecamera die geen video opneemt'</title>
+    <link>https://tweakers.net/nieuws/252912/apple-ontwikkelt-smarthomecamera-die-geen-video-opneemt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252912</guid>
+    <pubDate>Fri, 02 Oct 2026 17:18:40 +0200</pubDate>
+    <description>Apple ontwikkelt een smarthomecamera die geen video-opnames maakt, meldt Mark Gurman in de Power On-podcast van Bloomberg. De camera moet een onderdeel worden van een 'nieuw smarthome-ecosysteem' van de iPhone-fabrikant.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Bewakingscamera's</category>
+    <comments>https://tweakers.net/nieuws/252912/apple-ontwikkelt-smarthomecamera-die-geen-video-opneemt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Telenet mag na hoger beroep nog steeds niet met 'fiber' adverteren voor coax</title>
+    <link>https://tweakers.net/nieuws/252910/telenet-mag-na-hoger-beroep-nog-steeds-niet-met-fiber-adverteren-voor-coax.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252910</guid>
+    <pubDate>Fri, 02 Oct 2026 17:11:57 +0200</pubDate>
+    <description>Telenet mag zijn coaxverbindingen niet adverteren met de termen 'fiber', 'fibre' of 'glasvezel', heeft het hof van beroep bevestigd. De ondernemingsrechtbank trok in februari al dezelfde conclusie, maar de Belgische provider ging in beroep tegen die uitspraak.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/252910/telenet-mag-na-hoger-beroep-nog-steeds-niet-met-fiber-adverteren-voor-coax.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackers dringen officieel X-account van Microsoft binnen</title>
+    <link>https://tweakers.net/nieuws/252908/hackers-dringen-officieel-x-account-van-microsoft-binnen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252908</guid>
+    <pubDate>Fri, 02 Oct 2026 17:08:44 +0200</pubDate>
+    <description>Hackers zijn het officiële X-account van Microsoft binnengedrongen. Ze plaatsten een bericht om aandacht te trekken voor een cryptoscam. Inmiddels is het account weer veiliggesteld. Microsoft heeft de hack bevestigd.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/252908/hackers-dringen-officieel-x-account-van-microsoft-binnen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlander veroordeeld voor verkoop van GTA V-cheats</title>
+    <link>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252894</guid>
     <pubDate>Fri, 02 Oct 2026 16:19:11 +0200</pubDate>
-    <description>Een 25-jarige Nederlandse man is veroordeeld tot achttien maanden onvoorwaardelijke celstraf voor de verkoop van cheatsoftware voor Grand Theft Auto V. De man verkocht via eigen websites software waarmee gebruikers kunnen cheaten, servers laten crashen en bans omzeilen. Daarnaast verkocht de man gestolen gebruikersnamen en wachtwoorden van een miljoen accounts.</description>
+    <description>Een 25-jarige Nederlandse man is veroordeeld tot achttien maanden onvoorwaardelijke celstraf voor onder andere de verkoop van cheatsoftware voor Grand Theft Auto V. De man verkocht via eigen websites software waarmee gebruikers kunnen cheaten, servers laten crashen en bans omzeilen. Daarnaast verkocht de man gestolen gebruikersnamen en wachtwoorden van een miljoen accounts.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252894/nederlander-krijgt-anderhalf-jaar-celstraf-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
   </item>
   <item>
     <title>VoetbalTV krijgt geen schadevergoeding ondanks veel te trage AP</title>
@@ -46,14 +106,14 @@
     <comments>https://tweakers.net/nieuws/252902/android-central-blijft-publiceren-ondanks-ontslagen.html#reacties</comments>
   </item>
   <item>
-    <title>DigiD is voor deel van gebruikers onbereikbaar door storing</title>
-    <link>https://tweakers.net/nieuws/252900/digid-is-voor-deel-van-gebruikers-onbereikbaar-door-storing.html</link>
+    <title>DigiD lost storing op waardoor gebruikers niet konden inloggen - update</title>
+    <link>https://tweakers.net/nieuws/252900/digid-lost-storing-op-waardoor-gebruikers-niet-konden-inloggen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252900</guid>
     <pubDate>Fri, 02 Oct 2026 14:04:28 +0200</pubDate>
-    <description>DigiD heeft last van een storing. De dienst is daardoor voor een deel van de gebruikers niet bereikbaar. Beheerder Logius erkent de problemen en zegt te werken aan een oplossing.</description>
+    <description>DigiD heeft de storing opgelost waardoor een deel van de gebruikers niet kon inloggen. Beheerder Logius zegt dat de storing om 15.03 uur was opgelost. De oorzaak van de problemen is niet bekend.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252900/digid-is-voor-deel-van-gebruikers-onbereikbaar-door-storing.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/252900/digid-lost-storing-op-waardoor-gebruikers-niet-konden-inloggen.html#reacties</comments>
   </item>
   <item>
     <title>Ook Raspberry Pi's met 2GB geheugen worden duurder door ramcrisis</title>

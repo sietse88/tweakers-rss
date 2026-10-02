@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 02 Oct 2026 02:19:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 08:44:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nieuwsblog: kunnen AI's denken, of is dat vooral een semantische discussie?</title>
+    <link>https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252854</guid>
+    <pubDate>Fri, 02 Oct 2026 10:00:00 +0200</pubDate>
+    <description>Kan een llm denken? Is AI zelfbewust? Wat is zelfbewustzijn eigenlijk? Volgen we daarin de res cogitans van Descartes of is zelfbewustzijn meer de transcendentale apperceptie van Kant? Wees gerust: wij hebben geen idee en we gaan ook niet doen alsof we het weten. Wat we wél weten, is dat het nieuws over hackende AI-agents op de redactie tot veel discussie leidde.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Apple waagt zich met een thuishub aan een bijna verlaten markt</title>
+    <link>https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15382</guid>
+    <pubDate>Fri, 02 Oct 2026 09:30:00 +0200</pubDate>
+    <description>Apple zou binnen twee weken een 'HomePad' willen presenteren. Wat voor product wordt dat?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Beeld en geluid / Speakers</category>
+    <comments>https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Luisterboekendienst Fluister schrapt onbeperkt luisteren per 1 november</title>
+    <link>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252876</guid>
+    <pubDate>Fri, 02 Oct 2026 08:49:24 +0200</pubDate>
+    <description>Luisterboekendienst Fluister stopt per 1 november met zijn onbeperkte aanbod. Gebruikers krijgen iedere maand 'een nieuwe selectie boeken', die drie maanden beschikbaar blijft. De dienst blijft gratis voor abonnees van DPG Media. Losse Fluister-abonnementen worden goedkoper.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Overige audio</category>
+    <comments>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html#reacties</comments>
+  </item>
+  <item>
+    <title>Versio-storing blokkeert voor deel klanten al week DNS- en accountbeheer</title>
+    <link>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252872</guid>
+    <pubDate>Fri, 02 Oct 2026 07:56:59 +0200</pubDate>
+    <description>Hostingprovider Versio heeft al zeker een week last van een grote storing. 'Een deel' van de klanten heeft daardoor geen toegang tot het klantpaneel en het DNS-beheerpaneel. Daardoor kunnen klanten bijvoorbeeld geen storingen oplossen. Ook overstappen lukt niet.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Serversoftware</category>
+    <comments>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - FC 27 - Lekkere voetbalgame beleeft buggy start</title>
+    <link>https://tweakers.net/reviews/15380/fc-27-lekkere-voetbalgame-beleeft-buggy-start.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15380</guid>
+    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+    <description>FC 27 heeft alles om een heerlijke voetbalgame te zijn, maar bij release staan bugs het succes nog flink in de weg en dat is jammer.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15380/fc-27-lekkere-voetbalgame-beleeft-buggy-start.html#reacties</comments>
+  </item>
   <item>
     <title>The Division-studio Massive krijgt controle over Splinter Cell en Ghost Recon</title>
     <link>https://tweakers.net/nieuws/252866/the-division-studio-massive-krijgt-controle-over-splinter-cell-en-ghost-recon.html</link>

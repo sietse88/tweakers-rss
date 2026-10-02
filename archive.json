@@ -1399,6 +1399,16 @@
   "pubDate": "Thu, 01 Oct 2026 15:13:32 +0200",
   "title": "'EU onderzoekt Binance omdat het Europese klanten bedient zonder vergunning'"
  },
+ "https://tweakers.net/nieuws/252854": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html#reacties",
+  "description": "Kan een llm denken? Is AI zelfbewust? Wat is zelfbewustzijn eigenlijk? Volgen we daarin de res cogitans van Descartes of is zelfbewustzijn meer de transcendentale apperceptie van Kant? Wees gerust: wij hebben geen idee en we gaan ook niet doen alsof we het weten. Wat we wél weten, is dat het nieuws over hackende AI-agents op de redactie tot veel discussie leidde.",
+  "guid": "https://tweakers.net/nieuws/252854",
+  "link": "https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html",
+  "pubDate": "Fri, 02 Oct 2026 10:00:00 +0200",
+  "title": "Nieuwsblog: kunnen AI's denken, of is dat vooral een semantische discussie?"
+ },
  "https://tweakers.net/nieuws/252858": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / IT Pro / Politiek en recht",
@@ -1468,6 +1478,26 @@
   "link": "https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html",
   "pubDate": "Thu, 01 Oct 2026 19:41:43 +0200",
   "title": "PlayStation 5-basismodel krijgt AI-upscaler voor betere beeldkwaliteit"
+ },
+ "https://tweakers.net/nieuws/252872": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Serversoftware",
+  "comments": "https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html#reacties",
+  "description": "Hostingprovider Versio heeft al zeker een week last van een grote storing. 'Een deel' van de klanten heeft daardoor geen toegang tot het klantpaneel en het DNS-beheerpaneel. Daardoor kunnen klanten bijvoorbeeld geen storingen oplossen. Ook overstappen lukt niet.",
+  "guid": "https://tweakers.net/nieuws/252872",
+  "link": "https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html",
+  "pubDate": "Fri, 02 Oct 2026 07:56:59 +0200",
+  "title": "Versio-storing blokkeert voor deel klanten al week DNS- en accountbeheer"
+ },
+ "https://tweakers.net/nieuws/252876": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Beeld en geluid / Overige audio",
+  "comments": "https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html#reacties",
+  "description": "Luisterboekendienst Fluister stopt per 1 november met zijn onbeperkte aanbod. Gebruikers krijgen iedere maand 'een nieuwe selectie boeken', die drie maanden beschikbaar blijft. De dienst blijft gratis voor abonnees van DPG Media. Losse Fluister-abonnementen worden goedkoper.",
+  "guid": "https://tweakers.net/nieuws/252876",
+  "link": "https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html",
+  "pubDate": "Fri, 02 Oct 2026 08:49:24 +0200",
+  "title": "Luisterboekendienst Fluister schrapt onbeperkt luisteren per 1 november"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
@@ -1808,5 +1838,25 @@
   "link": "https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html",
   "pubDate": "Wed, 30 Sep 2026 16:00:00 +0200",
   "title": "Achtergrond - Massa's massaclaims: schrijf je vooral in, maar verwacht er niets van"
+ },
+ "https://tweakers.net/reviews/15380": {
+  "author": "Jurian Ubachs",
+  "category": "Review / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15380/fc-27-lekkere-voetbalgame-beleeft-buggy-start.html#reacties",
+  "description": "FC 27 heeft alles om een heerlijke voetbalgame te zijn, maar bij release staan bugs het succes nog flink in de weg en dat is jammer.",
+  "guid": "https://tweakers.net/reviews/15380",
+  "link": "https://tweakers.net/reviews/15380/fc-27-lekkere-voetbalgame-beleeft-buggy-start.html",
+  "pubDate": "Fri, 02 Oct 2026 06:00:00 +0200",
+  "title": "Review - FC 27 - Lekkere voetbalgame beleeft buggy start"
+ },
+ "https://tweakers.net/reviews/15382": {
+  "author": "Arnoud Wokke",
+  "category": "Achtergrond / Beeld en geluid / Speakers",
+  "comments": "https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html#reacties",
+  "description": "Apple zou binnen twee weken een 'HomePad' willen presenteren. Wat voor product wordt dat?",
+  "guid": "https://tweakers.net/reviews/15382",
+  "link": "https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html",
+  "pubDate": "Fri, 02 Oct 2026 09:30:00 +0200",
+  "title": "Achtergrond - Apple waagt zich met een thuishub aan een bijna verlaten markt"
  }
 }

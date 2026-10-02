@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 02 Oct 2026 08:44:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 15:05:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,96 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlander krijgt anderhalf jaar celstraf voor verkoop van GTA V-cheats</title>
+    <link>https://tweakers.net/nieuws/252894/nederlander-krijgt-anderhalf-jaar-celstraf-voor-verkoop-van-gta-v-cheats.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252894</guid>
+    <pubDate>Fri, 02 Oct 2026 16:19:11 +0200</pubDate>
+    <description>Een 25-jarige Nederlandse man is veroordeeld tot achttien maanden onvoorwaardelijke celstraf voor de verkoop van cheatsoftware voor Grand Theft Auto V. De man verkocht via eigen websites software waarmee gebruikers kunnen cheaten, servers laten crashen en bans omzeilen. Daarnaast verkocht de man gestolen gebruikersnamen en wachtwoorden van een miljoen accounts.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252894/nederlander-krijgt-anderhalf-jaar-celstraf-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
+  </item>
+  <item>
+    <title>VoetbalTV krijgt geen schadevergoeding ondanks veel te trage AP</title>
+    <link>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252888</guid>
+    <pubDate>Fri, 02 Oct 2026 15:04:25 +0200</pubDate>
+    <description>De Autoriteit Persoonsgegevens hoeft geen schadevergoeding te betalen aan VoetbalTV, terwijl dat platform failliet ging door een onterechte AVG-boete. VoetbalTV, onderdeel van uitgever Talpa, stelde dat het 25.000 euro misliep omdat de AP veel te lang deed over een boetebesluit. De rechter concludeert nu nogmaals dat de boete onterecht was, maar dat VoetbalTV zijn gemiste inkomsten niet kan bewijzen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html#reacties</comments>
+  </item>
+  <item>
+    <title>Android Central blijft publiceren ondanks ontslagen</title>
+    <link>https://tweakers.net/nieuws/252902/android-central-blijft-publiceren-ondanks-ontslagen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252902</guid>
+    <pubDate>Fri, 02 Oct 2026 14:52:25 +0200</pubDate>
+    <description>Android Central blijft artikelen publiceren. Uitgever Future ontsloeg eerder deze week alle zes de redacteuren. Daardoor leek de toekomst van de site in gevaar, maar Future bevestigt dat het doorgaat.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/252902/android-central-blijft-publiceren-ondanks-ontslagen.html#reacties</comments>
+  </item>
+  <item>
+    <title>DigiD is voor deel van gebruikers onbereikbaar door storing</title>
+    <link>https://tweakers.net/nieuws/252900/digid-is-voor-deel-van-gebruikers-onbereikbaar-door-storing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252900</guid>
+    <pubDate>Fri, 02 Oct 2026 14:04:28 +0200</pubDate>
+    <description>DigiD heeft last van een storing. De dienst is daardoor voor een deel van de gebruikers niet bereikbaar. Beheerder Logius erkent de problemen en zegt te werken aan een oplossing.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252900/digid-is-voor-deel-van-gebruikers-onbereikbaar-door-storing.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ook Raspberry Pi's met 2GB geheugen worden duurder door ramcrisis</title>
+    <link>https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252892</guid>
+    <pubDate>Fri, 02 Oct 2026 13:59:06 +0200</pubDate>
+    <description>Raspberry Pi verhoogt ook de prijzen van de 2GB-versies van de Raspberry Pi 4 en 5. De aanhoudende geheugencrisis raakt nu ook die modellen, nadat het bedrijf achter de singleboardcomputers eerder alleen de prijzen van modellen met meer geheugen verhoogde. Vooralsnog blijven de 1GB-modellen buiten schot.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Singleboardcomputers</category>
+    <comments>https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html#reacties</comments>
+  </item>
+  <item>
+    <title>Scarlet vergroot databundels van mobiele abonnementen met 5 tot 15GB</title>
+    <link>https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252896</guid>
+    <pubDate>Fri, 02 Oct 2026 13:56:09 +0200</pubDate>
+    <description>Scarlet heeft de databundels van zijn mobiele abonnementen uitgebreid. De Belgische provider heeft de prijzen niet veranderd. Verder krijgen klanten met een Cherry-abonnement 400 extra belminuten per maand, waardoor zij maandelijks 1000 minuten kunnen bellen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hans Anders stopt per direct met verkoop van Meta-brillen</title>
+    <link>https://tweakers.net/nieuws/252882/hans-anders-stopt-per-direct-met-verkoop-van-meta-brillen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252882</guid>
+    <pubDate>Fri, 02 Oct 2026 12:59:38 +0200</pubDate>
+    <description>De brillenketen Hans Anders is per direct gestopt met de verkoop van Meta-brillen vanwege de aanhoudende onrust over de privacyrisico's van de brillen. Daarnaast overwegen poppodia en het ministerie van Defensie een verbod op de brillen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252882/hans-anders-stopt-per-direct-met-verkoop-van-meta-brillen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bedrijf zegt iPhones te kunnen kraken die vergrendeld zijn via Inactivity Reboot</title>
+    <link>https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252886</guid>
+    <pubDate>Fri, 02 Oct 2026 11:56:35 +0200</pubDate>
+    <description>Een bedrijf zegt een manier te hebben gevonden om een hardnekkige beveiligingsfunctie in iPhones te omzeilen. Inactivity Reboot laat iPhones automatisch herstarten als ze 72 uur lang niet zijn ontgrendeld. Een net herstarte iPhone is moeilijker te kraken, maar forensisch onderzoeksbedrijf Magnet Forensics zegt dat toch te kunnen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html#reacties</comments>
+  </item>
+  <item>
+    <title>HP OmniBook 5 moet concurreren met MacBook Neo voor 100 euro meer</title>
+    <link>https://tweakers.net/nieuws/252880/hp-omnibook-5-moet-concurreren-met-macbook-neo-voor-100-euro-meer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252880</guid>
+    <pubDate>Fri, 02 Oct 2026 10:47:28 +0200</pubDate>
+    <description>HP heeft de OmniBook 5 getoond, een 14"-laptop met een Intel Wildcat Lake-soc. Hij moet op basis van zijn specificaties concurreren met de MacBook Neo. Wel kost het apparaat 100 euro meer: 899 euro. De OmniBook 5 heeft een oledscherm met een resolutie van 1920x1200 pixels.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252880/hp-omnibook-5-moet-concurreren-met-macbook-neo-voor-100-euro-meer.html#reacties</comments>
+  </item>
   <item>
     <title>Nieuwsblog: kunnen AI's denken, of is dat vooral een semantische discussie?</title>
     <link>https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html</link>
@@ -46,14 +136,14 @@
     <comments>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html#reacties</comments>
   </item>
   <item>
-    <title>Versio-storing blokkeert voor deel klanten al week DNS- en accountbeheer</title>
-    <link>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html</link>
+    <title>Versio-storing blokkeert voor deel klanten DNS- en accountbeheer - update</title>
+    <link>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-dns-en-accountbeheer.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252872</guid>
     <pubDate>Fri, 02 Oct 2026 07:56:59 +0200</pubDate>
     <description>Hostingprovider Versio heeft al zeker een week last van een grote storing. 'Een deel' van de klanten heeft daardoor geen toegang tot het klantpaneel en het DNS-beheerpaneel. Daardoor kunnen klanten bijvoorbeeld geen storingen oplossen. Ook overstappen lukt niet.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Serversoftware</category>
-    <comments>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-al-week-dns-en-accountbeheer.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-dns-en-accountbeheer.html#reacties</comments>
   </item>
   <item>
     <title>Review - FC 27 - Lekkere voetbalgame beleeft buggy start</title>

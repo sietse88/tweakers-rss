@@ -1689,6 +1689,26 @@
   "pubDate": "Fri, 02 Oct 2026 21:10:45 +0200",
   "title": "Google maakt Pixel 10a stilletjes 100 euro duurder"
  },
+ "https://tweakers.net/nieuws/252924": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Gaming / Consoles",
+  "comments": "https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html#reacties",
+  "description": "AMD's Adrenalin 26.9.2-driver bevat verwijzingen naar hardware die nog niet is uitgebracht. In de driver staan de codenamen ATlite3, AT2 en Gainsborough. Mogelijk gaat het onder meer om de gpu van de PlayStation 6 en de apu van de opvolger van de Steam Deck.",
+  "guid": "https://tweakers.net/nieuws/252924",
+  "link": "https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html",
+  "pubDate": "Sat, 03 Oct 2026 09:30:23 +0200",
+  "title": "'AMD-driver verwijst naar mogelijke gpu PS6 en apu Steam Deck 2'"
+ },
+ "https://tweakers.net/nieuws/252926": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html#reacties",
+  "description": "De Verenigde Staten hebben een man gearresteerd die ervan wordt beschuldigd voor meer dan 300 miljoen dollar aan computerservers naar China te hebben gesmokkeld. De servers zouden gpu's bevatten die in de VS zijn gemaakt en worden gebruikt voor 'superintelligentietoepassingen'.",
+  "guid": "https://tweakers.net/nieuws/252926",
+  "link": "https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html",
+  "pubDate": "Sat, 03 Oct 2026 10:12:08 +0200",
+  "title": "VS arresteren man voor smokkel van 300 miljoen dollar aan servers naar China"
+ },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
   "category": "Quicktest / Computers / Monitors",
@@ -2008,6 +2028,16 @@
   "link": "https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html",
   "pubDate": "Tue, 29 Sep 2026 18:00:00 +0200",
   "title": "Achtergrond - Schrijvers in actie tegen Meta: 'Ik wil mijn woorden terug'"
+ },
+ "https://tweakers.net/reviews/15370": {
+  "author": "Imre Himmelbauer",
+  "category": "Achtergrond / IT Pro / Software development",
+  "comments": "https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html#reacties",
+  "description": "De AI-bot Claude Mythos 5 wist eerder dit jaar malware te uploaden naar PyPI. Het grootste deel van zijn tijd besteedde het model aan captcha's. Kunnen captcha's zulke AI-aanvallen stoppen?",
+  "guid": "https://tweakers.net/reviews/15370",
+  "link": "https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html",
+  "pubDate": "Sat, 03 Oct 2026 06:00:00 +0200",
+  "title": "Achtergrond - Claude uploadde malware, maar worstelde eerst urenlang met captcha's"
  },
  "https://tweakers.net/reviews/15372": {
   "author": "Daan van Monsjou",

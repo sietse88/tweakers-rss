@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 03 Oct 2026 08:32:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 13:53:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Fusiebedrijf Paramount en Warner Bros. Discovery heet Skydance</title>
+    <link>https://tweakers.net/nieuws/252928/fusiebedrijf-paramount-en-warner-bros-discovery-heet-skydance.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252928</guid>
+    <pubDate>Sat, 03 Oct 2026 11:12:08 +0200</pubDate>
+    <description>Het nieuwe fusiebedrijf van Paramount en Warner Bros. Discovery gaat Skydance heten, maakt ceo David Ellison bekend. Hij noemt het bedrijf een 'thuis voor het vertellen van gedurfde, kwalitatieve verhalen'. Het bedrijf voert de wijziging door op 6 oktober, als de overname van Warner Bros. Discovery officieel is afgerond.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/252928/fusiebedrijf-paramount-en-warner-bros-discovery-heet-skydance.html#reacties</comments>
+  </item>
   <item>
     <title>VS arresteren man voor smokkel van 300 miljoen dollar aan servers naar China</title>
     <link>https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html</link>

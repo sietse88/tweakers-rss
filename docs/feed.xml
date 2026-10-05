@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 05 Oct 2026 16:11:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 22:45:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Huawei en Qualcomm sluiten meerjarige patentdeal voor 5G en AI</title>
+    <link>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252988</guid>
+    <pubDate>Mon, 05 Oct 2026 20:39:43 +0200</pubDate>
+    <description>Huawei en Qualcomm zijn een brede, meerjarige patentovereenkomst aangegaan. Met de deal krijgen de bedrijven toegang tot elkaars patentportfolio's voor bijvoorbeeld 5G, AI en netwerken.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html#reacties</comments>
+  </item>
+  <item>
+    <title>Fout in Dolby Digital-decoder van Windows 11 laat apps en games crashen</title>
+    <link>https://tweakers.net/nieuws/252984/fout-in-dolby-digital-decoder-van-windows-11-laat-apps-en-games-crashen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252984</guid>
+    <pubDate>Mon, 05 Oct 2026 19:30:53 +0200</pubDate>
+    <description>Windows 11 heeft een probleem met de ingebouwde Dolby Digital-decoder. Bij sommige gebruikers leidt dat ertoe dat apps en games crashen. Microsoft zegt te werken aan een oplossing.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252984/fout-in-dolby-digital-decoder-van-windows-11-laat-apps-en-games-crashen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gratis Gemini-gebruikers verliezen toegang tot Flash- en Pro-modellen</title>
+    <link>https://tweakers.net/nieuws/252982/gratis-gemini-gebruikers-verliezen-toegang-tot-flash-en-pro-modellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252982</guid>
+    <pubDate>Mon, 05 Oct 2026 18:57:27 +0200</pubDate>
+    <description>Gratis gebruikers van Gemini hebben vanaf 9 oktober geen toegang meer tot de Flash- en Pro-modellen. Dat blijkt uit een geüpdatet ondersteuningsdocument van Google. Zij kunnen dan alleen nog het Flash-Lite-model gebruiken.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/252982/gratis-gemini-gebruikers-verliezen-toegang-tot-flash-en-pro-modellen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kabinet wil mobieltjes vanaf 2027 hele schooldag weren op scholen</title>
+    <link>https://tweakers.net/nieuws/252980/kabinet-wil-mobieltjes-vanaf-2027-hele-schooldag-weren-op-scholen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252980</guid>
+    <pubDate>Mon, 05 Oct 2026 18:24:49 +0200</pubDate>
+    <description>Het Nederlandse kabinet wil dat alle scholen vanaf 1 januari 2027 het gebruik van mobieltjes op school weren. Op veel scholen mogen leerlingen hun telefoon niet meenemen de klas in. Het kabinet stelt nu een aangescherpte afspraak voor, waarbij telefoons ook niet meer in de pauze, in de aula of op het schoolplein gebruikt mogen worden.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/252980/kabinet-wil-mobieltjes-vanaf-2027-hele-schooldag-weren-op-scholen.html#reacties</comments>
+  </item>
   <item>
     <title>RDI verlaagt Odido-boete van 1,5 miljoen uit 2025 met 50.000 euro</title>
     <link>https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html</link>

@@ -1533,7 +1533,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
   "comments": "https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html#reacties",
-  "description": "Een bedrijf zegt een manier te hebben gevonden om een hardnekkige beveiligingsfunctie in iPhones te omzeilen. Inactivity Reboot laat iPhones automatisch herstarten als ze 72 uur lang niet zijn ontgrendeld. Een net herstarte iPhone is moeilijker te kraken, maar forensisch onderzoeksbedrijf Magnet Forensics zegt dat toch te kunnen.",
+  "description": "Een bedrijf zegt een manier te hebben gevonden om een hardnekkige beveiligingsfunctie in iPhones te omzeilen. Inactivity Reboot laat iPhones automatisch herstarten als ze 72 uur lang niet zijn ontgrendeld. Een net herstarte iPhone is moeilijker te kraken, maar forensischonderzoeksbedrijf Magnet Forensics zegt dat toch te kunnen.",
   "guid": "https://tweakers.net/nieuws/252886",
   "link": "https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html",
   "pubDate": "Fri, 02 Oct 2026 11:56:35 +0200",
@@ -1778,6 +1778,16 @@
   "link": "https://tweakers.net/nieuws/252946/youtube-shorts-gaat-minder-gestolen-content-aanraden.html",
   "pubDate": "Sun, 04 Oct 2026 12:43:02 +0200",
   "title": "YouTube Shorts gaat minder gestolen content aanraden"
+ },
+ "https://tweakers.net/nieuws/252950": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html#reacties",
+  "description": "Android Headlines heeft afbeeldingen en details van de onaangekondigde Google Fitbit Edge gepubliceerd. Het apparaat krijgt een klein scherm, maar minder functies dan een volwaardige smartwatch. Vermoedelijk komt de Fitbit Edge binnenkort uit.",
+  "guid": "https://tweakers.net/nieuws/252950",
+  "link": "https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html",
+  "pubDate": "Mon, 05 Oct 2026 08:15:50 +0200",
+  "title": "Renders tonen Fitbit Edge-fitnesstracker met klein scherm en 7 dagen accuduur"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
@@ -2128,6 +2138,16 @@
   "link": "https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html",
   "pubDate": "Wed, 30 Sep 2026 16:00:00 +0200",
   "title": "Achtergrond - Massa's massaclaims: schrijf je vooral in, maar verwacht er niets van"
+ },
+ "https://tweakers.net/reviews/15376": {
+  "author": "Jasper Bakker",
+  "category": "Achtergrond / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/reviews/15376/vijf-jaar-windows-11-valt-er-wat-te-vieren.html#reacties",
+  "description": "Windows 11 is alweer vijf jaar op de markt, zonder zicht op een volgende versie. Windows 11 lijkt te blijven, nu echt. Is de vijfde verjaardag reden voor een feestje?",
+  "guid": "https://tweakers.net/reviews/15376",
+  "link": "https://tweakers.net/reviews/15376/vijf-jaar-windows-11-valt-er-wat-te-vieren.html",
+  "pubDate": "Mon, 05 Oct 2026 06:00:00 +0200",
+  "title": "Achtergrond - Vijf jaar Windows 11: valt er wat te vieren?"
  },
  "https://tweakers.net/reviews/15380": {
   "author": "Jurian Ubachs",

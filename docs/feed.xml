@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 05 Oct 2026 01:14:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 07:11:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Vijf jaar Windows 11: valt er wat te vieren?</title>
+    <link>https://tweakers.net/reviews/15376/vijf-jaar-windows-11-valt-er-wat-te-vieren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15376</guid>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Windows 11 is alweer vijf jaar op de markt, zonder zicht op een volgende versie. Windows 11 lijkt te blijven, nu echt. Is de vijfde verjaardag reden voor een feestje?</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Achtergrond / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/reviews/15376/vijf-jaar-windows-11-valt-er-wat-te-vieren.html#reacties</comments>
+  </item>
   <item>
     <title>Tuta brengt plug-in uit voor integratie met Nextcloud</title>
     <link>https://tweakers.net/nieuws/252942/tuta-brengt-plug-in-uit-voor-integratie-met-nextcloud.html</link>
@@ -250,7 +260,7 @@
     <link>https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252886</guid>
     <pubDate>Fri, 02 Oct 2026 11:56:35 +0200</pubDate>
-    <description>Een bedrijf zegt een manier te hebben gevonden om een hardnekkige beveiligingsfunctie in iPhones te omzeilen. Inactivity Reboot laat iPhones automatisch herstarten als ze 72 uur lang niet zijn ontgrendeld. Een net herstarte iPhone is moeilijker te kraken, maar forensisch onderzoeksbedrijf Magnet Forensics zegt dat toch te kunnen.</description>
+    <description>Een bedrijf zegt een manier te hebben gevonden om een hardnekkige beveiligingsfunctie in iPhones te omzeilen. Inactivity Reboot laat iPhones automatisch herstarten als ze 72 uur lang niet zijn ontgrendeld. Een net herstarte iPhone is moeilijker te kraken, maar forensischonderzoeksbedrijf Magnet Forensics zegt dat toch te kunnen.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252886/bedrijf-zegt-iphones-te-kunnen-kraken-die-vergrendeld-zijn-via-inactivity-reboot.html#reacties</comments>

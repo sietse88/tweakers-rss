@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 05 Oct 2026 07:11:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 16:11:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>RDI verlaagt Odido-boete van 1,5 miljoen uit 2025 met 50.000 euro</title>
+    <link>https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252978</guid>
+    <pubDate>Mon, 05 Oct 2026 17:12:10 +0200</pubDate>
+    <description>De boete die Odido vorig jaar van de Nederlandse toezichthouder Rijksinspectie Digitale Infrastructuur (RDI) kreeg, blijft grotendeels in stand. Odido kreeg die boete vorig jaar vanwege de slechte beveiliging van het aftapsysteem. Na bezwaren van het bedrijf wordt de boete nu met 50.000 euro verlaagd. De boete staat los van de Odido-hack eerder dit jaar.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>OpenAI gaat ChatGPT-advertenties met afbeeldingen tonen, voorlopig alleen in VS</title>
+    <link>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252974</guid>
+    <pubDate>Mon, 05 Oct 2026 16:02:52 +0200</pubDate>
+    <description>OpenAI gaat afbeeldingen van gesponsorde producten en diensten in ChatGPT tonen. De AI-maker begint binnenkort met een test van dit soort visuele advertenties, al is dat voorlopig alleen in de Verenigde Staten. Of en wanneer het bedrijf ze breder uitrolt, is nog niet bekend.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlands betaalbedrijf Mollie komt met iDEAL-concurrent Pay by Bank</title>
+    <link>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252964</guid>
+    <pubDate>Mon, 05 Oct 2026 15:04:12 +0200</pubDate>
+    <description>Betaalbedrijf Mollie komt met een eigen alternatief voor iDEAL en zijn opvolger Wero. Met Pay by Bank kunnen gebruikers direct via hun bankrekening betalen bij online aankopen. De dienst biedt geen kopersbescherming.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Vijf jaar Windows 11: valt er wat te vieren?</title>
     <link>https://tweakers.net/reviews/15376/vijf-jaar-windows-11-valt-er-wat-te-vieren.html</link>
@@ -56,11 +86,11 @@
     <comments>https://tweakers.net/nieuws/252940/in-jordanie-opgepakt-shinyhunters-lid-zou-helpen-andere-leden-op-te-sporen.html#reacties</comments>
   </item>
   <item>
-    <title>Sony maakt CMOS-batterij makkelijk te vervangen in revisie PS5 Slim</title>
+    <title>Sony maakt cmos-batterij makkelijk te vervangen in revisie PS5 Slim</title>
     <link>https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252938</guid>
     <pubDate>Sun, 04 Oct 2026 11:25:00 +0200</pubDate>
-    <description>De onlangs uitgekomen Wolverine-versie van de Sony PlayStation 5 Slim blijkt intern te zijn aangepast ten opzichte van eerdere PS5 Slim-modellen. Een opvallende upgrade is dat de CMOS-batterij nu makkelijker te vervangen is.</description>
+    <description>De onlangs uitgekomen Wolverine-versie van de Sony PlayStation 5 Slim blijkt intern te zijn aangepast ten opzichte van eerdere PS5 Slim-modellen. Een opvallende upgrade is dat de cmos-batterij nu makkelijker te vervangen is.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html#reacties</comments>

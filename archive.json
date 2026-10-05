@@ -1,4 +1,24 @@
 {
+ "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet": {
+  "author": "Eric van Ballegoie",
+  "category": "Explainer / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet#reacties",
+  "description": "Met de ecg-functie van je smartwatch leg je je hartritme vast. Lees wat de uitslag wel en niet zegt en waarom een normale meting hartproblemen niet uitsluit.",
+  "guid": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet",
+  "link": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet",
+  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
+  "title": "Explainer - Wat de ecg-functie van je smartwatch wel en niet meet"
+ },
+ "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is": {
+  "author": "Eric van Ballegoie",
+  "category": "Explainer / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is#reacties",
+  "description": "Veel smartwatches meten je SpO₂, oftewel je zuurstofsaturatie. Wat betekent een waarde tussen 95 en 100 procent, hoe betrouwbaar is die en wanneer heb je er iets aan?",
+  "guid": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is",
+  "link": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is",
+  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
+  "title": "Explainer - Wat de SpO₂-waarde op je smartwatch betekent en wanneer die nuttig is"
+ },
  "https://tweakers.net/nieuws/252442": {
   "author": "Friso Weijers",
   "category": "Nieuws / Tablets en telefoons / Tablets",
@@ -1743,11 +1763,11 @@
   "author": "Arnoud Wokke",
   "category": "Nieuws / Gaming / Consoles",
   "comments": "https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html#reacties",
-  "description": "De onlangs uitgekomen Wolverine-versie van de Sony PlayStation 5 Slim blijkt intern te zijn aangepast ten opzichte van eerdere PS5 Slim-modellen. Een opvallende upgrade is dat de CMOS-batterij nu makkelijker te vervangen is.",
+  "description": "De onlangs uitgekomen Wolverine-versie van de Sony PlayStation 5 Slim blijkt intern te zijn aangepast ten opzichte van eerdere PS5 Slim-modellen. Een opvallende upgrade is dat de cmos-batterij nu makkelijker te vervangen is.",
   "guid": "https://tweakers.net/nieuws/252938",
   "link": "https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html",
   "pubDate": "Sun, 04 Oct 2026 11:25:00 +0200",
-  "title": "Sony maakt CMOS-batterij makkelijk te vervangen in revisie PS5 Slim"
+  "title": "Sony maakt cmos-batterij makkelijk te vervangen in revisie PS5 Slim"
  },
  "https://tweakers.net/nieuws/252940": {
   "author": "Arnoud Wokke",
@@ -1779,6 +1799,16 @@
   "pubDate": "Sun, 04 Oct 2026 12:43:02 +0200",
   "title": "YouTube Shorts gaat minder gestolen content aanraden"
  },
+ "https://tweakers.net/nieuws/252948": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252948/hackers-zetten-data-700000-mensen-gratis-online-na-hack-waals-onderwijsnetwerk.html#reacties",
+  "description": "Hackers hebben de persoonsgegevens van 700.000 mensen gratis online gezet, meldt een datalektracker. Ze zijn afkomstig uit een database van het Waalse opleidingsnetwerk Ifapme. Daaronder vallen ook gevoelige gegevens, zoals rijksregisternummers.",
+  "guid": "https://tweakers.net/nieuws/252948",
+  "link": "https://tweakers.net/nieuws/252948/hackers-zetten-data-700000-mensen-gratis-online-na-hack-waals-onderwijsnetwerk.html",
+  "pubDate": "Mon, 05 Oct 2026 09:23:01 +0200",
+  "title": "Hackers zetten data 700.000 mensen gratis online na hack Waals onderwijsnetwerk"
+ },
  "https://tweakers.net/nieuws/252950": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Tablets en telefoons / Smartwatches",
@@ -1788,6 +1818,106 @@
   "link": "https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html",
   "pubDate": "Mon, 05 Oct 2026 08:15:50 +0200",
   "title": "Renders tonen Fitbit Edge-fitnesstracker met klein scherm en 7 dagen accuduur"
+ },
+ "https://tweakers.net/nieuws/252954": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html#reacties",
+  "description": "'Onbevoegde gebruikers' hebben toegang gekregen tot het persoonsregister van Denemarken. Daarbij konden zij de gegevens van 8,8 miljoen inwoners inzien, bevestigt de Deense overheid in een verklaring.",
+  "guid": "https://tweakers.net/nieuws/252954",
+  "link": "https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html",
+  "pubDate": "Mon, 05 Oct 2026 10:37:09 +0200",
+  "title": "'Onbevoegden' hadden toegang tot gegevens 8,8 miljoen inwoners Denemarken"
+ },
+ "https://tweakers.net/nieuws/252956": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / Smartglasses",
+  "comments": "https://tweakers.net/nieuws/252956/noorse-regering-wil-camerabrillen-tijdelijk-weren-op-drukke-openbare-plekken.html#reacties",
+  "description": "De regering van Noorwegen wil een tijdelijk verbod op camerabrillen op sommige openbare plekken. Dat meldt persbureau Reuters. Het zou gaan om een verbod op bepaalde drukke plaatsen en mogelijk ook op scholen, speeltuinen en andere privacygevoelige plekken.",
+  "guid": "https://tweakers.net/nieuws/252956",
+  "link": "https://tweakers.net/nieuws/252956/noorse-regering-wil-camerabrillen-tijdelijk-weren-op-drukke-openbare-plekken.html",
+  "pubDate": "Mon, 05 Oct 2026 11:23:22 +0200",
+  "title": "Noorse regering wil camerabrillen tijdelijk weren op drukke openbare plekken"
+ },
+ "https://tweakers.net/nieuws/252958": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Videokaarten",
+  "comments": "https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html#reacties",
+  "description": "Vince Lucido, ook wel bekend als Kingpin, gaat weer extreem overklokken. De professionele overklokker was vooral bekend om zijn werk met EVGA, maar stopte toen die fabrikant uit de gpu-markt stapte. Nu lijkt hij aan de slag te gaan met ASUS, al zijn die plannen nog vaag.",
+  "guid": "https://tweakers.net/nieuws/252958",
+  "link": "https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html",
+  "pubDate": "Mon, 05 Oct 2026 12:58:35 +0200",
+  "title": "Voormalig EVGA-overklokker Kingpin keert terug en hint op samenwerking met ASUS"
+ },
+ "https://tweakers.net/nieuws/252964": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html#reacties",
+  "description": "Betaalbedrijf Mollie komt met een eigen alternatief voor iDEAL en zijn opvolger Wero. Met Pay by Bank kunnen gebruikers direct via hun bankrekening betalen bij online aankopen. De dienst biedt geen kopersbescherming.",
+  "guid": "https://tweakers.net/nieuws/252964",
+  "link": "https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html",
+  "pubDate": "Mon, 05 Oct 2026 15:04:12 +0200",
+  "title": "Nederlands betaalbedrijf Mollie komt met iDEAL-concurrent Pay by Bank"
+ },
+ "https://tweakers.net/nieuws/252966": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html#reacties",
+  "description": "Citrix heeft patches uitgebracht voor een actief misbruikte kwetsbaarheid in NetScaler ADC en NetScaler Gateway. Het lek kan leiden tot denial-of-serviceaanvallen, waardoor een dienst onbeschikbaar wordt.",
+  "guid": "https://tweakers.net/nieuws/252966",
+  "link": "https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html",
+  "pubDate": "Mon, 05 Oct 2026 14:57:17 +0200",
+  "title": "Citrix dicht actief misbruikt dos-lek in NetScaler"
+ },
+ "https://tweakers.net/nieuws/252970": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Tablets en telefoons / E-readers",
+  "comments": "https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html#reacties",
+  "description": "PocketBook introduceert twee nieuwe e-readers, de Verta en Verta Color. Beide apparaten hebben een 6\"-scherm en zijn vanaf november verkrijgbaar. De Verta krijgt een adviesprijs van 169 euro. De adviesprijs van de Verta Color ligt tien euro hoger, op 179 euro.",
+  "guid": "https://tweakers.net/nieuws/252970",
+  "link": "https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html",
+  "pubDate": "Mon, 05 Oct 2026 15:50:06 +0200",
+  "title": "PocketBook brengt Verta en Verta Color in november uit vanaf 169 euro"
+ },
+ "https://tweakers.net/nieuws/252972": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html#reacties",
+  "description": "Gebruikers van de Android-versie van Microsoft Authenticator kunnen vanaf 2027 geen Microsoft-account meer gebruiken om hun tweestapsverificatie te back-uppen. Microsoft zegt dat gebruikers dat alleen nog via Google kunnen doen. Het bedrijf geeft daar geen verklaring voor.",
+  "guid": "https://tweakers.net/nieuws/252972",
+  "link": "https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html",
+  "pubDate": "Mon, 05 Oct 2026 15:55:48 +0200",
+  "title": "Microsoft Authenticator kan vanaf 2027 niet meer via Microsoft geback-upt worden"
+ },
+ "https://tweakers.net/nieuws/252974": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html#reacties",
+  "description": "OpenAI gaat afbeeldingen van gesponsorde producten en diensten in ChatGPT tonen. De AI-maker begint binnenkort met een test van dit soort visuele advertenties, al is dat voorlopig alleen in de Verenigde Staten. Of en wanneer het bedrijf ze breder uitrolt, is nog niet bekend.",
+  "guid": "https://tweakers.net/nieuws/252974",
+  "link": "https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html",
+  "pubDate": "Mon, 05 Oct 2026 16:02:52 +0200",
+  "title": "OpenAI gaat ChatGPT-advertenties met afbeeldingen tonen, voorlopig alleen in VS"
+ },
+ "https://tweakers.net/nieuws/252976": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html#reacties",
+  "description": "Het Belgische Belnet heeft een beveiligings- en privacyincident vastgesteld binnen zijn IT-infrastructuur. Belnet voorziet Belgische onderwijsinstellingen, onderzoekscentra en overheidsdiensten van netwerk. Aanvallers kregen daarbij mogelijk toegang tot bestanden die via FileSender en FedSender verstuurd zijn. Ze onderschepten ook e-mails naar domeinen van Belnet en verplaatsten die naar externe infrastructuur.",
+  "guid": "https://tweakers.net/nieuws/252976",
+  "link": "https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html",
+  "pubDate": "Mon, 05 Oct 2026 16:37:38 +0200",
+  "title": "Aanvallers hadden twee maanden toegang tot downloadlinks van Belnet"
+ },
+ "https://tweakers.net/nieuws/252978": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html#reacties",
+  "description": "De boete die Odido vorig jaar van de Nederlandse toezichthouder Rijksinspectie Digitale Infrastructuur (RDI) kreeg, blijft grotendeels in stand. Odido kreeg die boete vorig jaar vanwege de slechte beveiliging van het aftapsysteem. Na bezwaren van het bedrijf wordt de boete nu met 50.000 euro verlaagd. De boete staat los van de Odido-hack eerder dit jaar.",
+  "guid": "https://tweakers.net/nieuws/252978",
+  "link": "https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html",
+  "pubDate": "Mon, 05 Oct 2026 17:12:10 +0200",
+  "title": "RDI verlaagt Odido-boete van 1,5 miljoen uit 2025 met 50.000 euro"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
@@ -2168,5 +2298,15 @@
   "link": "https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html",
   "pubDate": "Fri, 02 Oct 2026 09:30:00 +0200",
   "title": "Achtergrond - Apple waagt zich met een thuishub aan een bijna verlaten markt"
+ },
+ "https://tweakers.net/reviews/15414": {
+  "author": "Yannick Spinner",
+  "category": "Achtergrond / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html#reacties",
+  "description": "ShinyHunters staat de laatste tijd onder druk. Wie zit er achter deze notoire ransomwarebende?",
+  "guid": "https://tweakers.net/reviews/15414",
+  "link": "https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html",
+  "pubDate": "Mon, 05 Oct 2026 16:30:00 +0200",
+  "title": "Achtergrond - ShinyHunters wankelt: wie zijn de hackers achter het Odido-datalek?"
  }
 }

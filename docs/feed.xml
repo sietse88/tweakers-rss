@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 06 Oct 2026 09:23:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 16:14:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,86 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Overname Warner Bros. door Paramount is rond: HBO Max en Paramount+ gaan fuseren</title>
+    <link>https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253022</guid>
+    <pubDate>Tue, 06 Oct 2026 17:29:23 +0200</pubDate>
+    <description>Paramount Skydance is officieel eigenaar van Warner Bros. Discovery. Het nieuwe moederbedrijf heet Skydance. Met de megaovername is dik 111 miljard dollar gemoeid. Het fusiebedrijf wil zijn twee streamingdiensten, HBO Max en Paramount+, gaan samenvoegen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kabinet neemt geen extra maatregelen om te voorkomen dat zorgdata in VS belandt</title>
+    <link>https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253020</guid>
+    <pubDate>Tue, 06 Oct 2026 16:26:51 +0200</pubDate>
+    <description>De Nederlandse regering is niet van plan om extra maatregelen te nemen om te voorkomen dat zorgdata bij Amerikaanse leveranciers terechtkomt. Amerikaanse partijen zouden in het kader van de Cloud Act patiëntgegevens van Nederlanders kunnen overdragen aan de Amerikaanse regering.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Preview - Nintendo Switch Sports Resort - Ouderwetse Wii-pret op Switch 2</title>
+    <link>https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15412</guid>
+    <pubDate>Tue, 06 Oct 2026 15:00:00 +0200</pubDate>
+    <description>Nintendo Switch Sports Resort brengt de lol van het aloude Wii Sports Resort naar de Switch 2 en doet dat met wisselend succes per minigame.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Preview / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlanders vinden onafhankelijk van elkaar zelfde lek in OpenOffice</title>
+    <link>https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253018</guid>
+    <pubDate>Tue, 06 Oct 2026 14:55:49 +0200</pubDate>
+    <description>Nederlandse beveiligingsonderzoekers hebben een lek ontdekt in Apache OpenOffice dat ertoe kan leiden dat een aanvaller een heel systeem kan overnemen. Een update die het lek verhelpt is onderweg en is nu een release candidate.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Overige software</category>
+    <comments>https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html#reacties</comments>
+  </item>
+  <item>
+    <title>VK denkt dat Meta risico's van nieuwe Instagram-functie niet heeft onderzocht</title>
+    <link>https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253012</guid>
+    <pubDate>Tue, 06 Oct 2026 14:46:11 +0200</pubDate>
+    <description>De Britse communicatietoezichthouder Ofcom start een formeel onderzoek naar Meta. Het bedrijf zou de Online Safety Act schenden met de Snapchat-achtige Instants-functie voor Instagram. Volgens die wet moeten techbedrijven eerst zorgvuldig de risico's van nieuwe functies in kaart brengen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html#reacties</comments>
+  </item>
+  <item>
+    <title>Amazon werkt aan fix voor bug waarbij Alexa minutenlang 'lalala' zingt</title>
+    <link>https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253016</guid>
+    <pubDate>Tue, 06 Oct 2026 14:31:16 +0200</pubDate>
+    <description>Amazon is bezig met een fix voor Alexa, waarbij de AI-assistent midden in een gesprek 'lalala' zegt of zingt. Volgens het bedrijf gaat het om een softwarefout die een klein aantal klanten heeft getroffen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Darkwebsite biedt 'afperspakketten' met naaktfoto's van vrouwen uit NL en BE</title>
+    <link>https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253006</guid>
+    <pubDate>Tue, 06 Oct 2026 13:46:24 +0200</pubDate>
+    <description>Er is een darkwebsite waar gebruikers 'afperspakketten' kunnen kopen met naaktfoto's en gegevens van enkele honderden vrouwen uit Nederland en België, zo melden RTL Nieuws en VTM. Dat gebeurde niet eerder op deze manier.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html#reacties</comments>
+  </item>
+  <item>
+    <title>Belastingdienst stopt Microsoft-cloudmigratie en kiest eigen servers</title>
+    <link>https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253004</guid>
+    <pubDate>Tue, 06 Oct 2026 11:35:57 +0200</pubDate>
+    <description>De Nederlandse Belastingdienst stopt met de migratie naar de Microsoft 365-cloud. In plaats daarvan draaien mail en agenda via Microsoft-diensten op eigen servers en kijkt de Belastingdienst voor andere diensten naar Europese open source alternatieven.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html#reacties</comments>
+  </item>
   <item>
     <title>OpenAI geeft ChatGPT-teksten in EU standaard onzichtbaar watermerk</title>
     <link>https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html</link>

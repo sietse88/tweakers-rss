@@ -9,6 +9,16 @@
   "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
   "title": "Explainer - Hoe hrv op je smartwatch belasting en herstel inschat"
  },
+ "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten": {
+  "author": "Eric van Ballegoie",
+  "category": "Explainer / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten#reacties",
+  "description": "Dualband-gps gebruikt twee frequenties om je locatie nauwkeuriger te bepalen, vooral tussen hoge gebouwen. Toch blijven ook de antenne en software bepalend.",
+  "guid": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten",
+  "link": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten",
+  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
+  "title": "Explainer - Waarom dualband-gps je route nauwkeuriger kan meten"
+ },
  "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet": {
   "author": "Eric van Ballegoie",
   "category": "Explainer / Tablets en telefoons / Smartwatches",
@@ -2029,6 +2039,116 @@
   "pubDate": "Tue, 06 Oct 2026 10:22:09 +0200",
   "title": "Google: niet alle Android-apps werken goed op Googlebooks met Intel-processors"
  },
+ "https://tweakers.net/nieuws/253000": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Laptops",
+  "comments": "https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html#reacties",
+  "description": "De ontwikkelaar van Magisk, John Wu, werkt aan een manier om Googlebook-laptops te rooten. Dat heeft hij laten weten. De laptops, die vanaf deze week uitkomen, hebben een ontgrendelbare bootloader.",
+  "guid": "https://tweakers.net/nieuws/253000",
+  "link": "https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html",
+  "pubDate": "Tue, 06 Oct 2026 12:26:59 +0200",
+  "title": "Magisk-ontwikkelaar werkt aan rootmethode voor Googlebook-laptops"
+ },
+ "https://tweakers.net/nieuws/253002": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html#reacties",
+  "description": "Samsung heeft de prijzen van Galaxy A-telefoons in de eigen webwinkel verhoogd. Dat is gebeurd in Nederland en België. De Galaxy A57 5G gaat van 529 euro naar 579 euro. De A37 5G gaat van 429 euro naar 469 euro.",
+  "guid": "https://tweakers.net/nieuws/253002",
+  "link": "https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html",
+  "pubDate": "Tue, 06 Oct 2026 11:28:18 +0200",
+  "title": "Samsung maakt Galaxy A-telefoons stilletjes tot 30 procent duurder"
+ },
+ "https://tweakers.net/nieuws/253004": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html#reacties",
+  "description": "De Nederlandse Belastingdienst stopt met de migratie naar de Microsoft 365-cloud. In plaats daarvan draaien mail en agenda via Microsoft-diensten op eigen servers en kijkt de Belastingdienst voor andere diensten naar Europese open source alternatieven.",
+  "guid": "https://tweakers.net/nieuws/253004",
+  "link": "https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html",
+  "pubDate": "Tue, 06 Oct 2026 11:35:57 +0200",
+  "title": "Belastingdienst stopt Microsoft-cloudmigratie en kiest eigen servers"
+ },
+ "https://tweakers.net/nieuws/253006": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Internet",
+  "comments": "https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html#reacties",
+  "description": "Er is een darkwebsite waar gebruikers 'afperspakketten' kunnen kopen met naaktfoto's en gegevens van enkele honderden vrouwen uit Nederland en België, zo melden RTL Nieuws en VTM. Dat gebeurde niet eerder op deze manier.",
+  "guid": "https://tweakers.net/nieuws/253006",
+  "link": "https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html",
+  "pubDate": "Tue, 06 Oct 2026 13:46:24 +0200",
+  "title": "Darkwebsite biedt 'afperspakketten' met naaktfoto's van vrouwen uit NL en BE"
+ },
+ "https://tweakers.net/nieuws/253008": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html#reacties",
+  "description": "De kledingsite ASOS is mogelijk gehackt. Klanten ontvingen een pushmelding die vermoedelijk van hackers afkomstig is. Daarin beweren ze bedrijfsgegevens te hebben gestolen via een extern bedrijf en dreigen ze die te lekken.",
+  "guid": "https://tweakers.net/nieuws/253008",
+  "link": "https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html",
+  "pubDate": "Tue, 06 Oct 2026 13:47:31 +0200",
+  "title": "Kledingwinkel ASOS lijkt te zijn gehackt: klanten ontvangen dreigende melding"
+ },
+ "https://tweakers.net/nieuws/253012": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html#reacties",
+  "description": "De Britse communicatietoezichthouder Ofcom start een formeel onderzoek naar Meta. Het bedrijf zou de Online Safety Act schenden met de Snapchat-achtige Instants-functie voor Instagram. Volgens die wet moeten techbedrijven eerst zorgvuldig de risico's van nieuwe functies in kaart brengen.",
+  "guid": "https://tweakers.net/nieuws/253012",
+  "link": "https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html",
+  "pubDate": "Tue, 06 Oct 2026 14:46:11 +0200",
+  "title": "VK denkt dat Meta risico's van nieuwe Instagram-functie niet heeft onderzocht"
+ },
+ "https://tweakers.net/nieuws/253014": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html#reacties",
+  "description": "Garmin heeft de Enduro 4 aangekondigd, een smartwatch met een accuduur van maximaal drie maanden. De nieuwe versie heeft onder meer een grotere opslagcapaciteit van 64GB. Desondanks komt het horloge uit voor dezelfde prijs als de voorganger.",
+  "guid": "https://tweakers.net/nieuws/253014",
+  "link": "https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html",
+  "pubDate": "Tue, 06 Oct 2026 14:17:51 +0200",
+  "title": "Garmin verdubbelt opslag Enduro 4 met lange accuduur en verhoogt prijs niet"
+ },
+ "https://tweakers.net/nieuws/253016": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Software",
+  "comments": "https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html#reacties",
+  "description": "Amazon is bezig met een fix voor Alexa, waarbij de AI-assistent midden in een gesprek 'lalala' zegt of zingt. Volgens het bedrijf gaat het om een softwarefout die een klein aantal klanten heeft getroffen.",
+  "guid": "https://tweakers.net/nieuws/253016",
+  "link": "https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html",
+  "pubDate": "Tue, 06 Oct 2026 14:31:16 +0200",
+  "title": "Amazon werkt aan fix voor bug waarbij Alexa minutenlang 'lalala' zingt"
+ },
+ "https://tweakers.net/nieuws/253018": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Overige software",
+  "comments": "https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html#reacties",
+  "description": "Nederlandse beveiligingsonderzoekers hebben een lek ontdekt in Apache OpenOffice dat ertoe kan leiden dat een aanvaller een heel systeem kan overnemen. Een update die het lek verhelpt is onderweg en is nu een release candidate.",
+  "guid": "https://tweakers.net/nieuws/253018",
+  "link": "https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html",
+  "pubDate": "Tue, 06 Oct 2026 14:55:49 +0200",
+  "title": "Nederlanders vinden onafhankelijk van elkaar zelfde lek in OpenOffice"
+ },
+ "https://tweakers.net/nieuws/253020": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html#reacties",
+  "description": "De Nederlandse regering is niet van plan om extra maatregelen te nemen om te voorkomen dat zorgdata bij Amerikaanse leveranciers terechtkomt. Amerikaanse partijen zouden in het kader van de Cloud Act patiëntgegevens van Nederlanders kunnen overdragen aan de Amerikaanse regering.",
+  "guid": "https://tweakers.net/nieuws/253020",
+  "link": "https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html",
+  "pubDate": "Tue, 06 Oct 2026 16:26:51 +0200",
+  "title": "Kabinet neemt geen extra maatregelen om te voorkomen dat zorgdata in VS belandt"
+ },
+ "https://tweakers.net/nieuws/253022": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html#reacties",
+  "description": "Paramount Skydance is officieel eigenaar van Warner Bros. Discovery. Het nieuwe moederbedrijf heet Skydance. Met de megaovername is dik 111 miljard dollar gemoeid. Het fusiebedrijf wil zijn twee streamingdiensten, HBO Max en Paramount+, gaan samenvoegen.",
+  "guid": "https://tweakers.net/nieuws/253022",
+  "link": "https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html",
+  "pubDate": "Tue, 06 Oct 2026 17:29:23 +0200",
+  "title": "Overname Warner Bros. door Paramount is rond: HBO Max en Paramount+ gaan fuseren"
+ },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
   "category": "Quicktest / Computers / Monitors",
@@ -2408,6 +2528,16 @@
   "link": "https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html",
   "pubDate": "Fri, 02 Oct 2026 09:30:00 +0200",
   "title": "Achtergrond - Apple waagt zich met een thuishub aan een bijna verlaten markt"
+ },
+ "https://tweakers.net/reviews/15412": {
+  "author": "Jurian Ubachs",
+  "category": "Preview / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html#reacties",
+  "description": "Nintendo Switch Sports Resort brengt de lol van het aloude Wii Sports Resort naar de Switch 2 en doet dat met wisselend succes per minigame.",
+  "guid": "https://tweakers.net/reviews/15412",
+  "link": "https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html",
+  "pubDate": "Tue, 06 Oct 2026 15:00:00 +0200",
+  "title": "Preview - Nintendo Switch Sports Resort - Ouderwetse Wii-pret op Switch 2"
  },
  "https://tweakers.net/reviews/15414": {
   "author": "Yannick Spinner",

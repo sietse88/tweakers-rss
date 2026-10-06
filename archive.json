@@ -1,4 +1,14 @@
 {
+ "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat": {
+  "author": "Eric van Ballegoie",
+  "category": "Explainer / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat#reacties",
+  "description": "Je smartwatch meet naast je hartslag ook hrv: de variatie in tijd tussen hartslagen. Zo helpt die waarde om belasting en herstel in te schatten.",
+  "guid": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat",
+  "link": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat",
+  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
+  "title": "Explainer - Hoe hrv op je smartwatch belasting en herstel inschat"
+ },
  "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet": {
   "author": "Eric van Ballegoie",
   "category": "Explainer / Tablets en telefoons / Smartwatches",
@@ -1968,6 +1978,56 @@
   "link": "https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html",
   "pubDate": "Mon, 05 Oct 2026 20:39:43 +0200",
   "title": "Huawei en Qualcomm sluiten meerjarige patentdeal voor 5G en AI"
+ },
+ "https://tweakers.net/nieuws/252990": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html#reacties",
+  "description": "De Amerikaanse provider en telefoonmaker Trump Mobile is gehackt, zo claimt een hackersgroep. Diverse slachtoffers bevestigen volgens Straight Arrow News dat de gegevens kloppen. De hackers zouden nog steeds toegang hebben tot de backend.",
+  "guid": "https://tweakers.net/nieuws/252990",
+  "link": "https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html",
+  "pubDate": "Tue, 06 Oct 2026 07:10:02 +0200",
+  "title": "Trump Mobile lijkt gehackt, maar 'heeft geen team om ermee om te gaan'"
+ },
+ "https://tweakers.net/nieuws/252992": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html#reacties",
+  "description": "Uitgever 2K haalt weer de servers offline van een twee jaar oude NBA 2K-game, waardoor delen van de game onspeelbaar zullen zijn. Dat gebeurde de afgelopen jaren ook al. Dit keer gaat het om NBA 2K25. Ook diverse singleplayermodi worden onspeelbaar.",
+  "guid": "https://tweakers.net/nieuws/252992",
+  "link": "https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html",
+  "pubDate": "Tue, 06 Oct 2026 07:43:50 +0200",
+  "title": "2K haalt servers NBA 2K25 twee jaar na release offline"
+ },
+ "https://tweakers.net/nieuws/252994": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html#reacties",
+  "description": "OpenAI voegt in de EU een watermerk toe aan gegenereerde teksten. In de rest van de wereld staat die functie standaard uit. Die functie heet textGrain en werkt volgens OpenAI beter dan bijvoorbeeld SynthID van Google.",
+  "guid": "https://tweakers.net/nieuws/252994",
+  "link": "https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html",
+  "pubDate": "Tue, 06 Oct 2026 09:43:42 +0200",
+  "title": "OpenAI geeft ChatGPT-teksten in EU standaard onzichtbaar watermerk"
+ },
+ "https://tweakers.net/nieuws/252996": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html#reacties",
+  "description": "Google bouwt aan een functie waarmee zijn Pixel 11-telefoon namens de gebruiker vrienden of familie kan bellen om boodschappen over te brengen. Gemini kan al telefoontjes aannemen van bedrijven.",
+  "guid": "https://tweakers.net/nieuws/252996",
+  "link": "https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html",
+  "pubDate": "Tue, 06 Oct 2026 08:08:01 +0200",
+  "title": "Google bouwt functie om AI naar vrienden en familie te laten bellen"
+ },
+ "https://tweakers.net/nieuws/252998": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Laptops",
+  "comments": "https://tweakers.net/nieuws/252998/google-niet-alle-android-apps-werken-goed-op-googlebooks-met-intel-processors.html#reacties",
+  "description": "Google zegt dat niet alle Android-apps goed werken op Googlebooks met Intel-processors. Ontwikkelaars moeten daarvoor aanpassingen doen. Tot nu toe is alleen aangekondigd dat de Intel-modellen in Nederland en België uitkomen.",
+  "guid": "https://tweakers.net/nieuws/252998",
+  "link": "https://tweakers.net/nieuws/252998/google-niet-alle-android-apps-werken-goed-op-googlebooks-met-intel-processors.html",
+  "pubDate": "Tue, 06 Oct 2026 10:22:09 +0200",
+  "title": "Google: niet alle Android-apps werken goed op Googlebooks met Intel-processors"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

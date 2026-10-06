@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 06 Oct 2026 02:32:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 09:23:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI geeft ChatGPT-teksten in EU standaard onzichtbaar watermerk</title>
+    <link>https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252994</guid>
+    <pubDate>Tue, 06 Oct 2026 09:43:42 +0200</pubDate>
+    <description>OpenAI voegt in de EU een watermerk toe aan gegenereerde teksten. In de rest van de wereld staat die functie standaard uit. Die functie heet textGrain en werkt volgens OpenAI beter dan bijvoorbeeld SynthID van Google.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google bouwt functie om AI naar vrienden en familie te laten bellen</title>
+    <link>https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252996</guid>
+    <pubDate>Tue, 06 Oct 2026 08:08:01 +0200</pubDate>
+    <description>Google bouwt aan een functie waarmee zijn Pixel 11-telefoon namens de gebruiker vrienden of familie kan bellen om boodschappen over te brengen. Gemini kan al telefoontjes aannemen van bedrijven.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html#reacties</comments>
+  </item>
+  <item>
+    <title>2K haalt servers NBA 2K25 twee jaar na release offline</title>
+    <link>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252992</guid>
+    <pubDate>Tue, 06 Oct 2026 07:43:50 +0200</pubDate>
+    <description>Uitgever 2K haalt weer de servers offline van een twee jaar oude NBA 2K-game, waardoor delen van de game onspeelbaar zullen zijn. Dat gebeurde de afgelopen jaren ook al. Dit keer gaat het om NBA 2K25. Ook diverse singleplayermodi worden onspeelbaar.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html#reacties</comments>
+  </item>
   <item>
     <title>Huawei en Qualcomm sluiten meerjarige patentdeal voor 5G en AI</title>
     <link>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html</link>

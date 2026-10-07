@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 07 Oct 2026 13:59:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 19:55:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,66 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers</title>
+    <link>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253078</guid>
+    <pubDate>Wed, 07 Oct 2026 21:16:12 +0200</pubDate>
+    <description>Microsoft kondigt tijdens het Surface-evenement verschillende nieuwe functies voor 'hybride' AI aan, waarbij AI-toepassingen gedeeltelijk lokaal draaien in plaats van in de cloud. Daarnaast breidt het bedrijf de beveiliging en afkadering van agents uit.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Business software</category>
+    <comments>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ring verhoogt resolutie van Plus-serie met 4k-buitencamera's</title>
+    <link>https://tweakers.net/nieuws/253070/ring-verhoogt-resolutie-van-plus-serie-met-4k-buitencameras.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253070</guid>
+    <pubDate>Wed, 07 Oct 2026 19:42:36 +0200</pubDate>
+    <description>Ring kondigt verschillende nieuwe Plus-camera's aan met een resolutie van 3840x2160 pixels, ofwel 4k. Doorgaans hadden Ring-camera's uit de Plus-serie een 2k-resolutie. De nieuwe Ring 4k Plus-modellen komen dit najaar op de markt en kosten tussen 150 en 220 euro. Er is ook een vernieuwde Indoor 4K-versie, die nu beschikbaar is voor 100 euro.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Beeld en geluid / Bewakingscamera's</category>
+    <comments>https://tweakers.net/nieuws/253070/ring-verhoogt-resolutie-van-plus-serie-met-4k-buitencameras.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google maakt tool voor checken op AI-watermerk wereldwijd beschikbaar</title>
+    <link>https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253068</guid>
+    <pubDate>Wed, 07 Oct 2026 17:28:43 +0200</pubDate>
+    <description>Google maakt SynthID Detector wereldwijd beschikbaar. Met de tool kunnen gebruikers media uploaden en controleren of die door AI gegenereerd zijn. Dat gebeurt aan de hand van een onzichtbaar watermerk dat Google, OpenAI, Nvidia, Kakao en binnenkort ook Apple toevoegen aan hun gegenereerde content.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google zet ondersteuning voor JPEG XL aan in Chrome 155</title>
+    <link>https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253066</guid>
+    <pubDate>Wed, 07 Oct 2026 17:15:17 +0200</pubDate>
+    <description>Google zet de ondersteuning voor het beeldformaat JPEG XL aan in versie 155 van zijn Chrome-browser. Deze functionaliteit was al sinds versie 145 aanwezig, maar gebruikers moesten die zelf activeren in de instellingen. JPEG XL biedt 30 tot 50 procent betere compressie dan JPEG, meldt Google.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html#reacties</comments>
+  </item>
+  <item>
+    <title>NCSC waarschuwt Exchange-gebruikers voor risico van mailboxinzage via servergat</title>
+    <link>https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253064</guid>
+    <pubDate>Wed, 07 Oct 2026 16:44:18 +0200</pubDate>
+    <description>Het Nationaal Cyber Security Centrum (NCSC) waarschuwt voor een ernstige kwetsbaarheid in de Exchange Server-software van Microsoft. De kans op misbruik is volgens het NCSC middelgroot en de mogelijke schade kan groot zijn. Een update voor de e-mail- en agendasoftware is beschikbaar.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kabinet Jetten wil huiseigenaren verplichten tot hybride warmtepomp vanaf 2029</title>
+    <link>https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253060</guid>
+    <pubDate>Wed, 07 Oct 2026 16:00:23 +0200</pubDate>
+    <description>Het Nederlandse kabinet wil vanaf 2029 hybride warmtepompen verplichten voor huiseigenaren. Deze verplichting geldt dan bij vervanging van cv-ketels. Voor appartementen en monumenten geldt een uitzondering op deze verplichting. De overstap moet 'eenvoudig, betaalbaar en uitvoerbaar' zijn.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html#reacties</comments>
+  </item>
   <item>
     <title>Until Dawn-maker brengt 13 oktober The Conjuring-horrorgame uit op Netflix</title>
     <link>https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html</link>

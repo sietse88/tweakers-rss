@@ -2269,6 +2269,16 @@
   "pubDate": "Wed, 07 Oct 2026 14:51:50 +0200",
   "title": "GMK TriggerKey maakt travel en hoek van mechanische toetsen instelbaar"
  },
+ "https://tweakers.net/nieuws/253052": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html#reacties",
+  "description": "PostNL en energievergelijkingssites als gaslicht.com stoppen met het gebruik van iDIN om adresgegevens van gebruikers te verifiëren. Uit onderzoek blijkt dat de verificatiedienst kan worden misbruikt voor adresspoofing, wat tot privacyrisico's kan leiden. Ook andere diensten die iDIN gebruiken, kunnen kwetsbaar zijn.",
+  "guid": "https://tweakers.net/nieuws/253052",
+  "link": "https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html",
+  "pubDate": "Wed, 07 Oct 2026 17:15:00 +0200",
+  "title": "PostNL en gaslicht.com stoppen met identificatiedienst iDIN vanwege adresfraude"
+ },
  "https://tweakers.net/nieuws/253054": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -2288,6 +2298,86 @@
   "link": "https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html",
   "pubDate": "Wed, 07 Oct 2026 15:51:01 +0200",
   "title": "Until Dawn-maker brengt 13 oktober The Conjuring-horrorgame uit op Netflix"
+ },
+ "https://tweakers.net/nieuws/253060": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Marktontwikkelingen",
+  "comments": "https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html#reacties",
+  "description": "Het Nederlandse kabinet wil vanaf 2029 hybride warmtepompen verplichten voor huiseigenaren. Deze verplichting geldt dan bij vervanging van cv-ketels. Voor appartementen en monumenten geldt een uitzondering op deze verplichting. De overstap moet 'eenvoudig, betaalbaar en uitvoerbaar' zijn.",
+  "guid": "https://tweakers.net/nieuws/253060",
+  "link": "https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html",
+  "pubDate": "Wed, 07 Oct 2026 16:00:23 +0200",
+  "title": "Kabinet Jetten wil huiseigenaren verplichten tot hybride warmtepomp vanaf 2029"
+ },
+ "https://tweakers.net/nieuws/253064": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html#reacties",
+  "description": "Het Nationaal Cyber Security Centrum (NCSC) waarschuwt voor een ernstige kwetsbaarheid in de Exchange Server-software van Microsoft. De kans op misbruik is volgens het NCSC middelgroot en de mogelijke schade kan groot zijn. Een update voor de e-mail- en agendasoftware is beschikbaar.",
+  "guid": "https://tweakers.net/nieuws/253064",
+  "link": "https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html",
+  "pubDate": "Wed, 07 Oct 2026 16:44:18 +0200",
+  "title": "NCSC waarschuwt Exchange-gebruikers voor risico van mailboxinzage via servergat"
+ },
+ "https://tweakers.net/nieuws/253066": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / Computers / Browsers",
+  "comments": "https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html#reacties",
+  "description": "Google zet de ondersteuning voor het beeldformaat JPEG XL aan in versie 155 van zijn Chrome-browser. Deze functionaliteit was al sinds versie 145 aanwezig, maar gebruikers moesten die zelf activeren in de instellingen. JPEG XL biedt 30 tot 50 procent betere compressie dan JPEG, meldt Google.",
+  "guid": "https://tweakers.net/nieuws/253066",
+  "link": "https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html",
+  "pubDate": "Wed, 07 Oct 2026 17:15:17 +0200",
+  "title": "Google zet ondersteuning voor JPEG XL aan in Chrome 155"
+ },
+ "https://tweakers.net/nieuws/253068": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / IT Pro / Wetenschap",
+  "comments": "https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html#reacties",
+  "description": "Google maakt SynthID Detector wereldwijd beschikbaar. Met de tool kunnen gebruikers media uploaden en controleren of die door AI gegenereerd zijn. Dat gebeurt aan de hand van een onzichtbaar watermerk dat Google, OpenAI, Nvidia, Kakao en binnenkort ook Apple toevoegen aan hun gegenereerde content.",
+  "guid": "https://tweakers.net/nieuws/253068",
+  "link": "https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html",
+  "pubDate": "Wed, 07 Oct 2026 17:28:43 +0200",
+  "title": "Google maakt tool voor checken op AI-watermerk wereldwijd beschikbaar"
+ },
+ "https://tweakers.net/nieuws/253070": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Beeld en geluid / Bewakingscamera's",
+  "comments": "https://tweakers.net/nieuws/253070/ring-verhoogt-resolutie-van-plus-serie-met-4k-buitencameras.html#reacties",
+  "description": "Ring kondigt verschillende nieuwe Plus-camera's aan met een resolutie van 3840x2160 pixels, ofwel 4k. Doorgaans hadden Ring-camera's uit de Plus-serie een 2k-resolutie. De nieuwe Ring 4k Plus-modellen komen dit najaar op de markt en kosten tussen 150 en 220 euro. Er is ook een vernieuwde Indoor 4K-versie, die nu beschikbaar is voor 100 euro.",
+  "guid": "https://tweakers.net/nieuws/253070",
+  "link": "https://tweakers.net/nieuws/253070/ring-verhoogt-resolutie-van-plus-serie-met-4k-buitencameras.html",
+  "pubDate": "Wed, 07 Oct 2026 19:42:36 +0200",
+  "title": "Ring verhoogt resolutie van Plus-serie met 4k-buitencamera's"
+ },
+ "https://tweakers.net/nieuws/253072": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Laptops",
+  "comments": "https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html#reacties",
+  "description": "Microsoft en Nvidia deelden op woensdagavond meer details over de aanstaande Nvidia RTX Spark-processor. Laptops met deze chip zijn vanaf nu vooruit te bestellen en worden vanaf volgende week vrijdag geleverd. Microsofts goedkoopste variant kost 2600 dollar.",
+  "guid": "https://tweakers.net/nieuws/253072",
+  "link": "https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html",
+  "pubDate": "Wed, 07 Oct 2026 20:36:24 +0200",
+  "title": "Instapversie Microsoft Surface-laptop met Nvidia RTX Spark-cpu kost 2600 dollar"
+ },
+ "https://tweakers.net/nieuws/253074": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html#reacties",
+  "description": "Chatdienst Discord is opnieuw getroffen door een cyberaanval via een derde partij. De beveiligingsdienst Double Counter meldt dat er daarbij tot 28 miljoen Discord-gebruikersnamen en IP-adressen zijn gestolen. Ook zijn er een miljoen e-mailadressen buitgemaakt. Voor zover bekend zijn er geen gevoeligere gebruikersgegevens gestolen.",
+  "guid": "https://tweakers.net/nieuws/253074",
+  "link": "https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html",
+  "pubDate": "Wed, 07 Oct 2026 20:26:10 +0200",
+  "title": "Discord is weer indirect getroffen door datalek: 28 miljoen accounts slachtoffer"
+ },
+ "https://tweakers.net/nieuws/253078": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Business software",
+  "comments": "https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html#reacties",
+  "description": "Microsoft kondigt tijdens het Surface-evenement verschillende nieuwe functies voor 'hybride' AI aan, waarbij AI-toepassingen gedeeltelijk lokaal draaien in plaats van in de cloud. Daarnaast breidt het bedrijf de beveiliging en afkadering van agents uit.",
+  "guid": "https://tweakers.net/nieuws/253078",
+  "link": "https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html",
+  "pubDate": "Wed, 07 Oct 2026 21:16:12 +0200",
+  "title": "Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
@@ -2698,5 +2788,15 @@
   "link": "https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html",
   "pubDate": "Mon, 05 Oct 2026 16:30:00 +0200",
   "title": "Achtergrond - ShinyHunters wankelt: wie zijn de hackers achter het Odido-datalek?"
+ },
+ "https://tweakers.net/reviews/15420": {
+  "author": "Lumen Heijdendael",
+  "category": "Achtergrond / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html#reacties",
+  "description": "Veel instellingen zoals PostNL hebben de implementatie van verificatiedienst Itsme niet goed ingesteld. Daardoor kan mogelijk privacygevoelige informatie lekken, blijkt uit onderzoek van Tweakers.",
+  "guid": "https://tweakers.net/reviews/15420",
+  "link": "https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html",
+  "pubDate": "Wed, 07 Oct 2026 17:15:00 +0200",
+  "title": "Achtergrond - Ongecontroleerde bankadressen maken misbruik van iDIN-koppelingen mogelijk"
  }
 }

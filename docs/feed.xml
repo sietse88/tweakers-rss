@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 07 Oct 2026 00:38:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 06:35:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Apple en LG ontwikkelen samen deurbel, deurslot en thermostaat'</title>
+    <link>https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253032</guid>
+    <pubDate>Wed, 07 Oct 2026 08:03:37 +0200</pubDate>
+    <description>Apple en LG zouden samenwerken aan nieuwe smarthomeproducten, meldt Bloomberg. Het gaat onder meer om een slimme deurbel, een slim deurslot en een slimme thermostaat. De producten zouden over een paar maanden moeten uitkomen. De exacte releasedata en prijzen zijn niet bekend.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Ugreen Maxidok 10-in-1-dockingstation - Thunderbolt 5 voor maar 200 euro</title>
+    <link>https://tweakers.net/reviews/15356/ugreen-maxidok-10-in-1-dockingstation-thunderbolt-5-voor-maar-200-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15356</guid>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Ugreen Maxidok 10-in-1 is met nog geen 200 euro een heel betaalbaar Thunderbolt 5-dockingstation. Maar is hij wel net zo goed als de duurdere alternatieven?</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Dockingstations</category>
+    <comments>https://tweakers.net/reviews/15356/ugreen-maxidok-10-in-1-dockingstation-thunderbolt-5-voor-maar-200-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Tesla wil snelheidsoverschrijding van FSD begrenzen voor goedkeuring in EU</title>
     <link>https://tweakers.net/nieuws/253030/tesla-wil-snelheidsoverschrijding-van-fsd-begrenzen-voor-goedkeuring-in-eu.html</link>

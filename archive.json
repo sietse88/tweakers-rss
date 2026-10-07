@@ -19,6 +19,16 @@
   "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
   "title": "Explainer - Waarom dualband-gps je route nauwkeuriger kan meten"
  },
+ "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt": {
+  "author": "Eric van Ballegoie",
+  "category": "Explainer / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt#reacties",
+  "description": "Een kras op je smartwatch is zo gemaakt. Saffierglas is krasvaster dan gehard glas, maar niet onbreekbaar. Zo verschilt het van Gorilla Glass.",
+  "guid": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt",
+  "link": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt",
+  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
+  "title": "Explainer - Waarom saffierglas minder snel krast, maar je smartwatch niet onbreekbaar maakt"
+ },
  "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet": {
   "author": "Eric van Ballegoie",
   "category": "Explainer / Tablets en telefoons / Smartwatches",
@@ -2198,6 +2208,86 @@
   "link": "https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html",
   "pubDate": "Wed, 07 Oct 2026 08:03:37 +0200",
   "title": "'Apple en LG ontwikkelen samen deurbel, deurslot en thermostaat'"
+ },
+ "https://tweakers.net/nieuws/253034": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html#reacties",
+  "description": "Matthew Ball, de chief strategy officer van XBOX, ontkent dat het bedrijf de exclusieve streamingrechten voor Grand Theft Auto VI in handen heeft. Daarmee spreekt hij eerdere berichtgeving van The Verge tegen.",
+  "guid": "https://tweakers.net/nieuws/253034",
+  "link": "https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html",
+  "pubDate": "Wed, 07 Oct 2026 08:47:40 +0200",
+  "title": "XBOX ontkent dat het exclusieve streamingrechten voor GTA VI heeft - update"
+ },
+ "https://tweakers.net/nieuws/253036": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html#reacties",
+  "description": "Anthropic maakt zijn AI-assistent Claude via een extensie beschikbaar in Google Workspace. Daarmee kunnen gebruikers rechtstreeks met Claude werken aan geopende bestanden in Google Docs, Sheets en Slides. De functie is in bèta beschikbaar voor alle betaalde Claude-abonnementen.",
+  "guid": "https://tweakers.net/nieuws/253036",
+  "link": "https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html",
+  "pubDate": "Wed, 07 Oct 2026 09:37:59 +0200",
+  "title": "Claude komt via extensie beschikbaar in Google Docs, Sheets en Slides"
+ },
+ "https://tweakers.net/nieuws/253038": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Internet",
+  "comments": "https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html#reacties",
+  "description": "Anthropic gaat Project Glasswing en het Cyber Verification Program samenvoegen. Daardoor krijgen meer organisaties toegang tot de geavanceerdste modellen van het bedrijf, waaronder Mythos 5.1 en minder streng beveiligde versies van Claude Opus 5.5 en Sonnet 5.5.",
+  "guid": "https://tweakers.net/nieuws/253038",
+  "link": "https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html",
+  "pubDate": "Wed, 07 Oct 2026 11:03:20 +0200",
+  "title": "Anthropic verruimt toegang tot Claude-modellen met minder blokkades"
+ },
+ "https://tweakers.net/nieuws/253044": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html#reacties",
+  "description": "AMD gaat de productie van zijn chips in 2027 'aanzienlijk verhogen', beweert ceo Lisa Su. Daarmee wil het bedrijf voldoen aan de groeiende vraag van AI-bedrijven naar cpu's en gpu's. Volgens Su heeft AMD zijn productie in de loop van 2026 al opgevoerd.",
+  "guid": "https://tweakers.net/nieuws/253044",
+  "link": "https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html",
+  "pubDate": "Wed, 07 Oct 2026 12:45:06 +0200",
+  "title": "AMD gaat chipproductie aanzienlijk verhogen in 2027"
+ },
+ "https://tweakers.net/nieuws/253046": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Marktontwikkelingen",
+  "comments": "https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html#reacties",
+  "description": "De Nederlandse inlichtingen- en veiligheidsdiensten AIVD en MIVD waarschuwen voor een aanzienlijke toename van hackaanvallen door Chinese daders. De aanvallers richten zich op edgeapparaten, zoals firewalls, vpn-servers en routers. Deze waarschuwing is gebaseerd op niet nader genoemde inlichtingen.",
+  "guid": "https://tweakers.net/nieuws/253046",
+  "link": "https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html",
+  "pubDate": "Wed, 07 Oct 2026 14:28:00 +0200",
+  "title": "AIVD en MIVD verwachten forse toename Chinese aanvallen op edgeapparaten"
+ },
+ "https://tweakers.net/nieuws/253050": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Computers / Toetsenborden",
+  "comments": "https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html#reacties",
+  "description": "GMK heeft de TriggerKey aangekondigd. Bij deze keycap voor mechanische switches kunnen gebruikers de hoek en aanslag zelf instellen zonder de switches te vervangen. GMK verkoopt de keycaps in veertien verschillende kleuren. Een set van vier keycaps, vooral bedoeld voor de WASD-toetsen, kost 49,82 euro.",
+  "guid": "https://tweakers.net/nieuws/253050",
+  "link": "https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html",
+  "pubDate": "Wed, 07 Oct 2026 14:51:50 +0200",
+  "title": "GMK TriggerKey maakt travel en hoek van mechanische toetsen instelbaar"
+ },
+ "https://tweakers.net/nieuws/253054": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html#reacties",
+  "description": "De Europese Commissie overweegt een heffing voor zeer grote bedrijven in te voeren, meldt de Financial Times. Op die manier wil de Commissie naar verluidt meer inkomsten genereren door grote techbedrijven te belasten, zonder een tegenreactie van de regering-Trump uit te lokken.",
+  "guid": "https://tweakers.net/nieuws/253054",
+  "link": "https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html",
+  "pubDate": "Wed, 07 Oct 2026 15:24:04 +0200",
+  "title": "'Europa wil bigtechbedrijven belasten door heffing op zeer grote bedrijven'"
+ },
+ "https://tweakers.net/nieuws/253056": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html#reacties",
+  "description": "Netflix en Supermassive Games hebben de horrorgame The Conjuring: Unspoken aangekondigd. Het spel komt op 13 oktober uit op Netflix in onder meer Nederland en België. Er is op dit moment niets bekend over een release op pc of consoles.",
+  "guid": "https://tweakers.net/nieuws/253056",
+  "link": "https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html",
+  "pubDate": "Wed, 07 Oct 2026 15:51:01 +0200",
+  "title": "Until Dawn-maker brengt 13 oktober The Conjuring-horrorgame uit op Netflix"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

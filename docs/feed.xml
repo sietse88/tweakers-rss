@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 07 Oct 2026 06:35:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 13:59:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Until Dawn-maker brengt 13 oktober The Conjuring-horrorgame uit op Netflix</title>
+    <link>https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253056</guid>
+    <pubDate>Wed, 07 Oct 2026 15:51:01 +0200</pubDate>
+    <description>Netflix en Supermassive Games hebben de horrorgame The Conjuring: Unspoken aangekondigd. Het spel komt op 13 oktober uit op Netflix in onder meer Nederland en België. Er is op dit moment niets bekend over een release op pc of consoles.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Europa wil bigtechbedrijven belasten door heffing op zeer grote bedrijven'</title>
+    <link>https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253054</guid>
+    <pubDate>Wed, 07 Oct 2026 15:24:04 +0200</pubDate>
+    <description>De Europese Commissie overweegt een heffing voor zeer grote bedrijven in te voeren, meldt de Financial Times. Op die manier wil de Commissie naar verluidt meer inkomsten genereren door grote techbedrijven te belasten, zonder een tegenreactie van de regering-Trump uit te lokken.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html#reacties</comments>
+  </item>
+  <item>
+    <title>GMK TriggerKey maakt travel en hoek van mechanische toetsen instelbaar</title>
+    <link>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253050</guid>
+    <pubDate>Wed, 07 Oct 2026 14:51:50 +0200</pubDate>
+    <description>GMK heeft de TriggerKey aangekondigd. Bij deze keycap voor mechanische switches kunnen gebruikers de hoek en aanslag zelf instellen zonder de switches te vervangen. GMK verkoopt de keycaps in veertien verschillende kleuren. Een set van vier keycaps, vooral bedoeld voor de WASD-toetsen, kost 49,82 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Toetsenborden</category>
+    <comments>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html#reacties</comments>
+  </item>
+  <item>
+    <title>AIVD en MIVD verwachten forse toename Chinese aanvallen op edgeapparaten</title>
+    <link>https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253046</guid>
+    <pubDate>Wed, 07 Oct 2026 14:28:00 +0200</pubDate>
+    <description>De Nederlandse inlichtingen- en veiligheidsdiensten AIVD en MIVD waarschuwen voor een aanzienlijke toename van hackaanvallen door Chinese daders. De aanvallers richten zich op edgeapparaten, zoals firewalls, vpn-servers en routers. Deze waarschuwing is gebaseerd op niet nader genoemde inlichtingen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Anthropic verruimt toegang tot Claude-modellen met minder blokkades</title>
+    <link>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253038</guid>
+    <pubDate>Wed, 07 Oct 2026 11:03:20 +0200</pubDate>
+    <description>Anthropic gaat Project Glasswing en het Cyber Verification Program samenvoegen. Daardoor krijgen meer organisaties toegang tot de geavanceerdste modellen van het bedrijf, waaronder Mythos 5.1 en minder streng beveiligde versies van Claude Opus 5.5 en Sonnet 5.5.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html#reacties</comments>
+  </item>
+  <item>
+    <title>Claude komt via extensie beschikbaar in Google Docs, Sheets en Slides</title>
+    <link>https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253036</guid>
+    <pubDate>Wed, 07 Oct 2026 09:37:59 +0200</pubDate>
+    <description>Anthropic maakt zijn AI-assistent Claude via een extensie beschikbaar in Google Workspace. Daarmee kunnen gebruikers rechtstreeks met Claude werken aan geopende bestanden in Google Docs, Sheets en Slides. De functie is in bèta beschikbaar voor alle betaalde Claude-abonnementen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html#reacties</comments>
+  </item>
+  <item>
+    <title>XBOX ontkent dat het exclusieve streamingrechten voor GTA VI heeft - update</title>
+    <link>https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253034</guid>
+    <pubDate>Wed, 07 Oct 2026 08:47:40 +0200</pubDate>
+    <description>Matthew Ball, de chief strategy officer van XBOX, ontkent dat het bedrijf de exclusieve streamingrechten voor Grand Theft Auto VI in handen heeft. Daarmee spreekt hij eerdere berichtgeving van The Verge tegen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html#reacties</comments>
+  </item>
   <item>
     <title>'Apple en LG ontwikkelen samen deurbel, deurslot en thermostaat'</title>
     <link>https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 08 Oct 2026 06:18:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 13:47:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,86 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>ACM stelt voor om stroomnettarief in 2029 tijdens piekuren te verhogen</title>
+    <link>https://tweakers.net/nieuws/253104/acm-stelt-voor-om-stroomnettarief-in-2029-tijdens-piekuren-te-verhogen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253104</guid>
+    <pubDate>Thu, 08 Oct 2026 15:41:13 +0200</pubDate>
+    <description>De ACM wil dat Nederlandse huishoudens vanaf 2029 een hoger nettarief betalen tijdens piekuren en een lager tarief tijdens daluren. Dat schrijft de toezichthouder in zijn voorstel voor een nieuwe nettariefstructuur voor netbeheerders.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253104/acm-stelt-voor-om-stroomnettarief-in-2029-tijdens-piekuren-te-verhogen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nieuwe uitgelekte GTA VI-beelden tonen hoofdpersoon naakt</title>
+    <link>https://tweakers.net/nieuws/253100/nieuwe-uitgelekte-gta-vi-beelden-tonen-hoofdpersoon-naakt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253100</guid>
+    <pubDate>Thu, 08 Oct 2026 15:27:55 +0200</pubDate>
+    <description>CyberLeek heeft opnieuw vermoedelijke gameplaybeelden van Grand Theft Auto VI laten uitlekken. Donderdagmiddag verscheen er 25 minuten aan nieuwe gameplaybeelden en cutscenes van het komende spel. De game komt op 19 november uit.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253100/nieuwe-uitgelekte-gta-vi-beelden-tonen-hoofdpersoon-naakt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlands OM had geen monitoring van kwetsbare Citrix-systemen rond hack 2025</title>
+    <link>https://tweakers.net/nieuws/253096/nederlands-om-had-geen-monitoring-van-kwetsbare-citrix-systemen-rond-hack-2025.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253096</guid>
+    <pubDate>Thu, 08 Oct 2026 15:03:28 +0200</pubDate>
+    <description>Het Openbaar Ministerie had geen middelen om activiteiten rond zijn NetScaler-systemen te loggen en te analyseren. Zulke monitoring is nodig omdat hackers 'regelmatig zerodaykwetsbaarheden vinden' in die Citrix-apparatuur. Dit staat in het vandaag verschenen onderzoeksrapport van Justitie over de OM-hack van 2025.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/253096/nederlands-om-had-geen-monitoring-van-kwetsbare-citrix-systemen-rond-hack-2025.html#reacties</comments>
+  </item>
+  <item>
+    <title>Proximus verhoogt snelheden van glasvezelabonnementen en maakt ze symmetrisch</title>
+    <link>https://tweakers.net/nieuws/253098/proximus-verhoogt-snelheden-van-glasvezelabonnementen-en-maakt-ze-symmetrisch.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253098</guid>
+    <pubDate>Thu, 08 Oct 2026 13:54:02 +0200</pubDate>
+    <description>Het Belgische Proximus verhoogt vanaf 1 november de internetsnelheden van een aantal van zijn glasvezelabonnementen. De download- en uploadsnelheden stijgen en worden symmetrisch. De aanpassing geldt voor zowel bestaande als nieuwe klanten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253098/proximus-verhoogt-snelheden-van-glasvezelabonnementen-en-maakt-ze-symmetrisch.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meta koopt 419 patenten voor XR, VR, en MR van Sony</title>
+    <link>https://tweakers.net/nieuws/253088/meta-koopt-419-patenten-voor-xr-vr-en-mr-van-sony.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253088</guid>
+    <pubDate>Thu, 08 Oct 2026 11:53:59 +0200</pubDate>
+    <description>Meta gaat 419 patenten van Sony overnemen, waaronder patenten op technologie voor extended reality (XR), virtual reality (VR) en mixed reality (MR). De twee sloten eind vorig jaar een overeenkomst. Dit jaar droeg Sony 43 Amerikaanse patenten over, meldt ZDNet Korea. Dit zou erop wijzen dat Sony zijn ambities voor XR-headsets inperkt.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253088/meta-koopt-419-patenten-voor-xr-vr-en-mr-van-sony.html#reacties</comments>
+  </item>
+  <item>
+    <title>KLM stapt over op Starlink voor gratis internetverbindingen op verre vluchten</title>
+    <link>https://tweakers.net/nieuws/253080/klm-stapt-over-op-starlink-voor-gratis-internetverbindingen-op-verre-vluchten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253080</guid>
+    <pubDate>Thu, 08 Oct 2026 10:31:56 +0200</pubDate>
+    <description>KLM gaat de satellietdienst van Starlink gebruiken om passagiers op intercontinentale vluchten snelle internetverbindingen te bieden. De luchtvaartmaatschappij voert dit gratis aanbod vanaf half 2027 geleidelijk in. Het geldt in alle reisklassen. KLM noemt nog geen internetsnelheden.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253080/klm-stapt-over-op-starlink-voor-gratis-internetverbindingen-op-verre-vluchten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Storing met DigiD-app op Android verhindert inloggen voor sommige gebruikers</title>
+    <link>https://tweakers.net/nieuws/253086/storing-met-digid-app-op-android-verhindert-inloggen-voor-sommige-gebruikers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253086</guid>
+    <pubDate>Thu, 08 Oct 2026 09:06:56 +0200</pubDate>
+    <description>De DigiD-app blijkt op Android bij sommige gebruikers niet te werken. De oorzaak is een browserupdate, bijvoorbeeld van Google Chrome of de Samsung Browser. DigiD bevestigt dit op zijn website en geeft tips om het probleem mogelijk op te lossen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Overige software</category>
+    <comments>https://tweakers.net/nieuws/253086/storing-met-digid-app-op-android-verhindert-inloggen-voor-sommige-gebruikers.html#reacties</comments>
+  </item>
+  <item>
+    <title>Programmeur van Apollo-maanlander overlijdt op 90-jarige leeftijd</title>
+    <link>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253084</guid>
+    <pubDate>Thu, 08 Oct 2026 08:45:21 +0200</pubDate>
+    <description>De Amerikaanse computerwetenschapper Margaret Hamilton overleed op 30 september op 90-jarige leeftijd. Zij was een softwarepionier die onder meer baanbrekend werk verrichtte voor de computersystemen waarmee de Apollo-ruimtevaartmissie de maan bereikte.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers</title>
     <link>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html</link>
@@ -102,7 +182,7 @@
     <pubDate>Wed, 07 Oct 2026 14:51:50 +0200</pubDate>
     <description>GMK heeft de TriggerKey aangekondigd. Bij deze keycap voor mechanische switches kunnen gebruikers de hoek en aanslag zelf instellen zonder de switches te vervangen. GMK verkoopt de keycaps in veertien verschillende kleuren. Een set van vier keycaps, vooral bedoeld voor de WASD-toetsen, kost 49,82 euro.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Toetsenborden</category>
+    <category>Nieuws / Computers / Overige randapparatuur</category>
     <comments>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html#reacties</comments>
   </item>
   <item>

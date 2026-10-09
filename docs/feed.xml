@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 08 Oct 2026 23:56:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 05:59:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Quicktest - Apple AirPods 5 - De beste anc zonder eartips</title>
+    <link>https://tweakers.net/reviews/15378/apple-airpods-5-de-beste-anc-zonder-eartips.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15378</guid>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Met de komst van de Apple AirPods 5 beschikken nu alle recente Apple-headsets over noisecancelling. Hoe bevalt die anc zonder eartips?</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Quicktest / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/reviews/15378/apple-airpods-5-de-beste-anc-zonder-eartips.html#reacties</comments>
+  </item>
   <item>
     <title>Playground stelt PlayStation 5-versie van Forza Horizon 6 uit tot 26 januari</title>
     <link>https://tweakers.net/nieuws/253118/playground-stelt-playstation-5-versie-van-forza-horizon-6-uit-tot-26-januari.html</link>

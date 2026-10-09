@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 09 Oct 2026 18:51:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 23:11:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'AI-bedrijven bereiden zich voor op negatieve publieke opinie na groot incident'</title>
+    <link>https://tweakers.net/nieuws/253150/ai-bedrijven-bereiden-zich-voor-op-negatieve-publieke-opinie-na-groot-incident.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253150</guid>
+    <pubDate>Fri, 09 Oct 2026 21:03:52 +0200</pubDate>
+    <description>Leidinggevenden bij bedrijven zoals Anthropic en OpenAI bereiden zich voor op een publieke en politieke opstand als er een 'catastrofaal' incident plaatsvindt met AI-systemen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253150/ai-bedrijven-bereiden-zich-voor-op-negatieve-publieke-opinie-na-groot-incident.html#reacties</comments>
+  </item>
   <item>
     <title>'Apple verlaagt productie van iPhone 18 Pro-serie vanwege tegenvallende vraag'</title>
     <link>https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html</link>

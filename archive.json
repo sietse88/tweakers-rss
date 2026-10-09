@@ -2569,6 +2569,16 @@
   "pubDate": "Fri, 09 Oct 2026 14:27:00 +0200",
   "title": "Wereldwijde pc-leveringen kelderen 20,1 procent, mede door geheugencrisis"
  },
+ "https://tweakers.net/nieuws/253134": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html#reacties",
+  "description": "Drie voormalige veiligheidsmedewerkers bij OpenAI zeggen dat ze onder 'verdachte omstandigheden' zijn ontslagen door het bedrijf. De medewerkers stellen dat ze intern zorgen uitten over de veiligheid van AI-modellen. OpenAI zegt de werknemers te hebben ontslagen omdat ze onzorgvuldig omgingen met gevoelige informatie.",
+  "guid": "https://tweakers.net/nieuws/253134",
+  "link": "https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html",
+  "pubDate": "Fri, 09 Oct 2026 16:34:38 +0200",
+  "title": "'OpenAI-medewerkers zijn ontslagen omdat ze veiligheid vooropstelden'"
+ },
  "https://tweakers.net/nieuws/253136": {
   "author": "Yannick Spinner",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
@@ -2598,6 +2608,96 @@
   "link": "https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html",
   "pubDate": "Fri, 09 Oct 2026 14:58:53 +0200",
   "title": "Let's Encrypt-certificaten van 64 dagen zijn vanaf oktober te testen"
+ },
+ "https://tweakers.net/nieuws/253142": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Singleboardcomputers",
+  "comments": "https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html#reacties",
+  "description": "Raspberry Pi heeft zijn besturingssysteem voor de singleboardcomputer uitgebracht voor pc's en Mac-computers. Raspberry Pi OS is gebaseerd op Debian 13 Trixie en bevat in de desktopversie ook tools zoals Raspberry Pi Connect, waarmee gebruikers pc's op afstand kunnen besturen.",
+  "guid": "https://tweakers.net/nieuws/253142",
+  "link": "https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html",
+  "pubDate": "Fri, 09 Oct 2026 15:37:00 +0200",
+  "title": "Raspberry Pi OS is voortaan ook op pc's en Macs te installeren"
+ },
+ "https://tweakers.net/nieuws/253144": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html#reacties",
+  "description": "DICE geeft Battlefield 6 in het komende contentseizoen verschillende langverwachte functies. Zo komen er in december een serverbrowser en guilds, die Platoons heten in de game. Daarnaast brengt de ontwikkelaar de komende maanden meermaals nieuwe maps, wapens en andere content uit.",
+  "guid": "https://tweakers.net/nieuws/253144",
+  "link": "https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html",
+  "pubDate": "Fri, 09 Oct 2026 17:00:00 +0200",
+  "title": "Battlefield 6 krijgt eind dit jaar langverwachte guilds en serverbrowser"
+ },
+ "https://tweakers.net/nieuws/253146": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html#reacties",
+  "description": "Intel lijkt inderdaad opnieuw oude processors uit te brengen. Gigabyte schrijft op zijn website dat moederborden een bios-update krijgen, zodat ze compatibel worden met 'komende LGA1700-processors'. Eerder gingen er al geruchten dat Intel nieuwe versies van Raptor Lake-socs zou willen uitbrengen vanwege de gestegen geheugenprijzen.",
+  "guid": "https://tweakers.net/nieuws/253146",
+  "link": "https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html",
+  "pubDate": "Fri, 09 Oct 2026 17:00:06 +0200",
+  "title": "Gigabyte bevestigt dat Intel volgend jaar DDR4-compatibele cpu's uitbrengt"
+ },
+ "https://tweakers.net/nieuws/253148": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253148/firefly-studios-kasteelsim-stronghold-4-komt-7-december-uit-en-breidt-demo-uit.html#reacties",
+  "description": "Firefly Studios brengt kasteelsim Stronghold 4 op 7 december uit in early access. Het bedrijf heeft ook een nieuwe trailer uitgebracht met gameplaybeelden. De al bestaande demo wordt verder uitgebreid.",
+  "guid": "https://tweakers.net/nieuws/253148",
+  "link": "https://tweakers.net/nieuws/253148/firefly-studios-kasteelsim-stronghold-4-komt-7-december-uit-en-breidt-demo-uit.html",
+  "pubDate": "Fri, 09 Oct 2026 15:56:34 +0200",
+  "title": "Firefly Studios' kasteelsim Stronghold 4 komt 7 december uit en breidt demo uit"
+ },
+ "https://tweakers.net/nieuws/253156": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html#reacties",
+  "description": "Microsoft waarschuwt systeembeheerders dat oude Windows-versies vanaf volgend voorjaar mogelijk niet meer kunnen worden bijgewerkt, tenzij zij daarop actie ondernemen. Windows 11 24H2, Windows Server 2025 en oudere versies van Windows 10 en 11 kunnen door een verlopen certificaat geen verbinding meer maken met Windows Update. Voor versies die officieel nog worden ondersteund, moeten beheerders handmatig een recente update installeren.",
+  "guid": "https://tweakers.net/nieuws/253156",
+  "link": "https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html",
+  "pubDate": "Fri, 09 Oct 2026 17:33:09 +0200",
+  "title": "Microsoft waarschuwt: oude Windows-versies kunnen toegang tot Update verliezen"
+ },
+ "https://tweakers.net/nieuws/253158": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html#reacties",
+  "description": "OpenAI's omzet blijkt zo'n 20 miljard dollar lager te zijn dan het bedrijf eerder liet weten. OpenAI zou geen 70 miljard, maar 50 miljard dollar per jaar omzetten, blijkt uit cijfers die het bedrijf aan investeerders liet zien. Het verschil lijkt te zitten in de manier waarop OpenAI en concurrent Anthropic hun omzet berekenen. Dat illustreert deels hoe onduidelijk de verdienmodellen van AI-bedrijven zijn.",
+  "guid": "https://tweakers.net/nieuws/253158",
+  "link": "https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html",
+  "pubDate": "Fri, 09 Oct 2026 18:03:06 +0200",
+  "title": "OpenAI's omzet ligt 20 miljard dollar lager dan voorspeld"
+ },
+ "https://tweakers.net/nieuws/253160": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/253160/fbi-arresteert-vermeend-sleutelfiguur-van-ransomwarebende-shinyhunters.html#reacties",
+  "description": "De Amerikaanse FBI heeft een vermeend lid van de ransomwarebende Shinyhunters gearresteerd. De verdachte is een Canadees en zou een van de hoogstgeplaatste leden van de bende zijn. Shinyhunters hackte onlangs nog de FBI, maar de bende zit ook achter de hack op Odido.",
+  "guid": "https://tweakers.net/nieuws/253160",
+  "link": "https://tweakers.net/nieuws/253160/fbi-arresteert-vermeend-sleutelfiguur-van-ransomwarebende-shinyhunters.html",
+  "pubDate": "Fri, 09 Oct 2026 18:41:56 +0200",
+  "title": "FBI arresteert vermeend sleutelfiguur van ransomwarebende Shinyhunters"
+ },
+ "https://tweakers.net/nieuws/253162": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Consoles",
+  "comments": "https://tweakers.net/nieuws/253162/emulator-ps5sx2-kan-via-frame-generation-ps2-games-met-120fps-tonen-op-ps5-pro.html#reacties",
+  "description": "De makers van PlayStation 2-emulator PS5SX2 hebben versie 2.00 van hun software uitgebracht. Die heeft ingebouwde frame generation, zodat het mogelijk is PS2-games in 60 of zelfs 120fps te draaien op een gejailbreakte PlayStation 5. Ook kan de emulator via een aangepaste versie van de Vulkan-driver beelden renderen in een acht keer zo hoge resolutie.",
+  "guid": "https://tweakers.net/nieuws/253162",
+  "link": "https://tweakers.net/nieuws/253162/emulator-ps5sx2-kan-via-frame-generation-ps2-games-met-120fps-tonen-op-ps5-pro.html",
+  "pubDate": "Fri, 09 Oct 2026 19:43:14 +0200",
+  "title": "Emulator PS5SX2 kan via frame generation PS2-games met 120fps tonen op PS5 Pro"
+ },
+ "https://tweakers.net/nieuws/253164": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html#reacties",
+  "description": "Apple zou de productie van de iPhone 18 Pro en Pro Max terugschroeven vanwege een lage vraag. Apple zou zeker 15 tot 20 procent minder apparaten verkopen dan gedacht, zeggen bronnen tegen Nikkei. Dat heeft deels te maken met de hoge prijzen, maar ook met het feit dat het standaardmodel van de iPhone later uitkomt.",
+  "guid": "https://tweakers.net/nieuws/253164",
+  "link": "https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html",
+  "pubDate": "Fri, 09 Oct 2026 20:00:26 +0200",
+  "title": "'Apple verlaagt productie van iPhone 18 Pro-serie vanwege tegenvallende vraag'"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

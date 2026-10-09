@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 09 Oct 2026 05:59:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 13:07:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Wees aardig tegen Claude: Anthropic scherpt regels tegen misbruik van AI aan</title>
+    <link>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253138</guid>
+    <pubDate>Fri, 09 Oct 2026 14:33:37 +0200</pubDate>
+    <description>Anthropic past het gebruikersbeleid voor AI-tool Claude aan. Hierdoor mogen bepaalde toepassingen waarmee gebruikers misleidende content maken niet meer. Ook treedt Anthropic op tegen gebruikers die zonder duidelijke reden zeer onaardig of wreed omgaan met Claude. Het nieuwe beleid geldt vanaf 12 november.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Razer maakt Basilisk V4 Pro-muis 12 gram lichter en geeft hem extra knoppen</title>
+    <link>https://tweakers.net/nieuws/253130/razer-maakt-basilisk-v4-pro-muis-12-gram-lichter-en-geeft-hem-extra-knoppen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253130</guid>
+    <pubDate>Fri, 09 Oct 2026 11:44:42 +0200</pubDate>
+    <description>Razer brengt met de V4 Pro een vervolg op de populaire Basilisk V3 Pro uit. De vernieuwde muis is onder meer 12 gram lichter dan zijn voorganger en heeft twee extra duimknoppen. De Razer Basilisk V4 Pro kost 180 euro en is nu verkrijgbaar.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Muizen</category>
+    <comments>https://tweakers.net/nieuws/253130/razer-maakt-basilisk-v4-pro-muis-12-gram-lichter-en-geeft-hem-extra-knoppen.html#reacties</comments>
+  </item>
+  <item>
+    <title>SpaceX koopt licenties om telecomprovider te worden – update</title>
+    <link>https://tweakers.net/nieuws/253124/spacex-koopt-licenties-om-telecomprovider-te-worden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253124</guid>
+    <pubDate>Fri, 09 Oct 2026 10:39:10 +0200</pubDate>
+    <description>SpaceX heeft opnieuw spectrumlicenties gekocht om cellulair internet aan te bieden. Daarmee wil het bedrijf van Elon Musk zelf als mobiele telecomprovider opereren. Naar verluidt heeft het bedrijf 8 miljard dollar voor de licenties betaald.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253124/spacex-koopt-licenties-om-telecomprovider-te-worden.html#reacties</comments>
+  </item>
+  <item>
+    <title>OM stopt onderzoek naar vermeende thuisaccuoplichters: dat zou te veel werk zijn</title>
+    <link>https://tweakers.net/nieuws/253122/om-stopt-onderzoek-naar-vermeende-thuisaccuoplichters-dat-zou-te-veel-werk-zijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253122</guid>
+    <pubDate>Fri, 09 Oct 2026 09:11:19 +0200</pubDate>
+    <description>Het Nederlandse Openbaar Ministerie gaat niet verder met de zaak van de Autoriteit Consument &amp; Markt tegen een vermeend netwerk van thuisaccuverkopers. De ACM startte deze zaak na meer dan duizend meldingen over oplichting, misleiding en opdringerige verkooptechnieken door die verkopers.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253122/om-stopt-onderzoek-naar-vermeende-thuisaccuoplichters-dat-zou-te-veel-werk-zijn.html#reacties</comments>
+  </item>
   <item>
     <title>Quicktest - Apple AirPods 5 - De beste anc zonder eartips</title>
     <link>https://tweakers.net/reviews/15378/apple-airpods-5-de-beste-anc-zonder-eartips.html</link>

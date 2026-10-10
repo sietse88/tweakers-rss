@@ -2709,6 +2709,26 @@
   "pubDate": "Fri, 09 Oct 2026 20:00:26 +0200",
   "title": "'Apple verlaagt productie van iPhone 18 Pro-serie vanwege tegenvallende vraag'"
  },
+ "https://tweakers.net/nieuws/253170": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html#reacties",
+  "description": "Ook de nieuwe chief financial officer van Automattic is opgestapt. TechCrunch schrijft dat Jeremy Klaperman de functie al na een maand heeft verlaten. Dat gebeurde kort nadat het hele bestuur van het moederbedrijf van WordPress.com was opgestapt en daarmee een bestuurscrisis had veroorzaakt.",
+  "guid": "https://tweakers.net/nieuws/253170",
+  "link": "https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html",
+  "pubDate": "Sat, 10 Oct 2026 09:16:45 +0200",
+  "title": "Bestuurscrisis bij WordPress-bedrijf zet door: ook cfo is weg"
+ },
+ "https://tweakers.net/nieuws/253172": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Laptops en systemen",
+  "comments": "https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html#reacties",
+  "description": "Googles nieuwe Googlebook-laptops hebben geen ondersteuning voor Enterprise Device Management (EDM). Dat bevestigt Google aan Tweakers. Daarmee zijn de nieuwe laptops vooralsnog niet altijd geschikt voor gebruik in beheerde omgevingen, zoals bij bedrijven of scholen. Chromebooks, de voorgangers van Googlebooks, werden daar juist populair dankzij hun lage prijs én eenvoudig beheer.",
+  "guid": "https://tweakers.net/nieuws/253172",
+  "link": "https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html",
+  "pubDate": "Sat, 10 Oct 2026 10:25:32 +0200",
+  "title": "Google bevestigt dat Googlebooks zakelijk niet op afstand kunnen worden beheerd"
+ },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
   "category": "Quicktest / Computers / Monitors",
@@ -3148,5 +3168,15 @@
   "link": "https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html",
   "pubDate": "Wed, 07 Oct 2026 17:15:00 +0200",
   "title": "Achtergrond - Ongecontroleerde bankadressen maken misbruik van iDIN-koppelingen mogelijk"
+ },
+ "https://tweakers.net/reviews/15436": {
+  "author": "Ron Vorstermans",
+  "category": "Review / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html#reacties",
+  "description": "Gears of War E-Day vertelt het verhaal van hoe de oorlog tegen de Locust Horde ooit begon en dat brengt natuurlijk herkenbare en spectaculaire actie met zich mee.",
+  "guid": "https://tweakers.net/reviews/15436",
+  "link": "https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html",
+  "pubDate": "Sat, 10 Oct 2026 06:00:00 +0200",
+  "title": "Review - Gears of War: E-Day - Knallen op niveau"
  }
 }

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 10 Oct 2026 02:26:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 08:55:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google bevestigt dat Googlebooks zakelijk niet op afstand kunnen worden beheerd</title>
+    <link>https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253172</guid>
+    <pubDate>Sat, 10 Oct 2026 10:25:32 +0200</pubDate>
+    <description>Googles nieuwe Googlebook-laptops hebben geen ondersteuning voor Enterprise Device Management (EDM). Dat bevestigt Google aan Tweakers. Daarmee zijn de nieuwe laptops vooralsnog niet altijd geschikt voor gebruik in beheerde omgevingen, zoals bij bedrijven of scholen. Chromebooks, de voorgangers van Googlebooks, werden daar juist populair dankzij hun lage prijs én eenvoudig beheer.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Laptops en systemen</category>
+    <comments>https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bestuurscrisis bij WordPress-bedrijf zet door: ook cfo is weg</title>
+    <link>https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253170</guid>
+    <pubDate>Sat, 10 Oct 2026 09:16:45 +0200</pubDate>
+    <description>Ook de nieuwe chief financial officer van Automattic is opgestapt. TechCrunch schrijft dat Jeremy Klaperman de functie al na een maand heeft verlaten. Dat gebeurde kort nadat het hele bestuur van het moederbedrijf van WordPress.com was opgestapt en daarmee een bestuurscrisis had veroorzaakt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Gears of War: E-Day - Knallen op niveau</title>
+    <link>https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15436</guid>
+    <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Gears of War E-Day vertelt het verhaal van hoe de oorlog tegen de Locust Horde ooit begon en dat brengt natuurlijk herkenbare en spectaculaire actie met zich mee.</description>
+    <dc:creator>Ron Vorstermans</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html#reacties</comments>
+  </item>
   <item>
     <title>'AI-bedrijven bereiden zich voor op negatieve publieke opinie na groot incident'</title>
     <link>https://tweakers.net/nieuws/253150/ai-bedrijven-bereiden-zich-voor-op-negatieve-publieke-opinie-na-groot-incident.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 10 Oct 2026 08:55:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 15:16:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>KPN lost storing op waardoor NL ziekenhuizen slecht bereikbaar waren - update 2</title>
+    <link>https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253174</guid>
+    <pubDate>Sat, 10 Oct 2026 10:53:39 +0200</pubDate>
+    <description>KPN heeft een storing opgelost waardoor meerdere Nederlandse ziekenhuizen slecht bereikbaar waren. De storing kwam door een probleem in het koelsysteem van een van de datacenters. De provider onderzoekt nog hoe het probleem kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html#reacties</comments>
+  </item>
   <item>
     <title>Google bevestigt dat Googlebooks zakelijk niet op afstand kunnen worden beheerd</title>
     <link>https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html</link>

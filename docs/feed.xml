@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 11 Oct 2026 07:58:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 14:52:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia zou RTX 5090 schrappen om GB202-chip alleen voor RTX Pro en AI te bieden</title>
+    <link>https://tweakers.net/nieuws/253186/nvidia-zou-rtx-5090-schrappen-om-gb202-chip-alleen-voor-rtx-pro-en-ai-te-bieden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253186</guid>
+    <pubDate>Sun, 11 Oct 2026 13:12:16 +0200</pubDate>
+    <description>Nvidia zou stoppen met de RTX 5090-videokaart om de daarin gebruikte GB202-chip exclusief in te zetten voor RTX Pro-videokaarten en AI-toepassingen. Dit meldt leaker MEGAsizeGPU. Nvidia zou chipleveringen voor RTX 5090-productie stopzetten. Prijzen voor dat topmodel-gpu waren al hoog.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253186/nvidia-zou-rtx-5090-schrappen-om-gb202-chip-alleen-voor-rtx-pro-en-ai-te-bieden.html#reacties</comments>
+  </item>
+  <item>
+    <title>Global Foundries wil in Duitse fabriek chips met 7nm-prestaties maken voor AI</title>
+    <link>https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253184</guid>
+    <pubDate>Sun, 11 Oct 2026 12:04:20 +0200</pubDate>
+    <description>Global Foundries' uitbreiding van zijn chipfabriek in Dresden bereikt het hoogste punt van de bouw en kondigt de volgende generatie aan van zijn technologie voor geavanceerde chipproductie. De FDX Fusion-technologie moet energiezuinige en krachtige chips maken op niveau van 7 nanometer.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html#reacties</comments>
+  </item>
+  <item>
+    <title>GTA VI-leaker dreigt build van game vrij te geven</title>
+    <link>https://tweakers.net/nieuws/253180/gta-vi-leaker-dreigt-build-van-game-vrij-te-geven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253180</guid>
+    <pubDate>Sun, 11 Oct 2026 11:05:41 +0200</pubDate>
+    <description>GTA VI-leaker Cyberleek dreigt een build van de langverwachte game vrij te geven. Hij claimt de gameplaybeelden te lekken uit protest tegen het feit dat GTA-maker Rockstar de game niet op fysieke media uitbrengt. Cyberleek ondermijnt die geclaimde reden door een eigen memecoin aan te prijzen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/253180/gta-vi-leaker-dreigt-build-van-game-vrij-te-geven.html#reacties</comments>
+  </item>
+  <item>
+    <title>Reisbedrijf TUI onderzoekt datalek waarbij mogelijk reisinformatie is gestolen</title>
+    <link>https://tweakers.net/nieuws/253182/reisbedrijf-tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253182</guid>
+    <pubDate>Sun, 11 Oct 2026 10:33:46 +0200</pubDate>
+    <description>Reisorganisator TUI laat een internationaal team een datalek onderzoeken. Volgens het bedrijf is nog onbekend hoeveel klanten erbij betrokken zijn en om welke data het gaat. TUI waarschuwt wel dat mensen geen verdachte berichten moeten openen en geen betalingen moeten doen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253182/reisbedrijf-tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html#reacties</comments>
+  </item>
   <item>
     <title>OpenClaw claimt nieuw topleveldomein .claw voor internetadressen bij ICANN</title>
     <link>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html</link>

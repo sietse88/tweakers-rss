@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 11 Oct 2026 01:48:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 07:58:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenClaw claimt nieuw topleveldomein .claw voor internetadressen bij ICANN</title>
+    <link>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253178</guid>
+    <pubDate>Sun, 11 Oct 2026 09:35:09 +0200</pubDate>
+    <description>De OpenClaw Foundation wil de eigenaar worden van het nieuwe topleveldomein .claw in de uitbreiding van internetadresnamen die beheerorganisatie ICANN doorvoert. De stichting achter de lokaal draaiende AI-assistent is de enige partij die aanspraak maakt op .claw. De ICANN-procedure loopt tot in 2027.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - AV Access iDock B23 - Thuiswerken én gamen met één kvm-dock</title>
+    <link>https://tweakers.net/reviews/15358/av-access-idock-b23-thuiswerken-en-gamen-met-een-kvm-dock.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15358</guid>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Met één druk op de knop schakelen tussen je laptop en je game-pc? Dat kan met een kvm-dock zoals deze AV Access iDock B23.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Kvm-switches</category>
+    <comments>https://tweakers.net/reviews/15358/av-access-idock-b23-thuiswerken-en-gamen-met-een-kvm-dock.html#reacties</comments>
+  </item>
   <item>
     <title>KPN lost storing op waardoor NL ziekenhuizen slecht bereikbaar waren - update 2</title>
     <link>https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 11 Oct 2026 19:29:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 23:07:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -46,14 +46,14 @@
     <comments>https://tweakers.net/nieuws/253180/gta-vi-leaker-dreigt-build-van-game-vrij-te-geven.html#reacties</comments>
   </item>
   <item>
-    <title>Reisbedrijf TUI onderzoekt datalek waarbij mogelijk reisinformatie is gestolen</title>
-    <link>https://tweakers.net/nieuws/253182/reisbedrijf-tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html</link>
+    <title>TUI onderzoekt datalek waarbij mogelijk reisinformatie is gestolen - update</title>
+    <link>https://tweakers.net/nieuws/253182/tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253182</guid>
     <pubDate>Sun, 11 Oct 2026 10:33:46 +0200</pubDate>
     <description>Reisorganisator TUI laat een internationaal team een datalek onderzoeken. Volgens het bedrijf is nog onbekend hoeveel klanten erbij betrokken zijn en om welke data het gaat. TUI waarschuwt wel dat mensen geen verdachte berichten moeten openen en geen betalingen moeten doen.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253182/reisbedrijf-tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253182/tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html#reacties</comments>
   </item>
   <item>
     <title>OpenClaw claimt nieuw topleveldomein .claw voor internetadressen bij ICANN</title>

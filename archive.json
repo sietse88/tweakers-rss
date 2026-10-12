@@ -2802,12 +2802,12 @@
  "https://tweakers.net/nieuws/253190": {
   "author": "Eveline Meijer",
   "category": "Nieuws / IT Pro / Internettoegang",
-  "comments": "https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html#reacties",
-  "description": "Albert Heijn, Etos en Gall & Gall hebben sinds zondagmiddag te maken met een IT-incident. De websites van de drie winkels, die onder moederbedrijf Ahold Delhaize vallen, zijn sindsdien onbereikbaar. Ook de apps en klantenservice zijn niet beschikbaar.",
+  "comments": "https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-securityincident.html#reacties",
+  "description": "Albert Heijn, Etos en Gall & Gall hebben sinds zondagmiddag te maken met een cybersecurityincident. De websites van de drie winkels, die onder moederbedrijf Ahold Delhaize vallen, zijn sindsdien onbereikbaar. Ook de apps en klantenservice zijn niet beschikbaar. In België is Delhaize ook door het incident getroffen.",
   "guid": "https://tweakers.net/nieuws/253190",
-  "link": "https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html",
+  "link": "https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-securityincident.html",
   "pubDate": "Mon, 12 Oct 2026 07:54:29 +0200",
-  "title": "Albert Heijn, Etos en Gall & Gall schakelen systemen uit na IT-incident"
+  "title": "Albert Heijn, Etos en Gall & Gall schakelen systemen uit na securityincident"
  },
  "https://tweakers.net/nieuws/253192": {
   "author": "Eveline Meijer",
@@ -2849,6 +2849,16 @@
   "pubDate": "Mon, 12 Oct 2026 10:49:38 +0200",
   "title": "Squadron 42 nadert na 12 jaar vertraging release volgens nieuwe Steam-pagina"
  },
+ "https://tweakers.net/nieuws/253202": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Software development",
+  "comments": "https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html#reacties",
+  "description": "Wachtwoordmanager Bitwarden past zijn licentie deels aan, waardoor apps in appwinkels alleen nog commercieel zijn. De broncode zelf blijft wel open source beschikbaar, maar nieuwe functies komen alleen in de officiële apps. Daardoor gaan die geleidelijk verschillen van afgeleide apps. Gebruikers klagen daarover, onder andere omdat Bitwarden altijd een publiekslieveling was vanwege het opensourcekarakter.",
+  "guid": "https://tweakers.net/nieuws/253202",
+  "link": "https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html",
+  "pubDate": "Mon, 12 Oct 2026 12:02:44 +0200",
+  "title": "Bitwarden maakt apps minder open source en sluit zo bepaalde nieuwe functies af"
+ },
  "https://tweakers.net/nieuws/253204": {
   "author": "Eveline Meijer",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
@@ -2858,6 +2868,156 @@
   "link": "https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html",
   "pubDate": "Mon, 12 Oct 2026 11:37:59 +0200",
   "title": "Yandex-diensten zijn onbereikbaar na droneaanvallen op datacenters"
+ },
+ "https://tweakers.net/nieuws/253206": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html#reacties",
+  "description": "De pc-app van XBOX krijgt een nieuw uiterlijk. Deze nieuwe app, die nu de codenaam Garrison draagt, is een stuk sneller dan de huidige variant. Dat stelt Windows Central, dat een vroege versie van de app kon uitproberen.",
+  "guid": "https://tweakers.net/nieuws/253206",
+  "link": "https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html",
+  "pubDate": "Mon, 12 Oct 2026 15:32:42 +0200",
+  "title": "'Gamebibliotheek laadt bijna direct in nieuwe pc-app van XBOX'"
+ },
+ "https://tweakers.net/nieuws/253208": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Tablets en telefoons / Mobiele abonnementen",
+  "comments": "https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html#reacties",
+  "description": "Vodafone laat gebruikers met een Unlimited Plus- of Unlimited Max-abonnement data delen met andere Vodafone-gebruikers. De gedeelde data blijft de hele maand geldig, maar klanten kunnen die niet  terugnemen.",
+  "guid": "https://tweakers.net/nieuws/253208",
+  "link": "https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html",
+  "pubDate": "Mon, 12 Oct 2026 13:27:06 +0200",
+  "title": "Vodafone laat Unlimited-gebruikers data delen met anderen"
+ },
+ "https://tweakers.net/nieuws/253210": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / Beeld en geluid / Smarthome",
+  "comments": "https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html#reacties",
+  "description": "De smarthomehub die Apple op 13 oktober zou onthullen, heet de HomeView. Dat meldt de doorgaans goed ingelichte analist Mark Gurman van Bloomberg. De hub krijgt een scherm en een A18-chip en dient als het commandocentrum van Siri.",
+  "guid": "https://tweakers.net/nieuws/253210",
+  "link": "https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html",
+  "pubDate": "Mon, 12 Oct 2026 14:33:46 +0200",
+  "title": "Bloomberg: Smarthomehub van Apple heet HomeView en krijgt twee versies"
+ },
+ "https://tweakers.net/nieuws/253212": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html#reacties",
+  "description": "De Amerikaanse regering heeft de Britse testinstantie AI Security Institute (AISI) weer vroegtijdig toegang gegeven tot de nieuwste Amerikaanse AI-modellen. Dat meldt The Telegraph. Het Witte Huis stond dat een tijdje niet toe, omdat de regering eerst zelf nieuwe modellen wilde uitproberen.",
+  "guid": "https://tweakers.net/nieuws/253212",
+  "link": "https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html",
+  "pubDate": "Mon, 12 Oct 2026 17:20:11 +0200",
+  "title": "'VS geeft Britse overheid weer vroegtijdige toegang tot Amerikaanse AI-modellen'"
+ },
+ "https://tweakers.net/nieuws/253214": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html#reacties",
+  "description": "Hoster mijn.host heeft sinds vannacht te maken met een storing, waardoor enkele servers offline zijn. Het bedrijf meldt dat dit komt door defecte opslag binnen het platform. De getroffen diensten komen inmiddels weer deels online.",
+  "guid": "https://tweakers.net/nieuws/253214",
+  "link": "https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html",
+  "pubDate": "Mon, 12 Oct 2026 14:19:34 +0200",
+  "title": "Defecte opslag brengt servers van mijn.host urenlang offline"
+ },
+ "https://tweakers.net/nieuws/253216": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253216/nctv-70-procent-van-de-inwoners-heeft-zorgen-over-online-ronselen-van-jongeren.html#reacties",
+  "description": "Bijna 70 procent van de Nederlandse inwoners maakt zich veel zorgen over het online ronselen van jongeren. Dat blijkt uit de Risico- en Crisisbarometer (RCB) van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV).",
+  "guid": "https://tweakers.net/nieuws/253216",
+  "link": "https://tweakers.net/nieuws/253216/nctv-70-procent-van-de-inwoners-heeft-zorgen-over-online-ronselen-van-jongeren.html",
+  "pubDate": "Mon, 12 Oct 2026 15:08:38 +0200",
+  "title": "NCTV: 70 procent van de inwoners heeft zorgen over online ronselen van jongeren"
+ },
+ "https://tweakers.net/nieuws/253220": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html#reacties",
+  "description": "Honderden filialen van de Franse supermarkten Intermarché en Coopérative U zijn getroffen door een cyberaanval. Daardoor ontdooien de koelingen, meldt persbureau AFP. De aanval zou 150 tot 200 Intermarché-winkels en bijna 100 Coopérative U-filialen treffen.",
+  "guid": "https://tweakers.net/nieuws/253220",
+  "link": "https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html",
+  "pubDate": "Mon, 12 Oct 2026 15:27:29 +0200",
+  "title": "Koelingen van Franse supermarkten ontdooien door cyberaanval"
+ },
+ "https://tweakers.net/nieuws/253222": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Serversoftware",
+  "comments": "https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html#reacties",
+  "description": "De storing bij Versio komt door 'een kwetsbaarheid', zegt de hostingprovider. Inmiddels concludeert het bedrijf dat die niet is uitgebuit en er dus geen klantgegevens zijn gestolen, maar de beheerdersomgeving is voor klanten nog steeds niet bruikbaar. De storing duurt al tweeënhalve week. Versio zegt klanten over twee weken verder te informeren.",
+  "guid": "https://tweakers.net/nieuws/253222",
+  "link": "https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html",
+  "pubDate": "Mon, 12 Oct 2026 15:49:09 +0200",
+  "title": "Storing bij Versio kan nog twee weken duren en kwam door onbekende kwetsbaarheid"
+ },
+ "https://tweakers.net/nieuws/253224": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html#reacties",
+  "description": "De komst van een Proton-telefoon is onvermijdelijk, zegt ceo Andy Yen in gesprek met het Franse Clubic. Ook wil Yen een instantmessagingapp en mogelijk een browser introduceren. Wanneer dat precies gaat gebeuren, is nog niet duidelijk.",
+  "guid": "https://tweakers.net/nieuws/253224",
+  "link": "https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html",
+  "pubDate": "Mon, 12 Oct 2026 16:11:44 +0200",
+  "title": "Proton-ceo Andy Yen noemt komst van Proton-telefoon 'onvermijdelijk'"
+ },
+ "https://tweakers.net/nieuws/253226": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html#reacties",
+  "description": "Een AI-agent van Anthropic heeft in juli een valse tip ingediend over een onopgeloste moordzaak bij de politie in de Amerikaanse stad Philadelphia. De politie zegt dat er geen signalen zijn dat er politiesystemen zijn gehackt. Anthropic heeft het incident gemeld aan het Witte Huis.",
+  "guid": "https://tweakers.net/nieuws/253226",
+  "link": "https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html",
+  "pubDate": "Mon, 12 Oct 2026 16:47:36 +0200",
+  "title": "AI-agent van Anthropic dient valse tip in over moordzaak"
+ },
+ "https://tweakers.net/nieuws/253228": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html#reacties",
+  "description": "Intel heeft de prijzen van zijn cpu's in september verhoogd, melden bronnen binnen de toeleveringsketen aan de Taiwanese Commercial Times. Qualcomm zou zijn prijzen in oktober hebben verhoogd en ook AMD-processors worden naar verluidt duurder.",
+  "guid": "https://tweakers.net/nieuws/253228",
+  "link": "https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html",
+  "pubDate": "Mon, 12 Oct 2026 16:52:57 +0200",
+  "title": "Intel, AMD en Qualcomm maken processors naar verluidt tot 20 procent duurder"
+ },
+ "https://tweakers.net/nieuws/253232": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html#reacties",
+  "description": "Google heeft zijn Fitbit Edge aangekondigd. De fitnesstracker heeft een scherm en volgt daarmee de Charge-modellen op, waarvan het laatste in 2023 verscheen. Hierdoor heeft het apparaat meer functies dan de schermloze Fitbit Air die Google onlangs uitbracht, maar minder dan een volwaardige smartwatch.",
+  "guid": "https://tweakers.net/nieuws/253232",
+  "link": "https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html",
+  "pubDate": "Mon, 12 Oct 2026 18:18:33 +0200",
+  "title": "Google geeft Fitbit Edge groter scherm en vervangbare accu voor 180 euro"
+ },
+ "https://tweakers.net/nieuws/253234": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Beeld en geluid / Speakers",
+  "comments": "https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html#reacties",
+  "description": "CMF, tot voor kort Nothings budgetmerk, brengt zijn eerste draagbare speakers uit: de CMF Speaker S en Speaker M. Ze hebben een opvallend ontwerp dat doet denken aan melkpakken. De speakers kosten minstens 59 euro.",
+  "guid": "https://tweakers.net/nieuws/253234",
+  "link": "https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html",
+  "pubDate": "Mon, 12 Oct 2026 21:12:28 +0200",
+  "title": "CMF brengt draagbare speakers uit in de vorm van melkpakken"
+ },
+ "https://tweakers.net/nieuws/253236": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253236/hackers-voorzagen-ledger-hardwarewallets-van-backdoor-om-crypto-te-stelen.html#reacties",
+  "description": "Een klein deel van de hardwarewallets van Ledger is gecompromitteerd, waardoor een derde partij toegang had tot de opgeslagen cryptovaluta. Dat bevestigt het Franse bedrijf. Het lijkt vooralsnog enkel te gaan om producten die door een Indonesische reseller werden verkocht.",
+  "guid": "https://tweakers.net/nieuws/253236",
+  "link": "https://tweakers.net/nieuws/253236/hackers-voorzagen-ledger-hardwarewallets-van-backdoor-om-crypto-te-stelen.html",
+  "pubDate": "Mon, 12 Oct 2026 19:37:35 +0200",
+  "title": "Hackers voorzagen Ledger-hardwarewallets van backdoor om crypto te stelen"
+ },
+ "https://tweakers.net/nieuws/253238": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html#reacties",
+  "description": "Hello Games brengt op 28 oktober een port van No Man's Sky uit voor iPhones en iPads. Het gaat om de volledige game, inclusief alle uitbreidingen. Wel ontbreekt de multiplayermodus.",
+  "guid": "https://tweakers.net/nieuws/253238",
+  "link": "https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html",
+  "pubDate": "Mon, 12 Oct 2026 20:15:33 +0200",
+  "title": "No Man's Sky komt op 28 oktober uit voor iPhone en iPad"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

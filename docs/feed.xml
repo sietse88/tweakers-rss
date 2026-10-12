@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 12 Oct 2026 09:42:23 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 19:24:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,116 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>CMF brengt draagbare speakers uit in de vorm van melkpakken</title>
+    <link>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253234</guid>
+    <pubDate>Mon, 12 Oct 2026 21:12:28 +0200</pubDate>
+    <description>CMF, tot voor kort Nothings budgetmerk, brengt zijn eerste draagbare speakers uit: de CMF Speaker S en Speaker M. Ze hebben een opvallend ontwerp dat doet denken aan melkpakken. De speakers kosten minstens 59 euro.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Speakers</category>
+    <comments>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html#reacties</comments>
+  </item>
+  <item>
+    <title>No Man's Sky komt op 28 oktober uit voor iPhone en iPad</title>
+    <link>https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253238</guid>
+    <pubDate>Mon, 12 Oct 2026 20:15:33 +0200</pubDate>
+    <description>Hello Games brengt op 28 oktober een port van No Man's Sky uit voor iPhones en iPads. Het gaat om de volledige game, inclusief alle uitbreidingen. Wel ontbreekt de multiplayermodus.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html#reacties</comments>
+  </item>
+  <item>
+    <title>'VS geeft Britse overheid weer vroegtijdige toegang tot Amerikaanse AI-modellen'</title>
+    <link>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253212</guid>
+    <pubDate>Mon, 12 Oct 2026 17:20:11 +0200</pubDate>
+    <description>De Amerikaanse regering heeft de Britse testinstantie AI Security Institute (AISI) weer vroegtijdig toegang gegeven tot de nieuwste Amerikaanse AI-modellen. Dat meldt The Telegraph. Het Witte Huis stond dat een tijdje niet toe, omdat de regering eerst zelf nieuwe modellen wilde uitproberen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html#reacties</comments>
+  </item>
+  <item>
+    <title>AI-agent van Anthropic dient valse tip in over moordzaak</title>
+    <link>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253226</guid>
+    <pubDate>Mon, 12 Oct 2026 16:47:36 +0200</pubDate>
+    <description>Een AI-agent van Anthropic heeft in juli een valse tip ingediend over een onopgeloste moordzaak bij de politie in de Amerikaanse stad Philadelphia. De politie zegt dat er geen signalen zijn dat er politiesystemen zijn gehackt. Anthropic heeft het incident gemeld aan het Witte Huis.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html#reacties</comments>
+  </item>
+  <item>
+    <title>Storing bij Versio kan nog twee weken duren en kwam door onbekende kwetsbaarheid</title>
+    <link>https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253222</guid>
+    <pubDate>Mon, 12 Oct 2026 15:49:09 +0200</pubDate>
+    <description>De storing bij Versio komt door 'een kwetsbaarheid', zegt de hostingprovider. Inmiddels concludeert het bedrijf dat die niet is uitgebuit en er dus geen klantgegevens zijn gestolen, maar de beheerdersomgeving is voor klanten nog steeds niet bruikbaar. De storing duurt al tweeënhalve week. Versio zegt klanten over twee weken verder te informeren.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Serversoftware</category>
+    <comments>https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Gamebibliotheek laadt bijna direct in nieuwe pc-app van XBOX'</title>
+    <link>https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253206</guid>
+    <pubDate>Mon, 12 Oct 2026 15:32:42 +0200</pubDate>
+    <description>De pc-app van XBOX krijgt een nieuw uiterlijk. Deze nieuwe app, die nu de codenaam Garrison draagt, is een stuk sneller dan de huidige variant. Dat stelt Windows Central, dat een vroege versie van de app kon uitproberen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html#reacties</comments>
+  </item>
+  <item>
+    <title>Koelingen van Franse supermarkten ontdooien door cyberaanval</title>
+    <link>https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253220</guid>
+    <pubDate>Mon, 12 Oct 2026 15:27:29 +0200</pubDate>
+    <description>Honderden filialen van de Franse supermarkten Intermarché en Coopérative U zijn getroffen door een cyberaanval. Daardoor ontdooien de koelingen, meldt persbureau AFP. De aanval zou 150 tot 200 Intermarché-winkels en bijna 100 Coopérative U-filialen treffen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html#reacties</comments>
+  </item>
+  <item>
+    <title>NCTV: 70 procent van de inwoners heeft zorgen over online ronselen van jongeren</title>
+    <link>https://tweakers.net/nieuws/253216/nctv-70-procent-van-de-inwoners-heeft-zorgen-over-online-ronselen-van-jongeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253216</guid>
+    <pubDate>Mon, 12 Oct 2026 15:08:38 +0200</pubDate>
+    <description>Bijna 70 procent van de Nederlandse inwoners maakt zich veel zorgen over het online ronselen van jongeren. Dat blijkt uit de Risico- en Crisisbarometer (RCB) van de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV).</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253216/nctv-70-procent-van-de-inwoners-heeft-zorgen-over-online-ronselen-van-jongeren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bloomberg: Smarthomehub van Apple heet HomeView en krijgt twee versies</title>
+    <link>https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253210</guid>
+    <pubDate>Mon, 12 Oct 2026 14:33:46 +0200</pubDate>
+    <description>De smarthomehub die Apple op 13 oktober zou onthullen, heet de HomeView. Dat meldt de doorgaans goed ingelichte analist Mark Gurman van Bloomberg. De hub krijgt een scherm en een A18-chip en dient als het commandocentrum van Siri.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html#reacties</comments>
+  </item>
+  <item>
+    <title>Defecte opslag brengt servers van mijn.host urenlang offline</title>
+    <link>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253214</guid>
+    <pubDate>Mon, 12 Oct 2026 14:19:34 +0200</pubDate>
+    <description>Hoster mijn.host heeft sinds vannacht te maken met een storing, waardoor enkele servers offline zijn. Het bedrijf meldt dat dit komt door defecte opslag binnen het platform. De getroffen diensten komen inmiddels weer deels online.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bitwarden maakt apps minder open source en sluit zo bepaalde nieuwe functies af</title>
+    <link>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253202</guid>
+    <pubDate>Mon, 12 Oct 2026 12:02:44 +0200</pubDate>
+    <description>Wachtwoordmanager Bitwarden past zijn licentie deels aan, waardoor apps in appwinkels alleen nog commercieel zijn. De broncode zelf blijft wel open source beschikbaar, maar nieuwe functies komen alleen in de officiële apps. Daardoor gaan die geleidelijk verschillen van afgeleide apps. Gebruikers klagen daarover, onder andere omdat Bitwarden altijd een publiekslieveling was vanwege het opensourcekarakter.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html#reacties</comments>
+  </item>
   <item>
     <title>Yandex-diensten zijn onbereikbaar na droneaanvallen op datacenters</title>
     <link>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html</link>
@@ -66,14 +176,14 @@
     <comments>https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html#reacties</comments>
   </item>
   <item>
-    <title>Albert Heijn, Etos en Gall &amp; Gall schakelen systemen uit na IT-incident</title>
-    <link>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html</link>
+    <title>Albert Heijn, Etos en Gall &amp; Gall schakelen systemen uit na securityincident</title>
+    <link>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-securityincident.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253190</guid>
     <pubDate>Mon, 12 Oct 2026 07:54:29 +0200</pubDate>
-    <description>Albert Heijn, Etos en Gall &amp; Gall hebben sinds zondagmiddag te maken met een IT-incident. De websites van de drie winkels, die onder moederbedrijf Ahold Delhaize vallen, zijn sindsdien onbereikbaar. Ook de apps en klantenservice zijn niet beschikbaar.</description>
+    <description>Albert Heijn, Etos en Gall &amp; Gall hebben sinds zondagmiddag te maken met een cybersecurityincident. De websites van de drie winkels, die onder moederbedrijf Ahold Delhaize vallen, zijn sindsdien onbereikbaar. Ook de apps en klantenservice zijn niet beschikbaar. In België is Delhaize ook door het incident getroffen.</description>
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-securityincident.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Kan AI een nucleaire ramp veroorzaken? 'AI heeft mogelijk al mensen gedood'</title>

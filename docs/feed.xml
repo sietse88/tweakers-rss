@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 12 Oct 2026 02:29:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 09:42:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Yandex-diensten zijn onbereikbaar na droneaanvallen op datacenters</title>
+    <link>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253204</guid>
+    <pubDate>Mon, 12 Oct 2026 11:37:59 +0200</pubDate>
+    <description>Veel diensten van Yandex, dat ook wel het Google van Rusland wordt genoemd, zijn onbereikbaar als gevolg van aanvallen door Oekraïne. Vorige week werden twee van zijn vijf datacenters al geraakt bij aanvallen door Oekraïne. Zondag was er een aanval op een derde datacenter.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html#reacties</comments>
+  </item>
+  <item>
+    <title>Squadron 42 nadert na 12 jaar vertraging release volgens nieuwe Steam-pagina</title>
+    <link>https://tweakers.net/nieuws/253200/squadron-42-nadert-na-12-jaar-vertraging-release-volgens-nieuwe-steam-pagina.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253200</guid>
+    <pubDate>Mon, 12 Oct 2026 10:49:38 +0200</pubDate>
+    <description>De langverwachte game Squadron 42 heeft een Steam-pagina gekregen, waar spelers hem nu ook aan hun verlanglijst kunnen toevoegen. Squadron 42 is een spin-off van Star Citizen, waarin de speler shooter- en ruimtemissies moet volbrengen. Het spel moet in het tweede kwartaal van 2027 verschijnen, valt op de nieuwe Steam-pagina te lezen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253200/squadron-42-nadert-na-12-jaar-vertraging-release-volgens-nieuwe-steam-pagina.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ontwikkelaar maakt met AI open source alternatieven voor Adobe- en Office-apps</title>
+    <link>https://tweakers.net/nieuws/253196/ontwikkelaar-maakt-met-ai-open-source-alternatieven-voor-adobe-en-office-apps.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253196</guid>
+    <pubDate>Mon, 12 Oct 2026 10:05:15 +0200</pubDate>
+    <description>Ontwikkelaar Brandon Thomas heeft gratis te gebruiken, open source varianten van Adobe- en Microsoft Office-software gemaakt. Thomas maakte de apps met AI Claude van Anthropic. In totaal zijn er nu twaalf apps beschikbaar, die draaien op Windows, macOS, Linux en in de browser.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/253196/ontwikkelaar-maakt-met-ai-open-source-alternatieven-voor-adobe-en-office-apps.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ziggo biedt per direct abonnementen met downloadsnelheden van 4 en 8Gbit/s aan</title>
+    <link>https://tweakers.net/nieuws/253194/ziggo-biedt-per-direct-abonnementen-met-downloadsnelheden-van-4-en-8gbit-s-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253194</guid>
+    <pubDate>Mon, 12 Oct 2026 09:30:00 +0200</pubDate>
+    <description>Ziggo biedt vanaf maandag pakketten met snelheden van 4Gbit/s en 8Gbit/s. De abonnementen komen direct beschikbaar in Utrecht en grote delen van Amsterdam. Ook op adressen waar Ziggo via het netwerk van Delta levert, gaat de provider hogere snelheden aanbieden. De 4Gbit/s- en 8Gbit/s-abonnementen kosten maandelijks respectievelijk 67,95 euro en 74,95 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253194/ziggo-biedt-per-direct-abonnementen-met-downloadsnelheden-van-4-en-8gbit-s-aan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft-ceo Nadella pleit voor noodrem op AI-modellen</title>
+    <link>https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253192</guid>
+    <pubDate>Mon, 12 Oct 2026 09:29:16 +0200</pubDate>
+    <description>AI heeft een noodrem nodig. Dat vindt Microsoft-ceo Satya Nadella. In een blogbericht op X deelt hij zijn visie op hoe AI veiliger kan worden. "We kunnen de verantwoordelijkheid voor wat AI namens ons doet niet simpelweg uitbesteden."</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Albert Heijn, Etos en Gall &amp; Gall schakelen systemen uit na IT-incident</title>
+    <link>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253190</guid>
+    <pubDate>Mon, 12 Oct 2026 07:54:29 +0200</pubDate>
+    <description>Albert Heijn, Etos en Gall &amp; Gall hebben sinds zondagmiddag te maken met een IT-incident. De websites van de drie winkels, die onder moederbedrijf Ahold Delhaize vallen, zijn sindsdien onbereikbaar. Ook de apps en klantenservice zijn niet beschikbaar.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-it-incident.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Kan AI een nucleaire ramp veroorzaken? 'AI heeft mogelijk al mensen gedood'</title>
+    <link>https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15440</guid>
+    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+    <description>AI-bedrijven én vooraanstaande wetenschappers waarschuwen dat AI-modellen een existentiële dreiging kunnen vormen. Is dat realistisch? Welke risico's vormen AI-modellen nu al?</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Achtergrond / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html#reacties</comments>
+  </item>
   <item>
     <title>Nvidia zou RTX 5090 schrappen om GB202-chip alleen voor RTX Pro en AI te bieden</title>
     <link>https://tweakers.net/nieuws/253186/nvidia-zou-rtx-5090-schrappen-om-gb202-chip-alleen-voor-rtx-pro-en-ai-te-bieden.html</link>

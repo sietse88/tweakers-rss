@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-  <title>Tweakers (gefilterd)</title>
+  <title>Tweakers</title>
   <link>https://tweakers.net/</link>
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
+  <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 13 Oct 2026 16:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 18:57:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
-    <title>Tweakers (gefilterd)</title>
+    <title>Tweakers</title>
     <link>https://tweakers.net/</link>
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Sharma wil dat XBOX meer nieuwe franchises gaat creëren'</title>
+    <link>https://tweakers.net/nieuws/253288/sharma-wil-dat-xbox-meer-nieuwe-franchises-gaat-creeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253288</guid>
+    <pubDate>Tue, 13 Oct 2026 20:36:51 +0200</pubDate>
+    <description>XBOX-ceo Asha Sharma wil naar verluidt dat het bedrijf meer nieuwe franchises gaat creëren. De topvrouw zou hebben gezegd dat XBOX niet kan overleven door zich alleen te concentreren op bestaande gameseries.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Gameontwikkeling</category>
+    <comments>https://tweakers.net/nieuws/253288/sharma-wil-dat-xbox-meer-nieuwe-franchises-gaat-creeren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google brengt Gemini 4 Argon na uitstel om cyberzorgen alsnog uit</title>
+    <link>https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253284</guid>
+    <pubDate>Tue, 13 Oct 2026 20:05:05 +0200</pubDate>
+    <description>Google heeft zijn Gemini 4 Argon-model uitgebracht. Het model is beschikbaar voor Pro- en Ultra-abonnees in de Gemini-app en de AI-modus in Google Zoeken. Google Ultra-gebruikers kunnen Argon ook gebruiken in Googles softwareontwikkelingsprogramma Antigravity.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>GitLab waarschuwt voor kritiek beveiligingslek met CVSS-score van 10.0</title>
+    <link>https://tweakers.net/nieuws/253280/gitlab-waarschuwt-voor-kritiek-beveiligingslek-met-cvss-score-van-100.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253280</guid>
+    <pubDate>Tue, 13 Oct 2026 18:37:21 +0200</pubDate>
+    <description>GitLab waarschuwt voor een kritieke kwetsbaarheid in GitLab Community Edition en Enterprise Edition. De kwetsbaarheid is aanwezig in versies ouder dan 19.2.8, 19.3.5 en 19.4.2. Het lek heeft de hoogste CVSS3.1-score van 10.0 gekregen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253280/gitlab-waarschuwt-voor-kritiek-beveiligingslek-met-cvss-score-van-100.html#reacties</comments>
+  </item>
   <item>
     <title>Apple HomePod mini 2 is 60 euro duurder dan voorganger</title>
     <link>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html</link>
@@ -24,6 +54,16 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Framework Laptop 12 - Modulariteit steeds beter uitgewerkt</title>
+    <link>https://tweakers.net/reviews/15428/framework-laptop-12-modulariteit-steeds-beter-uitgewerkt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15428</guid>
+    <pubDate>Tue, 13 Oct 2026 17:00:00 +0200</pubDate>
+    <description>De Laptop 12 is Frameworks kleinste modulaire computer. Hoe bevalt deze tweede generatie?</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Review / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15428/framework-laptop-12-modulariteit-steeds-beter-uitgewerkt.html#reacties</comments>
   </item>
   <item>
     <title>Nieuwe Apple TV 4K heeft ingebouwde microfoons</title>
@@ -76,6 +116,16 @@
     <comments>https://tweakers.net/nieuws/253264/rimworld-draait-2-tot-4-keer-beter-op-zelfontwikkelde-waylith-engine.html#reacties</comments>
   </item>
   <item>
+    <title>Cooler Master brengt antismeltalarm voor gpu uit voor 30 euro</title>
+    <link>https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253260</guid>
+    <pubDate>Tue, 13 Oct 2026 15:00:27 +0200</pubDate>
+    <description>Cooler Master brengt de Shield Adapter volgende week in Europa uit voor een adviesprijs van 30 euro. Het apparaat komt tussen de voeding en gpu en meet hoeveel stroom er door de kabel gaat. Als er te veel stroom door het kastje loopt, klinkt er een alarm en zou het apparaat de stroomtoevoer moeten beperken.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html#reacties</comments>
+  </item>
+  <item>
     <title>Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model</title>
     <link>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253116</guid>
@@ -94,6 +144,16 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html#reacties</comments>
+  </item>
+  <item>
+    <title>OnePlus brengt eerste vlaggenschipserie uit sinds vertrek uit Europa</title>
+    <link>https://tweakers.net/nieuws/253256/oneplus-brengt-eerste-vlaggenschipserie-uit-sinds-vertrek-uit-europa.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253256</guid>
+    <pubDate>Tue, 13 Oct 2026 14:19:35 +0200</pubDate>
+    <description>OnePlus brengt in zijn thuisland China de OnePlus 16 uit. Het is het eerste vlaggenschip van de fabrikant sinds het vertrek uit Europa en de Verenigde Staten. De OnePlus 16 heeft een nieuwe Snapdragon 8 Elite Extreme Gen 6-chip en een veel grotere accu. De smartphone kost omgerekend rond de 800 euro.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253256/oneplus-brengt-eerste-vlaggenschipserie-uit-sinds-vertrek-uit-europa.html#reacties</comments>
   </item>
   <item>
     <title>Microsoft patcht bug die installatie Windows 11 mogelijk maakte zonder account</title>
@@ -176,6 +236,36 @@
     <comments>https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html#reacties</comments>
   </item>
   <item>
+    <title>Sites en apps van Albert Heijn blijven offline na 'securityincident' van zondag</title>
+    <link>https://tweakers.net/nieuws/253242/sites-en-apps-van-albert-heijn-blijven-offline-na-securityincident-van-zondag.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253242</guid>
+    <pubDate>Tue, 13 Oct 2026 07:39:42 +0200</pubDate>
+    <description>De sites en apps van de Nederlandse winkelketens Albert Heijn, Gall &amp; Gall en Etos blijven offline na een securityincident op zondagmiddag. Het is nog altijd onbekend wanneer de diensten van moederbedrijf Ahold Delhaize weer online komen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253242/sites-en-apps-van-albert-heijn-blijven-offline-na-securityincident-van-zondag.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ontwikkelaar maakt AirDrop mogelijk op Linux-systemen van Framework en Dell</title>
+    <link>https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253240</guid>
+    <pubDate>Tue, 13 Oct 2026 07:13:45 +0200</pubDate>
+    <description>Een ontwikkelaar heeft een variant op Apple AirDrop gemaakt die werkt op Linux-systemen zonder wifichip van Apple of Broadcom. Daardoor werkt AirDrop op laptops van bijvoorbeeld Framework en Dell.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Samsung Odyssey G8 G80HF en G80HS - Gamen in superhoge resolutie</title>
+    <link>https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15408</guid>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Met de Odyssey G8 G80HF en G80HS introduceert Samsung dit jaar een 5k- en een 6k-gamingmonitor. Behalve de superhoge resolutie zijn andere eigenschappen niet zo vooruitstrevend.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Review / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html#reacties</comments>
+  </item>
+  <item>
     <title>CMF brengt draagbare speakers uit in de vorm van melkpakken</title>
     <link>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253234</guid>
@@ -196,6 +286,26 @@
     <comments>https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html#reacties</comments>
   </item>
   <item>
+    <title>'Hackers stalen 102 miljoen dollar aan crypto van Ledger-hardwarewallets'</title>
+    <link>https://tweakers.net/nieuws/253236/hackers-stalen-102-miljoen-dollar-aan-crypto-van-ledger-hardwarewallets.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253236</guid>
+    <pubDate>Mon, 12 Oct 2026 19:37:35 +0200</pubDate>
+    <description>Een klein deel van de hardwarewallets van Ledger is gecompromitteerd, waardoor een derde partij toegang had tot de opgeslagen cryptovaluta. Dat bevestigt het Franse bedrijf. Het lijkt vooralsnog enkel te gaan om producten die door een Indonesische reseller werden verkocht.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253236/hackers-stalen-102-miljoen-dollar-aan-crypto-van-ledger-hardwarewallets.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google geeft Fitbit Edge groter scherm en vervangbare accu voor 180 euro</title>
+    <link>https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253232</guid>
+    <pubDate>Mon, 12 Oct 2026 18:18:33 +0200</pubDate>
+    <description>Google heeft zijn Fitbit Edge aangekondigd. De fitnesstracker heeft een scherm en volgt daarmee de Charge-modellen op, waarvan het laatste in 2023 verscheen. Hierdoor heeft het apparaat meer functies dan de schermloze Fitbit Air die Google onlangs uitbracht, maar minder dan een volwaardige smartwatch.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html#reacties</comments>
+  </item>
+  <item>
     <title>'VS geeft Britse overheid weer vroegtijdige toegang tot Amerikaanse AI-modellen'</title>
     <link>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253212</guid>
@@ -206,6 +316,16 @@
     <comments>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html#reacties</comments>
   </item>
   <item>
+    <title>Intel, AMD en Qualcomm maken processors naar verluidt tot 20 procent duurder</title>
+    <link>https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253228</guid>
+    <pubDate>Mon, 12 Oct 2026 16:52:57 +0200</pubDate>
+    <description>Intel heeft de prijzen van zijn cpu's in september verhoogd, melden bronnen binnen de toeleveringsketen aan de Taiwanese Commercial Times. Qualcomm zou zijn prijzen in oktober hebben verhoogd en ook AMD-processors worden naar verluidt duurder.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html#reacties</comments>
+  </item>
+  <item>
     <title>AI-agent van Anthropic dient valse tip in over moordzaak</title>
     <link>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253226</guid>
@@ -214,6 +334,16 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html#reacties</comments>
+  </item>
+  <item>
+    <title>Proton-ceo Andy Yen noemt komst van Proton-telefoon 'onvermijdelijk'</title>
+    <link>https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253224</guid>
+    <pubDate>Mon, 12 Oct 2026 16:11:44 +0200</pubDate>
+    <description>De komst van een Proton-telefoon is onvermijdelijk, zegt ceo Andy Yen in gesprek met het Franse Clubic. Ook wil Yen een instantmessagingapp en mogelijk een browser introduceren. Wanneer dat precies gaat gebeuren, is nog niet duidelijk.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html#reacties</comments>
   </item>
   <item>
     <title>Storing bij Versio kan nog twee weken duren en kwam door onbekende kwetsbaarheid</title>
@@ -276,6 +406,16 @@
     <comments>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html#reacties</comments>
   </item>
   <item>
+    <title>Vodafone laat Unlimited-gebruikers data delen met anderen</title>
+    <link>https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253208</guid>
+    <pubDate>Mon, 12 Oct 2026 13:27:06 +0200</pubDate>
+    <description>Vodafone laat gebruikers met een Unlimited Plus- of Unlimited Max-abonnement data delen met andere Vodafone-gebruikers. De gedeelde data blijft de hele maand geldig, maar klanten kunnen die niet  terugnemen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
+    <comments>https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html#reacties</comments>
+  </item>
+  <item>
     <title>Bitwarden maakt apps minder open source en sluit zo bepaalde nieuwe functies af</title>
     <link>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253202</guid>
@@ -334,6 +474,16 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Wetenschap</category>
     <comments>https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hacker zegt met wachtwoord 123456 Deens persoonsregister te zijn binnengedrongen</title>
+    <link>https://tweakers.net/nieuws/253188/hacker-zegt-met-wachtwoord-123456-deens-persoonsregister-te-zijn-binnengedrongen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253188</guid>
+    <pubDate>Mon, 12 Oct 2026 08:43:28 +0200</pubDate>
+    <description>De cybercrimineel die gegevens van 8,8 miljoen Denen buitmaakte, kon via een beheerdersaccount binnendringen in het persoonsregister. Dat stelt de Deense krant Politiken op basis van claims van de verantwoordelijke hacker. De aanvaller claimt dat dit account '123456' als wachtwoord gebruikte.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253188/hacker-zegt-met-wachtwoord-123456-deens-persoonsregister-te-zijn-binnengedrongen.html#reacties</comments>
   </item>
   <item>
     <title>Albert Heijn, Etos en Gall &amp; Gall schakelen systemen uit na securityincident</title>
@@ -404,6 +554,16 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html#reacties</comments>
+  </item>
+  <item>
+    <title>Quicktest - Samsung Galaxy S26 FE - Prima toestel in rampzalig jaar</title>
+    <link>https://tweakers.net/reviews/15426/samsung-galaxy-s26-fe-prima-toestel-in-rampzalig-jaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15426</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0200</pubDate>
+    <description>Samsung brengt met de S26 FE zijn nieuwste subtopmodel op de markt. Deze is fors goedkoper dan de topmodellen, maar biedt deels dezelfde ervaring.</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Quicktest / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15426/samsung-galaxy-s26-fe-prima-toestel-in-rampzalig-jaar.html#reacties</comments>
   </item>
   <item>
     <title>Review - AV Access iDock B23 - Thuiswerken én gamen met één kvm-dock</title>
@@ -516,6 +676,16 @@
     <comments>https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html#reacties</comments>
   </item>
   <item>
+    <title>Gigabyte bevestigt dat Intel volgend jaar DDR4-compatibele cpu's uitbrengt</title>
+    <link>https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253146</guid>
+    <pubDate>Fri, 09 Oct 2026 17:00:06 +0200</pubDate>
+    <description>Intel lijkt inderdaad opnieuw oude processors uit te brengen. Gigabyte schrijft op zijn website dat moederborden een bios-update krijgen, zodat ze compatibel worden met 'komende LGA1700-processors'. Eerder gingen er al geruchten dat Intel nieuwe versies van Raptor Lake-socs zou willen uitbrengen vanwege de gestegen geheugenprijzen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html#reacties</comments>
+  </item>
+  <item>
     <title>Battlefield 6 krijgt eind dit jaar langverwachte guilds en serverbrowser</title>
     <link>https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253144</guid>
@@ -556,6 +726,16 @@
     <comments>https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html#reacties</comments>
   </item>
   <item>
+    <title>Let's Encrypt-certificaten van 64 dagen zijn vanaf oktober te testen</title>
+    <link>https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253140</guid>
+    <pubDate>Fri, 09 Oct 2026 14:58:53 +0200</pubDate>
+    <description>Let's Encrypt begint volgende week met de eerste tests van SSL-certificaten die geen 90, maar 64 dagen geldig zijn. Site- en serverbeheerders kunnen vanaf 14 oktober proefdraaien met die korter geldende certificaten.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html#reacties</comments>
+  </item>
+  <item>
     <title>Wees aardig tegen Claude: Anthropic scherpt regels tegen misbruik van AI aan</title>
     <link>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253138</guid>
@@ -564,6 +744,26 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Wereldwijde pc-leveringen kelderen 20,1 procent, mede door geheugencrisis</title>
+    <link>https://tweakers.net/nieuws/253132/wereldwijde-pc-leveringen-kelderen-20-komma-1-procent-mede-door-geheugencrisis.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253132</guid>
+    <pubDate>Fri, 09 Oct 2026 14:27:00 +0200</pubDate>
+    <description>Het aantal wereldwijd geleverde pc's is in het derde kwartaal van 2026 ten opzichte van een jaar eerder met 20,1 procent gedaald tot 62,7 miljoen pc's. De daling komt onder andere door de aanhoudende werkgeheugencrisis, waardoor hardware veel duurder is dan voorheen. Het analistenbureau verwacht wel een tijdelijke prijsdaling.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/253132/wereldwijde-pc-leveringen-kelderen-20-komma-1-procent-mede-door-geheugencrisis.html#reacties</comments>
+  </item>
+  <item>
+    <title>Citrix waarschuwt: patch direct vanwege kritieke kwetsbaarheid in NetScaler ADC</title>
+    <link>https://tweakers.net/nieuws/253136/citrix-waarschuwt-patch-direct-vanwege-kritieke-kwetsbaarheid-in-netscaler-adc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253136</guid>
+    <pubDate>Fri, 09 Oct 2026 12:40:27 +0200</pubDate>
+    <description>Citrix meldt een nieuwe kritieke kwetsbaarheid in NetScaler. Hierdoor lopen gebruikers mogelijk risico op ddos-aanvallen en aanvallen waarbij op afstand code uit te voeren is. Het bedrijf roept gebruikers op om zo snel mogelijk de nieuwste versie van de webmanagement- en beveiligingstool te installeren. Voor zover bekend wordt de kwetsbaarheid niet actief uitgebuit.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253136/citrix-waarschuwt-patch-direct-vanwege-kritieke-kwetsbaarheid-in-netscaler-adc.html#reacties</comments>
   </item>
   <item>
     <title>Razer maakt Basilisk V4 Pro-muis 12 gram lichter en geeft hem extra knoppen</title>
@@ -656,6 +856,26 @@
     <comments>https://tweakers.net/nieuws/253108/microsoft-opent-xbox-studio-voor-videoproducties-en-pretparkattracties.html#reacties</comments>
   </item>
   <item>
+    <title>Laptops met Nvidia RTX Spark-processor kosten in Nederland minstens 2999 euro</title>
+    <link>https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253106</guid>
+    <pubDate>Thu, 08 Oct 2026 17:28:52 +0200</pubDate>
+    <description>Laptops met Nvidia RTX Spark-processors zijn in Nederland te koop vanaf 2999 euro. Dat blijkt uit listings van Megekko en Coolblue. De versies met het meeste geheugen en de krachtigste chip kosten meer dan 6000 euro. Ze worden later deze maand geleverd.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>AMD brengt upscalingtechniek FSR 4 dit jaar uit voor gamelaptops en -handhelds</title>
+    <link>https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253102</guid>
+    <pubDate>Thu, 08 Oct 2026 16:34:13 +0200</pubDate>
+    <description>AMD brengt voor het eind van het jaar een lichtere variant van FSR 4 uit die is bedoeld voor apu's. Daarmee kan de upscalingtechniek worden gebruikt voor gaminglaptops en -handhelds. Op dit moment werkt FSR 4 alleen op bepaalde Radeon-videokaarten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html#reacties</comments>
+  </item>
+  <item>
     <title>ACM stelt voor om stroomnettarief vanaf 2029 tijdens piekuren te verhogen</title>
     <link>https://tweakers.net/nieuws/253104/acm-stelt-voor-om-stroomnettarief-vanaf-2029-tijdens-piekuren-te-verhogen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253104</guid>
@@ -736,6 +956,16 @@
     <comments>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html#reacties</comments>
   </item>
   <item>
+    <title>Review - Jolla Phone (2026) - Losbreken van big tech vraagt wat offers</title>
+    <link>https://tweakers.net/reviews/15182/jolla-phone-2026-losbreken-van-big-tech-vraagt-wat-offers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15182</guid>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Finse Jolla Phone is door en door Europees en werkt zonder Android of iOS. Hoe goed is deze soevereine Europese smartphone?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Review / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15182/jolla-phone-2026-losbreken-van-big-tech-vraagt-wat-offers.html#reacties</comments>
+  </item>
+  <item>
     <title>Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers</title>
     <link>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253078</guid>
@@ -744,6 +974,26 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Business software</category>
     <comments>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html#reacties</comments>
+  </item>
+  <item>
+    <title>Instapversie Microsoft Surface-laptop met Nvidia RTX Spark-cpu kost 2600 dollar</title>
+    <link>https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253072</guid>
+    <pubDate>Wed, 07 Oct 2026 20:36:24 +0200</pubDate>
+    <description>Microsoft en Nvidia deelden op woensdagavond meer details over de aanstaande Nvidia RTX Spark-processor. Laptops met deze chip zijn vanaf nu vooruit te bestellen en worden vanaf volgende week vrijdag geleverd. Microsofts goedkoopste variant kost 2600 dollar.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Discord is weer indirect getroffen door datalek: 28 miljoen accounts slachtoffer</title>
+    <link>https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253074</guid>
+    <pubDate>Wed, 07 Oct 2026 20:26:10 +0200</pubDate>
+    <description>Chatdienst Discord is opnieuw getroffen door een cyberaanval via een derde partij. De beveiligingsdienst Double Counter meldt dat er daarbij tot 28 miljoen Discord-gebruikersnamen en IP-adressen zijn gestolen. Ook zijn er een miljoen e-mailadressen buitgemaakt. Voor zover bekend zijn er geen gevoeligere gebruikersgegevens gestolen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html#reacties</comments>
   </item>
   <item>
     <title>Ring verhoogt resolutie van Plus-serie met 4k-buitencamera's</title>
@@ -774,6 +1024,26 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Browsers</category>
     <comments>https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html#reacties</comments>
+  </item>
+  <item>
+    <title>PostNL en gaslicht.com stoppen met identificatiedienst iDIN vanwege adresfraude</title>
+    <link>https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253052</guid>
+    <pubDate>Wed, 07 Oct 2026 17:15:00 +0200</pubDate>
+    <description>PostNL en energievergelijkingssites als gaslicht.com stoppen met het gebruik van iDIN om adresgegevens van gebruikers te verifiëren. Uit onderzoek blijkt dat de verificatiedienst kan worden misbruikt voor adresspoofing, wat tot privacyrisico's kan leiden. Ook andere diensten die iDIN gebruiken, kunnen kwetsbaar zijn.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Ongecontroleerde bankadressen maken misbruik van iDIN-koppelingen mogelijk</title>
+    <link>https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15420</guid>
+    <pubDate>Wed, 07 Oct 2026 17:15:00 +0200</pubDate>
+    <description>Veel instellingen zoals PostNL hebben de implementatie van verificatiedienst Itsme niet goed ingesteld. Daardoor kan mogelijk privacygevoelige informatie lekken, blijkt uit onderzoek van Tweakers.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html#reacties</comments>
   </item>
   <item>
     <title>NCSC waarschuwt Exchange-gebruikers voor risico van mailboxinzage via servergat</title>
@@ -836,6 +1106,16 @@
     <comments>https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html#reacties</comments>
   </item>
   <item>
+    <title>AMD gaat chipproductie aanzienlijk verhogen in 2027</title>
+    <link>https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253044</guid>
+    <pubDate>Wed, 07 Oct 2026 12:45:06 +0200</pubDate>
+    <description>AMD gaat de productie van zijn chips in 2027 'aanzienlijk verhogen', beweert ceo Lisa Su. Daarmee wil het bedrijf voldoen aan de groeiende vraag van AI-bedrijven naar cpu's en gpu's. Volgens Su heeft AMD zijn productie in de loop van 2026 al opgevoerd.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html#reacties</comments>
+  </item>
+  <item>
     <title>Anthropic verruimt toegang tot Claude-modellen met minder blokkades</title>
     <link>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253038</guid>
@@ -894,6 +1174,16 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Beeld en geluid / Cartech</category>
     <comments>https://tweakers.net/nieuws/253030/tesla-wil-snelheidsoverschrijding-van-fsd-begrenzen-voor-goedkeuring-in-eu.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Duizenden systemen wind- en zonneparken zijn kwetsbaar voor cyberaanvallen'</title>
+    <link>https://tweakers.net/nieuws/253028/duizenden-systemen-wind-en-zonneparken-zijn-kwetsbaar-voor-cyberaanvallen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253028</guid>
+    <pubDate>Tue, 06 Oct 2026 20:30:08 +0200</pubDate>
+    <description>Beheersystemen van duizenden Europese windmolen- en zonneparken zijn niet goed beveiligd. Uit een Nederlands onderzoek blijkt dat 8547 beheerinterfaces en bedieningspanelen in 35 landen toegankelijk zijn via een publieke internetverbinding. Daardoor zijn ze kwetsbaar voor cyberaanvallen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253028/duizenden-systemen-wind-en-zonneparken-zijn-kwetsbaar-voor-cyberaanvallen.html#reacties</comments>
   </item>
   <item>
     <title>Europese Mistral brengt openweightmodel Large 4 met biljoen parameters uit</title>
@@ -976,6 +1266,26 @@
     <comments>https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html#reacties</comments>
   </item>
   <item>
+    <title>Garmin verdubbelt opslag Enduro 4 met lange accuduur en verhoogt prijs niet</title>
+    <link>https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253014</guid>
+    <pubDate>Tue, 06 Oct 2026 14:17:51 +0200</pubDate>
+    <description>Garmin heeft de Enduro 4 aangekondigd, een smartwatch met een accuduur van maximaal drie maanden. De nieuwe versie heeft onder meer een grotere opslagcapaciteit van 64GB. Desondanks komt het horloge uit voor dezelfde prijs als de voorganger.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kledingwinkel ASOS lijkt te zijn gehackt: klanten ontvangen dreigende melding</title>
+    <link>https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253008</guid>
+    <pubDate>Tue, 06 Oct 2026 13:47:31 +0200</pubDate>
+    <description>De kledingsite ASOS is mogelijk gehackt. Klanten ontvingen een pushmelding die vermoedelijk van hackers afkomstig is. Daarin beweren ze bedrijfsgegevens te hebben gestolen via een extern bedrijf en dreigen ze die te lekken.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html#reacties</comments>
+  </item>
+  <item>
     <title>Darkwebsite biedt 'afperspakketten' met naaktfoto's van vrouwen uit NL en BE</title>
     <link>https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253006</guid>
@@ -986,6 +1296,16 @@
     <comments>https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html#reacties</comments>
   </item>
   <item>
+    <title>Magisk-ontwikkelaar werkt aan rootmethode voor Googlebook-laptops</title>
+    <link>https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253000</guid>
+    <pubDate>Tue, 06 Oct 2026 12:26:59 +0200</pubDate>
+    <description>De ontwikkelaar van Magisk, John Wu, werkt aan een manier om Googlebook-laptops te rooten. Dat heeft hij laten weten. De laptops, die vanaf deze week uitkomen, hebben een ontgrendelbare bootloader.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html#reacties</comments>
+  </item>
+  <item>
     <title>Belastingdienst stopt Microsoft-cloudmigratie en kiest eigen servers</title>
     <link>https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253004</guid>
@@ -994,6 +1314,26 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html#reacties</comments>
+  </item>
+  <item>
+    <title>Samsung maakt Galaxy A-telefoons stilletjes tot 30 procent duurder</title>
+    <link>https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253002</guid>
+    <pubDate>Tue, 06 Oct 2026 11:28:18 +0200</pubDate>
+    <description>Samsung heeft de prijzen van Galaxy A-telefoons in de eigen webwinkel verhoogd. Dat is gebeurd in Nederland en België. De Galaxy A57 5G gaat van 529 euro naar 579 euro. De A37 5G gaat van 429 euro naar 469 euro.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google: niet alle Android-apps werken goed op Googlebooks met Intel-processors</title>
+    <link>https://tweakers.net/nieuws/252998/google-niet-alle-android-apps-werken-goed-op-googlebooks-met-intel-processors.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252998</guid>
+    <pubDate>Tue, 06 Oct 2026 10:22:09 +0200</pubDate>
+    <description>Google zegt dat niet alle Android-apps goed werken op Googlebooks met Intel-processors. Ontwikkelaars moeten daarvoor aanpassingen doen. Tot nu toe is alleen aangekondigd dat de Intel-modellen in Nederland en België uitkomen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252998/google-niet-alle-android-apps-werken-goed-op-googlebooks-met-intel-processors.html#reacties</comments>
   </item>
   <item>
     <title>OpenAI geeft ChatGPT-teksten in EU standaard onzichtbaar watermerk</title>
@@ -1026,6 +1366,16 @@
     <comments>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html#reacties</comments>
   </item>
   <item>
+    <title>Trump Mobile lijkt gehackt, maar 'heeft geen team om ermee om te gaan'</title>
+    <link>https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252990</guid>
+    <pubDate>Tue, 06 Oct 2026 07:10:02 +0200</pubDate>
+    <description>De Amerikaanse provider en telefoonmaker Trump Mobile is gehackt, zo claimt een hackersgroep. Diverse slachtoffers bevestigen volgens Straight Arrow News dat de gegevens kloppen. De hackers zouden nog steeds toegang hebben tot de backend.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html#reacties</comments>
+  </item>
+  <item>
     <title>Huawei en Qualcomm sluiten meerjarige patentdeal voor 5G en AI</title>
     <link>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252988</guid>
@@ -1034,6 +1384,16 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html#reacties</comments>
+  </item>
+  <item>
+    <title>Cybercriminelen bieden gestolen data van Flink te koop aan</title>
+    <link>https://tweakers.net/nieuws/252986/cybercriminelen-bieden-gestolen-data-van-flink-te-koop-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252986</guid>
+    <pubDate>Mon, 05 Oct 2026 20:05:40 +0200</pubDate>
+    <description>Cybercriminelen bieden de data die ze van onlinesupermarkt Flink stalen te koop aan. De recent opgerichte ransomwarebende LPG zei eind september dat de data van ruim 10.000 werknemers en een miljoen klanten van Flink had gestolen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252986/cybercriminelen-bieden-gestolen-data-van-flink-te-koop-aan.html#reacties</comments>
   </item>
   <item>
     <title>Fout in Dolby Digital-decoder van Windows 11 laat apps en games crashen</title>
@@ -1076,6 +1436,26 @@
     <comments>https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html#reacties</comments>
   </item>
   <item>
+    <title>Aanvallers hadden twee maanden toegang tot downloadlinks van Belnet</title>
+    <link>https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252976</guid>
+    <pubDate>Mon, 05 Oct 2026 16:37:38 +0200</pubDate>
+    <description>Het Belgische Belnet heeft een beveiligings- en privacyincident vastgesteld binnen zijn IT-infrastructuur. Belnet voorziet Belgische onderwijsinstellingen, onderzoekscentra en overheidsdiensten van netwerk. Aanvallers kregen daarbij mogelijk toegang tot bestanden die via FileSender en FedSender verstuurd zijn. Ze onderschepten ook e-mails naar domeinen van Belnet en verplaatsten die naar externe infrastructuur.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - ShinyHunters wankelt: wie zijn de hackers achter het Odido-datalek?</title>
+    <link>https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15414</guid>
+    <pubDate>Mon, 05 Oct 2026 16:30:00 +0200</pubDate>
+    <description>ShinyHunters staat de laatste tijd onder druk. Wie zit er achter deze notoire ransomwarebende?</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Achtergrond / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html#reacties</comments>
+  </item>
+  <item>
     <title>OpenAI gaat ChatGPT-advertenties met afbeeldingen tonen, voorlopig alleen in VS</title>
     <link>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252974</guid>
@@ -1086,6 +1466,26 @@
     <comments>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html#reacties</comments>
   </item>
   <item>
+    <title>Microsoft Authenticator kan vanaf 2027 niet meer via Microsoft geback-upt worden</title>
+    <link>https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252972</guid>
+    <pubDate>Mon, 05 Oct 2026 15:55:48 +0200</pubDate>
+    <description>Gebruikers van de Android-versie van Microsoft Authenticator kunnen vanaf 2027 geen Microsoft-account meer gebruiken om hun tweestapsverificatie te back-uppen. Microsoft zegt dat gebruikers dat alleen nog via Google kunnen doen. Het bedrijf geeft daar geen verklaring voor.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html#reacties</comments>
+  </item>
+  <item>
+    <title>PocketBook brengt Verta en Verta Color in november uit vanaf 169 euro</title>
+    <link>https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252970</guid>
+    <pubDate>Mon, 05 Oct 2026 15:50:06 +0200</pubDate>
+    <description>PocketBook introduceert twee nieuwe e-readers, de Verta en Verta Color. Beide apparaten hebben een 6"-scherm en zijn vanaf november verkrijgbaar. De Verta krijgt een adviesprijs van 169 euro. De adviesprijs van de Verta Color ligt tien euro hoger, op 179 euro.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / E-readers</category>
+    <comments>https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html#reacties</comments>
+  </item>
+  <item>
     <title>Nederlands betaalbedrijf Mollie komt met iDEAL-concurrent Pay by Bank</title>
     <link>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252964</guid>
@@ -1094,6 +1494,66 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html#reacties</comments>
+  </item>
+  <item>
+    <title>Citrix dicht actief misbruikt dos-lek in NetScaler</title>
+    <link>https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252966</guid>
+    <pubDate>Mon, 05 Oct 2026 14:57:17 +0200</pubDate>
+    <description>Citrix heeft patches uitgebracht voor een actief misbruikte kwetsbaarheid in NetScaler ADC en NetScaler Gateway. Het lek kan leiden tot denial-of-serviceaanvallen, waardoor een dienst onbeschikbaar wordt.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html#reacties</comments>
+  </item>
+  <item>
+    <title>Voormalig EVGA-overklokker Kingpin keert terug en hint op samenwerking met ASUS</title>
+    <link>https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252958</guid>
+    <pubDate>Mon, 05 Oct 2026 12:58:35 +0200</pubDate>
+    <description>Vince Lucido, ook wel bekend als Kingpin, gaat weer extreem overklokken. De professionele overklokker was vooral bekend om zijn werk met EVGA, maar stopte toen die fabrikant uit de gpu-markt stapte. Nu lijkt hij aan de slag te gaan met ASUS, al zijn die plannen nog vaag.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html#reacties</comments>
+  </item>
+  <item>
+    <title>Noorse regering wil camerabrillen tijdelijk weren op drukke openbare plekken</title>
+    <link>https://tweakers.net/nieuws/252956/noorse-regering-wil-camerabrillen-tijdelijk-weren-op-drukke-openbare-plekken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252956</guid>
+    <pubDate>Mon, 05 Oct 2026 11:23:22 +0200</pubDate>
+    <description>De regering van Noorwegen wil een tijdelijk verbod op camerabrillen op sommige openbare plekken. Dat meldt persbureau Reuters. Het zou gaan om een verbod op bepaalde drukke plaatsen en mogelijk ook op scholen, speeltuinen en andere privacygevoelige plekken.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/nieuws/252956/noorse-regering-wil-camerabrillen-tijdelijk-weren-op-drukke-openbare-plekken.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Onbevoegden' hadden toegang tot gegevens 8,8 miljoen inwoners Denemarken</title>
+    <link>https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252954</guid>
+    <pubDate>Mon, 05 Oct 2026 10:37:09 +0200</pubDate>
+    <description>'Onbevoegde gebruikers' hebben toegang gekregen tot het persoonsregister van Denemarken. Daarbij konden zij de gegevens van 8,8 miljoen inwoners inzien, bevestigt de Deense overheid in een verklaring.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackers zetten data 700.000 mensen gratis online na hack Waals onderwijsnetwerk</title>
+    <link>https://tweakers.net/nieuws/252948/hackers-zetten-data-700000-mensen-gratis-online-na-hack-waals-onderwijsnetwerk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252948</guid>
+    <pubDate>Mon, 05 Oct 2026 09:23:01 +0200</pubDate>
+    <description>Hackers hebben de persoonsgegevens van 700.000 mensen gratis online gezet, meldt een datalektracker. Ze zijn afkomstig uit een database van het Waalse opleidingsnetwerk Ifapme. Daaronder vallen ook gevoelige gegevens, zoals rijksregisternummers.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252948/hackers-zetten-data-700000-mensen-gratis-online-na-hack-waals-onderwijsnetwerk.html#reacties</comments>
+  </item>
+  <item>
+    <title>Renders tonen Fitbit Edge-fitnesstracker met klein scherm en 7 dagen accuduur</title>
+    <link>https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252950</guid>
+    <pubDate>Mon, 05 Oct 2026 08:15:50 +0200</pubDate>
+    <description>Android Headlines heeft afbeeldingen en details van de onaangekondigde Google Fitbit Edge gepubliceerd. Het apparaat krijgt een klein scherm, maar minder functies dan een volwaardige smartwatch. Vermoedelijk komt de Fitbit Edge binnenkort uit.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Vijf jaar Windows 11: valt er wat te vieren?</title>
@@ -1206,6 +1666,16 @@
     <comments>https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html#reacties</comments>
   </item>
   <item>
+    <title>Google maakt Pixel 10a stilletjes 100 euro duurder</title>
+    <link>https://tweakers.net/nieuws/252922/google-maakt-pixel-10a-stilletjes-100-euro-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252922</guid>
+    <pubDate>Fri, 02 Oct 2026 21:10:45 +0200</pubDate>
+    <description>Google heeft stilletjes de prijs van de Pixel 10a met 100 euro verhoogd. De 128GB-versie van de smartphone kost nu 649 euro, terwijl de 256GB-versie 749 euro kost. Bij de introductie kostten de versies nog respectievelijk 549 en 649 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252922/google-maakt-pixel-10a-stilletjes-100-euro-duurder.html#reacties</comments>
+  </item>
+  <item>
     <title>Nabu Casa hernoemt Home Assistant Cloud omdat 'big tech cloud heeft verpest'</title>
     <link>https://tweakers.net/nieuws/252920/nabu-casa-hernoemt-home-assistant-cloud-omdat-big-tech-cloud-heeft-verpest.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252920</guid>
@@ -1276,6 +1746,16 @@
     <comments>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
   </item>
   <item>
+    <title>Voor het eerst hebben meeste deelnemers Steam Hardware Survey 32GB ram</title>
+    <link>https://tweakers.net/nieuws/252898/voor-het-eerst-hebben-meeste-deelnemers-steam-hardware-survey-32gb-ram.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252898</guid>
+    <pubDate>Fri, 02 Oct 2026 15:06:18 +0200</pubDate>
+    <description>In september was 32GB de meest voorkomende hoeveelheid ram in de Steam Hardware Survey. Tot en met augustus hadden de meeste deelnemers nog systemen met 16GB werkgeheugen. Het is niet duidelijk of de stijging het gevolg is van upgrades.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/252898/voor-het-eerst-hebben-meeste-deelnemers-steam-hardware-survey-32gb-ram.html#reacties</comments>
+  </item>
+  <item>
     <title>VoetbalTV krijgt geen schadevergoeding ondanks veel te trage AP</title>
     <link>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252888</guid>
@@ -1284,6 +1764,16 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia introduceert DGX Spark met 64GB ram voor oude prijs 128GB-model</title>
+    <link>https://tweakers.net/nieuws/252826/nvidia-introduceert-dgx-spark-met-64gb-ram-voor-oude-prijs-128gb-model.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252826</guid>
+    <pubDate>Fri, 02 Oct 2026 15:00:00 +0200</pubDate>
+    <description>Nvidia introduceert een nieuwe versie van zijn DGX Spark-mini-pc voor AI-taken. Die krijgt met 64GB de helft minder geheugen dan het bestaande model en bovendien een kleinere 2TB-ssd. Intussen verhoogt Nvidia de prijs van het 128GB-model met bijna 50 procent.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/252826/nvidia-introduceert-dgx-spark-met-64gb-ram-voor-oude-prijs-128gb-model.html#reacties</comments>
   </item>
   <item>
     <title>Android Central blijft publiceren ondanks ontslagen</title>
@@ -1324,6 +1814,16 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html#reacties</comments>
+  </item>
+  <item>
+    <title>Amazon brengt nieuwe Kindles uit met ongewijzigd display op standaardmodel</title>
+    <link>https://tweakers.net/nieuws/252890/amazon-brengt-nieuwe-kindles-uit-met-ongewijzigd-display-op-standaardmodel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252890</guid>
+    <pubDate>Fri, 02 Oct 2026 13:19:09 +0200</pubDate>
+    <description>Amazon heeft drie nieuwe Kindles uitgebracht. Het gaat om nieuwe versies van de standaard Kindle, de Paperwhite en de Colorsoft. De standaard Kindle lijkt nu op de oude Paperwhite. De schermen van de twee populairste modellen zijn hetzelfde gebleven, maar de behuizingen zijn verbeterd. Amazon brengt ook accessoires uit, zoals een knop om pagina's om te slaan.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Tablets en telefoons / E-readers</category>
+    <comments>https://tweakers.net/nieuws/252890/amazon-brengt-nieuwe-kindles-uit-met-ongewijzigd-display-op-standaardmodel.html#reacties</comments>
   </item>
   <item>
     <title>Hans Anders stopt per direct met verkoop van Meta-brillen</title>
@@ -1436,6 +1936,26 @@
     <comments>https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html#reacties</comments>
   </item>
   <item>
+    <title>Samsung verhoogt adviesprijzen Galaxy S26-serie met 100 tot 200 euro</title>
+    <link>https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252868</guid>
+    <pubDate>Thu, 01 Oct 2026 19:07:04 +0200</pubDate>
+    <description>Samsung verhoogt stilletjes de adviesprijzen van zijn Galaxy S26-telefoons. In de meeste gevallen gaat het om een stijging van 100 euro, al wordt de duurste S26 Ultra-configuratie 200 euro duurder. De S26 FE, die onlangs verscheen, blijft buiten schot.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gerucht: AMD Ryzen Z3-handheldchip krijgt Zen 6-cpu en RDNA 4m-igpu</title>
+    <link>https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252864</guid>
+    <pubDate>Thu, 01 Oct 2026 18:15:07 +0200</pubDate>
+    <description>AMD's Ryzen Z3-chips voor handhelds worden mogelijk gebaseerd op de aanstaande Zen 6-architectuur. Dat blijkt uit informatie van meerdere leakers. De ingebouwde gpu wordt juist gebaseerd op RDNA 4m, een doorontwikkeling van de RDNA 3.5-architectuur.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html#reacties</comments>
+  </item>
+  <item>
     <title>Amerikaanse overheid brengt AI-chatbot uit die overheidsvragen beantwoordt</title>
     <link>https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252828</guid>
@@ -1484,6 +2004,16 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252842/naughty-dog-brengt-eerst-nieuwe-uncharted-uit-en-dan-the-last-of-us-part-iii.html#reacties</comments>
+  </item>
+  <item>
+    <title>Framework vraagt 7659 euro voor Desktop met 192GB ram en zonder ssd</title>
+    <link>https://tweakers.net/nieuws/252840/framework-vraagt-7659-euro-voor-desktop-met-192gb-ram-en-zonder-ssd.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252840</guid>
+    <pubDate>Thu, 01 Oct 2026 13:54:57 +0200</pubDate>
+    <description>Framework komt met een nieuwe variant van zijn Desktop-mini-pc. Die krijgt een nieuwe Ryzen AI Max+ PRO 495-processor met 192GB geïntegreerd geheugen. Een DIY-versie zonder ssd kost 7659 euro. Een kant-en-klare versie met 2TB opslagruimte en Fedora Linux kost 8379 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/252840/framework-vraagt-7659-euro-voor-desktop-met-192gb-ram-en-zonder-ssd.html#reacties</comments>
   </item>
   <item>
     <title>Wehkamp haalt Meta-camerabrillen per direct uit verkoop door privacyzorgen</title>
@@ -1576,6 +2106,16 @@
     <comments>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html#reacties</comments>
   </item>
   <item>
+    <title>Gerucht: Google maakt Pixel 11a iets kleiner dan voorgangers</title>
+    <link>https://tweakers.net/nieuws/252820/gerucht-google-maakt-pixel-11a-iets-kleiner-dan-voorgangers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252820</guid>
+    <pubDate>Thu, 01 Oct 2026 08:36:06 +0200</pubDate>
+    <description>Er zijn renders en details verschenen van de Pixel 11a, de nog niet aangekondigde goedkopere telefoon uit de Pixel 11-lijn van Google. De 11a is volgens de informatie iets kleiner dan de 10a en 9a, al zijn de verschillen klein.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252820/gerucht-google-maakt-pixel-11a-iets-kleiner-dan-voorgangers.html#reacties</comments>
+  </item>
+  <item>
     <title>Paramount neemt Warner Bros. volgende week over voor 111 miljard dollar</title>
     <link>https://tweakers.net/nieuws/252818/paramount-neemt-warner-bros-volgende-week-over-voor-111-miljard-dollar.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252818</guid>
@@ -1596,6 +2136,56 @@
     <comments>https://tweakers.net/nieuws/252816/google-kondigt-gemini-4-argon-aan-maar-brengt-het-nog-niet-uit.html#reacties</comments>
   </item>
   <item>
+    <title>Explainer - Hoe hrv op je smartwatch belasting en herstel inschat</title>
+    <link>https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat</link>
+    <guid isPermaLink="false">https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Je smartwatch meet naast je hartslag ook hrv: de variatie in tijd tussen hartslagen. Zo helpt die waarde om belasting en herstel in te schatten.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Explainer / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat#reacties</comments>
+  </item>
+  <item>
+    <title>Explainer - Waarom dualband-gps je route nauwkeuriger kan meten</title>
+    <link>https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten</link>
+    <guid isPermaLink="false">https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Dualband-gps gebruikt twee frequenties om je locatie nauwkeuriger te bepalen, vooral tussen hoge gebouwen. Toch blijven ook de antenne en software bepalend.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Explainer / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten#reacties</comments>
+  </item>
+  <item>
+    <title>Explainer - Waarom saffierglas minder snel krast, maar je smartwatch niet onbreekbaar maakt</title>
+    <link>https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt</link>
+    <guid isPermaLink="false">https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Een kras op je smartwatch is zo gemaakt. Saffierglas is krasvaster dan gehard glas, maar niet onbreekbaar. Zo verschilt het van Gorilla Glass.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Explainer / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt#reacties</comments>
+  </item>
+  <item>
+    <title>Explainer - Wat de ecg-functie van je smartwatch wel en niet meet</title>
+    <link>https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet</link>
+    <guid isPermaLink="false">https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Met de ecg-functie van je smartwatch leg je je hartritme vast. Lees wat de uitslag wel en niet zegt en waarom een normale meting hartproblemen niet uitsluit.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Explainer / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet#reacties</comments>
+  </item>
+  <item>
+    <title>Explainer - Wat de SpO₂-waarde op je smartwatch betekent en wanneer die nuttig is</title>
+    <link>https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is</link>
+    <guid isPermaLink="false">https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is</guid>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Veel smartwatches meten je SpO₂, oftewel je zuurstofsaturatie. Wat betekent een waarde tussen 95 en 100 procent, hoe betrouwbaar is die en wanneer heb je er iets aan?</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Explainer / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is#reacties</comments>
+  </item>
+  <item>
     <title>Review - ASUS ROG Rapture GT-BN98-router - Wi-Fi 8 in huis, Wi-Fi 7 in de praktijk</title>
     <link>https://tweakers.net/reviews/15340/asus-rog-rapture-gt-bn98-router-wi-fi-8-in-huis-wi-fi-7-in-de-praktijk.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15340</guid>
@@ -1614,6 +2204,16 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/252812/reddit-blokkeert-rss-feeds-en-geeft-nieuwe-accounts-geen-toegang-tot-oude-ui.html#reacties</comments>
+  </item>
+  <item>
+    <title>RTL: geen enkele klant betaalde losgeld aan hackers van onlinesupermarkt Flink</title>
+    <link>https://tweakers.net/nieuws/252810/rtl-geen-enkele-klant-betaalde-losgeld-aan-hackers-van-onlinesupermarkt-flink.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252810</guid>
+    <pubDate>Wed, 30 Sep 2026 20:14:17 +0200</pubDate>
+    <description>Tot dusver heeft nog geen enkele klant losgeld betaald aan de ransomwarebende die onlinesupermarkt Flink hackte. De criminelen vroegen klanten om ongeveer 11 euro in crypto. In ruil daarvoor zouden ze de gestolen gebruikersdata niet publiceren.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252810/rtl-geen-enkele-klant-betaalde-losgeld-aan-hackers-van-onlinesupermarkt-flink.html#reacties</comments>
   </item>
   <item>
     <title>'Google betaalt klein aantal uitgevers schrale vergoeding voor AI-overzichten'</title>
@@ -1676,6 +2276,16 @@
     <comments>https://tweakers.net/nieuws/252794/klanten-van-easyenergy-krijgen-voortaan-een-gratis-p1-dongel.html#reacties</comments>
   </item>
   <item>
+    <title>Vandebron gaat 2fa afdwingen en blijft authenticatieapps ondersteunen</title>
+    <link>https://tweakers.net/nieuws/252784/vandebron-gaat-2fa-afdwingen-en-blijft-authenticatieapps-ondersteunen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252784</guid>
+    <pubDate>Wed, 30 Sep 2026 16:53:53 +0200</pubDate>
+    <description>Energieleverancier Vandebron gaat tweestapsverificatie afdwingen bij alle klanten. Het Nederlandse bedrijf gaat dat in de eerste plaats via e-mail doen. De bestaande, veiligere methode met codes uit authenticatieapps blijft beschikbaar.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252784/vandebron-gaat-2fa-afdwingen-en-blijft-authenticatieapps-ondersteunen.html#reacties</comments>
+  </item>
+  <item>
     <title>DeepSeek maakt software voor Huawei-chips om onafhankelijker van Nvidia te zijn</title>
     <link>https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252790</guid>
@@ -1734,6 +2344,16 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html#reacties</comments>
+  </item>
+  <item>
+    <title>Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan</title>
+    <link>https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252442</guid>
+    <pubDate>Wed, 30 Sep 2026 14:00:00 +0200</pubDate>
+    <description>Samsung kondigt de Tab S12-serie aan, die bestaat uit de Tab S12+ en Tab S12 Ultra. Ze hebben allebei een nieuwere MediaTek Dimensity 9500-soc. Ten opzichte van hun voorgangers zijn er ook wat downgrades. De introductieprijzen stijgen flink.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Tablets</category>
+    <comments>https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html#reacties</comments>
   </item>
   <item>
     <title>Microsoft verwijderde data van non-profits voortijdig en permanent</title>
@@ -1796,6 +2416,16 @@
     <comments>https://tweakers.net/nieuws/252772/apple-ceo-ternus-wil-sneller-meer-nieuwe-producten-uitbrengen.html#reacties</comments>
   </item>
   <item>
+    <title>EU rolt bende op die miljoen oude smartphones als nieuw zou hebben verkocht</title>
+    <link>https://tweakers.net/nieuws/252770/eu-rolt-bende-op-die-miljoen-oude-smartphones-als-nieuw-zou-hebben-verkocht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252770</guid>
+    <pubDate>Wed, 30 Sep 2026 09:05:11 +0200</pubDate>
+    <description>Europese opsporingsdiensten hebben een vermeende criminele bende opgerold die op grote schaal gebruikte smartphones als nieuw verkocht. De toestellen zouden uit oude onderdelen bestaan en vervolgens aan klanten in de EU zijn verkocht. Ook Nederland en België waren bij de actie betrokken.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/252770/eu-rolt-bende-op-die-miljoen-oude-smartphones-als-nieuw-zou-hebben-verkocht.html#reacties</comments>
+  </item>
+  <item>
     <title>Microsoft rolt Windows 11 26H2 gefaseerd uit via Windows Update</title>
     <link>https://tweakers.net/nieuws/252766/microsoft-rolt-windows-11-26h2-gefaseerd-uit-via-windows.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252766</guid>
@@ -1824,6 +2454,16 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Review / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15322/apple-iphone-18-pro-en-pro-max-review-sterke-update-slechte-koop.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Zijn die nieuwe Android-laptops duur? Prijzen van Googlebooks vergeleken</title>
+    <link>https://tweakers.net/reviews/15364/zijn-die-nieuwe-android-laptops-duur-prijzen-van-googlebooks-vergeleken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15364</guid>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Begin december komen de eerste laptops met Android uit in Nederland. Die kosten vanaf 1300 euro. Zijn ze duur ten opzichte van andere laptops en zo ja, waarom dan?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15364/zijn-die-nieuwe-android-laptops-duur-prijzen-van-googlebooks-vergeleken.html#reacties</comments>
   </item>
   <item>
     <title>Videoland gaat ook podcasts aanbieden</title>
@@ -1906,6 +2546,16 @@
     <comments>https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html#reacties</comments>
   </item>
   <item>
+    <title>Consumentenbond, Offlimits en The Firewall slepen Meta voor rechter om gluurbril</title>
+    <link>https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252744</guid>
+    <pubDate>Tue, 29 Sep 2026 16:00:18 +0200</pubDate>
+    <description>Drie Nederlandse organisaties dreigen Meta voor de rechter te slepen als het bedrijf doorgaat met de verkoop van zijn slimme brillen in de huidige vorm. De Consumentenbond, Offlimits en The Firewall claimen dat gebruik van de brillen tegen de wet is en misbruik in de hand werkt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Wearable-accessoires</category>
+    <comments>https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html#reacties</comments>
+  </item>
+  <item>
     <title>Google lijkt ondersteuning voor ChromeOS in 2034 te beëindigen</title>
     <link>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252738</guid>
@@ -1954,6 +2604,26 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html#reacties</comments>
+  </item>
+  <item>
+    <title>Quicktest - BenQ RD280UG - Bijzondere 3:2-monitor voor developers</title>
+    <link>https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/12152</guid>
+    <pubDate>Tue, 29 Sep 2026 14:00:00 +0200</pubDate>
+    <description>BenQ richt zich met de RD280UG-monitor vol op developers. Hij heeft een bijzondere 3:2-verhouding, ingebouwde verlichting en andere functies voor comfortabeler code kloppen.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Quicktest / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kobo-fabrikant belooft herstel van verdwenen boeken en notities na bug in bèta's</title>
+    <link>https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252726</guid>
+    <pubDate>Tue, 29 Sep 2026 13:55:57 +0200</pubDate>
+    <description>Een paar Kobo-bèta-updates zorgen voor problemen op sommige e-readers. Daardoor worden bepaalde boeken en notities onzichtbaar. Andere gebruikers melden 'eindeloze laadschermen'. Fabrikant Rakuten werkt aan een oplossing om verdwenen data te herstellen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / E-readers</category>
+    <comments>https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html#reacties</comments>
   </item>
   <item>
     <title>Bose bouwt noisecancellation in bedrade USB-C-oortjes voor 99,95 euro</title>
@@ -2046,6 +2716,16 @@
     <comments>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html#reacties</comments>
   </item>
   <item>
+    <title>Lenovo komt met duurste Googlebook tot nu toe: 1499 euro voor Android-laptop</title>
+    <link>https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252704</guid>
+    <pubDate>Mon, 28 Sep 2026 19:00:43 +0200</pubDate>
+    <description>Lenovo kondigt de Googlebook 15 aan in een persbericht voor de Nederlandse en Belgische markt. De laptop draait een aangepast Android, heeft een Intel Core Ultra 5 en een 15"-2,8k-oledscherm. De accuduur is maximaal 12,5 uur en de vanafprijs is 1499 euro. Kopers krijgen er wel een AI-muis bij.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html#reacties</comments>
+  </item>
+  <item>
     <title>Fans ronden decompilatie van Super Mario Galaxy voor pc-port af</title>
     <link>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252700</guid>
@@ -2116,6 +2796,16 @@
     <comments>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html#reacties</comments>
   </item>
   <item>
+    <title>Nvidia brengt platform uit dat 'Hugging Face-aanval had kunnen voorkomen'</title>
+    <link>https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252686</guid>
+    <pubDate>Mon, 28 Sep 2026 14:38:10 +0200</pubDate>
+    <description>Nvidia heeft het Open Agent Safety Platform uitgebracht. Dit platform bestaat uit twee nieuwe beveiligingstools voor AI-agents. Het bedrijf claimt dat deze tools de hack op Hugging Face door agents van OpenAI hadden kunnen voorkomen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html#reacties</comments>
+  </item>
+  <item>
     <title>Privacystichting SDBN verruilt naam voor Data Justice Europe</title>
     <link>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252684</guid>
@@ -2156,6 +2846,16 @@
     <comments>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html#reacties</comments>
   </item>
   <item>
+    <title>Linux-distro postmarketOS heet voortaan Nura</title>
+    <link>https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252678</guid>
+    <pubDate>Mon, 28 Sep 2026 10:32:10 +0200</pubDate>
+    <description>De Linux-distributie postmarketOS heeft een nieuwe naam: Nura. De naam komt voort uit een selectieproces van anderhalf jaar, waarin ruim driehonderd door de community bedachte namen werden overwogen. Het logo van de Linux-distro blijft hetzelfde.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html#reacties</comments>
+  </item>
+  <item>
     <title>Inwoners van Harderwijk kunnen op één glasvezelnetwerk kiezen uit vier providers</title>
     <link>https://tweakers.net/nieuws/252676/inwoners-van-harderwijk-kunnen-op-een-glasvezelnetwerk-kiezen-uit-vier-providers.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252676</guid>
@@ -2176,6 +2876,16 @@
     <comments>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html#reacties</comments>
   </item>
   <item>
+    <title>Odido verwacht belkwaliteit naar andere providers nog dit jaar te verbeteren</title>
+    <link>https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252670</guid>
+    <pubDate>Mon, 28 Sep 2026 08:46:50 +0200</pubDate>
+    <description>Odido verwacht de kwaliteit van belgesprekken met klanten van andere providers voor het einde van dit jaar te verbeteren. Op dit moment is de belkwaliteit bij telefoongesprekken tussen Odido-sims en sims van andere providers niet optimaal. Tussen Odido-abonnees bestaan geen problemen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+    <comments>https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html#reacties</comments>
+  </item>
+  <item>
     <title>Minecraft krijgt na ruim veertien jaar een nieuwe dimensie: de Sift</title>
     <link>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252666</guid>
@@ -2184,6 +2894,16 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html#reacties</comments>
+  </item>
+  <item>
+    <title>Patiënten kunnen niet bij ziekenhuisdossiers vanwege Citrix-kwetsbaarheden</title>
+    <link>https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252664</guid>
+    <pubDate>Mon, 28 Sep 2026 08:12:59 +0200</pubDate>
+    <description>Het Nederlandse Nationaal Cyber Security Centrum (NCSC) waarschuwt voor kwetsbaarheden in Citrix NetScaler ADC en NetScaler Gateway. Bij diverse ziekenhuizen ontstonden daardoor problemen. Inmiddels zijn patches verschenen voor de kwetsbaarheden.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html#reacties</comments>
   </item>
   <item>
     <title>Hands-on - Siri AI: Apples slimme assistent is nu bruikbaar, maar niet helemaal foutloos</title>
@@ -2266,6 +2986,16 @@
     <comments>https://tweakers.net/nieuws/252650/bungie-schrapte-geheel-nieuwe-destiny-game-voor-jonger-publiek.html#reacties</comments>
   </item>
   <item>
+    <title>Quicktest - HP OmniBook X - Een laptop van uitersten</title>
+    <link>https://tweakers.net/reviews/15286/hp-omnibook-x-een-laptop-van-uitersten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15286</guid>
+    <pubDate>Sun, 27 Sep 2026 09:00:00 +0200</pubDate>
+    <description>De Omnibook X is een luxe ogende 16"-laptop. Hoe presteert hij in de praktijk?</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Quicktest / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15286/hp-omnibook-x-een-laptop-van-uitersten.html#reacties</comments>
+  </item>
+  <item>
     <title>Achtergrond - AI-agents die in het wilde weg bedrijven hacken: is dat strafbaar?</title>
     <link>https://tweakers.net/reviews/15332/ai-agents-die-in-het-wilde-weg-bedrijven-hacken-is-dat-strafbaar.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15332</guid>
@@ -2326,6 +3056,16 @@
     <comments>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties</comments>
   </item>
   <item>
+    <title>Review - Samsung Galaxy Watch9 en Ultra2 - Nog meer focus op gezondheid</title>
+    <link>https://tweakers.net/reviews/15346/samsung-galaxy-watch9-en-ultra2-nog-meer-focus-op-gezondheid.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15346</guid>
+    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Je kunt je horloge erop gelijkzetten: elke zomer introduceert Samsung twee nieuwe Galaxy-smartwatches. Naast de normale Galaxy Watch9 is er dit jaar ook een geüpdatete Ultra.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Review / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/reviews/15346/samsung-galaxy-watch9-en-ultra2-nog-meer-focus-op-gezondheid.html#reacties</comments>
+  </item>
+  <item>
     <title>Optionele Microsoft 365-update lijkt Office-installaties soms te verwijderen</title>
     <link>https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252638</guid>
@@ -2334,6 +3074,16 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html#reacties</comments>
+  </item>
+  <item>
+    <title>TSMC is begonnen met productie van chips op A14-procedé, sneller dan gedacht</title>
+    <link>https://tweakers.net/nieuws/252636/tsmc-is-begonnen-met-productie-van-chips-op-a14-procede-sneller-dan-gedacht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252636</guid>
+    <pubDate>Fri, 25 Sep 2026 20:40:24 +0200</pubDate>
+    <description>TSMC zou zijn begonnen met de eerste proefproducties van chips op zijn '1,4nm'-procedé. Volgens bronnen in de industrie loopt het ontwikkelproces van 'A14'-chips daarmee voorspoediger dan gepland. TSMC zou al eind dit jaar kunnen opschalen naar grotere productievolumes en dan begin 2028 al kunnen beginnen met de massaproductie van chips op het modernste procedé.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/252636/tsmc-is-begonnen-met-productie-van-chips-op-a14-procede-sneller-dan-gedacht.html#reacties</comments>
   </item>
   <item>
     <title>Beelden van nieuwe iPad mini, HomePod mini's en identieke Apple TV verschijnen</title>
@@ -2426,6 +3176,16 @@
     <comments>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html#reacties</comments>
   </item>
   <item>
+    <title>WiCi One-behuizing laat RTX-gpu's draadloos verbinding maken met pc via Wi-Fi 7</title>
+    <link>https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252618</guid>
+    <pubDate>Fri, 25 Sep 2026 15:23:42 +0200</pubDate>
+    <description>Een fabrikant komt met een gpu-behuizing waarmee RTX-videokaarten draadloos verbinding kunnen maken met apparaten als laptops. Volgens de fabrikant zien apparaten de draadloze egpu als een 'gewone' videokaart in plaats van als een losse streaming-pc.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html#reacties</comments>
+  </item>
+  <item>
     <title>Stichting begint massaclaim tegen Fortnite vanwege verslavend ontwerp</title>
     <link>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252614</guid>
@@ -2456,6 +3216,16 @@
     <comments>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html#reacties</comments>
   </item>
   <item>
+    <title>Preview - Snapdragon 8 Elite Gen 6 (Extreme) - Flinke stap vooruit met nieuwe 2nm-socs</title>
+    <link>https://tweakers.net/reviews/15336/snapdragon-8-elite-gen-6-extreme-flinke-stap-vooruit-met-nieuwe-2nm-socs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15336</guid>
+    <pubDate>Fri, 25 Sep 2026 13:30:00 +0200</pubDate>
+    <description>Qualcomm heeft de Snapdragon 8 Elite Gen 6 en Snapdragon 8 Elite Extreme Gen 6 aangekondigd. Tweakers was aanwezig en kon alvast wat benchmarks draaien.</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Preview / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15336/snapdragon-8-elite-gen-6-extreme-flinke-stap-vooruit-met-nieuwe-2nm-socs.html#reacties</comments>
+  </item>
+  <item>
     <title>Google wil in oktober eerste testsatelliet voor ruimtedatacenter lanceren</title>
     <link>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252602</guid>
@@ -2464,6 +3234,16 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Wetenschap</category>
     <comments>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlands hackerscollectief DIVD meldt hack, gaat uit van 'worstcasescenario'</title>
+    <link>https://tweakers.net/nieuws/252598/nederlands-hackerscollectief-divd-meldt-hack-gaat-uit-van-worstcasescenario.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252598</guid>
+    <pubDate>Fri, 25 Sep 2026 10:48:03 +0200</pubDate>
+    <description>Het Nederlandse hackerscollectief DIVD is slachtoffer geworden van een hack, vermoedelijk uitgevoerd door AI-agents. De precieze impact is nog onduidelijk, maar het DIVD zegt voorlopig uit te gaan van het 'worstcasescenario'.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/252598/nederlands-hackerscollectief-divd-meldt-hack-gaat-uit-van-worstcasescenario.html#reacties</comments>
   </item>
   <item>
     <title>Beheerder Switch-piraterijwebsites moet 4,5 miljoen dollar betalen aan Nintendo</title>
@@ -2486,6 +3266,36 @@
     <comments>https://tweakers.net/nieuws/252594/microsoft-lijkt-af-te-stappen-van-copilot+-merknaam-voor-windows-pcs.html#reacties</comments>
   </item>
   <item>
+    <title>Achtergrond - Meta wil af van het slechte imago van camerabrillen dat het zelf veroorzaakte</title>
+    <link>https://tweakers.net/reviews/15352/meta-wil-af-van-het-slechte-imago-van-camerabrillen-dat-het-zelf-veroorzaakte.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15352</guid>
+    <pubDate>Fri, 25 Sep 2026 08:15:00 +0200</pubDate>
+    <description>Maar weinig mensen lijken happig op een bril met een ingebouwde camera. Meta lijkt nu een stapje terug te doen en brengt een slimme bril uit zónder camera.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Achtergrond / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/reviews/15352/meta-wil-af-van-het-slechte-imago-van-camerabrillen-dat-het-zelf-veroorzaakte.html#reacties</comments>
+  </item>
+  <item>
+    <title>Netflix brengt abonnement met reclame op 1 maart uit in Nederland en België</title>
+    <link>https://tweakers.net/nieuws/252592/netflix-brengt-abonnement-met-reclame-op-1-maart-uit-in-nederland-en-belgie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252592</guid>
+    <pubDate>Fri, 25 Sep 2026 07:29:23 +0200</pubDate>
+    <description>Netflix brengt zijn abonnement met advertenties op 1 maart 2027 uit in Nederland en België. Kijkers betalen dan minder, maar moeten voor en tijdens films en series wel reclameblokken uitzitten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/nieuws/252592/netflix-brengt-abonnement-met-reclame-op-1-maart-uit-in-nederland-en-belgie.html#reacties</comments>
+  </item>
+  <item>
+    <title>Round-up - 23 cpu-koelers tot 40 euro - Goede koelers voor een paar tientjes</title>
+    <link>https://tweakers.net/reviews/15078/23-cpu-koelers-tot-40-euro-goede-koelers-voor-een-paar-tientjes.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15078</guid>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Wat is de beste processorkoeler voor de budgetbewuste koper? In deze round-up vergelijken we 23 modellen die we uitgebreid hebben getest.</description>
+    <dc:creator>Reinoud Dik</dc:creator>
+    <category>Round-up / Computers / Processorkoeling</category>
+    <comments>https://tweakers.net/reviews/15078/23-cpu-koelers-tot-40-euro-goede-koelers-voor-een-paar-tientjes.html#reacties</comments>
+  </item>
+  <item>
     <title>Meta komt met Tamagotchi-gadget om zijn AI dichter bij mensen te brengen</title>
     <link>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252590</guid>
@@ -2494,6 +3304,16 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Marktontwikkelingen</category>
     <comments>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html#reacties</comments>
+  </item>
+  <item>
+    <title>NASA kiest Nederlands detectiesysteem voor Prima-ruimtetelescoop</title>
+    <link>https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252584</guid>
+    <pubDate>Thu, 24 Sep 2026 20:06:02 +0200</pubDate>
+    <description>NASA kiest detectietechnologie van Nederlandse bodem voor de nieuwe ruimtetelescoop die het in 2033 wil lanceren. De PRobe far-Infrared Mission for Astrophysics (Prima) wordt de eerste ruimtetelescoop met een actief gekoelde spiegel: op 4,5 kelvin. Daardoor is Prima veel gevoeliger.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Beeld en geluid / Spiegelreflexcamera's</category>
+    <comments>https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html#reacties</comments>
   </item>
   <item>
     <title>Verzamelaarsdoos GTA VI kost 400 euro en bevat veel extra's, maar niet de game</title>
@@ -2524,6 +3344,16 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Overige software</category>
     <comments>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html#reacties</comments>
+  </item>
+  <item>
+    <title>Tweede Kamer wil camerabrillen breder verbieden, kabinet ziet geen noodzaak</title>
+    <link>https://tweakers.net/nieuws/252580/tweede-kamer-wil-camerabrillen-breder-verbieden-kabinet-ziet-geen-noodzaak.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252580</guid>
+    <pubDate>Thu, 24 Sep 2026 17:26:56 +0200</pubDate>
+    <description>Het Nederlandse kabinet ziet geen heil in een expliciet verbod op camerabrillen waarmee gebruikers stiekem mensen kunnen filmen. Bestaande regels bieden al privacybescherming en de regering wacht een rapport af van de Europese privacytoezichthouder EDPB. De Tweede Kamer wil wel een verbod.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/nieuws/252580/tweede-kamer-wil-camerabrillen-breder-verbieden-kabinet-ziet-geen-noodzaak.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Hyves is terug, maar kan niet alleen leunen op nostalgie</title>
@@ -2576,6 +3406,16 @@
     <comments>https://tweakers.net/nieuws/252570/vooral-limburgse-en-overijsselse-zonnepaneelbezitters-merken-einde-saldering.html#reacties</comments>
   </item>
   <item>
+    <title>Ubuntu-gebruikers krijgen voortaan elke week kernelupdate</title>
+    <link>https://tweakers.net/nieuws/252568/ubuntu-gebruikers-krijgen-voortaan-elke-week-kernelupdate.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252568</guid>
+    <pubDate>Thu, 24 Sep 2026 12:58:19 +0200</pubDate>
+    <description>Canonical gaat sneller kernelupdates uitbrengen voor Ubuntu, zijn Linux-distributie. Het bedrijf brengt daardoor effectief iedere week een nieuwe kernelupdate uit. Het bedrijf doet dat vanwege het grote aantal kwetsbaarheden dat wordt aangetroffen met behulp van AI.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/252568/ubuntu-gebruikers-krijgen-voortaan-elke-week-kernelupdate.html#reacties</comments>
+  </item>
+  <item>
     <title>Gerucht: XBOX Helix-gpu is tot 40 procent krachtiger dan PlayStation 6</title>
     <link>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252566</guid>
@@ -2594,6 +3434,26 @@
     <dc:creator>Tomas Hochstenbach</dc:creator>
     <category>Review / Computers / Pc's</category>
     <comments>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft stopt nieuwe Snapdragon X2 Plus-cpu in Surface Laptop en Surface Pro</title>
+    <link>https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252564</guid>
+    <pubDate>Thu, 24 Sep 2026 11:15:19 +0200</pubDate>
+    <description>Microsoft komt met vernieuwde versies van zijn Surface Pro 12" en Surface Laptop 13". Die beschikken over een nieuwe Snapdragon X2 Plus-soc van Qualcomm. Ze bieden daarmee betere prestaties en een langere accuduur, stelt het bedrijf. De laptops verschijnen in oktober.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meta verwijdert satirische video Roel Maalderink met kritiek op zijn slimme bril</title>
+    <link>https://tweakers.net/nieuws/252560/meta-verwijdert-satirische-video-roel-maalderink-met-kritiek-op-zijn-slimme-bril.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252560</guid>
+    <pubDate>Thu, 24 Sep 2026 10:44:24 +0200</pubDate>
+    <description>Meta heeft een satirische video van programmamaker Roel Maalderink en privacyorganisatie Bits of Freedom van Instagram gehaald. De video ging over de slimme brillen van Meta, die camera's bevatten waarmee gebruikers relatief ongemerkt foto's en video's kunnen maken.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/nieuws/252560/meta-verwijdert-satirische-video-roel-maalderink-met-kritiek-op-zijn-slimme-bril.html#reacties</comments>
   </item>
   <item>
     <title>Quake Champions is niet meer gratis, maar bestaande spelers houden toegang</title>
@@ -2654,6 +3514,16 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Achtergrond / Computers / Overige software</category>
     <comments>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html#reacties</comments>
+  </item>
+  <item>
+    <title>Qualcomm draagt bij aan Linux-ondersteuning voor Snapdragon X2-serie</title>
+    <link>https://tweakers.net/nieuws/252538/qualcomm-draagt-bij-aan-linux-ondersteuning-voor-snapdragon-x2-serie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252538</guid>
+    <pubDate>Wed, 23 Sep 2026 23:27:00 +0200</pubDate>
+    <description>Qualcomm gaat actief bijdragen aan Linux-ondersteuning voor de X2-serie in laptops. Dat heeft de fabrikant bekendgemaakt tijdens de Snapdragon Summit. De ondersteuning begint met twee distro's: Debian en Ubuntu.</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/252538/qualcomm-draagt-bij-aan-linux-ondersteuning-voor-snapdragon-x2-serie.html#reacties</comments>
   </item>
   <item>
     <title>Teardown toont dat Steam Frame-lenzen relatief makkelijk te vervangen zijn</title>
@@ -2726,6 +3596,26 @@
     <comments>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html#reacties</comments>
   </item>
   <item>
+    <title>'Microsoft toont 7 oktober mogelijk ook kleinere RTX Spark-laptop' - update</title>
+    <link>https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252522</guid>
+    <pubDate>Wed, 23 Sep 2026 16:39:30 +0200</pubDate>
+    <description>Microsoft kondigt tijdens zijn Surface-evenement op 7 oktober mogelijk ook een kleinere Surface-laptop met een 12"-scherm aan, claimt Winfuture. Eerder werd bekend dat het bedrijf tijdens het evenement de Surface Laptop Ultra gaat presenteren. Die laptop heeft een 15"-miniledscherm.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html#reacties</comments>
+  </item>
+  <item>
+    <title>NZXT S5 RGB-case met drie reversebladefans kost 60 euro</title>
+    <link>https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252520</guid>
+    <pubDate>Wed, 23 Sep 2026 16:27:35 +0200</pubDate>
+    <description>NZXT heeft de S5 RGB- en S5 RGB Deluxe-behuizingen aangekondigd. Het gaat om twee ATX-cases met drie ingebouwde 120mm-reversebladeventilatoren. De S5 RGB kost 60 euro en de Deluxe-versie is 10 euro duurder.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html#reacties</comments>
+  </item>
+  <item>
     <title>Nieuwsblad vindt AI-sporen in ruim 40 procent van Belgische parlementsvragen</title>
     <link>https://tweakers.net/nieuws/252514/nieuwsblad-vindt-ai-sporen-in-ruim-40-procent-van-belgische-parlementsvragen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/252514</guid>
@@ -2746,6 +3636,26 @@
     <comments>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html#reacties</comments>
   </item>
   <item>
+    <title>Micron lijkt te stoppen met productie 2GB-geheugenchips voor RTX 50-videokaarten</title>
+    <link>https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/252508</guid>
+    <pubDate>Wed, 23 Sep 2026 14:30:10 +0200</pubDate>
+    <description>Micron lijkt te stoppen met de productie van 2GB-varianten van GDDR7-geheugenchips. Het bedrijf verlegt de focus naar 3GB-modules. Nvidia en boardpartners gebruikten de 2GB-chips voor videokaarten uit de RTX 50-serie. Naar verluidt gebruikt de onaangekondigde RTX 50 Super-serie de 3GB-modules.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Round-up - Wie maakt de beste Android-foldable? Vijf modellen gaan de strijd aan</title>
+    <link>https://tweakers.net/reviews/15264/wie-maakt-de-beste-android-foldable-vijf-modellen-gaan-de-strijd-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15264</guid>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Steeds meer smartphonemerken brengen een vouwbaar model op de markt. We nemen vijf van de beste Android-foldables onder de loep.</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Round-up / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15264/wie-maakt-de-beste-android-foldable-vijf-modellen-gaan-de-strijd-aan.html#reacties</comments>
+  </item>
+  <item>
     <title>Achtergrond - Big tech verdient miljarden aan Europeanen, maar de digitaks blijft uit</title>
     <link>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15326</guid>
@@ -2754,6 +3664,16 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Achtergrond / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Poll: Meer dan de helft van de tweakers wil geen vouwtelefoon</title>
+    <link>https://tweakers.net/reviews/15328/poll-meer-dan-de-helft-van-de-tweakers-wil-geen-vouwtelefoon.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15328</guid>
+    <pubDate>Mon, 21 Sep 2026 14:43:59 +0200</pubDate>
+    <description>85 procent van de tweakers heeft volgens onze poll geen interesse in de iPhone Duo.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>.Community / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15328/poll-meer-dan-de-helft-van-de-tweakers-wil-geen-vouwtelefoon.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Van stokoude code naar pc-port: zo moderniseren hobbyisten retrogames</title>
@@ -2766,6 +3686,16 @@
     <comments>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html#reacties</comments>
   </item>
   <item>
+    <title>Quicktest - Iiyama G-Master GOB2701QSC-B1 - Prijsvechter met ruwe kantjes</title>
+    <link>https://tweakers.net/reviews/15290/iiyama-g-master-gob2701qsc-b1-prijsvechter-met-ruwe-kantjes.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15290</guid>
+    <pubDate>Sun, 20 Sep 2026 09:00:00 +0200</pubDate>
+    <description>Iiyama's eerste oledmonitor, de iiyama G-Master GOB2701QSC-B1, heeft voor een relatief laag bedrag de nieuwste technologie. De uitwerking is niet in alle opzichten even geslaagd.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Quicktest / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/15290/iiyama-g-master-gob2701qsc-b1-prijsvechter-met-ruwe-kantjes.html#reacties</comments>
+  </item>
+  <item>
     <title>How-to - Zo laat een ESP32 Home Assistant je voordeur lokaal ontgrendelen</title>
     <link>https://tweakers.net/reviews/15226/zo-laat-een-esp32-home-assistant-je-voordeur-lokaal-ontgrendelen.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15226</guid>
@@ -2774,6 +3704,16 @@
     <dc:creator>Olaf Weijers</dc:creator>
     <category>How-to / Beeld en geluid / Smarthome</category>
     <comments>https://tweakers.net/reviews/15226/zo-laat-een-esp32-home-assistant-je-voordeur-lokaal-ontgrendelen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - GMKtec NucBox K17 - Bij deze mini-pc krijg je de cpu gratis</title>
+    <link>https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15272</guid>
+    <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Ook mini-pc's zijn door de hoge prijzen van geheugen en ssd's flink duurder geworden. GMKtec heeft een slimme loophole gevonden om deze mini-pc toch scherp te kunnen prijzen.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Pc's</category>
+    <comments>https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html#reacties</comments>
   </item>
   <item>
     <title>Review - The Blood of Dawnwalker - Brutere versie van The Witcher</title>
@@ -2794,6 +3734,16 @@
     <dc:creator>Hayte Hugo</dc:creator>
     <category>Achtergrond / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - TCL 57R94 - Enorm breed scherm met te hoge prijs</title>
+    <link>https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15198</guid>
+    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <description>TCL's topgamingmonitor, de 57R94, is ruim een meter breed, telt 16 miljoen pixels en meer dan 2000 dimmingzones. Indrukwekkend, maar er is één groot probleem.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Review / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Versnipperde markt en 1,3 miljard euro verlies duwen SkyShowtime Europa uit</title>

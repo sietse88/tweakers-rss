@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 13 Oct 2026 08:32:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 16:24:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,126 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple HomePod mini 2 is 60 euro duurder dan voorganger</title>
+    <link>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253276</guid>
+    <pubDate>Tue, 13 Oct 2026 17:56:22 +0200</pubDate>
+    <description>Apple heeft de HomePod mini 2 onthuld. De speaker heeft een S10-chip, die volgens Apple muziek in real time analyseert en optimaliseert. Het apparaat kost 169 euro, 60 euro meer dan de eerste HomePod mini bij de introductie kostte. De speaker is beschikbaar in groen, blauw, roze, wit en zwart.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Speakers</category>
+    <comments>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nieuwe Apple TV 4K heeft ingebouwde microfoons</title>
+    <link>https://tweakers.net/nieuws/253274/nieuwe-apple-tv-4k-heeft-ingebouwde-microfoons.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253274</guid>
+    <pubDate>Tue, 13 Oct 2026 16:57:52 +0200</pubDate>
+    <description>De nieuwe Apple TV 4K heeft drie far-fieldmicrofoons waarmee gebruikers Siri kunnen aansturen. Het apparaat gebruikt echo-onderdrukking om de stem van de gebruiker ook in luide omgevingen te herkennen, zegt de fabrikant. De mediaspeler kost 350 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/253274/nieuwe-apple-tv-4k-heeft-ingebouwde-microfoons.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gerucht: Grand Theft Auto VI komt begin 2027 al uit op Windows-pc's</title>
+    <link>https://tweakers.net/nieuws/253272/gerucht-grand-theft-auto-vi-komt-begin-2027-al-uit-op-windows-pcs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253272</guid>
+    <pubDate>Tue, 13 Oct 2026 16:38:07 +0200</pubDate>
+    <description>Grand Theft Auto VI zou na de aanstaande release op Microsoft- en Sony-consoles al in het begin van komend jaar uitkomen voor Windows. Pc-gamers zouden dus niet zo lang hoeven te wachten op de nieuwste game van Rockstar als bij GTA V en Red Dead Redemption 2.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253272/gerucht-grand-theft-auto-vi-komt-begin-2027-al-uit-op-windows-pcs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apple introduceert HomeView-smarthometablet, maar verkoopt hem niet in de EU</title>
+    <link>https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253270</guid>
+    <pubDate>Tue, 13 Oct 2026 16:08:38 +0200</pubDate>
+    <description>Apple heeft zijn smarthometablet HomeView aangekondigd. Het apparaat werkt als een smarthomedashboard waarop gebruikers hun slimme apparaten kunnen aansturen. Het apparaat kost 299 dollar. De fabrikant brengt het product voorlopig niet uit in de Europese Unie, omdat Siri AI in iOS nog niet in de EU beschikbaar is.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
+    <comments>https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html#reacties</comments>
+  </item>
+  <item>
+    <title>Albert Heijn ziet geen aanwijzingen gestolen klantgegevens en start systemen op</title>
+    <link>https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253266</guid>
+    <pubDate>Tue, 13 Oct 2026 15:10:27 +0200</pubDate>
+    <description>Ahold Delhaize zegt dat er op dit moment geen aanwijzingen zijn dat er klantgegevens zijn gestolen bij een securityincident op zondagmiddag. Daarom gaat het moederbedrijf van Albert Heijn 'bepaalde' systemen van de supermarktketen gecontroleerd herstarten. Het is nog niet mogelijk om online boodschappen te bestellen. Ook de klantenservice is vooralsnog offline.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html#reacties</comments>
+  </item>
+  <item>
+    <title>RimWorld draait '2 tot 4 keer beter' op zelfontwikkelde Waylith-engine</title>
+    <link>https://tweakers.net/nieuws/253264/rimworld-draait-2-tot-4-keer-beter-op-zelfontwikkelde-waylith-engine.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253264</guid>
+    <pubDate>Tue, 13 Oct 2026 15:06:32 +0200</pubDate>
+    <description>De scifikoloniemanagementgame RimWorld krijgt in versie 1.7 een andere engine. Het spel gebruikt nu de Unity-engine, maar vanaf versie 1.7 stapt Ludeon Studios over naar de eigen Waylith Engine. Daardoor gaat de game 'twee tot vier keer' soepeler draaien, belooft de ontwikkelaar.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253264/rimworld-draait-2-tot-4-keer-beter-op-zelfontwikkelde-waylith-engine.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model</title>
+    <link>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253116</guid>
+    <pubDate>Tue, 13 Oct 2026 14:45:28 +0200</pubDate>
+    <description>Nvidia komt met een verbeterd AI-model voor DLSS 5. Volgens het bedrijf is dat model tot twee keer sneller en neemt het minder vram in beslag. Dat moet vooral voor hogere framerates zorgen. Het model komt op 16 oktober naar NBA 2K27; later volgen andere games.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gebruikers kunnen AI-muziek vóór eind 2026 volledig uit Deezer weren</title>
+    <link>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253262</guid>
+    <pubDate>Tue, 13 Oct 2026 14:28:25 +0200</pubDate>
+    <description>Deezer introduceert een nieuwe optie waarmee gebruikers AI-gegenereerde muziek volledig kunnen weren. Die optie komt vóór eind 2026 beschikbaar, meldt de streamingdienst. Daarmee wil het bedrijf gebruikers een betere ervaring bieden.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft patcht bug die installatie Windows 11 mogelijk maakte zonder account</title>
+    <link>https://tweakers.net/nieuws/253258/microsoft-patcht-bug-die-installatie-windows-11-mogelijk-maakte-zonder-account.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253258</guid>
+    <pubDate>Tue, 13 Oct 2026 14:14:25 +0200</pubDate>
+    <description>Microsoft heeft een bug gepatcht die gebruikers makkelijk Windows 11 liet installeren zonder een Microsoft-account. Zij konden bij het toevoegen van hun account klikken op 'Meer informatie'. Daarna sloeg het besturingssysteem de Out-Of-Box Experience (OOBE) over en hoefden gebruikers alleen een naam en wachtwoord in te voeren.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253258/microsoft-patcht-bug-die-installatie-windows-11-mogelijk-maakte-zonder-account.html#reacties</comments>
+  </item>
+  <item>
+    <title>Epic Games stelt Disney-game uit en vraagt ontwikkelaars meer AI te gebruiken</title>
+    <link>https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253250</guid>
+    <pubDate>Tue, 13 Oct 2026 13:13:40 +0200</pubDate>
+    <description>Gameontwikkelaar Epic Games heeft een gameproject in samenwerking met Disney uitgesteld. Daarnaast vraagt het bedrijf ontwikkelaars om meer AI-tools te gebruiken om de game af te krijgen. Er is nog geen releasedatum bekend. Dat meldt Bloomberg op basis van anonieme bronnen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bambu Lab brengt in november 3d-scanner uit</title>
+    <link>https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253254</guid>
+    <pubDate>Tue, 13 Oct 2026 12:34:01 +0200</pubDate>
+    <description>Bambu Lab werkt aan een 3d-scanner, de S1 3D Scanner. Er zijn nog geen technische specificaties van het nieuwe product bekend, maar de 3d-printermaker brengt hem ergens in november van dit jaar uit.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / 3D-printers</category>
+    <comments>https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Politie Keulen verdenkt twee tieners van aanranding met Unitree-robot</title>
+    <link>https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253252</guid>
+    <pubDate>Tue, 13 Oct 2026 10:37:04 +0200</pubDate>
+    <description>Twee Duitse tieners worden ervan verdacht met een robot een 16-jarig meisje te hebben aangerand en de aanranding via sociale media te hebben gelivestreamd. Dat heeft de politie in Keulen bekendgemaakt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Zoek de verschillen: gekloonde Adobe- en Microsoft-apps kunnen legaal zijn</title>
     <link>https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html</link>

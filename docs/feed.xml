@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, gefilterd op onderwerp, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 13 Oct 2026 01:35:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 08:32:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Zoek de verschillen: gekloonde Adobe- en Microsoft-apps kunnen legaal zijn</title>
+    <link>https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15454</guid>
+    <pubDate>Tue, 13 Oct 2026 10:15:00 +0200</pubDate>
+    <description>Vibecoding levert gratis opensourceklonen op van Adobe- en Microsoft-apps als Photoshop en Word. Veel gebruikers van Creative Cloud en Office zijn enthousiast. Maar mag dit wel?</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Achtergrond / Computers / Design en multimedia</category>
+    <comments>https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apple en Samsung winnen marktaandeel terwijl smartphonemarkt 20 procent krimpt</title>
+    <link>https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253246</guid>
+    <pubDate>Tue, 13 Oct 2026 10:07:13 +0200</pubDate>
+    <description>Apple en Samsung hebben fors marktaandeel gewonnen op de wereldwijde smartphonemarkt. Beide kregen er 4 procentpunt bij, zo heeft analistenbureau Counterpoint Research berekend. De leveringen van smartphones daalden 20 procent ten opzichte van een jaar geleden.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Character.AI vraagt faillissement aan en zoekt koper</title>
+    <link>https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253248</guid>
+    <pubDate>Tue, 13 Oct 2026 09:45:41 +0200</pubDate>
+    <description>Character.AI wil zichzelf verkopen onder toezicht van een rechtbank. Daarvoor heeft het bedrijf in de VS een Chapter 11-faillissementsaanvraag ingediend. De dienst blijft de komende maanden in elk geval nog online.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html#reacties</comments>
+  </item>
+  <item>
+    <title>X voegt abonnementen voor X, Grok en Cursor samen</title>
+    <link>https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253244</guid>
+    <pubDate>Tue, 13 Oct 2026 08:31:29 +0200</pubDate>
+    <description>Het bedrijf SpaceXSI van Elon Musk voegt de abonnementen van zijn socialemediaplatform X, codegenerator Cursor en AI-model Grok samen. Alle diensten vallen nu onder één abonnementsdienst, met varianten van 8 tot 200 dollar per maand.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html#reacties</comments>
+  </item>
   <item>
     <title>CMF brengt draagbare speakers uit in de vorm van melkpakken</title>
     <link>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html</link>
@@ -76,7 +116,7 @@
     <comments>https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html#reacties</comments>
   </item>
   <item>
-    <title>Koelingen van Franse supermarkten ontdooien door cyberaanval</title>
+    <title>Koelingen van Franse supermarkten ontdooien door cyberaanval - update</title>
     <link>https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253220</guid>
     <pubDate>Mon, 12 Oct 2026 15:27:29 +0200</pubDate>

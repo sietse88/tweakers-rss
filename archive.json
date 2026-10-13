@@ -2937,7 +2937,7 @@
   "guid": "https://tweakers.net/nieuws/253220",
   "link": "https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html",
   "pubDate": "Mon, 12 Oct 2026 15:27:29 +0200",
-  "title": "Koelingen van Franse supermarkten ontdooien door cyberaanval"
+  "title": "Koelingen van Franse supermarkten ontdooien door cyberaanval - update"
  },
  "https://tweakers.net/nieuws/253222": {
   "author": "Tijs Hofmans",
@@ -3002,12 +3002,12 @@
  "https://tweakers.net/nieuws/253236": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253236/hackers-voorzagen-ledger-hardwarewallets-van-backdoor-om-crypto-te-stelen.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253236/hackers-stalen-102-miljoen-dollar-aan-crypto-van-ledger-hardwarewallets.html#reacties",
   "description": "Een klein deel van de hardwarewallets van Ledger is gecompromitteerd, waardoor een derde partij toegang had tot de opgeslagen cryptovaluta. Dat bevestigt het Franse bedrijf. Het lijkt vooralsnog enkel te gaan om producten die door een Indonesische reseller werden verkocht.",
   "guid": "https://tweakers.net/nieuws/253236",
-  "link": "https://tweakers.net/nieuws/253236/hackers-voorzagen-ledger-hardwarewallets-van-backdoor-om-crypto-te-stelen.html",
+  "link": "https://tweakers.net/nieuws/253236/hackers-stalen-102-miljoen-dollar-aan-crypto-van-ledger-hardwarewallets.html",
   "pubDate": "Mon, 12 Oct 2026 19:37:35 +0200",
-  "title": "Hackers voorzagen Ledger-hardwarewallets van backdoor om crypto te stelen"
+  "title": "'Hackers stalen 102 miljoen dollar aan crypto van Ledger-hardwarewallets'"
  },
  "https://tweakers.net/nieuws/253238": {
   "author": "Kevin Krikhaar",
@@ -3018,6 +3018,56 @@
   "link": "https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html",
   "pubDate": "Mon, 12 Oct 2026 20:15:33 +0200",
   "title": "No Man's Sky komt op 28 oktober uit voor iPhone en iPad"
+ },
+ "https://tweakers.net/nieuws/253240": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Laptops",
+  "comments": "https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html#reacties",
+  "description": "Een ontwikkelaar heeft een variant op Apple AirDrop gemaakt die werkt op Linux-systemen zonder wifichip van Apple of Broadcom. Daardoor werkt AirDrop op laptops van bijvoorbeeld Framework en Dell.",
+  "guid": "https://tweakers.net/nieuws/253240",
+  "link": "https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html",
+  "pubDate": "Tue, 13 Oct 2026 07:13:45 +0200",
+  "title": "Ontwikkelaar maakt AirDrop mogelijk op Linux-systemen van Framework en Dell"
+ },
+ "https://tweakers.net/nieuws/253242": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253242/sites-en-apps-van-albert-heijn-blijven-offline-na-securityincident-van-zondag.html#reacties",
+  "description": "De sites en apps van de Nederlandse winkelketens Albert Heijn, Gall & Gall en Etos blijven offline na een securityincident op zondagmiddag. Het is nog altijd onbekend wanneer de diensten van moederbedrijf Ahold Delhaize weer online komen.",
+  "guid": "https://tweakers.net/nieuws/253242",
+  "link": "https://tweakers.net/nieuws/253242/sites-en-apps-van-albert-heijn-blijven-offline-na-securityincident-van-zondag.html",
+  "pubDate": "Tue, 13 Oct 2026 07:39:42 +0200",
+  "title": "Sites en apps van Albert Heijn blijven offline na 'securityincident' van zondag"
+ },
+ "https://tweakers.net/nieuws/253244": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html#reacties",
+  "description": "Het bedrijf SpaceXSI van Elon Musk voegt de abonnementen van zijn socialemediaplatform X, codegenerator Cursor en AI-model Grok samen. Alle diensten vallen nu onder één abonnementsdienst, met varianten van 8 tot 200 dollar per maand.",
+  "guid": "https://tweakers.net/nieuws/253244",
+  "link": "https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html",
+  "pubDate": "Tue, 13 Oct 2026 08:31:29 +0200",
+  "title": "X voegt abonnementen voor X, Grok en Cursor samen"
+ },
+ "https://tweakers.net/nieuws/253246": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html#reacties",
+  "description": "Apple en Samsung hebben fors marktaandeel gewonnen op de wereldwijde smartphonemarkt. Beide kregen er 4 procentpunt bij, zo heeft analistenbureau Counterpoint Research berekend. De leveringen van smartphones daalden 20 procent ten opzichte van een jaar geleden.",
+  "guid": "https://tweakers.net/nieuws/253246",
+  "link": "https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html",
+  "pubDate": "Tue, 13 Oct 2026 10:07:13 +0200",
+  "title": "Apple en Samsung winnen marktaandeel terwijl smartphonemarkt 20 procent krimpt"
+ },
+ "https://tweakers.net/nieuws/253248": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html#reacties",
+  "description": "Character.AI wil zichzelf verkopen onder toezicht van een rechtbank. Daarvoor heeft het bedrijf in de VS een Chapter 11-faillissementsaanvraag ingediend. De dienst blijft de komende maanden in elk geval nog online.",
+  "guid": "https://tweakers.net/nieuws/253248",
+  "link": "https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html",
+  "pubDate": "Tue, 13 Oct 2026 09:45:41 +0200",
+  "title": "Character.AI vraagt faillissement aan en zoekt koper"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
@@ -3439,6 +3489,16 @@
   "pubDate": "Fri, 02 Oct 2026 09:30:00 +0200",
   "title": "Achtergrond - Apple waagt zich met een thuishub aan een bijna verlaten markt"
  },
+ "https://tweakers.net/reviews/15408": {
+  "author": "Friso Weijers",
+  "category": "Review / Computers / Monitors",
+  "comments": "https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html#reacties",
+  "description": "Met de Odyssey G8 G80HF en G80HS introduceert Samsung dit jaar een 5k- en een 6k-gamingmonitor. Behalve de superhoge resolutie zijn andere eigenschappen niet zo vooruitstrevend.",
+  "guid": "https://tweakers.net/reviews/15408",
+  "link": "https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html",
+  "pubDate": "Tue, 13 Oct 2026 06:00:00 +0200",
+  "title": "Review - Samsung Odyssey G8 G80HF en G80HS - Gamen in superhoge resolutie"
+ },
  "https://tweakers.net/reviews/15412": {
   "author": "Jurian Ubachs",
   "category": "Preview / Gaming / Games",
@@ -3498,5 +3558,15 @@
   "link": "https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html",
   "pubDate": "Mon, 12 Oct 2026 06:00:00 +0200",
   "title": "Achtergrond - Kan AI een nucleaire ramp veroorzaken? 'AI heeft mogelijk al mensen gedood'"
+ },
+ "https://tweakers.net/reviews/15454": {
+  "author": "Jasper Bakker",
+  "category": "Achtergrond / Computers / Design en multimedia",
+  "comments": "https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html#reacties",
+  "description": "Vibecoding levert gratis opensourceklonen op van Adobe- en Microsoft-apps als Photoshop en Word. Veel gebruikers van Creative Cloud en Office zijn enthousiast. Maar mag dit wel?",
+  "guid": "https://tweakers.net/reviews/15454",
+  "link": "https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html",
+  "pubDate": "Tue, 13 Oct 2026 10:15:00 +0200",
+  "title": "Achtergrond - Zoek de verschillen: gekloonde Adobe- en Microsoft-apps kunnen legaal zijn"
  }
 }

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 13 Oct 2026 18:57:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 19:12:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ziggo-storing treft 20.000 aansluitingen in Utrecht</title>
+    <link>https://tweakers.net/nieuws/253290/ziggo-storing-treft-20000-aansluitingen-in-utrecht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253290</guid>
+    <pubDate>Tue, 13 Oct 2026 21:04:43 +0200</pubDate>
+    <description>Ziggo heeft last van een storing in meerdere wijken in Utrecht. Daardoor kunnen mensen niet internetten, bellen of tv-kijken. Een woordvoerder van de provider zegt dat de storing zo'n 20.000 aansluitingen treft.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253290/ziggo-storing-treft-20000-aansluitingen-in-utrecht.html#reacties</comments>
+  </item>
   <item>
     <title>'Sharma wil dat XBOX meer nieuwe franchises gaat creëren'</title>
     <link>https://tweakers.net/nieuws/253288/sharma-wil-dat-xbox-meer-nieuwe-franchises-gaat-creeren.html</link>

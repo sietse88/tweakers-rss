@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 10:44:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 11:44:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>EU keurt verkoop van VodafoneZiggo's zendmasten voor 669 miljoen euro goed</title>
+    <link>https://tweakers.net/nieuws/253300/eu-keurt-verkoop-van-vodafoneziggos-zendmasten-voor-669-miljoen-euro-goed.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253300</guid>
+    <pubDate>Wed, 14 Oct 2026 13:27:26 +0200</pubDate>
+    <description>De EU heeft de verkoop van de zendmasten van VodafoneZiggo goedgekeurd. De Nederlandse provider verkoopt zijn masten voor 669 miljoen euro aan drie bedrijven. Hiermee wil het bedrijf zijn schuld verlagen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253300/eu-keurt-verkoop-van-vodafoneziggos-zendmasten-voor-669-miljoen-euro-goed.html#reacties</comments>
+  </item>
   <item>
     <title>Provider Onze.nl neemt voortaan ook gesprekspartners op voor AI-transcripties</title>
     <link>https://tweakers.net/nieuws/253230/provider-onze-punt-nl-neemt-voortaan-ook-gesprekspartners-op-voor-ai-transcripties.html</link>

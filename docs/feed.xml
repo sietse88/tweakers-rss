@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 14:59:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 15:14:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -30,7 +30,7 @@
     <link>https://tweakers.net/nieuws/253322/nederlandse-regering-gaat-niet-mee-in-bezwaar-van-solvinity-over-overname-digid.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253322</guid>
     <pubDate>Wed, 14 Oct 2026 16:44:01 +0200</pubDate>
-    <description>De Nederlandse regering wijst het bezwaar van Solvinity af. Dat bedrijf is de leverancier van DigiD en wil het verbod op de overname door het Amerikaanse Kyndryl laten opheffen. Het ministerie van Economische Zaken blijft bij het besluit om de overname te blokkeren. Solvinity kan in beroep gaan.</description>
+    <description>De Nederlandse regering wijst het bezwaar van Solvinity af. Dat bedrijf is de cloudleverancier van DigiD en wil het verbod op de overname door het Amerikaanse Kyndryl laten opheffen. Het ministerie van Economische Zaken blijft bij het besluit om de overname te blokkeren. Solvinity kan in beroep gaan.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253322/nederlandse-regering-gaat-niet-mee-in-bezwaar-van-solvinity-over-overname-digid.html#reacties</comments>

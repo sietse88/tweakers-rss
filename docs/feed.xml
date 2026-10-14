@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 07:59:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 08:14:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google AI Plus-abonnees verliezen op 13 november toegang tot Pro-modellen Gemini</title>
+    <link>https://tweakers.net/nieuws/253296/google-ai-plus-abonnees-verliezen-op-13-november-toegang-tot-pro-modellen-gemini.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253296</guid>
+    <pubDate>Wed, 14 Oct 2026 10:06:04 +0200</pubDate>
+    <description>Google AI Plus-abonnees hebben vanaf 13 november geen toegang meer tot de Pro-modellen van Gemini. Ze kunnen dan alleen nog de Flash-Lite- en Flash-modellen gebruiken. Om Pro te kunnen blijven gebruiken moeten abonnees overstappen op het AI Pro-abonnement.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/253296/google-ai-plus-abonnees-verliezen-op-13-november-toegang-tot-pro-modellen-gemini.html#reacties</comments>
+  </item>
   <item>
     <title>VS arresteert OpenAI-werknemer voor plaatsen opnameapparaat in vergaderzaal</title>
     <link>https://tweakers.net/nieuws/253294/vs-arresteert-openai-werknemer-voor-plaatsen-opnameapparaat-in-vergaderzaal.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 06:28:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 07:29:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI laat werknemer arresteren voor plaatsen opnameapparaat in vergaderzaal</title>
+    <link>https://tweakers.net/nieuws/253294/openai-laat-werknemer-arresteren-voor-plaatsen-opnameapparaat-in-vergaderzaal.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253294</guid>
+    <pubDate>Wed, 14 Oct 2026 09:18:46 +0200</pubDate>
+    <description>Een werknemer van OpenAI is opgepakt omdat hij een opnameapparaatje zou hebben geplaatst in een vergaderzaal van het bedrijf. Hij werkte aan OpenAI's agenttools. Het is onduidelijk wat zijn motieven waren.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253294/openai-laat-werknemer-arresteren-voor-plaatsen-opnameapparaat-in-vergaderzaal.html#reacties</comments>
+  </item>
   <item>
     <title>XBOX richt Labs-team op voor browserports na golf AI-decompilaties</title>
     <link>https://tweakers.net/nieuws/253292/xbox-richt-labs-team-op-voor-browserports-na-golf-ai-decompilaties.html</link>

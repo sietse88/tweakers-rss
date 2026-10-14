@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:44:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:59:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Arm verstoorde Qualcomms relatie met Meta, schadevergoeding is slechts 2 dollar</title>
+    <link>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253316</guid>
+    <pubDate>Wed, 14 Oct 2026 15:45:34 +0200</pubDate>
+    <description>Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor beide overtredingen slechts een schadevergoeding van 2 dollar te betalen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Fans willen New World vastleggen en zelf namaken voordat mmo offline gaat</title>
+    <link>https://tweakers.net/nieuws/253314/fans-willen-new-world-vastleggen-en-zelf-namaken-voordat-mmo-offline-gaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253314</guid>
+    <pubDate>Wed, 14 Oct 2026 15:44:03 +0200</pubDate>
+    <description>Fans van de mmo New World: Aeternum roepen de community op om het spel vast te leggen voordat het op 31 januari 2027 offline gaat. Het fanproject heet Azoth: Aeternum en moet een private communityserver voor New World worden. Het is onduidelijk of ontwikkelaar en uitgever Amazon Games het fanproject gedoogt.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253314/fans-willen-new-world-vastleggen-en-zelf-namaken-voordat-mmo-offline-gaat.html#reacties</comments>
+  </item>
   <item>
     <title>Fairphone geeft Fairbuds 2 acht uur accuduur voor 119 euro</title>
     <link>https://tweakers.net/nieuws/253308/fairphone-geeft-fairbuds-2-acht-uur-accuduur-voor-119-euro.html</link>

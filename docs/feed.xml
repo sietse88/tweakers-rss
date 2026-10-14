@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 12:14:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 12:29:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Valve stopt Index-productie en verkoopt voorraad met 20 procent korting</title>
+    <link>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253304</guid>
+    <pubDate>Wed, 14 Oct 2026 14:23:43 +0200</pubDate>
+    <description>Valve stopt met de productie van de Index-VR-headset. Dit doet het bedrijf waarschijnlijk omdat het onlangs een nieuwe headset uitbracht, de Frame. De huidige voorraad Index-sets wordt met 20 procent korting verkocht. De basisstations voor tracking zijn al niet meer verkrijgbaar. De overige hardware blijft beschikbaar zolang de voorraad strekt.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / VR-brillen</category>
+    <comments>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html#reacties</comments>
+  </item>
   <item>
     <title>Europese privacytoezichthouder EDPB wil licht- en geluidsalarm op slimme brillen</title>
     <link>https://tweakers.net/nieuws/253306/europese-privacytoezichthouder-edpb-wil-licht-en-geluidsalarm-op-slimme-brillen.html</link>

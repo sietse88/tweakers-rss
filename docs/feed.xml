@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 18:30:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 19:30:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Epic Games vernieuwt Easy Anti-Cheat voor Linux en 'vibecodeert' nieuwe launcher</title>
+    <link>https://tweakers.net/nieuws/253336/epic-games-vernieuwt-easy-anti-cheat-voor-linux-en-vibecodeert-nieuwe-launcher.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253336</guid>
+    <pubDate>Wed, 14 Oct 2026 21:19:50 +0200</pubDate>
+    <description>Epic Games herontwikkelt Easy Anti-Cheat voor Linux. De gamemaker doet dit om Fortnite beschikbaar te maken op het besturingssysteem. Later moet het zogenoemde EAC Linux v2 ook voor andere games uitkomen. Daarnaast brengt het bedrijf een preview van de Epic Games Launcher uit voor Linux. Deze versie is met 'vibecoding' tot stand gekomen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253336/epic-games-vernieuwt-easy-anti-cheat-voor-linux-en-vibecodeert-nieuwe-launcher.html#reacties</comments>
+  </item>
   <item>
     <title>Netflix kondigt ontslagronde aan waarbij 6 procent werknemers moet vertrekken</title>
     <link>https://tweakers.net/nieuws/253334/netflix-kondigt-ontslagronde-aan-waarbij-6-procent-werknemers-moet-vertrekken.html</link>

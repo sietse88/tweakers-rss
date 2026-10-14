@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 15:14:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 15:29:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>UWV trekt na vijf jaar de stekker uit ict-project van 55 miljoen euro</title>
+    <link>https://tweakers.net/nieuws/253324/uwv-trekt-na-vijf-jaar-de-stekker-uit-ict-project-van-55-miljoen-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253324</guid>
+    <pubDate>Wed, 14 Oct 2026 17:15:59 +0200</pubDate>
+    <description>Het UWV stopt met het ict-project Bemiddelingsservice (BMS). Het project heeft tot dusver 55 miljoen euro gekost. Het digitale systeem moest werkgevers en werknemers aan elkaar koppelen, maar voldeed niet aan de verwachtingen van de uitkeringsinstantie.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253324/uwv-trekt-na-vijf-jaar-de-stekker-uit-ict-project-van-55-miljoen-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft breekt opnieuw patchrecord met fixes voor 1413 kwetsbaarheden</title>
     <link>https://tweakers.net/nieuws/253298/microsoft-breekt-opnieuw-patchrecord-met-fixes-voor-1413-kwetsbaarheden.html</link>

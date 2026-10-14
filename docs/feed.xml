@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 12:59:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:29:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rockstar denkt volgende games sneller af te hebben dankzij Grand Theft Auto VI</title>
+    <link>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253312</guid>
+    <pubDate>Wed, 14 Oct 2026 15:13:12 +0200</pubDate>
+    <description>Rockstar Games noemt GTA VI een fundament voor volgende projecten. Daarom zouden toekomstige games van de ontwikkelaar minder ontwikkeltijd vergen. Daarnaast laat de studio weten dat een gebrek aan non-player characters (npc's) een van de redenen voor het uitstellen van de release was.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html#reacties</comments>
+  </item>
   <item>
     <title>Valve stopt Index-productie en verkoopt voorraad met 20 procent korting</title>
     <link>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html</link>
@@ -106,14 +116,14 @@
     <comments>https://tweakers.net/nieuws/253292/xbox-richt-labs-team-op-voor-browserports-na-golf-ai-decompilaties.html#reacties</comments>
   </item>
   <item>
-    <title>Ziggo-storing treft 20.000 aansluitingen in Utrecht</title>
-    <link>https://tweakers.net/nieuws/253290/ziggo-storing-treft-20000-aansluitingen-in-utrecht.html</link>
+    <title>Ziggo-storing trof 20.000 aansluitingen in Utrecht</title>
+    <link>https://tweakers.net/nieuws/253290/ziggo-storing-trof-20000-aansluitingen-in-utrecht.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253290</guid>
     <pubDate>Tue, 13 Oct 2026 21:04:43 +0200</pubDate>
-    <description>Ziggo heeft last van een storing in meerdere wijken in Utrecht. Daardoor kunnen mensen niet internetten, bellen of tv-kijken. Een woordvoerder van de provider zegt dat de storing zo'n 20.000 aansluitingen treft.</description>
+    <description>Ziggo had dinsdagavond last van een storing in meerdere wijken in Utrecht. Daardoor kunnen mensen niet internetten, bellen of tv-kijken. Een woordvoerder van de provider zegt dat de storing zo'n 20.000 aansluitingen trof.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253290/ziggo-storing-treft-20000-aansluitingen-in-utrecht.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253290/ziggo-storing-trof-20000-aansluitingen-in-utrecht.html#reacties</comments>
   </item>
   <item>
     <title>'Sharma wil dat XBOX meer nieuwe franchises gaat creëren'</title>

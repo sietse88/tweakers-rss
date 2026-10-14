@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 16:30:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 17:30:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Kleinere XBOX Nano-controller kost 15 euro minder, heeft ingebouwde accu</title>
+    <link>https://tweakers.net/nieuws/253332/kleinere-xbox-nano-controller-kost-15-euro-minder-heeft-ingebouwde-accu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253332</guid>
+    <pubDate>Wed, 14 Oct 2026 19:23:25 +0200</pubDate>
+    <description>XBOX onthult de Nano-controller, een kleine versie van de huidige XBOX-controller. De verkleinde controller moet gemakkelijker mee te nemen zijn en past volgens XBOX in de meeste zakken. De Nano heeft een ingebouwde accu en kost 50 euro, wat 15 euro goedkoper is dan de standaard XBOX-controller. Hij is ergens in november beschikbaar.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Gamecontrollers</category>
+    <comments>https://tweakers.net/nieuws/253332/kleinere-xbox-nano-controller-kost-15-euro-minder-heeft-ingebouwde-accu.html#reacties</comments>
+  </item>
   <item>
     <title>John Porter stopt als ceo van Telenet</title>
     <link>https://tweakers.net/nieuws/253330/john-porter-stopt-als-ceo-van-telenet.html</link>

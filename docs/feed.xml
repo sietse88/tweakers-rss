@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:29:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:44:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Fairphone geeft Fairbuds 2 acht uur accuduur voor 119 euro</title>
+    <link>https://tweakers.net/nieuws/253308/fairphone-geeft-fairbuds-2-acht-uur-accuduur-voor-119-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253308</guid>
+    <pubDate>Wed, 14 Oct 2026 15:35:44 +0200</pubDate>
+    <description>De Nederlandse fabrikant Fairphone heeft zijn Fairbuds 2 aangekondigd. Deze draadloze oordopjes zijn kleiner en lichter dan het vorige model. Ook zou de accuduur langer zijn. De prijs van 119 euro is lager dan de introductieprijs van de eerste Fairbuds.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/253308/fairphone-geeft-fairbuds-2-acht-uur-accuduur-voor-119-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Rockstar denkt volgende games sneller af te hebben dankzij Grand Theft Auto VI</title>
     <link>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html</link>

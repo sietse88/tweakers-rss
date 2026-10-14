@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 14 Oct 2026 17:30:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 18:30:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Netflix kondigt ontslagronde aan waarbij 6 procent werknemers moet vertrekken</title>
+    <link>https://tweakers.net/nieuws/253334/netflix-kondigt-ontslagronde-aan-waarbij-6-procent-werknemers-moet-vertrekken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253334</guid>
+    <pubDate>Wed, 14 Oct 2026 20:24:48 +0200</pubDate>
+    <description>Netflix kondigt intern een grote ontslagronde aan: ongeveer zes procent van het personeel moet vertrekken. Dat zijn ongeveer duizend werknemers. Het is de grootste ontslagronde bij het bedrijf sinds 2022 en heeft mogelijk iets met teruglopende kijkcijfers te maken.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253334/netflix-kondigt-ontslagronde-aan-waarbij-6-procent-werknemers-moet-vertrekken.html#reacties</comments>
+  </item>
   <item>
     <title>Kleinere XBOX Nano-controller kost 15 euro minder, heeft ingebouwde accu</title>
     <link>https://tweakers.net/nieuws/253332/kleinere-xbox-nano-controller-kost-15-euro-minder-heeft-ingebouwde-accu.html</link>

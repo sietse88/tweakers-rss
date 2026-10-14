@@ -120,7 +120,7 @@ Cooler Master brengt de Shield Adapter volgende week in Europa uit voor een advi
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html)
 
-## RimWorld draait '2 tot 4 keer beter' op zelfontwikkelde Waylith-engine
+## RimWorld draait '2 tot 4 keer beter' op zelfontwikkelde Waylith-engine - update
 
 De scifikoloniemanagementgame RimWorld krijgt in versie 1.7 een andere engine. Het spel gebruikt nu de Unity-engine, maar vanaf versie 1.7 stapt Ludeon Studios over naar de eigen Waylith Engine. Daardoor gaat de game 'twee tot vier keer' soepeler draaien, belooft de ontwikkelaar.
 

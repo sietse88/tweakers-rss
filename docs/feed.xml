@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 15:02:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 15:17:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Webwinkel NBB waarschuwt klanten voor datalek, Nederlandse website offline</title>
+    <link>https://tweakers.net/nieuws/253358/webwinkel-nbb-waarschuwt-klanten-voor-datalek-nederlandse-website-offline.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253358</guid>
+    <pubDate>Thu, 15 Oct 2026 17:06:33 +0200</pubDate>
+    <description>Duitse webwinkel NBB is slachtoffer geworden van een hack. Daarbij zijn e-mailadressen buitgemaakt, en mogelijk ook andere gegevens zoals IBAN-nummers. Ook de Nederlandse webwinkel van NBB is momenteel offline.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253358/webwinkel-nbb-waarschuwt-klanten-voor-datalek-nederlandse-website-offline.html#reacties</comments>
+  </item>
   <item>
     <title>Canonical brengt Ubuntu 26.10 uit met Gnome 51, betere windowsnapping en meer</title>
     <link>https://tweakers.net/nieuws/253370/canonical-brengt-ubuntu-2610-uit-met-gnome-51-betere-windowsnapping-en-meer.html</link>

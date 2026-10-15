@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 19:03:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 19:18:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>YouTube krijgt AI-label voor muziek</title>
+    <link>https://tweakers.net/nieuws/253388/youtube-krijgt-ai-label-voor-muziek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253388</guid>
+    <pubDate>Thu, 15 Oct 2026 21:08:16 +0200</pubDate>
+    <description>YouTube gaat AI-labels tonen bij video's met AI-gegenereerde muziek. Streamingdienst YouTube Music laat die labels ook zien bij muziek die volgens de dienst grotendeels met AI is gemaakt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/253388/youtube-krijgt-ai-label-voor-muziek.html#reacties</comments>
+  </item>
   <item>
     <title>Google geeft links prominentere plaats in AI-antwoorden</title>
     <link>https://tweakers.net/nieuws/253386/google-geeft-links-prominentere-plaats-in-ai-antwoorden.html</link>

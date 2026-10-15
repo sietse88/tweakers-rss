@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 17:03:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 17:18:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Koelsystemen supermarkten in Nederland hebben van datum afgeleid wachtwoord'</title>
+    <link>https://tweakers.net/nieuws/253380/koelsystemen-supermarkten-in-nederland-hebben-van-datum-afgeleid-wachtwoord.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253380</guid>
+    <pubDate>Thu, 15 Oct 2026 19:11:00 +0200</pubDate>
+    <description>Er zijn koelsystemen in Nederlandse winkels in gebruik die kwetsbaar zijn voor hacks. De loginpagina's zijn bereikbaar via het openbare internet en het wachtwoord is gebaseerd op de huidige datum.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253380/koelsystemen-supermarkten-in-nederland-hebben-van-datum-afgeleid-wachtwoord.html#reacties</comments>
+  </item>
   <item>
     <title>Omzet TSMC stijgt 50 procent naar record door AI-vraag</title>
     <link>https://tweakers.net/nieuws/253378/omzet-tsmc-stijgt-50-procent-naar-record-door-ai-vraag.html</link>

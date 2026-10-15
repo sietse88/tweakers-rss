@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 13:02:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 13:47:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nieuwe GTA VI-trailer toont meer Vice City en actie, maar weinig nieuwe details</title>
+    <link>https://tweakers.net/nieuws/253366/nieuwe-gta-vi-trailer-toont-meer-vice-city-en-actie-maar-weinig-nieuwe-details.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253366</guid>
+    <pubDate>Thu, 15 Oct 2026 15:40:16 +0200</pubDate>
+    <description>Rockstar Games heeft nieuwe beelden van GTA VI gedeeld. De ontwikkelaar deed dat in een 'launchtrailer', iets meer dan een maand voor de release op 19 november. De trailer laat meer van Vice City zien en bevat nieuwe muziek uit de GTA VI-soundtrack.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253366/nieuwe-gta-vi-trailer-toont-meer-vice-city-en-actie-maar-weinig-nieuwe-details.html#reacties</comments>
+  </item>
   <item>
     <title>Proton maakt overstap van Gmail en Google Drive binnenkort eenvoudiger</title>
     <link>https://tweakers.net/nieuws/253364/proton-maakt-overstap-van-gmail-en-google-drive-binnenkort-eenvoudiger.html</link>
@@ -26,14 +36,14 @@
     <comments>https://tweakers.net/nieuws/253364/proton-maakt-overstap-van-gmail-en-google-drive-binnenkort-eenvoudiger.html#reacties</comments>
   </item>
   <item>
-    <title>Albert Heijn herstelt distributie, maar app, website en meer blijven nog offline</title>
-    <link>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-website-en-meer-blijven-nog-offline.html</link>
+    <title>Albert Heijn herstelt distributie, maar app en website blijven offline</title>
+    <link>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-en-website-blijven-offline.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253362</guid>
     <pubDate>Thu, 15 Oct 2026 14:08:22 +0200</pubDate>
     <description>Albert Heijn heeft zijn IT-systemen voor de distributie van producten naar zijn supermarkten hersteld na de hackaanval. De app en website van het bedrijf zijn echter nog offline. Ook klantgerichte zaken als persoonlijke kortingen, spaaracties en Koopzegels zijn nog altijd niet beschikbaar.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-website-en-meer-blijven-nog-offline.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-en-website-blijven-offline.html#reacties</comments>
   </item>
   <item>
     <title>Anthropic waarschuwt dat kleine AI zich binnen maanden naar iot kan kopiëren</title>

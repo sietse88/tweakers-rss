@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 06:16:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 06:46:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Apple maakt virtuele gpu-cloud van interne Macs voor AI-taken van werknemers</title>
-    <link>https://tweakers.net/nieuws/253338/apple-maakt-virtuele-gpu-cloud-van-interne-macs-voor-ai-taken-van-werknemers.html</link>
+    <title>Apple verenigt ongebruikte Mac-gpu's in gedistribueerde AI-cloud</title>
+    <link>https://tweakers.net/nieuws/253338/apple-verenigt-ongebruikte-mac-gpus-in-gedistribueerde-ai-cloud.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253338</guid>
     <pubDate>Thu, 15 Oct 2026 07:58:18 +0200</pubDate>
     <description>Apple koppelt Macs in zijn bedrijfsnetwerk om ongebruikte gpu-capaciteit te bundelen in een gedistribueerde virtuele cloud. Deze flexibele rekencapaciteit moet werknemers helpen met AI-taken zonder extra gpu's aan te schaffen. Apple publiceert een paper over dit zogeheten Minions-systeem.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/253338/apple-maakt-virtuele-gpu-cloud-van-interne-macs-voor-ai-taken-van-werknemers.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253338/apple-verenigt-ongebruikte-mac-gpus-in-gedistribueerde-ai-cloud.html#reacties</comments>
   </item>
   <item>
     <title>Review - LG MRGB96-rgb-miniled-tv – Superhelder, maar niet supernauwkeurig</title>

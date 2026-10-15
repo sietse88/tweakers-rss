@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 02:31:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 04:01:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - LG MRGB96-rgb-miniled-tv – Superhelder, maar niet supernauwkeurig</title>
+    <link>https://tweakers.net/reviews/15438/lg-mrgb96-rgb-miniled-tv-superhelder-maar-niet-supernauwkeurig.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15438</guid>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De LG MRGB96 is een tv met een rgb-miniledbacklight. Door de hoge helderheid over het hele scherm is deze tv vooral geschikt voor gebruik in een lichte woonkamer.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Review / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15438/lg-mrgb96-rgb-miniled-tv-superhelder-maar-niet-supernauwkeurig.html#reacties</comments>
+  </item>
   <item>
     <title>Epic Games vernieuwt Easy Anti-Cheat voor Linux en 'vibecodeert' nieuwe launcher</title>
     <link>https://tweakers.net/nieuws/253336/epic-games-vernieuwt-easy-anti-cheat-voor-linux-en-vibecodeert-nieuwe-launcher.html</link>

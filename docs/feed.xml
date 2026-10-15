@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 11:47:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:02:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Wilt u een AMD, Intel of ... Nvidia?</title>
+    <link>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-wilt-u-een-amd-intel-of-nvidia.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15448</guid>
+    <pubDate>Thu, 15 Oct 2026 14:00:00 +0200</pubDate>
+    <description>Nvidia debuteert als fabrikant van laptop-cpu's met zijn RTX Spark. We testen de ASUS ProArt P16, een van de eerste laptops met Nvidia's eerste laptopprocessor.</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Review / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-wilt-u-een-amd-intel-of-nvidia.html#reacties</comments>
+  </item>
   <item>
     <title>OPPO geeft ColorOS 17 glaslook die lijkt op Apples Liquid Glass</title>
     <link>https://tweakers.net/nieuws/253352/oppo-geeft-coloros-17-glaslook-die-lijkt-op-apples-liquid-glass.html</link>

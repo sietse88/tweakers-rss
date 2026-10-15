@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 06:46:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 07:31:50 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlands OM en politie vragen Albert Heijn om aangifte te doen van hackaanval</title>
+    <link>https://tweakers.net/nieuws/253348/nederlands-om-en-politie-vragen-albert-heijn-om-aangifte-te-doen-van-hackaanval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253348</guid>
+    <pubDate>Thu, 15 Oct 2026 09:27:46 +0200</pubDate>
+    <description>Het Nederlandse Openbaar Ministerie en de politie nodigen Ahold Delhaize, het moederbedrijf van Albert Heijn (AH), uit om aangifte te doen van de hackaanval die de supermarktketen deze week raakte. Deze oproep doen het OM en de politie in het openbaar, wat volgens de NOS zeldzaam is.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253348/nederlands-om-en-politie-vragen-albert-heijn-om-aangifte-te-doen-van-hackaanval.html#reacties</comments>
+  </item>
   <item>
     <title>Apple verenigt ongebruikte Mac-gpu's in gedistribueerde AI-cloud</title>
     <link>https://tweakers.net/nieuws/253338/apple-verenigt-ongebruikte-mac-gpus-in-gedistribueerde-ai-cloud.html</link>

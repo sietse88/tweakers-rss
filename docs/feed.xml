@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:02:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:17:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Albert Heijn herstelt distributie, maar app, website en meer blijven nog offline</title>
+    <link>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-website-en-meer-blijven-nog-offline.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253362</guid>
+    <pubDate>Thu, 15 Oct 2026 14:08:22 +0200</pubDate>
+    <description>Albert Heijn heeft zijn IT-systemen voor de distributie van producten naar zijn supermarkten hersteld na de hackaanval. De app en website van het bedrijf zijn echter nog offline. Ook klantgerichte zaken als persoonlijke kortingen, spaaracties en Koopzegels zijn nog altijd niet beschikbaar.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-website-en-meer-blijven-nog-offline.html#reacties</comments>
+  </item>
+  <item>
+    <title>Anthropic waarschuwt dat kleine AI zich binnen maanden naar iot kan kopiëren</title>
+    <link>https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253354</guid>
+    <pubDate>Thu, 15 Oct 2026 14:05:05 +0200</pubDate>
+    <description>Volgens Anthropic zijn kleine AI-modellen mogelijk binnen enkele maanden in staat om zichzelf te kopiëren naar apparaten die deel uitmaken van het internet of things (iot), zoals slimme ovens en Android TV-boxes. Het bedrijf zegt dat het dan moeilijk zou zijn om de modellen uit te schakelen, omdat ze onafhankelijk van een datacenter werken.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html#reacties</comments>
+  </item>
   <item>
     <title>Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Wilt u een AMD, Intel of ... Nvidia?</title>
     <link>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-wilt-u-een-amd-intel-of-nvidia.html</link>

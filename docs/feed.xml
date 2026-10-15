@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 18:18:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 18:48:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Directeur Apple wil nog steeds Chinese geheugenchips gebruiken ondanks weerstand</title>
+    <link>https://tweakers.net/nieuws/253384/directeur-apple-wil-nog-steeds-chinese-geheugenchips-gebruiken-ondanks-weerstand.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253384</guid>
+    <pubDate>Thu, 15 Oct 2026 20:36:10 +0200</pubDate>
+    <description>De nieuwe ceo van Apple, John Ternus, wil nog steeds de mogelijkheid hebben om geheugen van Chinese fabrikanten te gebruiken. Amerikaanse politici zijn daartegen, maar volgens Ternus moet de optie op tafel blijven liggen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/253384/directeur-apple-wil-nog-steeds-chinese-geheugenchips-gebruiken-ondanks-weerstand.html#reacties</comments>
+  </item>
   <item>
     <title>'Koelsystemen supermarkten in Nederland hebben van datum afgeleid wachtwoord'</title>
     <link>https://tweakers.net/nieuws/253380/koelsystemen-supermarkten-in-nederland-hebben-van-datum-afgeleid-wachtwoord.html</link>

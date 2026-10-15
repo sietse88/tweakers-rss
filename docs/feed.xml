@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 08:17:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 09:47:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Staten VS vinden ChatGPT schadelijk voor kinderen en spannen rechtszaken aan</title>
+    <link>https://tweakers.net/nieuws/253346/staten-vs-vinden-chatgpt-schadelijk-voor-kinderen-en-spannen-rechtszaken-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253346</guid>
+    <pubDate>Thu, 15 Oct 2026 11:36:12 +0200</pubDate>
+    <description>Acht staten in de VS spannen rechtszaken aan tegen OpenAI wegens misleiding over de veiligheid van ChatGPT. De bekende AI-chatbot zou mensen aanzetten tot geweld tegen anderen, maar ook tot zelfbeschadiging en zelfdoding. OpenAI zou kwetsbare gebruikers zoals kinderen in gevaar brengen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/253346/staten-vs-vinden-chatgpt-schadelijk-voor-kinderen-en-spannen-rechtszaken-aan.html#reacties</comments>
+  </item>
   <item>
     <title>Consumentenbond start rechtszaak nadat Meta weigert camerabril aan te passen</title>
     <link>https://tweakers.net/nieuws/253350/consumentenbond-start-rechtszaak-nadat-meta-weigert-camerabril-aan-te-passen.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 06:01:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 06:16:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -40,7 +40,7 @@
     <link>https://tweakers.net/nieuws/253336/epic-games-vernieuwt-easy-anti-cheat-voor-linux-en-vibecodeert-nieuwe-launcher.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253336</guid>
     <pubDate>Wed, 14 Oct 2026 21:19:50 +0200</pubDate>
-    <description>Epic Games herontwikkelt Easy Anti-Cheat voor Linux. De gamemaker doet dit om Fortnite beschikbaar te maken op het besturingssysteem. Later moet het zogenoemde EAC Linux v2 ook voor andere games uitkomen. Daarnaast brengt het bedrijf een preview van de Epic Games Launcher uit voor Linux. Deze versie is met 'vibecoding' tot stand gekomen.</description>
+    <description>Epic Games herontwikkelt Easy Anti-Cheat voor Linux. De gamemaker doet dit om Fortnite beschikbaar te maken op het besturingssysteem. Later moet het zogenoemde EAC Linux v2 ook voor andere games uitkomen. Daarnaast brengt het bedrijf een preview van de Epic Games Launcher uit voor Linux. Deze versie is met vibecoding tot stand gekomen.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/253336/epic-games-vernieuwt-easy-anti-cheat-voor-linux-en-vibecodeert-nieuwe-launcher.html#reacties</comments>
@@ -130,7 +130,7 @@
     <link>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253316</guid>
     <pubDate>Wed, 14 Oct 2026 15:45:34 +0200</pubDate>
-    <description>Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor beide overtredingen slechts een schadevergoeding van 2 dollar te betalen.</description>
+    <description>Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor de overtredingen bij elkaar slechts een schadevergoeding van 2 dollar te betalen.</description>
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html#reacties</comments>

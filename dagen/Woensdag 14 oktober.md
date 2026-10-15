@@ -110,7 +110,7 @@ Fans van de mmo New World: Aeternum roepen de community op om het spel vast te l
 
 ## Arm verstoorde Qualcomms relatie met Meta, schadevergoeding is slechts 2 dollar
 
-Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor beide overtredingen slechts een schadevergoeding van 2 dollar te betalen.
+Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor de overtredingen bij elkaar slechts een schadevergoeding van 2 dollar te betalen.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html)
 

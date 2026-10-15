@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:17:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:47:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Proton maakt overstap van Gmail en Google Drive binnenkort eenvoudiger</title>
+    <link>https://tweakers.net/nieuws/253364/proton-maakt-overstap-van-gmail-en-google-drive-binnenkort-eenvoudiger.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253364</guid>
+    <pubDate>Thu, 15 Oct 2026 14:38:18 +0200</pubDate>
+    <description>Proton deelt zijn productroadmap voor de komende zes maanden. Het wordt straks onder andere makkelijker om je Gmail-inbox te verplaatsen naar Proton. Ook kun je Google Drive-bestanden dan makkelijker naar Proton Drive verplaatsen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253364/proton-maakt-overstap-van-gmail-en-google-drive-binnenkort-eenvoudiger.html#reacties</comments>
+  </item>
   <item>
     <title>Albert Heijn herstelt distributie, maar app, website en meer blijven nog offline</title>
     <link>https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-website-en-meer-blijven-nog-offline.html</link>
@@ -36,14 +46,14 @@
     <comments>https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html#reacties</comments>
   </item>
   <item>
-    <title>Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Wilt u een AMD, Intel of ... Nvidia?</title>
-    <link>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-wilt-u-een-amd-intel-of-nvidia.html</link>
+    <title>Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Nvidia's eerste cpu smaakt naar meer</title>
+    <link>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15448</guid>
     <pubDate>Thu, 15 Oct 2026 14:00:00 +0200</pubDate>
     <description>Nvidia debuteert als fabrikant van laptop-cpu's met zijn RTX Spark. We testen de ASUS ProArt P16, een van de eerste laptops met Nvidia's eerste laptopprocessor.</description>
     <dc:creator>Jelle Stuip</dc:creator>
     <category>Review / Computers / Laptops</category>
-    <comments>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-wilt-u-een-amd-intel-of-nvidia.html#reacties</comments>
+    <comments>https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html#reacties</comments>
   </item>
   <item>
     <title>OPPO geeft ColorOS 17 glaslook die lijkt op Apples Liquid Glass</title>

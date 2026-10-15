@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 15 Oct 2026 18:48:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 19:03:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google geeft links prominentere plaats in AI-antwoorden</title>
+    <link>https://tweakers.net/nieuws/253386/google-geeft-links-prominentere-plaats-in-ai-antwoorden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253386</guid>
+    <pubDate>Thu, 15 Oct 2026 20:50:52 +0200</pubDate>
+    <description>Google gaat links naar andere sites een prominentere plaats geven in zijn AI-antwoorden op zoekopdrachten. De afgelopen jaren is het verkeer naar sommige sites drastisch afgenomen door de opkomst van AI-antwoorden in zoekmachines en AI-chatbots.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253386/google-geeft-links-prominentere-plaats-in-ai-antwoorden.html#reacties</comments>
+  </item>
   <item>
     <title>Directeur Apple wil nog steeds Chinese geheugenchips gebruiken ondanks weerstand</title>
     <link>https://tweakers.net/nieuws/253384/directeur-apple-wil-nog-steeds-chinese-geheugenchips-gebruiken-ondanks-weerstand.html</link>

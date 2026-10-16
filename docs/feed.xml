@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 18:51:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 19:21:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>DayZ-ontwikkelaar komt met eigen open source framework om game-engines te maken</title>
+    <link>https://tweakers.net/nieuws/253438/dayz-ontwikkelaar-komt-met-eigen-open-source-framework-om-game-engines-te-maken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253438</guid>
+    <pubDate>Fri, 16 Oct 2026 21:17:24 +0200</pubDate>
+    <description>Gameontwikkelaar Dean Hall, bekend van onder andere DayZ, heeft zijn framework voor game-engines Brutal vrijgegeven aan iedereen. Dat gebeurt kort nadat RimWorld overstapte op een nieuwe engine die met Brutal is gemaakt. Brutal is een C#-framework dat onder een zelfgeschreven licentie beschikbaar is, wat betekent dat de tool ook commercieel gebruikt mag worden zolang daar maar naar verwezen wordt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253438/dayz-ontwikkelaar-komt-met-eigen-open-source-framework-om-game-engines-te-maken.html#reacties</comments>
+  </item>
   <item>
     <title>IFixit: Fairbuds 2-oortjes krijgen een 10 voor repareerbaarheid</title>
     <link>https://tweakers.net/nieuws/253436/ifixit-fairbuds-2-oortjes-krijgen-een-10-voor-repareerbaarheid.html</link>

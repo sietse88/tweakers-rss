@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 15:21:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 15:36:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Privacywaakhond onderzoekt twee organisaties die cookiemuur niet op orde hebben</title>
+    <link>https://tweakers.net/nieuws/253424/privacywaakhond-onderzoekt-twee-organisaties-die-cookiemuur-niet-op-orde-hebben.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253424</guid>
+    <pubDate>Fri, 16 Oct 2026 17:24:15 +0200</pubDate>
+    <description>De Nederlandse Autoriteit Persoonsgegevens onderzoekt nog steeds twee organisaties die 'een misleidende cookiebanner' gebruiken. De AP begon vorig jaar een campagne waarin het 100 bedrijven aansprak, waarvan er nu nog twee zijn waarnaar de privacytoezichthouder echt onderzoek doet. Dat zou kunnen leiden tot een boete en gedwongen aanpassingen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/253424/privacywaakhond-onderzoekt-twee-organisaties-die-cookiemuur-niet-op-orde-hebben.html#reacties</comments>
+  </item>
   <item>
     <title>China wil exportbeperking voor AI-modellen en zonnepanelen</title>
     <link>https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html</link>

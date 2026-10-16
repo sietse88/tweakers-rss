@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 15:36:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 16:06:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - 3,57 miljard euro schuld en een megadatalek: toch neemt Apax Odido volledig over</title>
+    <link>https://tweakers.net/reviews/15482/3-komma-57-miljard-euro-schuld-en-een-megadatalek-toch-neemt-apax-odido-volledig-over.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15482</guid>
+    <pubDate>Fri, 16 Oct 2026 18:00:00 +0200</pubDate>
+    <description>Er gingen al langer geruchten en sinds vrijdag is de kogel officieel door de kerk: Apax neemt Odido volledig over. Een nieuw hoofdstuk voor Odido dus. Geldt dat ook voor klanten?</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/reviews/15482/3-komma-57-miljard-euro-schuld-en-een-megadatalek-toch-neemt-apax-odido-volledig-over.html#reacties</comments>
+  </item>
   <item>
     <title>Privacywaakhond onderzoekt twee organisaties die cookiemuur niet op orde hebben</title>
     <link>https://tweakers.net/nieuws/253424/privacywaakhond-onderzoekt-twee-organisaties-die-cookiemuur-niet-op-orde-hebben.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 17:06:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 18:06:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Yahoo Mail-gebruikers moeten gaan betalen om geen gepersonaliseerde ads te zien</title>
+    <link>https://tweakers.net/nieuws/253432/yahoo-mail-gebruikers-moeten-gaan-betalen-om-geen-gepersonaliseerde-ads-te-zien.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253432</guid>
+    <pubDate>Fri, 16 Oct 2026 19:53:03 +0200</pubDate>
+    <description>Yahoo-gebruikers moeten vanaf volgend jaar betalen als ze geen gepersonaliseerde reclame meer willen zien. Het gaat onder andere om advertenties in Mail. Nu krijgen gebruikers daar ook al gepersonaliseerde advertenties, maar daarvoor is een opt-out. Vanaf maart 2027 kost die opt-out 2,49 euro per maand.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/253432/yahoo-mail-gebruikers-moeten-gaan-betalen-om-geen-gepersonaliseerde-ads-te-zien.html#reacties</comments>
+  </item>
   <item>
     <title>Mijn.host: storing van deze week kwam door beveiligingsincident</title>
     <link>https://tweakers.net/nieuws/253430/mijn-punt-host-storing-van-deze-week-kwam-door-beveiligingsincident.html</link>

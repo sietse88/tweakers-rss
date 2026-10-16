@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 08:49:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 09:20:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Steam laat gamemakers achievements groeperen met voortgang en trophy per 'set'</title>
-    <link>https://tweakers.net/nieuws/253396/steam-laat-gamemakers-achievements-groeperen-met-voortgang-en-trophy-per-set.html</link>
+    <title>Steam laat gamemakers achievements van basegame en dlc scheiden</title>
+    <link>https://tweakers.net/nieuws/253396/steam-laat-gamemakers-achievements-van-basegame-en-dlc-scheiden.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253396</guid>
     <pubDate>Fri, 16 Oct 2026 10:40:56 +0200</pubDate>
     <description>Valve komt met 'achievementsets'. Gameontwikkelaars kunnen daarmee de achievements voor hun games opsplitsen in groepen. Iedere groep krijgt een aparte voortgangsbalk. De functie is nu beschikbaar als bèta, in eerste instantie in zeventien games.</description>
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253396/steam-laat-gamemakers-achievements-groeperen-met-voortgang-en-trophy-per-set.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253396/steam-laat-gamemakers-achievements-van-basegame-en-dlc-scheiden.html#reacties</comments>
   </item>
   <item>
     <title>Tesla's snelste Roadster kan 'vliegen' en haalt 100km/u in minder dan 1 seconde</title>

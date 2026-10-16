@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 10:35:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 11:05:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Meta's Muse Spark Open-model draait op twee Mac Studio's met M5 Ultra</title>
-    <link>https://tweakers.net/nieuws/253398/metas-muse-spark-open-model-draait-op-twee-mac-studios-met-m5-ultra.html</link>
+    <title>Twee Mac Studio's met M5 Ultra kunnen Meta's complete AI-model draaien</title>
+    <link>https://tweakers.net/nieuws/253398/twee-mac-studios-met-m5-ultra-kunnen-metas-complete-ai-model-draaien.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253398</guid>
     <pubDate>Fri, 16 Oct 2026 12:25:04 +0200</pubDate>
     <description>Meta komt met een nieuw large language model (llm): Muse Spark Open. Dat model bestaat uit ruim 800 miljard parameters en kan draaien op twee Mac Studio's met M5 Ultra-chip. Muse Spark Open is direct beschikbaar.</description>
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/253398/metas-muse-spark-open-model-draait-op-twee-mac-studios-met-m5-ultra.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253398/twee-mac-studios-met-m5-ultra-kunnen-metas-complete-ai-model-draaien.html#reacties</comments>
   </item>
   <item>
     <title>Investeringsbedrijf Apax neemt Odido volledig over</title>

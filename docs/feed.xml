@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:51:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 15:06:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>China wil exportbeperking voor AI-modellen en zonnepanelen</title>
+    <link>https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253422</guid>
+    <pubDate>Fri, 16 Oct 2026 16:54:30 +0200</pubDate>
+    <description>China overweegt een verbod op de export van bepaalde technologie voor AI en energie. Het gaat dan onder meer om chipontwerpen en AI-modellen. Daarmee lijken de rollen tussen China en het Westen om te draaien, juist op een moment dat Chinese AI-modellen grote technologische sprongen maken.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html#reacties</comments>
+  </item>
   <item>
     <title>Apple vermeldt onbekend modelnummer van iPad mini-hoes op eigen site</title>
     <link>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html</link>

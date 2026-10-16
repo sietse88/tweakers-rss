@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 13:05:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:35:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Internetknooppunt NL-ix neemt Zweeds knooppunt Sthix over</title>
+    <link>https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253418</guid>
+    <pubDate>Fri, 16 Oct 2026 15:24:33 +0200</pubDate>
+    <description>Het Nederlandse internetknooppunt NL-ix neemt een Zweedse concurrent over. De Netherlands Internet Exchange wil met de overname van de Stockholm Internet eXchange (Sthix) uitbreiden naar de rest van Europa. Sthix is nu onderdeel van de Noorse Glesys.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia haalt RTX 5090 uit Amerikaanse webshop na geruchten over productiestop</title>
+    <link>https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253420</guid>
+    <pubDate>Fri, 16 Oct 2026 15:18:13 +0200</pubDate>
+    <description>De RTX 5090 staat niet meer in Nvidia's eigen Marketplace-webshop in de VS. Het bedrijf geeft geen reden voor de verdwijning van dat topmodel. Er gaan al langer geruchten rond dat Nvidia de RTX 5090 gaat uitfaseren, maar het bedrijf wil daarop niet reageren.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html#reacties</comments>
+  </item>
   <item>
     <title>Review - ASUS ROG XBOX Ally X20 Anniversary Edition - Het beste scherm voor de hoofdprijs</title>
     <link>https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 11:20:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:05:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - ASUS ROG XBOX Ally X20 Anniversary Edition - Het beste scherm voor de hoofdprijs</title>
+    <link>https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15446</guid>
+    <pubDate>Fri, 16 Oct 2026 15:00:00 +0200</pubDate>
+    <description>De X20 is de verjaardagseditie van de XBOX Ally. Welke slingers heeft ASUS aan dit nieuwe model gehangen?</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Review / Gaming / Consoles</category>
+    <comments>https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html#reacties</comments>
+  </item>
+  <item>
+    <title>Defender voor Linux-servers beschermt voortaan ook zakelijke workstations</title>
+    <link>https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253404</guid>
+    <pubDate>Fri, 16 Oct 2026 14:51:47 +0200</pubDate>
+    <description>Microsoft maakt het beveiligingspakket Defender in zakelijke omgevingen ook beschikbaar voor Linux-desktops. Defender for Endpoint op Linux-servers kan met een nieuwe publieke preview ook eindapparaten van gebruikers beschermen als die op Linux draaien. Het gaat dus niet om een Linux-port van Defender voor Windows.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html#reacties</comments>
+  </item>
   <item>
     <title>Twee Mac Studio's met M5 Ultra kunnen Meta's Muse Spark Open-model draaien</title>
     <link>https://tweakers.net/nieuws/253398/twee-mac-studios-met-m5-ultra-kunnen-metas-muse-spark-open-model-draaien.html</link>

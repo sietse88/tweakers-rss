@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:20:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:51:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple vermeldt onbekend modelnummer van iPad mini-hoes op eigen site</title>
+    <link>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253408</guid>
+    <pubDate>Fri, 16 Oct 2026 16:41:35 +0200</pubDate>
+    <description>Op Apples website is een modelnummer van een iPad mini-hoesje verschenen dat nog niet is aangekondigd. Op de site verwijst de fabrikant naar het modelnummer A3632. Er gaan al een tijd geruchten dat Apple op 27 oktober een iPad mini met een oledscherm zal onthullen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Tablets</category>
+    <comments>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html#reacties</comments>
+  </item>
   <item>
     <title>Valve maakt Steam-client voor Linux 64bit in nieuwste bèta</title>
     <link>https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html</link>

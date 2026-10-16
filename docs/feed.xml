@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 15:06:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 15:21:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4324,16 +4324,6 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Review / Computers / Monitors</category>
     <comments>https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Versnipperde markt en 1,3 miljard euro verlies duwen SkyShowtime Europa uit</title>
-    <link>https://tweakers.net/reviews/15312/versnipperde-markt-en-1-komma-3-miljard-euro-verlies-duwen-skyshowtime-europa-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15312</guid>
-    <pubDate>Wed, 16 Sep 2026 17:15:00 +0200</pubDate>
-    <description>Het is niet uitgesloten dat SkyShowtime binnenkort afscheid neemt van de Europese markt. Hoe kan het dat het platform al vier jaar na zijn introductie op het hakblok ligt?</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/reviews/15312/versnipperde-markt-en-1-komma-3-miljard-euro-verlies-duwen-skyshowtime-europa-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

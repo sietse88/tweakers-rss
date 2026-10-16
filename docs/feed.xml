@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 04:49:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 06:04:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Jagex schrapt RuneScape Reignited minder dan twee weken na aankondiging</title>
+    <link>https://tweakers.net/nieuws/253390/jagex-schrapt-runescape-reignited-minder-dan-twee-weken-na-aankondiging.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253390</guid>
+    <pubDate>Fri, 16 Oct 2026 07:57:56 +0200</pubDate>
+    <description>Jagex schrapt RuneScape Reignited. Het bedrijf doet dat na negatieve feedback van spelers, die bang waren dat die spelmodus de community zou opsplitsen. Reignited zou op 2 december verschijnen, maar dat gaat dus niet door.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253390/jagex-schrapt-runescape-reignited-minder-dan-twee-weken-na-aankondiging.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Zeven jaar oud en nog altijd populair: waar blijft de Nvidia Shield TV-opvolger?</title>
     <link>https://tweakers.net/reviews/15468/zeven-jaar-oud-en-nog-altijd-populair-waar-blijft-de-nvidia-shield-tv-opvolger.html</link>

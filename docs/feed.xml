@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 18:36:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 18:51:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>IFixit: Fairbuds 2-oortjes krijgen een 10 voor repareerbaarheid</title>
+    <link>https://tweakers.net/nieuws/253436/ifixit-fairbuds-2-oortjes-krijgen-een-10-voor-repareerbaarheid.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253436</guid>
+    <pubDate>Fri, 16 Oct 2026 20:40:06 +0200</pubDate>
+    <description>De Fairbuds 2 zijn inderdaad heel eenvoudig te repareren, concludeert iFixit. Het platform geeft de oortjes een score van 10/10 vanwege de repareerbaarheid. Fairphone, het bedrijf achter de oortjes, heeft bijvoorbeeld een specifiek mechanisme ontworpen om de batterij eenvoudig te vervangen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/253436/ifixit-fairbuds-2-oortjes-krijgen-een-10-voor-repareerbaarheid.html#reacties</comments>
+  </item>
   <item>
     <title>Nieuwe generatie E Ink Kaleido-kleurenschermen hebben twee keer meer kleurvolume</title>
     <link>https://tweakers.net/nieuws/253434/nieuwe-generatie-e-ink-kaleido-kleurenschermen-hebben-twee-keer-meer-kleurvolume.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 18:06:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 18:36:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nieuwe generatie E Ink Kaleido-kleurenschermen hebben twee keer meer kleurvolume</title>
+    <link>https://tweakers.net/nieuws/253434/nieuwe-generatie-e-ink-kaleido-kleurenschermen-hebben-twee-keer-meer-kleurvolume.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253434</guid>
+    <pubDate>Fri, 16 Oct 2026 20:23:18 +0200</pubDate>
+    <description>E Ink heeft een nieuwe versie van zijn Kaleido-kleurenscherm aangekondigd. Kaleido 4 heeft een ruim twee keer zo groot kleurenvolume als de vorige generatie, een betere witreflectie en een hoger contrast. Volgens E Ink kunnen de schermen video's met 18 frames per seconde afspelen. Een relatief onbekend Chinees model is het eerste apparaat met dat scherm.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Tablets en telefoons / E-readers</category>
+    <comments>https://tweakers.net/nieuws/253434/nieuwe-generatie-e-ink-kaleido-kleurenschermen-hebben-twee-keer-meer-kleurvolume.html#reacties</comments>
+  </item>
   <item>
     <title>Yahoo Mail-gebruikers moeten gaan betalen om geen gepersonaliseerde ads te zien</title>
     <link>https://tweakers.net/nieuws/253432/yahoo-mail-gebruikers-moeten-gaan-betalen-om-geen-gepersonaliseerde-ads-te-zien.html</link>

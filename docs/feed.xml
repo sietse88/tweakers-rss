@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 06:04:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 08:04:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Tesla's snelste Roadster kan 'vliegen' en haalt 100km/u in minder dan 1 seconde</title>
+    <link>https://tweakers.net/nieuws/253392/teslas-snelste-roadster-kan-vliegen-en-haalt-100km-u-in-minder-dan-1-seconde.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253392</guid>
+    <pubDate>Fri, 16 Oct 2026 09:57:49 +0200</pubDate>
+    <description>Tesla heeft zijn Roadster opnieuw aangekondigd. De auto komt beschikbaar in drie varianten. De snelste heeft stuwraketten waarmee hij korte stukjes kan 'vliegen'. Dat model mag niet de openbare weg op. Tesla zal het slechts zeer beperkt verkopen, als het daadwerkelijk in productie gaat.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/253392/teslas-snelste-roadster-kan-vliegen-en-haalt-100km-u-in-minder-dan-1-seconde.html#reacties</comments>
+  </item>
   <item>
     <title>Jagex schrapt RuneScape Reignited minder dan twee weken na aankondiging</title>
     <link>https://tweakers.net/nieuws/253390/jagex-schrapt-runescape-reignited-minder-dan-twee-weken-na-aankondiging.html</link>

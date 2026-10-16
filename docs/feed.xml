@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 13:35:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:50:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Valve maakt Steam-client voor Linux 64bit in nieuwste bèta</title>
+    <link>https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253410</guid>
+    <pubDate>Fri, 16 Oct 2026 15:41:42 +0200</pubDate>
+    <description>De Steam-client voor Linux wordt 64bit. Dat bevestigt Valve in de patchnotes van zijn nieuwste Steam-bèta-update. Vorig jaar maakte Valve de overstap naar 64bit al op Windows. Wanneer de 64bit-versie voor Linux algemeen beschikbaar komt, is nog niet bekend.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html#reacties</comments>
+  </item>
   <item>
     <title>Internetknooppunt NL-ix neemt Zweeds knooppunt Sthix over</title>
     <link>https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:05:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:20:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4314,16 +4314,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/reviews/15312/versnipperde-markt-en-1-komma-3-miljard-euro-verlies-duwen-skyshowtime-europa-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Acht mislukkingen voor twee doorbraken: zo financiert NADI riskante technologie</title>
-    <link>https://tweakers.net/reviews/15306/acht-mislukkingen-voor-twee-doorbraken-zo-financiert-nadi-riskante-technologie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15306</guid>
-    <pubDate>Wed, 16 Sep 2026 16:15:00 +0200</pubDate>
-    <description>Nederland wil met innovatieagentschap NADI 'technologische doorbraken' financieren waarvoor nu geen financiering beschikbaar is. In dit artikel leggen we uit hoe en waarom.</description>
-    <dc:creator>Hayte Hugo</dc:creator>
-    <category>Achtergrond / IT Pro / Wetenschap</category>
-    <comments>https://tweakers.net/reviews/15306/acht-mislukkingen-voor-twee-doorbraken-zo-financiert-nadi-riskante-technologie.html#reacties</comments>
   </item>
 </channel>
 </rss>

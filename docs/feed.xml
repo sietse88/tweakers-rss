@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 10:22:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 11:23:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Fanatec toont Project Obsidian-simracingstuur met 5"-lcd en SimHub-ondersteuning</title>
+    <link>https://tweakers.net/nieuws/253448/fanatec-toont-project-obsidian-simracingstuur-met-5-inch-lcd-en-simhub-ondersteuning.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253448</guid>
+    <pubDate>Sat, 17 Oct 2026 13:17:51 +0200</pubDate>
+    <description>Fanatec heeft een nieuw simracestuur getoond. Project Obsidian heeft een 5"-lcd en kan live telemetriedata tonen via SimHub. Het racestuur is geschikt voor de pc en PS5 en wordt volgend jaar uitgebracht.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Gamecontrollers</category>
+    <comments>https://tweakers.net/nieuws/253448/fanatec-toont-project-obsidian-simracingstuur-met-5-inch-lcd-en-simhub-ondersteuning.html#reacties</comments>
+  </item>
   <item>
     <title>Analogue brengt consoles die Mega Drive- en SNES-games afspelen opnieuw uit</title>
     <link>https://tweakers.net/nieuws/253444/analogue-brengt-consoles-die-mega-drive-en-snes-games-afspelen-opnieuw-uit.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 01:52:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 04:07:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Over the Hill - Sfeervol doelloos</title>
+    <link>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15450</guid>
+    <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Over the Hill vertaalt het modderploetergenre naar een sfeervolle low-poly game, maar mist daardoor wat nodige diepgang.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html#reacties</comments>
+  </item>
   <item>
     <title>DayZ-ontwikkelaar komt met eigen open source framework om game-engines te maken</title>
     <link>https://tweakers.net/nieuws/253438/dayz-ontwikkelaar-komt-met-eigen-open-source-framework-om-game-engines-te-maken.html</link>
@@ -4384,16 +4394,6 @@
     <dc:creator>Hayte Hugo</dc:creator>
     <category>Achtergrond / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - TCL 57R94 - Enorm breed scherm met te hoge prijs</title>
-    <link>https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15198</guid>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-    <description>TCL's topgamingmonitor, de 57R94, is ruim een meter breed, telt 16 miljoen pixels en meer dan 2000 dimmingzones. Indrukwekkend, maar er is één groot probleem.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Review / Computers / Monitors</category>
-    <comments>https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -3960,16 +3960,6 @@
   "pubDate": "Thu, 08 Oct 2026 06:00:00 +0200",
   "title": "Review - Jolla Phone (2026) - Losbreken van big tech vraagt wat offers"
  },
- "https://tweakers.net/reviews/15198": {
-  "author": "Friso Weijers",
-  "category": "Review / Computers / Monitors",
-  "comments": "https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html#reacties",
-  "description": "TCL's topgamingmonitor, de 57R94, is ruim een meter breed, telt 16 miljoen pixels en meer dan 2000 dimmingzones. Indrukwekkend, maar er is één groot probleem.",
-  "guid": "https://tweakers.net/reviews/15198",
-  "link": "https://tweakers.net/reviews/15198/tcl-57r94-enorm-breed-scherm-met-te-hoge-prijs.html",
-  "pubDate": "Thu, 17 Sep 2026 06:00:00 +0200",
-  "title": "Review - TCL 57R94 - Enorm breed scherm met te hoge prijs"
- },
  "https://tweakers.net/reviews/15226": {
   "author": "Olaf Weijers",
   "category": "How-to / Beeld en geluid / Smarthome",
@@ -4459,6 +4449,17 @@
   "link": "https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html",
   "pubDate": "Thu, 15 Oct 2026 14:00:00 +0200",
   "title": "Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Nvidia's eerste cpu smaakt naar meer"
+ },
+ "https://tweakers.net/reviews/15450": {
+  "author": "Yannick Spinner",
+  "category": "Review / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html#reacties",
+  "description": "Over the Hill vertaalt het modderploetergenre naar een sfeervolle low-poly game, maar mist daardoor wat nodige diepgang.",
+  "first": "Sat, 17 Oct 2026 04:07:28 +0000",
+  "guid": "https://tweakers.net/reviews/15450",
+  "link": "https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html",
+  "pubDate": "Sat, 17 Oct 2026 06:00:00 +0200",
+  "title": "Review - Over the Hill - Sfeervol doelloos"
  },
  "https://tweakers.net/reviews/15454": {
   "author": "Jasper Bakker",

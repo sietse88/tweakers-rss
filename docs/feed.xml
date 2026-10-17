@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 07:07:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 08:22:50 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple verbiedt uitkleedapps nadrukkelijk in nieuwe App Store-regels</title>
+    <link>https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-nadrukkelijk-in-nieuwe-app-store-regels.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253440</guid>
+    <pubDate>Sat, 17 Oct 2026 10:08:51 +0200</pubDate>
+    <description>Apple heeft zijn App Store-regels aangescherpt. Er staat nu nadrukkelijk dat apps waarmee gebruikers seksueel expliciete beelden van echte mensen kunnen genereren, zonder hun toestemming niet toegestaan zijn.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-nadrukkelijk-in-nieuwe-app-store-regels.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Over the Hill - Sfeervol doelloos</title>
     <link>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html</link>

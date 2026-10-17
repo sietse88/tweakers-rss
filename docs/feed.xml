@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 09:52:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 10:22:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Analogue brengt consoles die Mega Drive- en SNES-games afspelen opnieuw uit</title>
+    <link>https://tweakers.net/nieuws/253444/analogue-brengt-consoles-die-mega-drive-en-snes-games-afspelen-opnieuw-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253444</guid>
+    <pubDate>Sat, 17 Oct 2026 12:20:38 +0200</pubDate>
+    <description>Analogue komt met nieuwe varianten van zijn uitverkochte Mega Sg- en Super Nt-consoles. Die spelen respectievelijk SEGA Mega Drive- en Super Nintendo-cartridges af. De nieuwe versies hebben USB-poorten en bluetoothondersteuning voor draadloze controllers.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/253444/analogue-brengt-consoles-die-mega-drive-en-snes-games-afspelen-opnieuw-uit.html#reacties</comments>
+  </item>
   <item>
     <title>OpenAI-agent stal zonder toestemming cryptovaluta op testnetwerk</title>
     <link>https://tweakers.net/nieuws/253442/openai-agent-stal-zonder-toestemming-cryptovaluta-op-testnetwerk.html</link>

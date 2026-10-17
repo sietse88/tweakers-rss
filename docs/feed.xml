@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 08:22:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 09:52:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI-agent stal zonder toestemming cryptovaluta op testnetwerk</title>
+    <link>https://tweakers.net/nieuws/253442/openai-agent-stal-zonder-toestemming-cryptovaluta-op-testnetwerk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253442</guid>
+    <pubDate>Sat, 17 Oct 2026 11:37:07 +0200</pubDate>
+    <description>OpenAI beweert dat een agent tijdens een test inbrak in een cryptowallet, terwijl dat niet tot de opdracht behoorde. Het model zou daarbij testcryptomunten hebben gestolen. Deze hebben geen echte waarde.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253442/openai-agent-stal-zonder-toestemming-cryptovaluta-op-testnetwerk.html#reacties</comments>
+  </item>
   <item>
     <title>Apple verbiedt uitkleedapps nadrukkelijk in nieuwe App Store-regels</title>
     <link>https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-nadrukkelijk-in-nieuwe-app-store-regels.html</link>

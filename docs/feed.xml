@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 12:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 15:08:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4434,16 +4434,6 @@
     <dc:creator>Jurian Ubachs</dc:creator>
     <category>Review / Gaming / Games</category>
     <comments>https://tweakers.net/reviews/15308/the-blood-of-dawnwalker-brutere-versie-van-the-witcher.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - EU wil kinderen onder 13 van sociale media weren met een digitaal leeftijdsslot</title>
-    <link>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15314</guid>
-    <pubDate>Thu, 17 Sep 2026 17:00:00 +0200</pubDate>
-    <description>De Europese Commissie wil met een minimumleeftijd, leeftijdschecks en strengere wetten sociale media veiliger maken voor kinderen. De wet raakt ook volwassenen.</description>
-    <dc:creator>Hayte Hugo</dc:creator>
-    <category>Achtergrond / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/reviews/15314/eu-wil-kinderen-onder-13-van-sociale-media-weren-met-een-digitaal-leeftijdsslot.html#reacties</comments>
   </item>
 </channel>
 </rss>

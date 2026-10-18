@@ -54,11 +54,11 @@ Over the Hill vertaalt het modderploetergenre naar een sfeervolle low-poly game,
 
 [Lees het hele artikel](https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html)
 
-## Apple verbiedt uitkleedapps nadrukkelijk in nieuwe App Store-regels
+## Apple verbiedt uitkleedapps uitdrukkelijk in nieuwe App Store-regels
 
-Apple heeft zijn App Store-regels aangescherpt. Er staat nu nadrukkelijk dat apps waarmee gebruikers seksueel expliciete beelden van echte mensen kunnen genereren, zonder hun toestemming niet toegestaan zijn.
+Apple heeft zijn App Store-regels aangescherpt. Er staat nu uitdrukkelijk dat apps waarmee gebruikers seksueel expliciete beelden van echte mensen kunnen genereren, zonder hun toestemming niet toegestaan zijn.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-nadrukkelijk-in-nieuwe-app-store-regels.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-uitdrukkelijk-in-nieuwe-app-store-regels.html)
 
 ## OpenAI-agent stal zonder toestemming cryptovaluta op testnetwerk
 

@@ -30,11 +30,11 @@ Yahoo-gebruikers moeten vanaf volgend jaar betalen als ze geen gepersonaliseerde
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253432/yahoo-mail-gebruikers-moeten-gaan-betalen-om-geen-gepersonaliseerde-ads-te-zien.html)
 
-## Nieuwe generatie E Ink Kaleido-kleurenschermen hebben twee keer meer kleurvolume
+## Nieuwe generatie E Ink Kaleido-kleurenschermen heeft twee keer meer kleurvolume
 
 E Ink heeft een nieuwe versie van zijn Kaleido-kleurenscherm aangekondigd. Kaleido 4 heeft een ruim twee keer zo groot kleurenvolume als de vorige generatie, een betere witreflectie en een hoger contrast. Volgens E Ink kunnen de schermen video's met 18 frames per seconde afspelen. Een relatief onbekend Chinees model is het eerste apparaat met dat scherm.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253434/nieuwe-generatie-e-ink-kaleido-kleurenschermen-hebben-twee-keer-meer-kleurvolume.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253434/nieuwe-generatie-e-ink-kaleido-kleurenschermen-heeft-twee-keer-meer-kleurvolume.html)
 
 ## IFixit: Fairbuds 2-oortjes krijgen een 10 voor repareerbaarheid
 

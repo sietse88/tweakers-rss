@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 18 Oct 2026 09:40:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 10:10:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft gaat Outlook Classic aanpassen zodat het meer lijkt op New Outlook</title>
+    <link>https://tweakers.net/nieuws/253460/microsoft-gaat-outlook-classic-aanpassen-zodat-het-meer-lijkt-op-new-outlook.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253460</guid>
+    <pubDate>Sun, 18 Oct 2026 12:01:19 +0200</pubDate>
+    <description>Microsoft wil het uiterlijk van Outlook Classic aanpassen zodat het wat meer lijkt op New Outlook. Het is nog niet duidelijk in welke mate en op welke wijze Microsoft de UI precies aanpast, maar het gaat om nieuwe pictogrammen en uitlijning 'zonder dat de huidige workflows verloren gaan', zegt het bedrijf.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253460/microsoft-gaat-outlook-classic-aanpassen-zodat-het-meer-lijkt-op-new-outlook.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft waarschuwt dat Exchange Server kan uitvallen na Patch Tuesday-updates</title>
     <link>https://tweakers.net/nieuws/253458/microsoft-waarschuwt-dat-exchange-server-kan-uitvallen-na-patch-tuesday-updates.html</link>

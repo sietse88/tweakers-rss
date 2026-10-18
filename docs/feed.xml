@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 17 Oct 2026 22:54:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 04:09:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Sennheiser HDB 630 vs. Sony The Collexion - Beter geluid of krachtigere anc</title>
+    <link>https://tweakers.net/reviews/15344/sennheiser-hdb-630-vs-sony-the-collexion-beter-geluid-of-krachtigere-anc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15344</guid>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Sennheiser HDB 630 en Sony WH-1000X The Collexion zijn dure bluetoothkoptelefoons voor kritische luisteraars. Maar welke van de twee is de beste keuze?</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Review / Beeld en geluid / Hoofdtelefoons</category>
+    <comments>https://tweakers.net/reviews/15344/sennheiser-hdb-630-vs-sony-the-collexion-beter-geluid-of-krachtigere-anc.html#reacties</comments>
+  </item>
+  <item>
+    <title>Benchmark - The Witcher 3 Remastered – Mooier en moderner, maar ook een stuk zwaarder</title>
+    <link>https://tweakers.net/reviews/15418/the-witcher-3-remastered-mooier-en-moderner-maar-ook-een-stuk-zwaarder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15418</guid>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+    <description>The Witcher 3: Wild Hunt Remastered brengt een van de beste rpg's ooit naar de moderne tijd met een prima update die zowel visueel als in de gameplay iets toevoegt.</description>
+    <dc:creator>Reinoud Dik</dc:creator>
+    <category>Benchmark / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15418/the-witcher-3-remastered-mooier-en-moderner-maar-ook-een-stuk-zwaarder.html#reacties</comments>
+  </item>
   <item>
     <title>.Community - Nooit eerder kregen we zoveel tips van lezers binnen als in september</title>
     <link>https://tweakers.net/reviews/15472/nooit-eerder-kregen-we-zoveel-tips-van-lezers-binnen-als-in-september.html</link>
@@ -4424,16 +4444,6 @@
     <dc:creator>Tomas Hochstenbach</dc:creator>
     <category>Review / Computers / Pc's</category>
     <comments>https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - The Blood of Dawnwalker - Brutere versie van The Witcher</title>
-    <link>https://tweakers.net/reviews/15308/the-blood-of-dawnwalker-brutere-versie-van-the-witcher.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15308</guid>
-    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
-    <description>The Blood of Dawnwalker is een game van ontwikkelaars die hiervóór aan The Witcher 3 hebben gewerkt. Dat is te zien, al doet deze game ook genoeg dingen anders.</description>
-    <dc:creator>Jurian Ubachs</dc:creator>
-    <category>Review / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15308/the-blood-of-dawnwalker-brutere-versie-van-the-witcher.html#reacties</comments>
   </item>
 </channel>
 </rss>

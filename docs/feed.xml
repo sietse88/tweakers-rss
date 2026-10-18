@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 18 Oct 2026 04:09:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 07:25:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia ontkent dat het stopt met RTX 5090</title>
+    <link>https://tweakers.net/nieuws/253452/nvidia-ontkent-dat-het-stopt-met-rtx-5090.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253452</guid>
+    <pubDate>Sun, 18 Oct 2026 09:10:08 +0200</pubDate>
+    <description>Nvidia stopt niet met de RTX 5090. Eerder gingen er nog geruchten dat Nvidia de duurste consumentenvideokaart niet meer zou produceren, maar het bedrijf ontkent dat nu. De gpu is ook weer te vinden in Nvidia's webshop, al is die daar nog steeds niet te koop.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253452/nvidia-ontkent-dat-het-stopt-met-rtx-5090.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Sennheiser HDB 630 vs. Sony The Collexion - Beter geluid of krachtigere anc</title>
     <link>https://tweakers.net/reviews/15344/sennheiser-hdb-630-vs-sony-the-collexion-beter-geluid-of-krachtigere-anc.html</link>

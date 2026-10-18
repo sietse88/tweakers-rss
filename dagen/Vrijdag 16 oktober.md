@@ -20,7 +20,7 @@ De Nederlandse branchevereniging voor hosting- en cloudbedrijven heeft een brand
 
 ## 'YouTube wil audioboeken gaan aanbieden, mogelijk onderdeel van Premium'
 
-YouTube zou in gesprek zijn met uitgevers om audioboeken aan te gaan bieden. Dat zou dan mogelijk onderdeel van YouTube Premium. Andere diensten, zoals Spotify, hebben audioboeken al veel langer.
+YouTube zou in gesprek zijn met uitgevers om audioboeken aan te gaan bieden. Dat zou dan mogelijk onderdeel van YouTube Premium worden. Andere diensten, zoals Spotify, hebben audioboeken al veel langer.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253372/youtube-wil-audioboeken-gaan-aanbieden-mogelijk-onderdeel-van-premium.html)
 

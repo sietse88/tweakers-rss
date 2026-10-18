@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 18 Oct 2026 09:25:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 09:40:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft waarschuwt dat Exchange Server kan uitvallen na Patch Tuesday-updates</title>
+    <link>https://tweakers.net/nieuws/253458/microsoft-waarschuwt-dat-exchange-server-kan-uitvallen-na-patch-tuesday-updates.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253458</guid>
+    <pubDate>Sun, 18 Oct 2026 11:35:40 +0200</pubDate>
+    <description>Microsoft waarschuwt dat sommige Exchange-servers problemen kunnen hebben na de installatie van de recente Patch Tuesday-updateronde. Zo kan Outlook soms helemaal geen verbinding meer maken en kunnen e-mails blijven hangen. Microsoft zegt dat het probleem komt door vier specifieke updates voor Windows Server.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253458/microsoft-waarschuwt-dat-exchange-server-kan-uitvallen-na-patch-tuesday-updates.html#reacties</comments>
+  </item>
   <item>
     <title>Gnome Project brengt previewversie van toekomstige mainstreamdistro Gnome OS uit</title>
     <link>https://tweakers.net/nieuws/253450/gnome-project-brengt-previewversie-van-toekomstige-mainstreamdistro-gnome-os-uit.html</link>

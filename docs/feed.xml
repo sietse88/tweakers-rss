@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 18 Oct 2026 08:10:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 09:25:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gnome Project brengt previewversie van toekomstige mainstreamdistro Gnome OS uit</title>
+    <link>https://tweakers.net/nieuws/253450/gnome-project-brengt-previewversie-van-toekomstige-mainstreamdistro-gnome-os-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253450</guid>
+    <pubDate>Sun, 18 Oct 2026 11:10:43 +0200</pubDate>
+    <description>De organisatie achter de Linux-desktopomgeving Gnome heeft een officiële preview van Gnome OS uitgebracht. Gnome OS was altijd een testomgeving om nieuwe Gnome-functies te proberen, maar de makers willen het besturingssysteem tot een mainstreamdistro maken voor alle gebruikers. Gnome OS verkeert nog steeds in de previewfase, maar deze versie is stabieler dan eerdere testversies.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253450/gnome-project-brengt-previewversie-van-toekomstige-mainstreamdistro-gnome-os-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Levertijd van iPhone Duo loopt op naar eind januari vanwege 'buitengewone' vraag</title>
     <link>https://tweakers.net/nieuws/253456/levertijd-van-iphone-duo-loopt-op-naar-eind-januari-vanwege-buitengewone-vraag.html</link>

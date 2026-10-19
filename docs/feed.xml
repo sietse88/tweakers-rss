@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 07:27:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 08:13:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Microsoft test nieuwe Instellingen-app die updates krijgt via Store'</title>
+    <link>https://tweakers.net/nieuws/253472/microsoft-test-nieuwe-instellingen-app-die-updates-krijgt-via-store.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253472</guid>
+    <pubDate>Mon, 19 Oct 2026 09:57:25 +0200</pubDate>
+    <description>Microsoft test een nieuwe app met de codenaam Project Odeon in de Microsoft Store. Volgens Windows Latest, dat de app als eerste ontdekte, is die bijna identiek aan de huidige Instellingen-app. Mogelijk betekent het project dat de Instellingen-app voortaan geheel of gedeeltelijk via de Store updates krijgt in plaats van via Windows-updates.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/253472/microsoft-test-nieuwe-instellingen-app-die-updates-krijgt-via-store.html#reacties</comments>
+  </item>
   <item>
     <title>Smarthomeplatform Loxone houdt installaties actief na hack</title>
     <link>https://tweakers.net/nieuws/253468/smarthomeplatform-loxone-houdt-installaties-actief-na-hack.html</link>

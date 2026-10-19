@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 17:44:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 17:59:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple heeft volgende week een evenement om nieuwe producten aan te kondigen</title>
+    <link>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253508</guid>
+    <pubDate>Mon, 19 Oct 2026 19:41:44 +0200</pubDate>
+    <description>Apple heeft volgende week voor de tweede keer deze maand een evenement om nieuwe producten aan te kondigen. De naam 'Pro and tell' wijst erop dat het gaat om de MacBook Pro, die volgens aanhoudende geruchten een oledtouchscreen krijgt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html#reacties</comments>
+  </item>
   <item>
     <title>Nederlandse ShinyHunters-verdachte had bij arrestatie chatapp Signal openstaan</title>
     <link>https://tweakers.net/nieuws/253506/nederlandse-shinyhunters-verdachte-had-bij-arrestatie-chatapp-signal-openstaan.html</link>

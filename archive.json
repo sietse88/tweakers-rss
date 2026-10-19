@@ -4079,16 +4079,6 @@
   "pubDate": "Wed, 23 Sep 2026 06:00:00 +0200",
   "title": "Round-up - Wie maakt de beste Android-foldable? Vijf modellen gaan de strijd aan"
  },
- "https://tweakers.net/reviews/15272": {
-  "author": "Tomas Hochstenbach",
-  "category": "Review / Computers / Pc's",
-  "comments": "https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html#reacties",
-  "description": "Ook mini-pc's zijn door de hoge prijzen van geheugen en ssd's flink duurder geworden. GMKtec heeft een slimme loophole gevonden om deze mini-pc toch scherp te kunnen prijzen.",
-  "guid": "https://tweakers.net/reviews/15272",
-  "link": "https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html",
-  "pubDate": "Sat, 19 Sep 2026 06:00:00 +0200",
-  "title": "Review - GMKtec NucBox K17 - Bij deze mini-pc krijg je de cpu gratis"
- },
  "https://tweakers.net/reviews/15286": {
   "author": "Jelle Stuip",
   "category": "Quicktest / Computers / Laptops",
@@ -4342,6 +4332,17 @@
   "link": "https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html",
   "pubDate": "Tue, 29 Sep 2026 18:00:00 +0200",
   "title": "Achtergrond - Schrijvers in actie tegen Meta: 'Ik wil mijn woorden terug'"
+ },
+ "https://tweakers.net/reviews/15368": {
+  "author": "Kevin Krikhaar",
+  "category": "Achtergrond / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html#reacties",
+  "description": "Gemeenten krijgen vaker te maken met bezwaarschriften die door AI zijn gegenereerd. Ook experimenteren sommige gemeenten zelf met AI voor de verwerking van bezwaren.",
+  "first": "Mon, 19 Oct 2026 04:12:26 +0000",
+  "guid": "https://tweakers.net/reviews/15368",
+  "link": "https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html",
+  "pubDate": "Mon, 19 Oct 2026 06:00:00 +0200",
+  "title": "Achtergrond - Gemeenten zien meer AI-bezwaarschriften, die vaak extra werk kosten"
  },
  "https://tweakers.net/reviews/15370": {
   "author": "Imre Himmelbauer",

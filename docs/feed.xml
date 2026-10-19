@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 01:12:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 04:12:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Gemeenten zien meer AI-bezwaarschriften, die vaak extra werk kosten</title>
+    <link>https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15368</guid>
+    <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Gemeenten krijgen vaker te maken met bezwaarschriften die door AI zijn gegenereerd. Ook experimenteren sommige gemeenten zelf met AI voor de verwerking van bezwaren.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Achtergrond / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft gaat Outlook Classic aanpassen zodat het meer lijkt op New Outlook</title>
     <link>https://tweakers.net/nieuws/253460/microsoft-gaat-outlook-classic-aanpassen-zodat-het-meer-lijkt-op-new-outlook.html</link>
@@ -4484,16 +4494,6 @@
     <dc:creator>Olaf Weijers</dc:creator>
     <category>How-to / Beeld en geluid / Smarthome</category>
     <comments>https://tweakers.net/reviews/15226/zo-laat-een-esp32-home-assistant-je-voordeur-lokaal-ontgrendelen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - GMKtec NucBox K17 - Bij deze mini-pc krijg je de cpu gratis</title>
-    <link>https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15272</guid>
-    <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Ook mini-pc's zijn door de hoge prijzen van geheugen en ssd's flink duurder geworden. GMKtec heeft een slimme loophole gevonden om deze mini-pc toch scherp te kunnen prijzen.</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Review / Computers / Pc's</category>
-    <comments>https://tweakers.net/reviews/15272/gmktec-nucbox-k17-bij-deze-mini-pc-krijg-je-de-cpu-gratis.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 09:58:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 10:58:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse cybersecuritysector groeit in vijf jaar van 233 naar 962 bedrijven</title>
+    <link>https://tweakers.net/nieuws/253484/nederlandse-cybersecuritysector-groeit-in-vijf-jaar-van-233-naar-962-bedrijven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253484</guid>
+    <pubDate>Mon, 19 Oct 2026 12:43:38 +0200</pubDate>
+    <description>Het aantal cybersecuritybedrijven in Nederland is in vijf jaar fors gestegen. Dat blijkt uit een analyse die het ANP maakte van cijfers uit het Handelsregister. Begin oktober stonden 962 cybersecuritybedrijven ingeschreven bij de Kamer van Koophandel. In dezelfde periode in 2021 waren dat er nog 233.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253484/nederlandse-cybersecuritysector-groeit-in-vijf-jaar-van-233-naar-962-bedrijven.html#reacties</comments>
+  </item>
   <item>
     <title>ACM verduidelijkt rechten van gebruikers bij overstap tussen clouddiensten</title>
     <link>https://tweakers.net/nieuws/253480/acm-verduidelijkt-rechten-van-gebruikers-bij-overstap-tussen-clouddiensten.html</link>

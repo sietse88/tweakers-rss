@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 17:59:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:14:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers probeerden binnen te dringen bij Albert Heijn</title>
+    <link>https://tweakers.net/nieuws/253510/hackers-probeerden-binnen-te-dringen-bij-albert-heijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253510</guid>
+    <pubDate>Mon, 19 Oct 2026 20:08:57 +0200</pubDate>
+    <description>De reden dat Albert Heijn in Nederland en Delhaize in België systemen offline haalden, was een hackaanval. Dat bevestigt moederbedrijf Ahold Delhaize. Het bedrijf heeft aangifte gedaan van de cyberaanval.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253510/hackers-probeerden-binnen-te-dringen-bij-albert-heijn.html#reacties</comments>
+  </item>
+  <item>
+    <title>Motorola biedt e-sim voor op reis aan in Nederland, maar niet in België</title>
+    <link>https://tweakers.net/nieuws/253496/motorola-biedt-e-sim-voor-op-reis-aan-in-nederland-maar-niet-in-belgie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253496</guid>
+    <pubDate>Mon, 19 Oct 2026 20:02:00 +0200</pubDate>
+    <description>Motorola heeft zijn dienst Global Connect uitgebracht in Nederland. Daarmee kunnen eigenaren van een Motorola-smartphone tegen betaling in 160 landen via e-sim een bundel afsluiten. De dienst is niet beschikbaar in België.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253496/motorola-biedt-e-sim-voor-op-reis-aan-in-nederland-maar-niet-in-belgie.html#reacties</comments>
+  </item>
   <item>
     <title>Apple heeft volgende week een evenement om nieuwe producten aan te kondigen</title>
     <link>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html</link>

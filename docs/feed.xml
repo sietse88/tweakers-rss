@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 15:13:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 15:29:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Smarthomeplatform Loxone houdt website en webshop offline na hack</title>
+    <link>https://tweakers.net/nieuws/253502/smarthomeplatform-loxone-houdt-website-en-webshop-offline-na-hack.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253502</guid>
+    <pubDate>Mon, 19 Oct 2026 17:21:15 +0200</pubDate>
+    <description>Smarthomeplatform Loxone meldt dat de hackaanval zijn interne IT-systemen raakt en dat het zijn website plus webshop 'voorlopig offline houdt'. Het bedrijf geeft uitleg over de hackaanval in antwoord op vragen van Tweakers. Het is nog niet bekend wanneer volledig herstel mogelijk is.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/253502/smarthomeplatform-loxone-houdt-website-en-webshop-offline-na-hack.html#reacties</comments>
+  </item>
   <item>
     <title>Belgische provider hey! komt met onbeperkt mobiel abonnement</title>
     <link>https://tweakers.net/nieuws/253500/belgische-provider-hey-komt-met-onbeperkt-mobiel-abonnement.html</link>

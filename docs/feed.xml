@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 09:43:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:58:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>ACM verduidelijkt rechten van gebruikers bij overstap tussen clouddiensten</title>
+    <link>https://tweakers.net/nieuws/253480/acm-verduidelijkt-rechten-van-gebruikers-bij-overstap-tussen-clouddiensten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253480</guid>
+    <pubDate>Mon, 19 Oct 2026 11:50:20 +0200</pubDate>
+    <description>De Nederlandse toezichthouder Autoriteit Consument &amp; Markt (ACM) heeft een leidraad gepubliceerd voor overstappen tussen clouddiensten. Daarmee wil de ACM aanbieders en gebruikers van clouddiensten duidelijkheid geven over hun rechten en plichten.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253480/acm-verduidelijkt-rechten-van-gebruikers-bij-overstap-tussen-clouddiensten.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Google Pixel Watch 5 - Meer verfijning dan vernieuwing</title>
     <link>https://tweakers.net/reviews/15484/google-pixel-watch-5-meer-verfijning-dan-vernieuwing.html</link>

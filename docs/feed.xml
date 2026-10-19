@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 12:13:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 12:43:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Vier op de tien Nederlanders hebben spijt gehad van het klikken op een link</title>
+    <link>https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253490</guid>
+    <pubDate>Mon, 19 Oct 2026 14:30:57 +0200</pubDate>
+    <description>Ruim vier op de tien Nederlanders hebben weleens spijt van het klikken op een link. Dat blijkt uit onderzoek van de overheid onder ruim 1500 Nederlanders van achttien jaar en ouder. Met het onderzoek verlengt de overheid ook de bewustwordingscampagne Laat je niet interneppen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft trekt stekker uit Britse datacenterdeal met Nscale</title>
     <link>https://tweakers.net/nieuws/253488/microsoft-trekt-stekker-uit-britse-datacenterdeal-met-nscale.html</link>

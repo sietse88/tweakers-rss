@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 14:58:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 15:13:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Belgische provider hey! komt met onbeperkt mobiel abonnement</title>
+    <link>https://tweakers.net/nieuws/253500/belgische-provider-hey-komt-met-onbeperkt-mobiel-abonnement.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253500</guid>
+    <pubDate>Mon, 19 Oct 2026 17:10:48 +0200</pubDate>
+    <description>De Belgische virtuele provider hey! van Orange stopt met zijn mobile XL-abonnement en komt in plaats daarvan met mobile Unlimited. Dat kost 24 euro per maand. Dat is een euro minder dan mobile XL kostte.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
+    <comments>https://tweakers.net/nieuws/253500/belgische-provider-hey-komt-met-onbeperkt-mobiel-abonnement.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Nvidia zegt dat de RTX 5090 leeft, maar maakt dat nog uit met deze prijzen?</title>
+    <link>https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15490</guid>
+    <pubDate>Mon, 19 Oct 2026 17:00:00 +0200</pubDate>
+    <description>Ondanks de vele geruchten zegt Nvidia dat de RTX 5090 niet end-of-life is. Tegelijkertijd is de videokaart duurder dan ooit. Waarom zou je hem nog kopen?</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html#reacties</comments>
+  </item>
   <item>
     <title>WordPress-sites lopen risico op backdoor door hack bij plug-inmaker TeamUpdraft</title>
     <link>https://tweakers.net/nieuws/253498/wordpress-sites-lopen-risico-op-backdoor-door-hack-bij-plug-inmaker-teamupdraft.html</link>

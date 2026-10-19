@@ -4032,7 +4032,7 @@
   "author": "Eveline Meijer",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
   "comments": "https://tweakers.net/nieuws/253464/aanval-op-connectwise-raakt-ook-honderden-klantbedrijven.html#reacties",
-  "description": "Honderden bedrijven zijn het slachtoffer geworden van een cyberaanval via ConnectWise Cloud Backup. ConnectWise is een back-up- en recovery-dienst voor managed serviceproviders. Zij kunnen daarmee de Microsoft 365- en Google Workspace-data van hun klanten beschermen. De Cloud Backup-dienst is tijdelijk offline gehaald.",
+  "description": "Honderden bedrijven zijn het slachtoffer geworden van een cyberaanval via ConnectWise Cloud Backup. ConnectWise is een back-up- en recoverydienst voor managed serviceproviders. Zij kunnen daarmee de Microsoft 365- en Google Workspace-data van hun klanten beschermen. De Cloud Backup-dienst is tijdelijk offline gehaald.",
   "first": "Mon, 19 Oct 2026 05:57:38 +0000",
   "guid": "https://tweakers.net/nieuws/253464",
   "link": "https://tweakers.net/nieuws/253464/aanval-op-connectwise-raakt-ook-honderden-klantbedrijven.html",

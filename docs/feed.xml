@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 18:14:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:44:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gerucht: Samsung wil Galaxy S27-telefoons in januari presenteren vanwege Apple</title>
+    <link>https://tweakers.net/nieuws/253504/gerucht-samsung-wil-galaxy-s27-telefoons-in-januari-presenteren-vanwege-apple.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253504</guid>
+    <pubDate>Mon, 19 Oct 2026 20:31:00 +0200</pubDate>
+    <description>Samsung zou de Galaxy S27-telefoons in januari willen presenteren. Dat is eerder dan de Galaxy S26, die de fabrikant pas eind februari liet zien. Het is nog onduidelijk of de Zuid-Koreaanse fabrikant de planning kan halen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253504/gerucht-samsung-wil-galaxy-s27-telefoons-in-januari-presenteren-vanwege-apple.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers probeerden binnen te dringen bij Albert Heijn</title>
     <link>https://tweakers.net/nieuws/253510/hackers-probeerden-binnen-te-dringen-bij-albert-heijn.html</link>

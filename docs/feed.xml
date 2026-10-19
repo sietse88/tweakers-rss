@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 06:27:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 06:57:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Websites van Albert Heijn en Delhaize zijn weer online, AH bezorgt nog niet</title>
+    <link>https://tweakers.net/nieuws/253466/websites-van-albert-heijn-en-delhaize-zijn-weer-online-ah-bezorgt-nog-niet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253466</guid>
+    <pubDate>Mon, 19 Oct 2026 08:52:00 +0200</pubDate>
+    <description>De websites en apps van Albert Heijn en Delhaize doen het weer. De klantenservice is echter nog niet overal bereikbaar. Ook kan Albert Heijn nog geen boodschappen bezorgen. De bezorgdienst start naar verwachting vrijdag weer op.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253466/websites-van-albert-heijn-en-delhaize-zijn-weer-online-ah-bezorgt-nog-niet.html#reacties</comments>
+  </item>
   <item>
     <title>Aanval op ConnectWise raakt ook honderden klantbedrijven</title>
     <link>https://tweakers.net/nieuws/253464/aanval-op-connectwise-raakt-ook-honderden-klantbedrijven.html</link>

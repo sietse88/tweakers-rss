@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 19:14:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 19:29:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Launcher Odido voor beheer telefoongebruik kinderen heeft 10.000 downloads</title>
+    <link>https://tweakers.net/nieuws/253514/launcher-odido-voor-beheer-telefoongebruik-kinderen-heeft-10000-downloads.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253514</guid>
+    <pubDate>Mon, 19 Oct 2026 21:21:00 +0200</pubDate>
+    <description>De Android-launcher Startphone van de Nederlandse provider Odido heeft tienduizend downloads. Volgens de provider gebruiken 'duizenden' gezinnen de launcher om kinderen stapsgewijs kennis te laten maken van smartphones.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253514/launcher-odido-voor-beheer-telefoongebruik-kinderen-heeft-10000-downloads.html#reacties</comments>
+  </item>
   <item>
     <title>Dag Starlink: Europese providers willen eigen satellietinternet gaan aanbieden</title>
     <link>https://tweakers.net/nieuws/253512/dag-starlink-europese-providers-willen-eigen-satellietinternet-gaan-aanbieden.html</link>

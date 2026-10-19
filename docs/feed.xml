@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 19 Oct 2026 08:43:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:43:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Google Pixel Watch 5 - Meer verfijning dan vernieuwing</title>
+    <link>https://tweakers.net/reviews/15484/google-pixel-watch-5-meer-verfijning-dan-vernieuwing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15484</guid>
+    <pubDate>Mon, 19 Oct 2026 11:30:00 +0200</pubDate>
+    <description>De Google Pixel Watch 5 is een uitstekende allroundsmartwatch voor Android-gebruikers. De hartslagmeter behoort tot de beste die we hebben getest en ook de gps-registratie is goed.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Review / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/reviews/15484/google-pixel-watch-5-meer-verfijning-dan-vernieuwing.html#reacties</comments>
+  </item>
   <item>
     <title>'Microsoft test nieuwe Instellingen-app die updates krijgt via Store'</title>
     <link>https://tweakers.net/nieuws/253472/microsoft-test-nieuwe-instellingen-app-die-updates-krijgt-via-store.html</link>

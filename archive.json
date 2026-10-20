@@ -4339,13 +4339,13 @@
  "https://tweakers.net/nieuws/253532": {
   "author": "Yannick Spinner",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253532/buienalarm-en-weeronline-starten-met-overstap-naar-europese-cloud.html#reacties",
   "description": "Infoplaza, het bedrijf achter Buienalarm en Weeronline, begint over te stappen van Amerikaanse cloudaanbieders naar een Europees alternatief. Dat gebeurt volgens de weerdienstaanbieder stap voor stap. Het is onduidelijk wanneer de migratie afgerond moet zijn.",
   "first": "Tue, 20 Oct 2026 10:16:12 +0000",
   "guid": "https://tweakers.net/nieuws/253532",
-  "link": "https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html",
+  "link": "https://tweakers.net/nieuws/253532/buienalarm-en-weeronline-starten-met-overstap-naar-europese-cloud.html",
   "pubDate": "Tue, 20 Oct 2026 11:57:29 +0200",
-  "title": "Bedrijf achter Buienalarm en Weeronline start met overstap naar Europese cloud"
+  "title": "Buienalarm en Weeronline starten met overstap naar Europese cloud – update"
  },
  "https://tweakers.net/nieuws/253534": {
   "author": "Yannick Spinner",
@@ -4357,6 +4357,17 @@
   "link": "https://tweakers.net/nieuws/253534/gearresteerde-openai-medewerker-onderhield-contact-met-saoedisch-koningshuis.html",
   "pubDate": "Tue, 20 Oct 2026 12:33:30 +0200",
   "title": "Gearresteerde OpenAI-medewerker onderhield contact met Saoedisch koningshuis"
+ },
+ "https://tweakers.net/nieuws/253536": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253536/google-cloud-services-heeft-storing-in-europa-meerdere-diensten-getroffen.html#reacties",
+  "description": "Google Cloud Services (GCS) kampt met een storing in West-Europa. Meerdere diensten ervaren netwerkfalen en een verhoogd foutpercentage. Google zegt tegen Tweakers dat het bedrijf het incident onderzoekt en biedt alle getroffenen zijn excuses aan. Google heeft niet aangegeven wanneer het probleem is opgelost.",
+  "first": "Tue, 20 Oct 2026 11:16:19 +0000",
+  "guid": "https://tweakers.net/nieuws/253536",
+  "link": "https://tweakers.net/nieuws/253536/google-cloud-services-heeft-storing-in-europa-meerdere-diensten-getroffen.html",
+  "pubDate": "Tue, 20 Oct 2026 13:12:51 +0200",
+  "title": "Google Cloud Services heeft storing in Europa: meerdere diensten getroffen"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

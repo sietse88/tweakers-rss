@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 11:01:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 11:16:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google Cloud Services heeft storing in Europa: meerdere diensten getroffen</title>
+    <link>https://tweakers.net/nieuws/253536/google-cloud-services-heeft-storing-in-europa-meerdere-diensten-getroffen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253536</guid>
+    <pubDate>Tue, 20 Oct 2026 13:12:51 +0200</pubDate>
+    <description>Google Cloud Services (GCS) kampt met een storing in West-Europa. Meerdere diensten ervaren netwerkfalen en een verhoogd foutpercentage. Google zegt tegen Tweakers dat het bedrijf het incident onderzoekt en biedt alle getroffenen zijn excuses aan. Google heeft niet aangegeven wanneer het probleem is opgelost.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253536/google-cloud-services-heeft-storing-in-europa-meerdere-diensten-getroffen.html#reacties</comments>
+  </item>
   <item>
     <title>Quicktest - Fractal Summit - Een 'houten' kast kan best eleganter</title>
     <link>https://tweakers.net/reviews/15422/fractal-summit-een-houten-kast-kan-best-eleganter.html</link>
@@ -46,14 +56,14 @@
     <comments>https://tweakers.net/nieuws/253530/eff-brengt-antitrackingtool-privacy-badger-uit-voor-safari-op-macos.html#reacties</comments>
   </item>
   <item>
-    <title>Bedrijf achter Buienalarm en Weeronline start met overstap naar Europese cloud</title>
-    <link>https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html</link>
+    <title>Buienalarm en Weeronline starten met overstap naar Europese cloud – update</title>
+    <link>https://tweakers.net/nieuws/253532/buienalarm-en-weeronline-starten-met-overstap-naar-europese-cloud.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253532</guid>
     <pubDate>Tue, 20 Oct 2026 11:57:29 +0200</pubDate>
     <description>Infoplaza, het bedrijf achter Buienalarm en Weeronline, begint over te stappen van Amerikaanse cloudaanbieders naar een Europees alternatief. Dat gebeurt volgens de weerdienstaanbieder stap voor stap. Het is onduidelijk wanneer de migratie afgerond moet zijn.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253532/buienalarm-en-weeronline-starten-met-overstap-naar-europese-cloud.html#reacties</comments>
   </item>
   <item>
     <title>Bank Revolut heeft wereldwijde storing: betalen niet mogelijk</title>

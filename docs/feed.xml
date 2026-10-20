@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 12:16:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 13:16:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse simkaarten verbruiken gemiddeld ongeveer 6,1GB per maand</title>
+    <link>https://tweakers.net/nieuws/253548/nederlandse-simkaarten-verbruiken-gemiddeld-ongeveer-6-komma-1gb-per-maand.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253548</guid>
+    <pubDate>Tue, 20 Oct 2026 15:11:20 +0200</pubDate>
+    <description>Nederlandse simkaarten verbruiken gemiddeld ongeveer 6,1GB per maand. Dat is af te leiden uit de Telecommonitor van de Autoriteit Consument &amp; Markt (ACM). Het dataverbruik per simkaart komt voor het eerst boven 6GB uit, zo blijkt uit de cijfers.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
+    <comments>https://tweakers.net/nieuws/253548/nederlandse-simkaarten-verbruiken-gemiddeld-ongeveer-6-komma-1gb-per-maand.html#reacties</comments>
+  </item>
   <item>
     <title>Gamestudio Digital Sun stopt met publieke speeltests uit angst voor AI-clones</title>
     <link>https://tweakers.net/nieuws/253542/gamestudio-digital-sun-stopt-met-publieke-speeltests-uit-angst-voor-ai-clones.html</link>

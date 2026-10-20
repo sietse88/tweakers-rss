@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 09:16:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 09:31:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bank Revolut heeft wereldwijde storing: betalen niet mogelijk</title>
+    <link>https://tweakers.net/nieuws/253528/bank-revolut-heeft-wereldwijde-storing-betalen-niet-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253528</guid>
+    <pubDate>Tue, 20 Oct 2026 11:16:59 +0200</pubDate>
+    <description>Alle diensten van Revolut zijn dinsdagochtend wereldwijd onbeschikbaar. De app en klantenservice zijn niet bereikbaar. Betalen met een bankpas is niet mogelijk. Revolut spreekt op zijn website van een 'incident'. Waardoor de storing precies is ontstaan, is niet bekend. De bank geeft niet aan wanneer het probleem wordt opgelost.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253528/bank-revolut-heeft-wereldwijde-storing-betalen-niet-mogelijk.html#reacties</comments>
+  </item>
   <item>
     <title>Amazon integreert gamestreamingdienst Luna in november in Prime Video-app</title>
     <link>https://tweakers.net/nieuws/253526/amazon-integreert-gamestreamingdienst-luna-in-november-in-prime-video-app.html</link>

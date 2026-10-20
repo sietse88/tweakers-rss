@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 09:31:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:16:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>EFF brengt antitrackingtool Privacy Badger uit voor Safari op macOS</title>
+    <link>https://tweakers.net/nieuws/253530/eff-brengt-antitrackingtool-privacy-badger-uit-voor-safari-op-macos.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253530</guid>
+    <pubDate>Tue, 20 Oct 2026 11:58:55 +0200</pubDate>
+    <description>De Amerikaanse digitaleburgerrechtenorganisatie Electronic Frontier Foundation brengt zijn antitrackingtool Privacy Badger naar Safari op macOS. Deze extensie blokkeert trackers van derde partijen voordat ze laden.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/253530/eff-brengt-antitrackingtool-privacy-badger-uit-voor-safari-op-macos.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bedrijf achter Buienalarm en Weeronline start met overstap naar Europese cloud</title>
+    <link>https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253532</guid>
+    <pubDate>Tue, 20 Oct 2026 11:57:29 +0200</pubDate>
+    <description>Infoplaza, het bedrijf achter Buienalarm en Weeronline, begint over te stappen van Amerikaanse cloudaanbieders naar een Europees alternatief. Dat gebeurt volgens de weerdienstaanbieder stap voor stap. Het is onduidelijk wanneer de migratie afgerond moet zijn.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253532/bedrijf-achter-buienalarm-en-weeronline-start-met-overstap-naar-europese-cloud.html#reacties</comments>
+  </item>
   <item>
     <title>Bank Revolut heeft wereldwijde storing: betalen niet mogelijk</title>
     <link>https://tweakers.net/nieuws/253528/bank-revolut-heeft-wereldwijde-storing-betalen-niet-mogelijk.html</link>

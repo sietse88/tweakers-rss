@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 11:46:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:16:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,31 @@
     <height>192</height>
   </image>
   <item>
-    <title>Google Cloud heeft storing in Europa: meerdere diensten getroffen</title>
+    <title>Gamestudio Digital Sun stopt met publieke speeltests uit angst voor AI-clones</title>
+    <link>https://tweakers.net/nieuws/253542/gamestudio-digital-sun-stopt-met-publieke-speeltests-uit-angst-voor-ai-clones.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253542</guid>
+    <pubDate>Tue, 20 Oct 2026 14:05:03 +0200</pubDate>
+    <description>Indiestudio Digital Sun Games stopt met publieke speeltestsessies uit angst voor met AI nagemaakte games. De towerdefencegame ReVamp krijgt geen publieke test. Onlangs maakte een andere onafhankelijke gamemaker dezelfde keuze omdat games met programmeertools als Claude Opus gemakkelijk nagemaakt kunnen worden.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253542/gamestudio-digital-sun-stopt-met-publieke-speeltests-uit-angst-voor-ai-clones.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apple laat klanten maximaal twee iPhone Duo's kopen om doorverkoop te beperken</title>
+    <link>https://tweakers.net/nieuws/253540/apple-laat-klanten-maximaal-twee-iphone-duos-kopen-om-doorverkoop-te-beperken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253540</guid>
+    <pubDate>Tue, 20 Oct 2026 14:02:17 +0200</pubDate>
+    <description>Apple wil de doorverkoop van de iPhone Duo beperken. Daarom kan elke klant maximaal twee exemplaren bij de fabrikant kopen. Dat blijkt uit de webshop van het Amerikaanse bedrijf. De iPhone Duo komt vrijdag uit.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253540/apple-laat-klanten-maximaal-twee-iphone-duos-kopen-om-doorverkoop-te-beperken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google Cloud heeft storing in Europa: meerdere diensten getroffen - update</title>
     <link>https://tweakers.net/nieuws/253536/google-cloud-heeft-storing-in-europa-meerdere-diensten-getroffen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253536</guid>
     <pubDate>Tue, 20 Oct 2026 13:12:51 +0200</pubDate>
-    <description>Google Cloud kampt met een storing in West-Europa. Meerdere diensten ervaren netwerkfalen en een verhoogd foutpercentage. Google zegt tegen Tweakers dat het bedrijf het incident onderzoekt en biedt alle getroffenen zijn excuses aan. Google heeft niet aangegeven wanneer het probleem is opgelost.</description>
+    <description>Google Cloud kampt met een storing in West-Europa. De oorzaak is een stroomstoring, die inmiddels is opgelost. Meerdere diensten ervaren netwerkfalen en een verhoogd foutpercentage. Google zegt tegen Tweakers dat het bedrijf het incident onderzoekt en biedt alle getroffenen zijn excuses aan.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253536/google-cloud-heeft-storing-in-europa-meerdere-diensten-getroffen.html#reacties</comments>

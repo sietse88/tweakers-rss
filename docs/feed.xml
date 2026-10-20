@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 10:16:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:46:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gearresteerde OpenAI-medewerker onderhield contact met Saoedisch koningshuis</title>
+    <link>https://tweakers.net/nieuws/253534/gearresteerde-openai-medewerker-onderhield-contact-met-saoedisch-koningshuis.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253534</guid>
+    <pubDate>Tue, 20 Oct 2026 12:33:30 +0200</pubDate>
+    <description>De OpenAI-medewerker die onlangs in de Verenigde Staten werd gearresteerd voor verdenking van het plaatsen van afluisterapparatuur had uitvoerig contact met een lid van het Saoedische koningshuis. Voor zover bekend werd hij tijdens dat contact niet gevraagd om het vermeende afluisterapparaat te plaatsen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253534/gearresteerde-openai-medewerker-onderhield-contact-met-saoedisch-koningshuis.html#reacties</comments>
+  </item>
   <item>
     <title>EFF brengt antitrackingtool Privacy Badger uit voor Safari op macOS</title>
     <link>https://tweakers.net/nieuws/253530/eff-brengt-antitrackingtool-privacy-badger-uit-voor-safari-op-macos.html</link>

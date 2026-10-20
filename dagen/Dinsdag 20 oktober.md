@@ -176,6 +176,6 @@ Apple moet mogelijk de NFC-chip in iPhones meer openstellen in het Verenigd Koni
 
 ## Spotify checkt adres Family-abonnees met QR-code die elke paar seconden wisselt
 
-Spotify checkt met een QR-code die elke paar seconden wisselt of abonnees die samen een Family-abonnement hebben op één adres wonen. Dat is een voorwaarde voor dat abonnement. Er is een truc om de check te omzeilen.
+Spotify checkt met een QR-code die elke paar seconden wisselt of abonnees die samen een Family-abonnement hebben op één adres wonen. Dat is een voorwaarde voor dat abonnement.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253554/spotify-checkt-adres-family-abonnees-met-qr-code-die-elke-paar-seconden-wisselt.html)

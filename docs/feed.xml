@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 06:45:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 07:00:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4734,16 +4734,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Achtergrond / Gaming / Gameontwikkeling</category>
     <comments>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html#reacties</comments>
-  </item>
-  <item>
-    <title>Quicktest - Iiyama G-Master GOB2701QSC-B1 - Prijsvechter met ruwe kantjes</title>
-    <link>https://tweakers.net/reviews/15290/iiyama-g-master-gob2701qsc-b1-prijsvechter-met-ruwe-kantjes.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15290</guid>
-    <pubDate>Sun, 20 Sep 2026 09:00:00 +0200</pubDate>
-    <description>Iiyama's eerste oledmonitor, de iiyama G-Master GOB2701QSC-B1, heeft voor een relatief laag bedrag de nieuwste technologie. De uitwerking is niet in alle opzichten even geslaagd.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Quicktest / Computers / Monitors</category>
-    <comments>https://tweakers.net/reviews/15290/iiyama-g-master-gob2701qsc-b1-prijsvechter-met-ruwe-kantjes.html#reacties</comments>
   </item>
 </channel>
 </rss>

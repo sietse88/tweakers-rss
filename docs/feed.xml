@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 13:16:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 13:46:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>HomeWizard roept Energy Socket terug door risico op elektrische schok</title>
+    <link>https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253544</guid>
+    <pubDate>Tue, 20 Oct 2026 15:43:39 +0200</pubDate>
+    <description>HomeWizard heeft een terugroepactie gestart voor het Energy Socket-model HWE-SKT-21. Volgens het bedrijf voldoet de socket niet aan de eigen veiligheidseisen. Klanten kunnen het model kosteloos laten vervangen door een nieuw en verbeterd model.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Beeld en geluid / Verbruiksmeters</category>
+    <comments>https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html#reacties</comments>
+  </item>
+  <item>
+    <title>AfD getroffen door datalek: mogelijk honderdduizenden gevoelige e-mails online</title>
+    <link>https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253546</guid>
+    <pubDate>Tue, 20 Oct 2026 15:39:10 +0200</pubDate>
+    <description>De Duitse radicaal-rechtse politieke partij Alternative für Deutschland (AfD) is getroffen door een datalek. Mogelijk zijn daarbij ruim 420.000 interne e-mails gestolen en online gepubliceerd. De aanval zou in september via een hostingprovider van de partij hebben plaatsgevonden.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meer dan helft van Nederlandse glasvezelabonnees heeft 300Mbit/s of meer</title>
+    <link>https://tweakers.net/nieuws/253550/meer-dan-helft-van-nederlandse-glasvezelabonnees-heeft-300mbit-s-of-meer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253550</guid>
+    <pubDate>Tue, 20 Oct 2026 15:32:00 +0200</pubDate>
+    <description>Meer dan de helft van de Nederlandse thuisgebruikers met een glasvezelverbinding heeft een downloadsnelheid van 300Mbit/s of hoger. Dat is voor het eerst, zo blijkt uit cijfers van toezichthouder Autoriteit Consument en Markt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253550/meer-dan-helft-van-nederlandse-glasvezelabonnees-heeft-300mbit-s-of-meer.html#reacties</comments>
+  </item>
   <item>
     <title>Nederlandse simkaarten verbruiken gemiddeld ongeveer 6,1GB per maand</title>
     <link>https://tweakers.net/nieuws/253548/nederlandse-simkaarten-verbruiken-gemiddeld-ongeveer-6-komma-1gb-per-maand.html</link>

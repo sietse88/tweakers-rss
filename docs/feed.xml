@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 14:31:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 14:46:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Spotify checkt adres Family-abonnees met QR-code die elke paar seconden wisselt</title>
+    <link>https://tweakers.net/nieuws/253554/spotify-checkt-adres-family-abonnees-met-qr-code-die-elke-paar-seconden-wisselt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253554</guid>
+    <pubDate>Tue, 20 Oct 2026 16:41:19 +0200</pubDate>
+    <description>Spotify checkt met een QR-code die elke paar seconden wisselt of abonnees die samen een Family-abonnement hebben op één adres wonen. Dat is een voorwaarde voor dat abonnement. Er is een truc om de check te omzeilen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/253554/spotify-checkt-adres-family-abonnees-met-qr-code-die-elke-paar-seconden-wisselt.html#reacties</comments>
+  </item>
   <item>
     <title>Apple moet mogelijk NFC meer openstellen in VK voor andere betaalsystemen</title>
     <link>https://tweakers.net/nieuws/253538/apple-moet-mogelijk-nfc-meer-openstellen-in-vk-voor-andere-betaalsystemen.html</link>

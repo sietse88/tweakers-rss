@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 17:32:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 18:17:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>PEGI begint digitale games met lootboxes te classificeren als 16+</title>
+    <link>https://tweakers.net/nieuws/253560/pegi-begint-digitale-games-met-lootboxes-te-classificeren-als-16+.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253560</guid>
+    <pubDate>Tue, 20 Oct 2026 20:13:47 +0200</pubDate>
+    <description>PEGI is begonnen met het herclassificeren van bestaande games die alleen digitaal verkrijgbaar zijn en lootboxes bevatten. Alle digital-onlygames met lootboxes worden daardoor minimaal 16+. PEGI heeft het proces afgelopen week gestart en zal dat de rest van de maand voortzetten.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253560/pegi-begint-digitale-games-met-lootboxes-te-classificeren-als-16+.html#reacties</comments>
+  </item>
   <item>
     <title>AMD brengt FSR 4.1 naar RX 6000-gpu's en XBOX Series-consoles</title>
     <link>https://tweakers.net/nieuws/253558/amd-brengt-fsr-41-naar-rx-6000-gpus-en-xbox-series-consoles.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 07:30:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 08:15:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>ACM keurt overname Viaplay door Videoland-eigenaar DPG Media goed</title>
+    <link>https://tweakers.net/nieuws/253524/acm-keurt-overname-viaplay-door-videoland-eigenaar-dpg-media-goed.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253524</guid>
+    <pubDate>Tue, 20 Oct 2026 09:58:51 +0200</pubDate>
+    <description>DPG Media mag van de ACM de Nederlandse tak van streamingdienst Viaplay overnemen. Volgens de Nederlandse toezichthouder leidt de overname niet tot een 'significante' beperking van de concurrentie. DPG wil de content van Viaplay overhevelen naar Videoland.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253524/acm-keurt-overname-viaplay-door-videoland-eigenaar-dpg-media-goed.html#reacties</comments>
+  </item>
   <item>
     <title>Škoda brengt 3d-printbare bekerhouders, opbergsystemen en andere accessoires uit</title>
     <link>https://tweakers.net/nieuws/253520/skoda-brengt-3d-printbare-bekerhouders-opbergsystemen-en-andere-accessoires-uit.html</link>

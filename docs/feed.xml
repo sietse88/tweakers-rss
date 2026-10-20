@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 08:45:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 09:16:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Amazon integreert gamestreamingdienst Luna in november in Prime Video-app</title>
+    <link>https://tweakers.net/nieuws/253526/amazon-integreert-gamestreamingdienst-luna-in-november-in-prime-video-app.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253526</guid>
+    <pubDate>Tue, 20 Oct 2026 10:56:51 +0200</pubDate>
+    <description>Amazon integreert zijn gamestreamingdienst Luna in november in de Prime Video-app voor Nederlandse en Belgische gebruikers. Tot dusver is Luna alleen beschikbaar via een aparte app. De verandering geldt vooralsnog alleen voor de Prime Video-app op Amazon Fire TV.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253526/amazon-integreert-gamestreamingdienst-luna-in-november-in-prime-video-app.html#reacties</comments>
+  </item>
   <item>
     <title>ACM keurt overname Viaplay door Videoland-eigenaar DPG Media goed</title>
     <link>https://tweakers.net/nieuws/253524/acm-keurt-overname-viaplay-door-videoland-eigenaar-dpg-media-goed.html</link>

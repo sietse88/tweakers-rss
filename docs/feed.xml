@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 20 Oct 2026 18:17:13 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 19:17:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hacker krijgt Wii-game Super Mario Galaxy werkend op de Game Boy Advance</title>
+    <link>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253564</guid>
+    <pubDate>Tue, 20 Oct 2026 21:13:14 +0200</pubDate>
+    <description>De ontwikkelaar Tobias Friedly, ook wel bekend als Game of Tobi, heeft een port van Super Mario Galaxy uitgebracht voor de Game Boy Advance. De game kwam in 2007 uit voor de Nintendo Wii, maar is nu dus ook te spelen op de GBA, die in 2001 op de markt kwam.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html#reacties</comments>
+  </item>
   <item>
     <title>PEGI begint digitale games met lootboxes te classificeren als 16+</title>
     <link>https://tweakers.net/nieuws/253560/pegi-begint-digitale-games-met-lootboxes-te-classificeren-als-16+.html</link>

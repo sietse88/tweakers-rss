@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 18:05:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 18:50:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Meta moet boete van 25 miljard dollar betalen om Cambridge Analytica-zaak</title>
+    <link>https://tweakers.net/nieuws/253616/meta-moet-boete-van-25-miljard-dollar-betalen-om-cambridge-analytica-zaak.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253616</guid>
+    <pubDate>Wed, 21 Oct 2026 20:44:02 +0200</pubDate>
+    <description>Meta moet 25 miljard dollar aan de staat New Mexico betalen, omdat het bedrijf consumenten heeft misleid over hun privacy. De zaak draaide om de dataverzameling van Cambridge Analytica, dat via een app van derden data van 87 miljoen Facebook-gebruikers verzamelde.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253616/meta-moet-boete-van-25-miljard-dollar-betalen-om-cambridge-analytica-zaak.html#reacties</comments>
+  </item>
   <item>
     <title>Bloomberg: EA sluit BioWare en schrapt 400 banen</title>
     <link>https://tweakers.net/nieuws/253614/bloomberg-ea-sluit-bioware-en-schrapt-400-banen.html</link>

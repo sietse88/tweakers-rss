@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 09:03:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:18:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Samsung stapt voor modems over op 2nm-procedé om HBM-capaciteit vrij te spelen</title>
+    <link>https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253580</guid>
+    <pubDate>Wed, 21 Oct 2026 11:12:04 +0200</pubDate>
+    <description>Samsung wil zijn toekomstige mobiele modems op een 2nm-procedé maken. Het gaat om het modem in de Galaxy S28. Samsung wil zo meer productiecapaciteit voor high-bandwidth memory (HBM) vrijspelen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html#reacties</comments>
+  </item>
   <item>
     <title>Webshop Printerpix lekt wachtwoorden die mogelijk plaintext te lezen waren</title>
     <link>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html</link>

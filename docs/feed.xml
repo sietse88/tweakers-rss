@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 15:34:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 15:49:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Reuters: Chinese techbedrijven kopen voor 35 miljard dollar aan RTX PRO-gpu's</title>
+    <link>https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253596</guid>
+    <pubDate>Wed, 21 Oct 2026 17:44:00 +0200</pubDate>
+    <description>ByteDance, Alibaba en Tencent hebben meer dan drie miljoen Nvidia RTX PRO 5500-videokaarten besteld, schrijft Reuters. De totale waarde van al die kaarten zou meer dan 35 miljard dollar zijn, melden twee bronnen aan het persbureau.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html#reacties</comments>
+  </item>
   <item>
     <title>Politie arresteert twee mannen in onderzoek naar nieuw soort bankhelpdeskfraude</title>
     <link>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html</link>

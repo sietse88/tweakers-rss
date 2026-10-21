@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 18:50:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 19:20:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>XBOX Cloud Gaming zonder Game Pass kost 3,99 dollar voor tien uur speeltijd</title>
+    <link>https://tweakers.net/nieuws/253618/xbox-cloud-gaming-zonder-game-pass-kost-3-komma-99-dollar-voor-tien-uur-speeltijd.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253618</guid>
+    <pubDate>Wed, 21 Oct 2026 21:07:39 +0200</pubDate>
+    <description>XBOX heeft de prijzen van zijn XBOX Cloud Gaming-dienst voor gebruikers zonder Game Pass-abonnement bekendgemaakt. Voor 10 uur streamen betalen gebruikers 3,99 dollar. 25 uur cloudspeeltijd kost 7,99 dollar en voor 50 uur rekent XBOX 11,99 dollar.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253618/xbox-cloud-gaming-zonder-game-pass-kost-3-komma-99-dollar-voor-tien-uur-speeltijd.html#reacties</comments>
+  </item>
   <item>
     <title>Meta moet boete van 25 miljard dollar betalen om Cambridge Analytica-zaak</title>
     <link>https://tweakers.net/nieuws/253616/meta-moet-boete-van-25-miljard-dollar-betalen-om-cambridge-analytica-zaak.html</link>

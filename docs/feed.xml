@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 09:33:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 10:19:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -36,14 +36,14 @@
     <comments>https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html#reacties</comments>
   </item>
   <item>
-    <title>Webshop Printerpix lekt wachtwoorden</title>
-    <link>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html</link>
+    <title>Webshop Printerpix laat wachtwoorden uitlekken</title>
+    <link>https://tweakers.net/nieuws/253578/webshop-printerpix-laat-wachtwoorden-uitlekken.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253578</guid>
     <pubDate>Wed, 21 Oct 2026 10:46:06 +0200</pubDate>
     <description>Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. Printerpix waarschuwt dat die wachtwoorden op andere sites kunnen worden gebruikt, wat erop wijst dat de wachtwoorden leesbaar waren.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-laat-wachtwoorden-uitlekken.html#reacties</comments>
   </item>
   <item>
     <title>Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten</title>

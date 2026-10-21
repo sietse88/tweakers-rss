@@ -4545,6 +4545,17 @@
   "pubDate": "Wed, 21 Oct 2026 09:58:03 +0200",
   "title": "Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten"
  },
+ "https://tweakers.net/nieuws/253578": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html#reacties",
+  "description": "Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. De e-mail die Printerpix aan klanten heeft gestuurd, impliceert dat de wachtwoorden niet werden gehasht, al is dat niet zeker.",
+  "first": "Wed, 21 Oct 2026 09:03:51 +0000",
+  "guid": "https://tweakers.net/nieuws/253578",
+  "link": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html",
+  "pubDate": "Wed, 21 Oct 2026 10:46:06 +0200",
+  "title": "Webshop Printerpix lekt wachtwoorden die mogelijk plaintext te lezen waren"
+ },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
   "category": "Quicktest / Computers / Monitors",

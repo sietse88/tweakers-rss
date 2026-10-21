@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 08:33:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:03:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Webshop Printerpix lekt wachtwoorden die mogelijk plaintext te lezen waren</title>
+    <link>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253578</guid>
+    <pubDate>Wed, 21 Oct 2026 10:46:06 +0200</pubDate>
+    <description>Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. De e-mail die Printerpix aan klanten heeft gestuurd, impliceert dat de wachtwoorden niet werden gehasht, al is dat niet zeker.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html#reacties</comments>
+  </item>
   <item>
     <title>Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten</title>
     <link>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html</link>

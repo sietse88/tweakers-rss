@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 16:35:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 17:05:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ontdekker PHP-kwetsbaarheden lekte per ongeluk zelf vroegtijdig details uit</title>
+    <link>https://tweakers.net/nieuws/253610/ontdekker-php-kwetsbaarheden-lekte-per-ongeluk-zelf-vroegtijdig-details-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253610</guid>
+    <pubDate>Wed, 21 Oct 2026 18:56:12 +0200</pubDate>
+    <description>Een van de ontdekkers van de recente PHP-kwetsbaarheden lekte zelf het bestaan hiervan vroegtijdig uit. Daarna publiceerde een ander bedrijf vóór het verstrijken van het embargo de komende patch. Hierdoor moesten de PHP-makers vervroegd een update uitbrengen, maar in afwachting hiervan gingen wereldwijd talloze websites uit voorzorg offline.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/253610/ontdekker-php-kwetsbaarheden-lekte-per-ongeluk-zelf-vroegtijdig-details-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Muissoftware Corsair mikt niet voor gamer, maar personaliseert muisgevoeligheid</title>
     <link>https://tweakers.net/nieuws/253586/muissoftware-corsair-mikt-niet-voor-gamer-maar-personaliseert-muisgevoeligheid.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 09:18:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:33:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Best Buy Guide - Beste gamingmonitoren</title>
+    <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>
+    <guid isPermaLink="false">https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</guid>
+    <pubDate>Wed, 21 Oct 2026 11:30:00 +0200</pubDate>
+    <description>Ontdek de beste gamingmonitoren in diverse formaten en resoluties, beoordeeld op features, beeldkwaliteit en een sterke prijs-kwaliteitverhouding.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Best Buy Guide / Computers / Monitors</category>
+    <comments>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor#reacties</comments>
+  </item>
   <item>
     <title>Samsung stapt voor modems over op 2nm-procedé om HBM-capaciteit vrij te spelen</title>
     <link>https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html</link>
@@ -26,14 +36,14 @@
     <comments>https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html#reacties</comments>
   </item>
   <item>
-    <title>Webshop Printerpix lekt wachtwoorden die mogelijk plaintext te lezen waren</title>
-    <link>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html</link>
+    <title>Webshop Printerpix lekt wachtwoorden</title>
+    <link>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253578</guid>
     <pubDate>Wed, 21 Oct 2026 10:46:06 +0200</pubDate>
-    <description>Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. De e-mail die Printerpix aan klanten heeft gestuurd, impliceert dat de wachtwoorden niet werden gehasht, al is dat niet zeker.</description>
+    <description>Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. Printerpix waarschuwt dat die wachtwoorden op andere sites kunnen worden gebruikt, wat erop wijst dat de wachtwoorden leesbaar waren.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html#reacties</comments>
   </item>
   <item>
     <title>Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten</title>
@@ -46,14 +56,14 @@
     <comments>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html#reacties</comments>
   </item>
   <item>
-    <title>Acht intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren</title>
-    <link>https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html</link>
+    <title>Intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren</title>
+    <link>https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253566</guid>
     <pubDate>Wed, 21 Oct 2026 08:59:41 +0200</pubDate>
     <description>Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties</comments>
   </item>
   <item>
     <title>PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken</title>

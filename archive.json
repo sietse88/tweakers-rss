@@ -1,4 +1,15 @@
 {
+ "https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor": {
+  "author": "Friso Weijers",
+  "category": "Best Buy Guide / Computers / Monitors",
+  "comments": "https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor#reacties",
+  "description": "Ontdek de beste gamingmonitoren in diverse formaten en resoluties, beoordeeld op features, beeldkwaliteit en een sterke prijs-kwaliteitverhouding.",
+  "first": "Wed, 21 Oct 2026 09:33:56 +0000",
+  "guid": "https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor",
+  "link": "https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor",
+  "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
+  "title": "Best Buy Guide - Beste gamingmonitoren"
+ },
  "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat": {
   "author": "Eric van Ballegoie",
   "category": "Explainer / Tablets en telefoons / Smartwatches",
@@ -4515,13 +4526,13 @@
  "https://tweakers.net/nieuws/253566": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
   "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.",
   "first": "Wed, 21 Oct 2026 07:03:38 +0000",
   "guid": "https://tweakers.net/nieuws/253566",
-  "link": "https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
+  "link": "https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
   "pubDate": "Wed, 21 Oct 2026 08:59:41 +0200",
-  "title": "Acht intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren"
+  "title": "Intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren"
  },
  "https://tweakers.net/nieuws/253568": {
   "author": "Tijs Hofmans",
@@ -4548,13 +4559,13 @@
  "https://tweakers.net/nieuws/253578": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html#reacties",
-  "description": "Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. De e-mail die Printerpix aan klanten heeft gestuurd, impliceert dat de wachtwoorden niet werden gehasht, al is dat niet zeker.",
+  "comments": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html#reacties",
+  "description": "Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. Printerpix waarschuwt dat die wachtwoorden op andere sites kunnen worden gebruikt, wat erop wijst dat de wachtwoorden leesbaar waren.",
   "first": "Wed, 21 Oct 2026 09:03:51 +0000",
   "guid": "https://tweakers.net/nieuws/253578",
-  "link": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden-die-mogelijk-plaintext-te-lezen-waren.html",
+  "link": "https://tweakers.net/nieuws/253578/webshop-printerpix-lekt-wachtwoorden.html",
   "pubDate": "Wed, 21 Oct 2026 10:46:06 +0200",
-  "title": "Webshop Printerpix lekt wachtwoorden die mogelijk plaintext te lezen waren"
+  "title": "Webshop Printerpix lekt wachtwoorden"
  },
  "https://tweakers.net/nieuws/253580": {
   "author": "Tijs Hofmans",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 13:49:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:04:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Qualcomm zou in november wereldwijde ontslagronde houden</title>
+    <link>https://tweakers.net/nieuws/253590/qualcomm-zou-in-november-wereldwijde-ontslagronde-houden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253590</guid>
+    <pubDate>Wed, 21 Oct 2026 15:54:11 +0200</pubDate>
+    <description>Qualcomm is van plan om in november wereldwijd banen te schrappen. Dat blijkt uit een interne memo van ceo Cristian Amon die is ingezien door onder meer Reuters. De ontslagen vallen in november, na de jaarlijkse functioneringsgesprekken.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253590/qualcomm-zou-in-november-wereldwijde-ontslagronde-houden.html#reacties</comments>
+  </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>
     <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>

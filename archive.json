@@ -4589,6 +4589,17 @@
   "pubDate": "Wed, 21 Oct 2026 15:54:11 +0200",
   "title": "Qualcomm zou in november wereldwijde ontslagronde houden"
  },
+ "https://tweakers.net/nieuws/253592": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/253592/php-dicht-twee-kritieke-lekken-nadat-wereldwijd-websites-offline-werden-gehaald.html#reacties",
+  "description": "PHP heeft een patch uitgebracht om twee kritieke kwetsbaarheden te dichten. De makers adviseren gebruikers om direct een update uit te voeren. Uit voorzorg en in afwachting van de patch waren vanmiddag wereldwijd veel websites offline gegaan, waaronder die van de Tweede Kamer, ziekenhuizen, Schiphol en Tweakers.",
+  "first": "Wed, 21 Oct 2026 14:19:34 +0000",
+  "guid": "https://tweakers.net/nieuws/253592",
+  "link": "https://tweakers.net/nieuws/253592/php-dicht-twee-kritieke-lekken-nadat-wereldwijd-websites-offline-werden-gehaald.html",
+  "pubDate": "Wed, 21 Oct 2026 16:15:39 +0200",
+  "title": "PHP dicht twee kritieke lekken nadat wereldwijd websites offline werden gehaald"
+ },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",
   "category": "Quicktest / Computers / Monitors",
@@ -5182,5 +5193,16 @@
   "link": "https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html",
   "pubDate": "Mon, 19 Oct 2026 17:00:00 +0200",
   "title": "Achtergrond - Nvidia zegt dat de RTX 5090 leeft, maar maakt dat nog uit met deze prijzen?"
+ },
+ "https://tweakers.net/reviews/15504": {
+  "author": "Jasper Bakker",
+  "category": "Achtergrond / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/reviews/15504/wat-we-nu-weten-over-php2shell-de-twee-kwetsbaarheden-in-scriptingtaal-php.html#reacties",
+  "description": "Het internet staat op scherp door twee kritieke kwetsbaarheden in PHP. Die scriptingtaal draait op bijna 70 procent van de websites wereldwijd. Sommige sites zijn offline gehaald.",
+  "first": "Wed, 21 Oct 2026 14:19:34 +0000",
+  "guid": "https://tweakers.net/reviews/15504",
+  "link": "https://tweakers.net/reviews/15504/wat-we-nu-weten-over-php2shell-de-twee-kwetsbaarheden-in-scriptingtaal-php.html",
+  "pubDate": "Wed, 21 Oct 2026 16:10:42 +0200",
+  "title": "Achtergrond - Wat we nu weten over PHP2Shell, de twee kwetsbaarheden in scriptingtaal PHP"
  }
 }

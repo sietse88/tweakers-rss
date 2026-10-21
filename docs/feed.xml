@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 05:48:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 06:03:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken</title>
+    <link>https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253568</guid>
+    <pubDate>Wed, 21 Oct 2026 07:46:19 +0200</pubDate>
+    <description>De makers van PHP waarschuwen website- en softwarebeheerders voor twee ernstige kwetsbaarheden in PHP. Het gaat om remote code execution-bugs die eenvoudig kunnen worden uitgebuit. PHP wil zelf later op woensdag details naar buiten brengen, maar er lijkt inmiddels een proof-of-concept openbaar beschikbaar te zijn.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html#reacties</comments>
+  </item>
   <item>
     <title>Zelfbouw-pc's werden in een jaar tijd gemiddeld 51 procent duurder</title>
     <link>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html</link>

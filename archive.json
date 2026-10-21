@@ -4119,13 +4119,13 @@
  "https://tweakers.net/nieuws/253490": {
   "author": "Eveline Meijer",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html#reacties",
   "description": "Ruim vier op de tien Nederlanders hebben weleens spijt van het klikken op een link. Dat blijkt uit onderzoek van de overheid onder ruim 1500 Nederlanders van achttien jaar en ouder. Met het onderzoek verlengt de overheid ook de bewustwordingscampagne Laat je niet interneppen.",
   "first": "Mon, 19 Oct 2026 12:43:40 +0000",
   "guid": "https://tweakers.net/nieuws/253490",
-  "link": "https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html",
+  "link": "https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html",
   "pubDate": "Mon, 19 Oct 2026 14:30:57 +0200",
-  "title": "Vier op de tien Nederlanders hebben spijt gehad van het klikken op een link"
+  "title": "Vier op tien Nederlanders hebben spijt gehad van klikken op een link"
  },
  "https://tweakers.net/nieuws/253492": {
   "author": "Eveline Meijer",
@@ -4218,13 +4218,13 @@
  "https://tweakers.net/nieuws/253508": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / Computers / Laptops",
-  "comments": "https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-evenement-om-nieuwe-producten-aan-te-kondigen.html#reacties",
   "description": "Apple heeft volgende week voor de tweede keer deze maand een evenement om nieuwe producten aan te kondigen. De naam 'Pro and tell' wijst erop dat het gaat om de MacBook Pro, die volgens aanhoudende geruchten een oledtouchscreen krijgt.",
   "first": "Mon, 19 Oct 2026 17:59:30 +0000",
   "guid": "https://tweakers.net/nieuws/253508",
-  "link": "https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html",
+  "link": "https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-evenement-om-nieuwe-producten-aan-te-kondigen.html",
   "pubDate": "Mon, 19 Oct 2026 19:41:44 +0200",
-  "title": "Apple heeft volgende week een evenement om nieuwe producten aan te kondigen"
+  "title": "Apple heeft volgende week evenement om nieuwe producten aan te kondigen"
  },
  "https://tweakers.net/nieuws/253510": {
   "author": "Arnoud Wokke",
@@ -4504,13 +4504,24 @@
  "https://tweakers.net/nieuws/253564": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html#reacties",
   "description": "De ontwikkelaar Tobias Friedly, ook wel bekend als Game of Tobi, heeft een port van Super Mario Galaxy uitgebracht voor de Game Boy Advance. De game kwam in 2007 uit voor de Nintendo Wii, maar is nu dus ook te spelen op de GBA, die in 2001 op de markt kwam.",
   "first": "Tue, 20 Oct 2026 19:17:18 +0000",
   "guid": "https://tweakers.net/nieuws/253564",
-  "link": "https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html",
+  "link": "https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html",
   "pubDate": "Tue, 20 Oct 2026 21:13:14 +0200",
-  "title": "Hacker krijgt Wii-game Super Mario Galaxy werkend op de Game Boy Advance"
+  "title": "Hacker krijgt Wii-game Super Mario Galaxy werkend op Game Boy Advance"
+ },
+ "https://tweakers.net/nieuws/253566": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253566/acht-intermediate-rootcertificaten-lijken-onveilig-kan-leiden-tot-afluisteren.html#reacties",
+  "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uit te brengen die browsers vervolgens accepteren.",
+  "first": "Wed, 21 Oct 2026 07:03:38 +0000",
+  "guid": "https://tweakers.net/nieuws/253566",
+  "link": "https://tweakers.net/nieuws/253566/acht-intermediate-rootcertificaten-lijken-onveilig-kan-leiden-tot-afluisteren.html",
+  "pubDate": "Wed, 21 Oct 2026 08:59:41 +0200",
+  "title": "Acht intermediate rootcertificaten lijken onveilig, kan leiden tot afluisteren"
  },
  "https://tweakers.net/nieuws/253568": {
   "author": "Tijs Hofmans",

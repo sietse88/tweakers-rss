@@ -60,11 +60,11 @@ Microsoft trekt zich terug uit een Britse datacenterdeal met Nscale. Het datacen
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253488/microsoft-trekt-stekker-uit-britse-datacenterdeal-met-nscale.html)
 
-## Vier op de tien Nederlanders hebben spijt gehad van het klikken op een link
+## Vier op tien Nederlanders hebben spijt gehad van klikken op een link
 
 Ruim vier op de tien Nederlanders hebben weleens spijt van het klikken op een link. Dat blijkt uit onderzoek van de overheid onder ruim 1500 Nederlanders van achttien jaar en ouder. Met het onderzoek verlengt de overheid ook de bewustwordingscampagne Laat je niet interneppen.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html)
 
 ## NLZiet ondersteunt nu Dolby Digital 5.1-surroundgeluid bij deel van programma's
 

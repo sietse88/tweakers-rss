@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 06:03:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 07:03:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Acht intermediate rootcertificaten lijken onveilig, kan leiden tot afluisteren</title>
+    <link>https://tweakers.net/nieuws/253566/acht-intermediate-rootcertificaten-lijken-onveilig-kan-leiden-tot-afluisteren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253566</guid>
+    <pubDate>Wed, 21 Oct 2026 08:59:41 +0200</pubDate>
+    <description>Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uit te brengen die browsers vervolgens accepteren.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253566/acht-intermediate-rootcertificaten-lijken-onveilig-kan-leiden-tot-afluisteren.html#reacties</comments>
+  </item>
   <item>
     <title>PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken</title>
     <link>https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html</link>
@@ -36,14 +46,14 @@
     <comments>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html#reacties</comments>
   </item>
   <item>
-    <title>Hacker krijgt Wii-game Super Mario Galaxy werkend op de Game Boy Advance</title>
-    <link>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html</link>
+    <title>Hacker krijgt Wii-game Super Mario Galaxy werkend op Game Boy Advance</title>
+    <link>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253564</guid>
     <pubDate>Tue, 20 Oct 2026 21:13:14 +0200</pubDate>
     <description>De ontwikkelaar Tobias Friedly, ook wel bekend als Game of Tobi, heeft een port van Super Mario Galaxy uitgebracht voor de Game Boy Advance. De game kwam in 2007 uit voor de Nintendo Wii, maar is nu dus ook te spelen op de GBA, die in 2001 op de markt kwam.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html#reacties</comments>
   </item>
   <item>
     <title>PEGI begint digitale games met lootboxes te classificeren als 16+</title>
@@ -326,14 +336,14 @@
     <comments>https://tweakers.net/nieuws/253496/motorola-biedt-e-sim-voor-op-reis-aan-in-nederland-maar-niet-in-belgie.html#reacties</comments>
   </item>
   <item>
-    <title>Apple heeft volgende week een evenement om nieuwe producten aan te kondigen</title>
-    <link>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html</link>
+    <title>Apple heeft volgende week evenement om nieuwe producten aan te kondigen</title>
+    <link>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-evenement-om-nieuwe-producten-aan-te-kondigen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253508</guid>
     <pubDate>Mon, 19 Oct 2026 19:41:44 +0200</pubDate>
     <description>Apple heeft volgende week voor de tweede keer deze maand een evenement om nieuwe producten aan te kondigen. De naam 'Pro and tell' wijst erop dat het gaat om de MacBook Pro, die volgens aanhoudende geruchten een oledtouchscreen krijgt.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-evenement-om-nieuwe-producten-aan-te-kondigen.html#reacties</comments>
   </item>
   <item>
     <title>Nederlandse ShinyHunters-verdachte had bij arrestatie chatapp Signal openstaan</title>
@@ -406,14 +416,14 @@
     <comments>https://tweakers.net/nieuws/253492/nlziet-ondersteunt-nu-dolby-digital-51-surroundgeluid-bij-deel-van-programmas.html#reacties</comments>
   </item>
   <item>
-    <title>Vier op de tien Nederlanders hebben spijt gehad van het klikken op een link</title>
-    <link>https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html</link>
+    <title>Vier op tien Nederlanders hebben spijt gehad van klikken op een link</title>
+    <link>https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253490</guid>
     <pubDate>Mon, 19 Oct 2026 14:30:57 +0200</pubDate>
     <description>Ruim vier op de tien Nederlanders hebben weleens spijt van het klikken op een link. Dat blijkt uit onderzoek van de overheid onder ruim 1500 Nederlanders van achttien jaar en ouder. Met het onderzoek verlengt de overheid ook de bewustwordingscampagne Laat je niet interneppen.</description>
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253490/vier-op-de-tien-nederlanders-hebben-spijt-gehad-van-het-klikken-op-een-link.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html#reacties</comments>
   </item>
   <item>
     <title>Microsoft trekt stekker uit Britse datacenterdeal met Nscale</title>

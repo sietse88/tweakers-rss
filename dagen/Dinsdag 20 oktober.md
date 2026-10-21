@@ -24,11 +24,11 @@ Toen de Nederlandse politie Pepijn van der S. arresteerde omdat hij ervan werd v
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253506/nederlandse-shinyhunters-verdachte-had-bij-arrestatie-chatapp-signal-openstaan.html)
 
-## Apple heeft volgende week een evenement om nieuwe producten aan te kondigen
+## Apple heeft volgende week evenement om nieuwe producten aan te kondigen
 
 Apple heeft volgende week voor de tweede keer deze maand een evenement om nieuwe producten aan te kondigen. De naam 'Pro and tell' wijst erop dat het gaat om de MacBook Pro, die volgens aanhoudende geruchten een oledtouchscreen krijgt.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-een-evenement-om-nieuwe-producten-aan-te-kondigen.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253508/apple-heeft-volgende-week-evenement-om-nieuwe-producten-aan-te-kondigen.html)
 
 ## Motorola biedt e-sim voor op reis aan in Nederland, maar niet in België
 

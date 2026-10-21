@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 00:32:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 04:03:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Zelfbouw-pc's werden in een jaar tijd gemiddeld 51 procent duurder</title>
+    <link>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253552</guid>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+    <description>In iets meer dan een jaar tijd zijn zelfbouw-pc's meer dan de helft duurder geworden. Dat blijkt uit een analyse van Tweakers op basis van de zes pc-builds uit de Desktop Best Buy Guide, variërend van een basis-pc tot game-pc's en een krachtig workstation.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html#reacties</comments>
+  </item>
   <item>
     <title>Hacker krijgt Wii-game Super Mario Galaxy werkend op de Game Boy Advance</title>
     <link>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-de-game-boy-advance.html</link>
@@ -4934,16 +4944,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>.Community / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15328/poll-meer-dan-de-helft-van-de-tweakers-wil-geen-vouwtelefoon.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Van stokoude code naar pc-port: zo moderniseren hobbyisten retrogames</title>
-    <link>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15316</guid>
-    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Retrogaming is in opmars. Dat is onder meer te zien aan het groeiende aantal ports van klassieke games. Hoe zetten hobbyisten die spellen over naar moderne hardware?</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Achtergrond / Gaming / Gameontwikkeling</category>
-    <comments>https://tweakers.net/reviews/15316/van-stokoude-code-naar-pc-port-zo-moderniseren-hobbyisten-retrogames.html#reacties</comments>
   </item>
 </channel>
 </rss>

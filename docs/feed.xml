@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 14:19:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:49:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Sharma wil gebruikers eigen XBOX Game Pass-abo laten bouwen'</title>
+    <link>https://tweakers.net/nieuws/253594/sharma-wil-gebruikers-eigen-xbox-game-pass-abo-laten-bouwen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253594</guid>
+    <pubDate>Wed, 21 Oct 2026 16:42:00 +0200</pubDate>
+    <description>XBOX-ceo Asha Sharma wil het XBOX Game Pass-abonnement naar verluidt op de schop gooien. Zij zou spelers hun eigen abonnement willen laten 'bouwen'. Gamers zouden dan verschillende onderdelen, zoals cloudgaming en multiplayer, kunnen kiezen. Zij betalen dan alleen voor wat ze gebruiken.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Game-accessoires</category>
+    <comments>https://tweakers.net/nieuws/253594/sharma-wil-gebruikers-eigen-xbox-game-pass-abo-laten-bouwen.html#reacties</comments>
+  </item>
   <item>
     <title>PHP dicht twee kritieke lekken nadat wereldwijd websites offline werden gehaald</title>
     <link>https://tweakers.net/nieuws/253592/php-dicht-twee-kritieke-lekken-nadat-wereldwijd-websites-offline-werden-gehaald.html</link>

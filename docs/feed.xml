@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 07:18:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 08:03:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
+    <title>Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten</title>
+    <link>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253572</guid>
+    <pubDate>Wed, 21 Oct 2026 09:58:03 +0200</pubDate>
+    <description>Microsoft verwacht dat de volgende XBOX tussen de 1200 en 1800 dollar kan kosten voor consumenten. Dat zou de prijs zijn als Microsoft geen deel van de kosten voor eigen rekening neemt. Dat zijn Microsofts interne verwachtingen, zeggen bronnen tegen Fortune. De console zou eind 2028 op de markt komen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html#reacties</comments>
+  </item>
+  <item>
     <title>Acht intermediate certificaten zijn gecompromitteerd, kan leiden tot afluisteren</title>
     <link>https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253566</guid>
     <pubDate>Wed, 21 Oct 2026 08:59:41 +0200</pubDate>
-    <description>Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uit te brengen die browsers vervolgens accepteren.</description>
+    <description>Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties</comments>

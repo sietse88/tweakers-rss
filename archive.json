@@ -4516,7 +4516,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
   "comments": "https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
-  "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uit te brengen die browsers vervolgens accepteren.",
+  "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.",
   "first": "Wed, 21 Oct 2026 07:03:38 +0000",
   "guid": "https://tweakers.net/nieuws/253566",
   "link": "https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
@@ -4533,6 +4533,17 @@
   "link": "https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html",
   "pubDate": "Wed, 21 Oct 2026 07:46:19 +0200",
   "title": "PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken"
+ },
+ "https://tweakers.net/nieuws/253572": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Consoles",
+  "comments": "https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html#reacties",
+  "description": "Microsoft verwacht dat de volgende XBOX tussen de 1200 en 1800 dollar kan kosten voor consumenten. Dat zou de prijs zijn als Microsoft geen deel van de kosten voor eigen rekening neemt. Dat zijn Microsofts interne verwachtingen, zeggen bronnen tegen Fortune. De console zou eind 2028 op de markt komen.",
+  "first": "Wed, 21 Oct 2026 08:03:44 +0000",
+  "guid": "https://tweakers.net/nieuws/253572",
+  "link": "https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html",
+  "pubDate": "Wed, 21 Oct 2026 09:58:03 +0200",
+  "title": "Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten"
  },
  "https://tweakers.net/reviews/12152": {
   "author": "Friso Weijers",

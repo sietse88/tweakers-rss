@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 15:19:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 15:34:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Politie arresteert twee mannen in onderzoek naar nieuw soort bankhelpdeskfraude</title>
+    <link>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253604</guid>
+    <pubDate>Wed, 21 Oct 2026 17:21:13 +0200</pubDate>
+    <description>De Nederlandse politie heeft op 6 oktober 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html#reacties</comments>
+  </item>
   <item>
     <title>OpenAI, Wiz en Calif werkten voor lek al maanden aan fix voor PHP-kwetsbaarheden</title>
     <link>https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html</link>

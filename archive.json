@@ -4515,13 +4515,13 @@
  "https://tweakers.net/nieuws/253566": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
   "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.",
   "first": "Wed, 21 Oct 2026 07:03:38 +0000",
   "guid": "https://tweakers.net/nieuws/253566",
-  "link": "https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
+  "link": "https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
   "pubDate": "Wed, 21 Oct 2026 08:59:41 +0200",
-  "title": "Acht intermediate certificaten zijn gecompromitteerd, kan leiden tot afluisteren"
+  "title": "Acht intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren"
  },
  "https://tweakers.net/nieuws/253568": {
   "author": "Tijs Hofmans",

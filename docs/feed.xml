@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 21 Oct 2026 08:03:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 08:33:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -26,14 +26,14 @@
     <comments>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html#reacties</comments>
   </item>
   <item>
-    <title>Acht intermediate certificaten zijn gecompromitteerd, kan leiden tot afluisteren</title>
-    <link>https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html</link>
+    <title>Acht intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren</title>
+    <link>https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253566</guid>
     <pubDate>Wed, 21 Oct 2026 08:59:41 +0200</pubDate>
     <description>Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253566/acht-intermediate-certificaten-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253566/acht-intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties</comments>
   </item>
   <item>
     <title>PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken</title>

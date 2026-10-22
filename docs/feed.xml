@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 08:52:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 09:07:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nieuwe Serious Sam-game gaat verder waar 23 jaar oude Second Encounter eindigde</title>
+    <link>https://tweakers.net/nieuws/253632/nieuwe-serious-sam-game-gaat-verder-waar-23-jaar-oude-second-encounter-eindigde.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253632</guid>
+    <pubDate>Thu, 22 Oct 2026 11:04:56 +0200</pubDate>
+    <description>Na bijna een kwart eeuw komt er een vervolg op het verhaal in de chaotische shooterserie Serious Sam. Ontwikkelaar Croteam heeft Serious Sam: The Third Encounter aangekondigd. Dat wordt weliswaar de zevende game in de serie, maar het verhaal gaat verder waar The Second Encounter uit 2002 eindigde. Croteam heeft alleen nog een teaser vrijgegeven.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253632/nieuwe-serious-sam-game-gaat-verder-waar-23-jaar-oude-second-encounter-eindigde.html#reacties</comments>
+  </item>
   <item>
     <title>Veel websites bij hosters van Yourhosting zijn nog steeds offline door PHP-bug</title>
     <link>https://tweakers.net/nieuws/253628/veel-websites-bij-hosters-van-yourhosting-zijn-nog-steeds-offline-door-php-bug.html</link>

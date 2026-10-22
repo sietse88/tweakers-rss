@@ -4842,6 +4842,17 @@
   "pubDate": "Thu, 22 Oct 2026 14:25:58 +0200",
   "title": "Nvidia DGX Station-pc met Windows verschijnt in december vanaf 100.000 euro"
  },
+ "https://tweakers.net/nieuws/253642": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / Tablet-accessoires",
+  "comments": "https://tweakers.net/nieuws/253642/apple-voegt-volgende-week-apple-pencil-ondersteuning-toe-aan-iphone-duo.html#reacties",
+  "description": "Apple voegt Apple Pencil-ondersteuning binnenkort toe aan de vouwbare iPhone Duo. De fabrikant voegt die ondersteuning toe met iOS-versie 27.2, die nu als testversie te downloaden is. Naar verwachting komt de update volgende week algemeen beschikbaar.",
+  "first": "Thu, 22 Oct 2026 13:07:28 +0000",
+  "guid": "https://tweakers.net/nieuws/253642",
+  "link": "https://tweakers.net/nieuws/253642/apple-voegt-volgende-week-apple-pencil-ondersteuning-toe-aan-iphone-duo.html",
+  "pubDate": "Thu, 22 Oct 2026 14:53:12 +0200",
+  "title": "Apple voegt volgende week Apple Pencil-ondersteuning toe aan iPhone Duo"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",
@@ -5469,5 +5480,16 @@
   "link": "https://tweakers.net/reviews/15504/wat-we-nu-weten-over-php2shell-de-twee-kwetsbaarheden-in-scriptingtaal-php.html",
   "pubDate": "Wed, 21 Oct 2026 16:10:42 +0200",
   "title": "Achtergrond - Wat we nu weten over PHP2Shell, de twee kwetsbaarheden in scriptingtaal PHP"
+ },
+ "https://tweakers.net/reviews/15508": {
+  "author": "Arnoud Wokke",
+  "category": "Achtergrond / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/reviews/15508/tijdlijn-hoe-kon-het-gebeuren-dat-sites-offline-moesten-door-de-php-lekken.html#reacties",
+  "description": "Veel websites gingen uit voorzorg offline door de PHP2Shell-lekken. Hoe kon dat gebeuren?",
+  "first": "Thu, 22 Oct 2026 13:07:28 +0000",
+  "guid": "https://tweakers.net/reviews/15508",
+  "link": "https://tweakers.net/reviews/15508/tijdlijn-hoe-kon-het-gebeuren-dat-sites-offline-moesten-door-de-php-lekken.html",
+  "pubDate": "Thu, 22 Oct 2026 15:00:00 +0200",
+  "title": "Achtergrond - Tijdlijn: hoe kon het gebeuren dat sites offline moesten door de PHP-lekken?"
  }
 }

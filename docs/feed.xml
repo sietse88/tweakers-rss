@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 12:52:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:07:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Tijdlijn: hoe kon het gebeuren dat sites offline moesten door de PHP-lekken?</title>
+    <link>https://tweakers.net/reviews/15508/tijdlijn-hoe-kon-het-gebeuren-dat-sites-offline-moesten-door-de-php-lekken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15508</guid>
+    <pubDate>Thu, 22 Oct 2026 15:00:00 +0200</pubDate>
+    <description>Veel websites gingen uit voorzorg offline door de PHP2Shell-lekken. Hoe kon dat gebeuren?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/reviews/15508/tijdlijn-hoe-kon-het-gebeuren-dat-sites-offline-moesten-door-de-php-lekken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apple voegt volgende week Apple Pencil-ondersteuning toe aan iPhone Duo</title>
+    <link>https://tweakers.net/nieuws/253642/apple-voegt-volgende-week-apple-pencil-ondersteuning-toe-aan-iphone-duo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253642</guid>
+    <pubDate>Thu, 22 Oct 2026 14:53:12 +0200</pubDate>
+    <description>Apple voegt Apple Pencil-ondersteuning binnenkort toe aan de vouwbare iPhone Duo. De fabrikant voegt die ondersteuning toe met iOS-versie 27.2, die nu als testversie te downloaden is. Naar verwachting komt de update volgende week algemeen beschikbaar.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Tablet-accessoires</category>
+    <comments>https://tweakers.net/nieuws/253642/apple-voegt-volgende-week-apple-pencil-ondersteuning-toe-aan-iphone-duo.html#reacties</comments>
+  </item>
   <item>
     <title>GitLab dicht 12 jaar oud gat dat een 10 scoort op de CVSS-securityschaal</title>
     <link>https://tweakers.net/nieuws/253634/gitlab-dicht-12-jaar-oud-gat-dat-een-10-scoort-op-de-cvss-securityschaal.html</link>

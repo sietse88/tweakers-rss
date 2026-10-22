@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 15:07:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 15:37:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Mass Effect-tv-serie nog steeds in de maak, ondanks sluiting BioWare'</title>
+    <link>https://tweakers.net/nieuws/253654/mass-effect-tv-serie-nog-steeds-in-de-maak-ondanks-sluiting-bioware.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253654</guid>
+    <pubDate>Thu, 22 Oct 2026 17:25:19 +0200</pubDate>
+    <description>De tv-serie op basis van Mass Effect is nog steeds in de maak. Dat meldt IGN op basis van ingewijden. Woensdagavond werd bekend dat BioWare, de studio achter de Mass Effect-games, wordt gesloten door eigenaar EA. Dat heeft geen invloed op de serie, meldt de website.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253654/mass-effect-tv-serie-nog-steeds-in-de-maak-ondanks-sluiting-bioware.html#reacties</comments>
+  </item>
   <item>
     <title>Corsair RM1200e-voeding knijpt gpu-stroom af bij overbelaste 12V-2x6-connector</title>
     <link>https://tweakers.net/nieuws/253652/corsair-rm1200e-voeding-knijpt-gpu-stroom-af-bij-overbelaste-12v-2x6-connector.html</link>

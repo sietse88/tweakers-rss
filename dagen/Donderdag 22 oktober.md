@@ -14,7 +14,7 @@ Cybersecuritybedrijven Wiz, Calif en ChatGPT-aanbieder OpenAI werkten al twee ma
 
 ## Politie arresteert twee mannen in onderzoek naar nieuw soort bankhelpdeskfraude
 
-De Nederlandse politie heeft op 6 oktober 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.
+De Nederlandse politie heeft op 6 oktober een 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html)
 

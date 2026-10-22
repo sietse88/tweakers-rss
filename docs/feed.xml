@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 18:38:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 18:53:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Spotify heeft 306 miljoen betalende abonnees en 788 miljoen maandelijkse gebruik</title>
+    <link>https://tweakers.net/nieuws/253666/spotify-heeft-306-miljoen-betalende-abonnees-en-788-miljoen-maandelijkse-gebruik.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253666</guid>
+    <pubDate>Thu, 22 Oct 2026 20:49:29 +0200</pubDate>
+    <description>Spotify heeft 306 miljoen betalende Premium-abonnees. Dat bevestigt de muziekstreamingdienst in de bespreking van zijn kwartaalcijfers. In totaal heeft het platform nu 788 miljoen maandelijkse gebruikers.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253666/spotify-heeft-306-miljoen-betalende-abonnees-en-788-miljoen-maandelijkse-gebruik.html#reacties</comments>
+  </item>
   <item>
     <title>IGN: BioWare had Mass Effect 5-trailer klaar voordat studio werd gesloten</title>
     <link>https://tweakers.net/nieuws/253662/ign-bioware-had-mass-effect-5-trailer-klaar-voordat-studio-werd-gesloten.html</link>
@@ -340,7 +350,7 @@
     <link>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253604</guid>
     <pubDate>Wed, 21 Oct 2026 17:21:13 +0200</pubDate>
-    <description>De Nederlandse politie heeft op 6 oktober 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.</description>
+    <description>De Nederlandse politie heeft op 6 oktober een 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
     <comments>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html#reacties</comments>

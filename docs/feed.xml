@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 09:52:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 10:52:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>QNAP adviseert gebruikers NAS-systemen van internet te halen vanwege PHP-gaten</title>
+    <link>https://tweakers.net/nieuws/253636/qnap-adviseert-gebruikers-nas-systemen-van-internet-te-halen-vanwege-php-gaten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253636</guid>
+    <pubDate>Thu, 22 Oct 2026 12:43:11 +0200</pubDate>
+    <description>De twee kritieke kwetsbaarheden in PHP die woensdag openbaar zijn gemaakt raken niet alleen websites, maar ook nas-apparaten. Fabrikant QNAP adviseert gebruikers een dag nadat PHP2Shell uitkwam hun nas-systemen te ontkoppelen van internet. QNAP werkt aan updates voor zijn software.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Nas</category>
+    <comments>https://tweakers.net/nieuws/253636/qnap-adviseert-gebruikers-nas-systemen-van-internet-te-halen-vanwege-php-gaten.html#reacties</comments>
+  </item>
   <item>
     <title>Fortinet brengt vandaag kritieke patches uit die klanten snel moeten installeren</title>
     <link>https://tweakers.net/nieuws/253630/fortinet-brengt-vandaag-kritieke-patches-uit-die-klanten-snel-moeten-installeren.html</link>

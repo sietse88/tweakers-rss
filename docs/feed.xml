@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 04:06:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 04:21:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,16 +16,6 @@
     <height>192</height>
   </image>
   <item>
-    <title>Review - Nothing Headphone 1 Pro - Hippe koptelefoon, heerlijke bediening</title>
-    <link>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15452</guid>
-    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
-    <description>De Britse fabrikant Nothing heeft een nieuwe koptelefoon uitgebracht in het hogere segment. Weet de Nothing Headphone 1 Pro indruk te maken, of moet hij het van z'n looks hebben?</description>
-    <dc:creator>Dennis de Vries</dc:creator>
-    <category>Review / Beeld en geluid / Hoofdtelefoons</category>
-    <comments>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html#reacties</comments>
-  </item>
-  <item>
     <title>Review - Rgb-woled, woled en QD-oled van 2026 - Nieuwste oledpanelen in 3 ASUS-monitoren</title>
     <link>https://tweakers.net/reviews/11774/rgb-woled-woled-en-qd-oled-van-2026-nieuwste-oledpanelen-in-3-asus-monitoren.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/11774</guid>
@@ -34,6 +24,16 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Review / Computers / Monitors</category>
     <comments>https://tweakers.net/reviews/11774/rgb-woled-woled-en-qd-oled-van-2026-nieuwste-oledpanelen-in-3-asus-monitoren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Nothing Headphone 1 Pro - Hippe koptelefoon, heerlijke bediening</title>
+    <link>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15452</guid>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Britse fabrikant Nothing heeft een nieuwe koptelefoon uitgebracht in het hogere segment. Weet de Nothing Headphone 1 Pro indruk te maken, of moet hij het van z'n looks hebben?</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Review / Beeld en geluid / Hoofdtelefoons</category>
+    <comments>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html#reacties</comments>
   </item>
   <item>
     <title>XBOX Cloud Gaming zonder Game Pass kost 3,99 dollar voor tien uur speeltijd</title>

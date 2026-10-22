@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 06:21:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 07:06:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Preview - OPPO Find X10 Pro Max - Drie euro per megapixel</title>
+    <link>https://tweakers.net/reviews/15502/oppo-find-x10-pro-max-drie-euro-per-megapixel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15502</guid>
+    <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+    <description>OPPO brengt twee nieuwe topmodellen uit in Europa: de Find X10 en Find X10 Pro Max. Steelt het camerasysteem met drie keer 200 megapixel de show, of doet de prijs dat stiekem?</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Preview / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15502/oppo-find-x10-pro-max-drie-euro-per-megapixel.html#reacties</comments>
+  </item>
   <item>
     <title>Securityexperts vinden derde bug in PHP en claimen dat patch incompleet is</title>
     <link>https://tweakers.net/nieuws/253620/securityexperts-vinden-derde-bug-in-php-en-claimen-dat-patch-incompleet-is.html</link>

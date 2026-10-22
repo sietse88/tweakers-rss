@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 13:52:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 14:07:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Modden van Nintendo Switch 2-games lijkt mogelijk door ns2jb-exploit</title>
+    <link>https://tweakers.net/nieuws/253646/modden-van-nintendo-switch-2-games-lijkt-mogelijk-door-ns2jb-exploit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253646</guid>
+    <pubDate>Thu, 22 Oct 2026 15:52:20 +0200</pubDate>
+    <description>Een hacker heeft een softwarematige exploit ontdekt voor de Nintendo Switch 2. Hiermee kunnen hackers naar verluidt code uitvoeren op hun console en zo bijvoorbeeld games modden. Dit is een belangrijke stap naar een volledige jailbreak, hoewel daar nog wel een kernelexploit voor nodig is.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/253646/modden-van-nintendo-switch-2-games-lijkt-mogelijk-door-ns2jb-exploit.html#reacties</comments>
+  </item>
   <item>
     <title>Amazon: hackers probeerden PHP-lekken al 4 dagen voor bekendmaking te misbruiken</title>
     <link>https://tweakers.net/nieuws/253648/amazon-hackers-probeerden-php-lekken-al-4-dagen-voor-bekendmaking-te-misbruiken.html</link>

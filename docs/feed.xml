@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 14:22:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 15:07:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Corsair RM1200e-voeding knijpt gpu-stroom af bij overbelaste 12V-2x6-connector</title>
+    <link>https://tweakers.net/nieuws/253652/corsair-rm1200e-voeding-knijpt-gpu-stroom-af-bij-overbelaste-12v-2x6-connector.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253652</guid>
+    <pubDate>Thu, 22 Oct 2026 16:59:51 +0200</pubDate>
+    <description>Corsair komt met een nieuwe RM1200e-voeding. Die beschikt over Corsairs PinProtect-functie, die moet voorkomen dat 12V-2x6-aansluitingen smelten. De RM1200e is vanaf nu beschikbaar en kost 194,90 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Voedingen</category>
+    <comments>https://tweakers.net/nieuws/253652/corsair-rm1200e-voeding-knijpt-gpu-stroom-af-bij-overbelaste-12v-2x6-connector.html#reacties</comments>
+  </item>
   <item>
     <title>Cloudflare ziet 'miljoenen' PHP2Shell-misbruikpogingen sinds bekendmaking</title>
     <link>https://tweakers.net/nieuws/253650/cloudflare-ziet-miljoenen-php2shell-misbruikpogingen-sinds-bekendmaking.html</link>

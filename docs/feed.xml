@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 09:07:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 09:22:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Fortinet brengt vandaag kritieke patches uit die klanten snel moeten installeren</title>
+    <link>https://tweakers.net/nieuws/253630/fortinet-brengt-vandaag-kritieke-patches-uit-die-klanten-snel-moeten-installeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253630</guid>
+    <pubDate>Thu, 22 Oct 2026 11:12:44 +0200</pubDate>
+    <description>Fortinet brengt donderdag 22 oktober een reeks securityupdates uit voor zijn producten. Het raadt gebruikers met klem aan die patches meteen na release te installeren. De updates zijn voor verantwoord gemelde kwetsbaarheden, die mede met hulp van geavanceerde AI-modellen zijn gevonden.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/253630/fortinet-brengt-vandaag-kritieke-patches-uit-die-klanten-snel-moeten-installeren.html#reacties</comments>
+  </item>
   <item>
     <title>Nieuwe Serious Sam-game gaat verder waar 23 jaar oude Second Encounter eindigde</title>
     <link>https://tweakers.net/nieuws/253632/nieuwe-serious-sam-game-gaat-verder-waar-23-jaar-oude-second-encounter-eindigde.html</link>

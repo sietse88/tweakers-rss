@@ -56,7 +56,7 @@ Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en b
 
 ## Samsung stapt voor modems over op 2nm-procedé om HBM-capaciteit vrij te spelen
 
-Samsung wil zijn toekomstige mobiele modems op een 2nm-procedé maken. Het gaat om het modem in de Galaxy S28. Samsung wil zo meer productiecapaciteit voor high-bandwidth memory (HBM) vrijspelen.
+Samsung wil zijn toekomstige mobiele modems op een 2nm-procedé maken. Het gaat om het modem in de Galaxy S28. Samsung wil zo meer productiecapaciteit voor high-bandwidth memory (HBM) vrijspelen, dat nog op 4nm-productieprocessen wordt gemaakt.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html)
 

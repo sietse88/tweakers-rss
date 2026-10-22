@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 02:51:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 04:06:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Nothing Headphone 1 Pro - Hippe koptelefoon, heerlijke bediening</title>
+    <link>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15452</guid>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Britse fabrikant Nothing heeft een nieuwe koptelefoon uitgebracht in het hogere segment. Weet de Nothing Headphone 1 Pro indruk te maken, of moet hij het van z'n looks hebben?</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Review / Beeld en geluid / Hoofdtelefoons</category>
+    <comments>https://tweakers.net/reviews/15452/nothing-headphone-1-pro-hippe-koptelefoon-heerlijke-bediening.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Rgb-woled, woled en QD-oled van 2026 - Nieuwste oledpanelen in 3 ASUS-monitoren</title>
+    <link>https://tweakers.net/reviews/11774/rgb-woled-woled-en-qd-oled-van-2026-nieuwste-oledpanelen-in-3-asus-monitoren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/11774</guid>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Als je in de markt bent voor een nieuwe 32"-4k-oledmonitor, kun je kiezen uit drie soorten panelen. Wat kun je het beste kopen: een woled-, rgb-woled- of QD-oledscherm?</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Review / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/11774/rgb-woled-woled-en-qd-oled-van-2026-nieuwste-oledpanelen-in-3-asus-monitoren.html#reacties</comments>
+  </item>
   <item>
     <title>XBOX Cloud Gaming zonder Game Pass kost 3,99 dollar voor tien uur speeltijd</title>
     <link>https://tweakers.net/nieuws/253618/xbox-cloud-gaming-zonder-game-pass-kost-3-komma-99-dollar-voor-tien-uur-speeltijd.html</link>
@@ -5134,16 +5154,6 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Round-up / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15264/wie-maakt-de-beste-android-foldable-vijf-modellen-gaan-de-strijd-aan.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Big tech verdient miljarden aan Europeanen, maar de digitaks blijft uit</title>
-    <link>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15326</guid>
-    <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Eens in de zoveel tijd komt een 'digitaks' op Big Tech-bedrijven ter sprake. Waar gaat het dan om en hoe staat het met deze heffingen?</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/reviews/15326/big-tech-verdient-miljarden-aan-europeanen-maar-de-digitaks-blijft-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

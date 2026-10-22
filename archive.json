@@ -4875,6 +4875,17 @@
   "pubDate": "Thu, 22 Oct 2026 15:47:01 +0200",
   "title": "Amazon: hackers probeerden PHP-lekken al 4 dagen voor bekendmaking te misbruiken"
  },
+ "https://tweakers.net/nieuws/253650": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253650/cloudflare-ziet-miljoenen-php2shell-misbruikpogingen-sinds-bekendmaking.html#reacties",
+  "description": "Cloudflare ziet inmiddels miljoenen pogingen om de PHP2Shell-kwetsbaarheden te misbruiken op zijn netwerk. Dat meldt ceo Matthew Prince. In de uren voor de bekendmaking werden al pogingen gedaan, en dat aantal is sindsdien alleen maar gegroeid.",
+  "first": "Thu, 22 Oct 2026 14:22:49 +0000",
+  "guid": "https://tweakers.net/nieuws/253650",
+  "link": "https://tweakers.net/nieuws/253650/cloudflare-ziet-miljoenen-php2shell-misbruikpogingen-sinds-bekendmaking.html",
+  "pubDate": "Thu, 22 Oct 2026 16:11:58 +0200",
+  "title": "Cloudflare ziet 'miljoenen' PHP2Shell-misbruikpogingen sinds bekendmaking"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

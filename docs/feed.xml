@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 11:52:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 12:37:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia DGX Station-pc met Windows verschijnt in december vanaf 100.000 euro</title>
+    <link>https://tweakers.net/nieuws/253640/nvidia-dgx-station-pc-met-windows-verschijnt-in-december-vanaf-100000-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253640</guid>
+    <pubDate>Thu, 22 Oct 2026 14:25:58 +0200</pubDate>
+    <description>De eerste Nvidia DGX Station-pc's met Windows 11 verschijnen in december. De prijzen variëren van 100.000 tot 150.000 euro, afhankelijk van de configuratie. De systemen hebben zeker 748GB gedeeld geheugen en zijn bedoeld voor enterprisegebruik.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/253640/nvidia-dgx-station-pc-met-windows-verschijnt-in-december-vanaf-100000-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Anthropic komt met Claude Duet-agent als antwoord op OpenAI Dots en Meta's Muse</title>
     <link>https://tweakers.net/nieuws/253638/anthropic-komt-met-claude-duet-agent-als-antwoord-op-openai-dots-en-metas-muse.html</link>

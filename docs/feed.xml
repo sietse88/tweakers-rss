@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 16:53:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:08:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>NCSC krijgt eerste signalen dat PHP-lekken succesvol zijn misbruikt</title>
+    <link>https://tweakers.net/nieuws/253658/ncsc-krijgt-eerste-signalen-dat-php-lekken-succesvol-zijn-misbruikt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253658</guid>
+    <pubDate>Thu, 22 Oct 2026 19:04:27 +0200</pubDate>
+    <description>Het Nederlandse Nationaal Cyber Security Centrum ziet 'eerste signalen' dat de PHP2Shell-kwetsbaarheden succesvol zijn misbruikt. De organisatie had eerder nog geen misbruik geconstateerd. Het NCSC doet momenteel onderzoek.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253658/ncsc-krijgt-eerste-signalen-dat-php-lekken-succesvol-zijn-misbruikt.html#reacties</comments>
+  </item>
   <item>
     <title>GitHub heeft 99,99999 procent van alle repo's gekopieerd naar Azure</title>
     <link>https://tweakers.net/nieuws/253656/github-heeft-99-komma-99999-procent-van-alle-repos-gekopieerd-naar-azure.html</link>

@@ -4798,6 +4798,17 @@
   "pubDate": "Thu, 22 Oct 2026 11:04:56 +0200",
   "title": "Nieuwe Serious Sam-game gaat verder waar 23 jaar oude Second Encounter eindigde"
  },
+ "https://tweakers.net/nieuws/253634": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / Computers / Development tools",
+  "comments": "https://tweakers.net/nieuws/253634/gitlab-dicht-12-jaar-oud-gat-dat-een-10-scoort-op-de-cvss-securityschaal.html#reacties",
+  "description": "GitLab bracht woensdag patches uit voor een kwetsbaarheid die al sinds 2014 in de code zit en die de hoogste score krijgt binnen het CVSS. Deze updates volgen net iets meer dan een week na kritieke patches voor GitLab. Gebruikers die deze ontwikkelsoftware zelf draaien, moeten snel updaten.",
+  "first": "Thu, 22 Oct 2026 12:52:26 +0000",
+  "guid": "https://tweakers.net/nieuws/253634",
+  "link": "https://tweakers.net/nieuws/253634/gitlab-dicht-12-jaar-oud-gat-dat-een-10-scoort-op-de-cvss-securityschaal.html",
+  "pubDate": "Thu, 22 Oct 2026 14:45:39 +0200",
+  "title": "GitLab dicht 12 jaar oud gat dat een 10 scoort op de CVSS-securityschaal"
+ },
  "https://tweakers.net/nieuws/253636": {
   "author": "Jasper Bakker",
   "category": "Nieuws / Computers / Nas",

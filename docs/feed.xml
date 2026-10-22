@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 12:37:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 12:52:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GitLab dicht 12 jaar oud gat dat een 10 scoort op de CVSS-securityschaal</title>
+    <link>https://tweakers.net/nieuws/253634/gitlab-dicht-12-jaar-oud-gat-dat-een-10-scoort-op-de-cvss-securityschaal.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253634</guid>
+    <pubDate>Thu, 22 Oct 2026 14:45:39 +0200</pubDate>
+    <description>GitLab bracht woensdag patches uit voor een kwetsbaarheid die al sinds 2014 in de code zit en die de hoogste score krijgt binnen het CVSS. Deze updates volgen net iets meer dan een week na kritieke patches voor GitLab. Gebruikers die deze ontwikkelsoftware zelf draaien, moeten snel updaten.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Development tools</category>
+    <comments>https://tweakers.net/nieuws/253634/gitlab-dicht-12-jaar-oud-gat-dat-een-10-scoort-op-de-cvss-securityschaal.html#reacties</comments>
+  </item>
   <item>
     <title>Nvidia DGX Station-pc met Windows verschijnt in december vanaf 100.000 euro</title>
     <link>https://tweakers.net/nieuws/253640/nvidia-dgx-station-pc-met-windows-verschijnt-in-december-vanaf-100000-euro.html</link>

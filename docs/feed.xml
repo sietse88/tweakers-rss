@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 06:06:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 06:21:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>PHP ligt onder vergrootglas: patch zou incompleet zijn en derde bug gevonden</title>
-    <link>https://tweakers.net/nieuws/253620/php-ligt-onder-vergrootglas-patch-zou-incompleet-zijn-en-derde-bug-gevonden.html</link>
+    <title>Securityexperts vinden derde bug in PHP en claimen dat patch incompleet is</title>
+    <link>https://tweakers.net/nieuws/253620/securityexperts-vinden-derde-bug-in-php-en-claimen-dat-patch-incompleet-is.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253620</guid>
     <pubDate>Thu, 22 Oct 2026 08:04:30 +0200</pubDate>
-    <description>Beveiligingsexperts leggen PHP onder het vergrootglas en claimen nieuwe beveiligingsproblemen met de veelgebruikte scriptingtaal. Een van de kwetsbaarheden zou met de gister vervroegd uitgebrachte patch niet volledig zijn gefixt. Verder is een derde bug gevonden, maar die is volgens PHP niet kritiek.</description>
+    <description>Beveiligingsexperts leggen PHP onder het vergrootglas en claimen nieuwe beveiligingsproblemen met de veelgebruikte scriptingtaal. Een van de kwetsbaarheden zou met de woensdag vervroegd uitgebrachte patch niet volledig zijn gefixt. Verder is er een derde bug gevonden, maar die is volgens PHP niet kritiek.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/253620/php-ligt-onder-vergrootglas-patch-zou-incompleet-zijn-en-derde-bug-gevonden.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253620/securityexperts-vinden-derde-bug-in-php-en-claimen-dat-patch-incompleet-is.html#reacties</comments>
   </item>
   <item>
     <title>Review - Rgb-woled, woled en QD-oled van 2026 - Nieuwste oledpanelen in 3 ASUS-monitoren</title>

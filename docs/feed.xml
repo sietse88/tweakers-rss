@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 07:06:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 07:36:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bose koopt audioconcurrent Skullcandy om ander, breder publiek te bereiken</title>
+    <link>https://tweakers.net/nieuws/253622/bose-koopt-audioconcurrent-skullcandy-om-ander-breder-publiek-te-bereiken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253622</guid>
+    <pubDate>Thu, 22 Oct 2026 09:22:57 +0200</pubDate>
+    <description>Na een jarenlange samenwerking neemt Bose de hoofdtelefoon- en speakerfabrikant Skullcandy over. De koper wil met het merk een ander en breder publiek bereiken. Bose roemt het ontwerp en de stijl van Skullcandy-producten. Het is niet bekend hoeveel Bose betaalt voor deze overname.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/253622/bose-koopt-audioconcurrent-skullcandy-om-ander-breder-publiek-te-bereiken.html#reacties</comments>
+  </item>
   <item>
     <title>Preview - OPPO Find X10 Pro Max - Drie euro per megapixel</title>
     <link>https://tweakers.net/reviews/15502/oppo-find-x10-pro-max-drie-euro-per-megapixel.html</link>

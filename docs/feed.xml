@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:11:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:26:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5444,16 +5444,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Achtergrond / Gaming / Games</category>
     <comments>https://tweakers.net/reviews/15338/halo-studios-maakt-geen-halo-meer-waarom-xbox-hard-in-zijn-aanbod-snoeit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Schreef een mens of een machine het? Zo werkt AI-detectiesoftware</title>
-    <link>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15342</guid>
-    <pubDate>Wed, 23 Sep 2026 17:15:00 +0200</pubDate>
-    <description>De afgelopen weken kwam AI-detectiesoftware vaak in het nieuws, maar hoe werken deze eigenlijk?</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html#reacties</comments>
   </item>
 </channel>
 </rss>

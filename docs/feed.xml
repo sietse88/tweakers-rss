@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 20:57:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 21:27:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5424,16 +5424,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Achtergrond / Computers / Overige software</category>
     <comments>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html#reacties</comments>
-  </item>
-  <item>
-    <title>Qualcomm draagt bij aan Linux-ondersteuning voor Snapdragon X2-serie</title>
-    <link>https://tweakers.net/nieuws/252538/qualcomm-draagt-bij-aan-linux-ondersteuning-voor-snapdragon-x2-serie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252538</guid>
-    <pubDate>Wed, 23 Sep 2026 23:27:00 +0200</pubDate>
-    <description>Qualcomm gaat actief bijdragen aan Linux-ondersteuning voor de X2-serie in laptops. Dat heeft de fabrikant bekendgemaakt tijdens de Snapdragon Summit. De ondersteuning begint met twee distro's: Debian en Ubuntu.</description>
-    <dc:creator>Dennis de Vries</dc:creator>
-    <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/252538/qualcomm-draagt-bij-aan-linux-ondersteuning-voor-snapdragon-x2-serie.html#reacties</comments>
   </item>
 </channel>
 </rss>

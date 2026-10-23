@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:41:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 16:11:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Mistrals nieuwe spraakmodellen zijn goedkoper dan die van concurrenten</title>
+    <link>https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253694</guid>
+    <pubDate>Fri, 23 Oct 2026 18:05:49 +0200</pubDate>
+    <description>Mistral heeft spraakmodel Voxtral 3 vrijgegeven. Voxtral 3, dat onder andere Nederlands en Frans ondersteunt, bestaat uit een software development kit voor ontwikkelaars en uit spraak-naar-tekst- en tekst-naar-spraakmodellen. Daarmee kunnen ontwikkelaars stembesturing aan software toevoegen, waardoor gebruikers in normale spraak met een llm kunnen praten.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html#reacties</comments>
+  </item>
   <item>
     <title>MediaMarkt wordt een franchise zodat er mogelijk meer winkels bij kunnen komen</title>
     <link>https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html</link>
@@ -5424,26 +5434,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Mediaspelers</category>
     <comments>https://tweakers.net/nieuws/252530/24kitchen-stopt-op-tv-content-wordt-voortaan-geserveerd-op-disney+.html#reacties</comments>
-  </item>
-  <item>
-    <title>YouTube laat makers Shorts organiseren in afleveringen en seizoenen</title>
-    <link>https://tweakers.net/nieuws/252526/youtube-laat-makers-shorts-organiseren-in-afleveringen-en-seizoenen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252526</guid>
-    <pubDate>Wed, 23 Sep 2026 18:05:12 +0200</pubDate>
-    <description>YouTube introduceert Short Series, waarmee makers hun Shorts-video's kunnen organiseren in afleveringen en seizoenen. Op die manier krijgen gebruikers een serie Shorts als verhaal bekijken in plaats van verschillende, losse video's.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252526/youtube-laat-makers-shorts-organiseren-in-afleveringen-en-seizoenen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Halo Studios maakt geen Halo meer: waarom XBOX hard in zijn aanbod snoeit</title>
-    <link>https://tweakers.net/reviews/15338/halo-studios-maakt-geen-halo-meer-waarom-xbox-hard-in-zijn-aanbod-snoeit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15338</guid>
-    <pubDate>Wed, 23 Sep 2026 18:00:00 +0200</pubDate>
-    <description>De grootschalige reorganisatie bij XBOX gaat door: Call of Duty-maker Activision gaat Halo-games maken. Waarom neemt Microsoft zulke radicale beslissingen?</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Achtergrond / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15338/halo-studios-maakt-geen-halo-meer-waarom-xbox-hard-in-zijn-aanbod-snoeit.html#reacties</comments>
   </item>
 </channel>
 </rss>

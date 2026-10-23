@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 09:40:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 10:25:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse Defensie sluit contract met SAP voor ontwikkeling 'soevereine' cloud</title>
+    <link>https://tweakers.net/nieuws/253676/nederlandse-defensie-sluit-contract-met-sap-voor-ontwikkeling-soevereine-cloud.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253676</guid>
+    <pubDate>Fri, 23 Oct 2026 12:18:53 +0200</pubDate>
+    <description>Het Nederlandse ministerie van Defensie heeft een overeenkomst gesloten met het Duitse softwarebedrijf SAP voor de ontwikkeling van een soevereine clouddienst. Het is de bedoeling dat deze in 2028 operationeel is.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253676/nederlandse-defensie-sluit-contract-met-sap-voor-ontwikkeling-soevereine-cloud.html#reacties</comments>
+  </item>
   <item>
     <title>Auditeurs vinden 353 hoogrisicokwetsbaarheden bij Vlaamse gemeenten</title>
     <link>https://tweakers.net/nieuws/253674/auditeurs-vinden-353-hoogrisicokwetsbaarheden-bij-vlaamse-gemeenten.html</link>

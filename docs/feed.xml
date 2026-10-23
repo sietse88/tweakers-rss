@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 13:10:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 13:55:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>DNS-resolver Quad9 'stopt in Frankrijk'</title>
+    <link>https://tweakers.net/nieuws/253688/dns-resolver-quad9-stopt-in-frankrijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253688</guid>
+    <pubDate>Fri, 23 Oct 2026 15:46:26 +0200</pubDate>
+    <description>DNS-provider Quad9 vertrekt uit Frankrijk. Het bedrijf moet van de rechter bepaalde piraterijwebsites op DNS-niveau blokkeren, maar weigert dat. Het bedrijf kiest eieren voor zijn geld en zegt dat zijn dienst vanaf 24 november niet meer bruikbaar is, al is het de vraag hoe dat in de praktijk werkt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/253688/dns-resolver-quad9-stopt-in-frankrijk.html#reacties</comments>
+  </item>
   <item>
     <title>Belgisch PC Helpforum moet stoppen vanwege financiële situatie</title>
     <link>https://tweakers.net/nieuws/253682/belgisch-pc-helpforum-moet-stoppen-vanwege-financiele-situatie.html</link>

@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252534": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/252534/machelen-meldde-geen-aanwijzingen-voor-datalek-maar-hackers-stalen-toch-data.html#reacties",
-  "description": "Bij de cyberaanval op de Belgische gemeente Machelen zijn toch persoonsgegevens van inwoners gestolen, meldt VRT NWS. Het is niet duidelijk om welke gegevens het gaat en hoeveel mensen slachtoffer zijn.",
-  "guid": "https://tweakers.net/nieuws/252534",
-  "link": "https://tweakers.net/nieuws/252534/machelen-meldde-geen-aanwijzingen-voor-datalek-maar-hackers-stalen-toch-data.html",
-  "pubDate": "Wed, 23 Sep 2026 19:57:49 +0200",
-  "title": "Machelen meldde geen aanwijzingen voor datalek, maar hackers stalen toch data"
- },
  "https://tweakers.net/nieuws/252536": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Gaming / VR-brillen",
@@ -5025,6 +5015,17 @@
   "link": "https://tweakers.net/nieuws/253698/hackers-tonen-op-iphone-18-eerste-persistente-untethered-jailbreak-sinds-ios-9.html",
   "pubDate": "Fri, 23 Oct 2026 19:19:47 +0200",
   "title": "Hackers tonen op iPhone 18 eerste persistente untethered jailbreak sinds iOS 9"
+ },
+ "https://tweakers.net/nieuws/253700": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Videokaarten",
+  "comments": "https://tweakers.net/nieuws/253700/videobeelden-tonen-hoe-chinezen-op-grote-schaal-rtx-5090s-ombouwen-voor-servers.html#reacties",
+  "description": "In een uitgelekte video op sociale media is te zien hoe Chinese fabriekswerkers in een professioneel ogende productielijn RTX 5090-videokaarten uit elkaar halen om de hardware te gebruiken in AI-clusters. Deze videokaarten mogen officieel niet verkocht worden in China.",
+  "first": "Fri, 23 Oct 2026 18:11:38 +0000",
+  "guid": "https://tweakers.net/nieuws/253700",
+  "link": "https://tweakers.net/nieuws/253700/videobeelden-tonen-hoe-chinezen-op-grote-schaal-rtx-5090s-ombouwen-voor-servers.html",
+  "pubDate": "Fri, 23 Oct 2026 20:06:15 +0200",
+  "title": "Videobeelden tonen hoe Chinezen op grote schaal RTX 5090's ombouwen voor servers"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

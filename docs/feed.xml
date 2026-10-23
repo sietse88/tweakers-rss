@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 18:41:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 19:11:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bug in Node.js maakte op afstand uitvoeren van code mogelijk</title>
+    <link>https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253686</guid>
+    <pubDate>Fri, 23 Oct 2026 20:59:18 +0200</pubDate>
+    <description>Node.js heeft een patch uitgebracht voor een ernstige bug die het mogelijk maakte op afstand code uit te voeren. De kwetsbaarheid zat in compressielibrary Brotli. Het Nationaal Cyber Security Centrum (NCSC) schat de kans op misbruik niet heel hoog in, maar áls de bug wordt uitgebuit, kan de schade ernstig zijn.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html#reacties</comments>
+  </item>
   <item>
     <title>Meta mag niet alleen Facebook-pagina's scrapen, maar ook websites van gebruikers</title>
     <link>https://tweakers.net/nieuws/253702/meta-mag-niet-alleen-facebook-paginas-scrapen-maar-ook-websites-van-gebruikers.html</link>
@@ -5424,16 +5434,6 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Nieuws / Computers / Processors</category>
     <comments>https://tweakers.net/nieuws/252538/qualcomm-draagt-bij-aan-linux-ondersteuning-voor-snapdragon-x2-serie.html#reacties</comments>
-  </item>
-  <item>
-    <title>Teardown toont dat Steam Frame-lenzen relatief makkelijk te vervangen zijn</title>
-    <link>https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252536</guid>
-    <pubDate>Wed, 23 Sep 2026 20:58:59 +0200</pubDate>
-    <description>IFixit heeft een teardown van de Steam Frame gepubliceerd. De reparatiewebsite schrijft dat Valve de VR-headset relatief goed repareerbaar heeft gemaakt. Onder meer de lenzen en de accu zijn makkelijk bereikbaar.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / VR-brillen</category>
-    <comments>https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html#reacties</comments>
   </item>
 </channel>
 </rss>

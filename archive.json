@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252536": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / Gaming / VR-brillen",
-  "comments": "https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html#reacties",
-  "description": "IFixit heeft een teardown van de Steam Frame gepubliceerd. De reparatiewebsite schrijft dat Valve de VR-headset relatief goed repareerbaar heeft gemaakt. Onder meer de lenzen en de accu zijn makkelijk bereikbaar.",
-  "guid": "https://tweakers.net/nieuws/252536",
-  "link": "https://tweakers.net/nieuws/252536/teardown-toont-dat-steam-frame-lenzen-relatief-makkelijk-te-vervangen-zijn.html",
-  "pubDate": "Wed, 23 Sep 2026 20:58:59 +0200",
-  "title": "Teardown toont dat Steam Frame-lenzen relatief makkelijk te vervangen zijn"
- },
  "https://tweakers.net/nieuws/252538": {
   "author": "Dennis de Vries",
   "category": "Nieuws / Computers / Processors",
@@ -4960,6 +4950,17 @@
   "link": "https://tweakers.net/nieuws/253682/belgisch-pc-helpforum-moet-stoppen-vanwege-financiele-situatie.html",
   "pubDate": "Fri, 23 Oct 2026 15:01:25 +0200",
   "title": "Belgisch PC Helpforum moet stoppen vanwege financiële situatie"
+ },
+ "https://tweakers.net/nieuws/253686": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html#reacties",
+  "description": "Node.js heeft een patch uitgebracht voor een ernstige bug die het mogelijk maakte op afstand code uit te voeren. De kwetsbaarheid zat in compressielibrary Brotli. Het Nationaal Cyber Security Centrum (NCSC) schat de kans op misbruik niet heel hoog in, maar áls de bug wordt uitgebuit, kan de schade ernstig zijn.",
+  "first": "Fri, 23 Oct 2026 19:11:47 +0000",
+  "guid": "https://tweakers.net/nieuws/253686",
+  "link": "https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html",
+  "pubDate": "Fri, 23 Oct 2026 20:59:18 +0200",
+  "title": "Bug in Node.js maakte op afstand uitvoeren van code mogelijk"
  },
  "https://tweakers.net/nieuws/253688": {
   "author": "Tijs Hofmans",

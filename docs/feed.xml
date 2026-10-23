@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 12:25:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 12:40:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5454,16 +5454,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html#reacties</comments>
-  </item>
-  <item>
-    <title>Micron lijkt te stoppen met productie 2GB-geheugenchips voor RTX 50-videokaarten</title>
-    <link>https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252508</guid>
-    <pubDate>Wed, 23 Sep 2026 14:30:10 +0200</pubDate>
-    <description>Micron lijkt te stoppen met de productie van 2GB-varianten van GDDR7-geheugenchips. Het bedrijf verlegt de focus naar 3GB-modules. Nvidia en boardpartners gebruikten de 2GB-chips voor videokaarten uit de RTX 50-serie. Naar verluidt gebruikt de onaangekondigde RTX 50 Super-serie de 3GB-modules.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html#reacties</comments>
   </item>
 </channel>
 </rss>

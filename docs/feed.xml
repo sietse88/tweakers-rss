@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 16:11:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:26:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers tonen op iPhone 18 eerste persistente untethered jailbreak sinds iOS 9</title>
+    <link>https://tweakers.net/nieuws/253698/hackers-tonen-op-iphone-18-eerste-persistente-untethered-jailbreak-sinds-ios-9.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253698</guid>
+    <pubDate>Fri, 23 Oct 2026 19:19:47 +0200</pubDate>
+    <description>Hackers van Calif hebben de vouwbare iPhone Duo weten te jailbreaken. Die telefoon is op vrijdag uitgekomen. Vorige week wisten de krakers ook al een persistente jailbreak uit te voeren op de iPhone 18 Pro en Pro Max met iOS 27.0.1. Het is voor het eerst sinds iOS 9 dat een iPhone-jailbreak is gevonden die een herstart overleeft. De makers hebben vooralsnog alleen een demo getoond, maar nog geen details vrijgegeven.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253698/hackers-tonen-op-iphone-18-eerste-persistente-untethered-jailbreak-sinds-ios-9.html#reacties</comments>
+  </item>
   <item>
     <title>Mistrals nieuwe spraakmodellen zijn goedkoper dan die van concurrenten</title>
     <link>https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html</link>
@@ -5424,16 +5434,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphone-accessoires</category>
     <comments>https://tweakers.net/nieuws/252532/basic-fit-leden-krijgen-gratis-ai-coach-die-oefeningen-en-toestellen-uitlegt.html#reacties</comments>
-  </item>
-  <item>
-    <title>24Kitchen stopt op tv: content wordt voortaan geserveerd op Disney+</title>
-    <link>https://tweakers.net/nieuws/252530/24kitchen-stopt-op-tv-content-wordt-voortaan-geserveerd-op-disney+.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252530</guid>
-    <pubDate>Wed, 23 Sep 2026 19:11:34 +0200</pubDate>
-    <description>24Kitchen stopt per 31 maart met uitzenden op de Nederlandse tv, bevestigt een woordvoerder aan RTL Boulevard. De zender heeft de chefs inmiddels geïnformeerd. 24Kitchen zendt sinds 2011 uit op de Nederlandse televisie. De content verhuist volledig naar Disney+.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/252530/24kitchen-stopt-op-tv-content-wordt-voortaan-geserveerd-op-disney+.html#reacties</comments>
   </item>
 </channel>
 </rss>

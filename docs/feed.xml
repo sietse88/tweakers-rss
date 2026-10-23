@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 12:40:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 13:10:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Belgisch PC Helpforum moet stoppen vanwege financiële situatie</title>
+    <link>https://tweakers.net/nieuws/253682/belgisch-pc-helpforum-moet-stoppen-vanwege-financiele-situatie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253682</guid>
+    <pubDate>Fri, 23 Oct 2026 15:01:25 +0200</pubDate>
+    <description>Het Belgische PC Helpforum stopt ermee. Het forum zegt dat het financieel niet langer mogelijk is de site in de lucht te houden. Het bestond zeker 20 jaar en heeft 40.000 leden.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253682/belgisch-pc-helpforum-moet-stoppen-vanwege-financiele-situatie.html#reacties</comments>
+  </item>
   <item>
     <title>EMudhra stopt certificaattak na blunder met zwakke private keys</title>
     <link>https://tweakers.net/nieuws/253680/emudhra-stopt-certificaattak-na-blunder-met-zwakke-private-keys.html</link>
@@ -5444,16 +5454,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252514/nieuwsblad-vindt-ai-sporen-in-ruim-40-procent-van-belgische-parlementsvragen.html#reacties</comments>
-  </item>
-  <item>
-    <title>State of Decay-maker wordt onafhankelijk en ontslaat personeel - update</title>
-    <link>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252512</guid>
-    <pubDate>Wed, 23 Sep 2026 15:06:11 +0200</pubDate>
-    <description>Undead Labs, maker van de State of Decay-games, gaat door als een onafhankelijke studio. Ook ontslaat het bedrijf een 'aanzienlijk' deel van zijn personeel. Dinsdag werd al duidelijk dat XBOX de ontwikkelaar had afgestoten. Microsoft nam Undead Labs in 2018 over.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252512/state-of-decay-maker-wordt-onafhankelijk-en-ontslaat-personeel.html#reacties</comments>
   </item>
 </channel>
 </rss>

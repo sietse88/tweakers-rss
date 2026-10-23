@@ -102,11 +102,11 @@ XBOX e-mailt sommige gamers die hun XBOX Series X of S mogelijk al een tijdje ni
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253624/xbox-stuurt-inruilaanbod-naar-gamers-met-ongebruikte-xbox-series-in-vs.html)
 
-## Veel websites bij hosters van Yourhosting zijn nog steeds offline door PHP-bug
+## Veel websites bij hosters van Yourhosting zijn nog steeds offline om PHP-bug
 
 Veel websites die worden gehost bij hostingdiensten die onder Yourhosting vallen, zijn nog steeds niet online na het PHP-lek van gisteren. Het bedrijf zegt dat in de loop van de ochtend gebeurt. Een fix voor PHP2Shell is inmiddels al meer dan 18 uur beschikbaar.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253628/veel-websites-bij-hosters-van-yourhosting-zijn-nog-steeds-offline-door-php-bug.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253628/veel-websites-bij-hosters-van-yourhosting-zijn-nog-steeds-offline-om-php-bug.html)
 
 ## Nieuwe Serious Sam-game gaat verder waar 23 jaar oude Second Encounter eindigde
 

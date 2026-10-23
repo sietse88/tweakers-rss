@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 22 Oct 2026 23:54:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 04:09:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Philips OLED951-tv – Luxe en veelzijdig, maar minder smart</title>
+    <link>https://tweakers.net/reviews/15432/philips-oled951-tv-luxe-en-veelzijdig-maar-minder-smart.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15432</guid>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Philips OLED951 is het nieuwste topmodel van TP Vision. Is deze luxe Ambilight-tv opgewassen tegen de Samsung S99H en LG G6?</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Review / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15432/philips-oled951-tv-luxe-en-veelzijdig-maar-minder-smart.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Star Wars Galactic Racer – Burnout-makers leveren puike racegame af</title>
+    <link>https://tweakers.net/reviews/15500/star-wars-galactic-racer-burnout-makers-leveren-puike-racegame-af.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15500</guid>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <description>Star Wars Galactic Racer is een racegame die zich afspeelt in het Star Wars-universum, maar soms aanvoelt als een Burnout-game.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15500/star-wars-galactic-racer-burnout-makers-leveren-puike-racegame-af.html#reacties</comments>
+  </item>
   <item>
     <title>Spotify heeft 306 miljoen betalende Premium-abonnees</title>
     <link>https://tweakers.net/nieuws/253666/spotify-heeft-306-miljoen-betalende-premium-abonnees.html</link>
@@ -5374,16 +5394,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/252508/micron-lijkt-te-stoppen-met-productie-2gb-geheugenchips-voor-rtx-50-videokaarten.html#reacties</comments>
-  </item>
-  <item>
-    <title>Round-up - Wie maakt de beste Android-foldable? Vijf modellen gaan de strijd aan</title>
-    <link>https://tweakers.net/reviews/15264/wie-maakt-de-beste-android-foldable-vijf-modellen-gaan-de-strijd-aan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15264</guid>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Steeds meer smartphonemerken brengen een vouwbaar model op de markt. We nemen vijf van de beste Android-foldables onder de loep.</description>
-    <dc:creator>Dennis de Vries</dc:creator>
-    <category>Round-up / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15264/wie-maakt-de-beste-android-foldable-vijf-modellen-gaan-de-strijd-aan.html#reacties</comments>
   </item>
 </channel>
 </rss>

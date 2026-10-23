@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 14:25:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 14:41:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Makers van PHP raden alsnog mitigatie aan voor minder gevaarlijke potentiële bug</title>
+    <link>https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253690</guid>
+    <pubDate>Fri, 23 Oct 2026 16:25:52 +0200</pubDate>
+    <description>De makers van PHP raden aan om naast het patchen van de recente bugs ook een mitigatie door te voeren. Volgens de makers is het in zeldzame gevallen alsnog mogelijk dat een aanvaller de bug uitbuit. Dat is echter dermate ingewikkeld dat PHP dat pas tijdens een komende release officieel aanpast.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html#reacties</comments>
+  </item>
   <item>
     <title>DNS-resolver Quad9 'stopt in Frankrijk'</title>
     <link>https://tweakers.net/nieuws/253688/dns-resolver-quad9-stopt-in-frankrijk.html</link>
@@ -5434,26 +5444,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Achtergrond / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/reviews/15342/schreef-een-mens-of-een-machine-het-zo-werkt-ai-detectiesoftware.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Microsoft toont 7 oktober mogelijk ook kleinere RTX Spark-laptop' - update</title>
-    <link>https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252522</guid>
-    <pubDate>Wed, 23 Sep 2026 16:39:30 +0200</pubDate>
-    <description>Microsoft kondigt tijdens zijn Surface-evenement op 7 oktober mogelijk ook een kleinere Surface-laptop met een 12"-scherm aan, claimt Winfuture. Eerder werd bekend dat het bedrijf tijdens het evenement de Surface Laptop Ultra gaat presenteren. Die laptop heeft een 15"-miniledscherm.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html#reacties</comments>
-  </item>
-  <item>
-    <title>NZXT S5 RGB-case met drie reversebladefans kost 60 euro</title>
-    <link>https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252520</guid>
-    <pubDate>Wed, 23 Sep 2026 16:27:35 +0200</pubDate>
-    <description>NZXT heeft de S5 RGB- en S5 RGB Deluxe-behuizingen aangekondigd. Het gaat om twee ATX-cases met drie ingebouwde 120mm-reversebladeventilatoren. De S5 RGB kost 60 euro en de Deluxe-versie is 10 euro duurder.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

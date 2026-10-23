@@ -71,26 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252520": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / Computers / Pc's",
-  "comments": "https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html#reacties",
-  "description": "NZXT heeft de S5 RGB- en S5 RGB Deluxe-behuizingen aangekondigd. Het gaat om twee ATX-cases met drie ingebouwde 120mm-reversebladeventilatoren. De S5 RGB kost 60 euro en de Deluxe-versie is 10 euro duurder.",
-  "guid": "https://tweakers.net/nieuws/252520",
-  "link": "https://tweakers.net/nieuws/252520/nzxt-s5-rgb-case-met-drie-reversebladefans-kost-60-euro.html",
-  "pubDate": "Wed, 23 Sep 2026 16:27:35 +0200",
-  "title": "NZXT S5 RGB-case met drie reversebladefans kost 60 euro"
- },
- "https://tweakers.net/nieuws/252522": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / Computers / Laptops",
-  "comments": "https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html#reacties",
-  "description": "Microsoft kondigt tijdens zijn Surface-evenement op 7 oktober mogelijk ook een kleinere Surface-laptop met een 12\"-scherm aan, claimt Winfuture. Eerder werd bekend dat het bedrijf tijdens het evenement de Surface Laptop Ultra gaat presenteren. Die laptop heeft een 15\"-miniledscherm.",
-  "guid": "https://tweakers.net/nieuws/252522",
-  "link": "https://tweakers.net/nieuws/252522/microsoft-toont-7-oktober-mogelijk-ook-kleinere-rtx-spark-laptop.html",
-  "pubDate": "Wed, 23 Sep 2026 16:39:30 +0200",
-  "title": "'Microsoft toont 7 oktober mogelijk ook kleinere RTX Spark-laptop' - update"
- },
  "https://tweakers.net/nieuws/252526": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Websites en community's",
@@ -5031,6 +5011,17 @@
   "link": "https://tweakers.net/nieuws/253688/dns-resolver-quad9-stopt-in-frankrijk.html",
   "pubDate": "Fri, 23 Oct 2026 15:46:26 +0200",
   "title": "DNS-resolver Quad9 'stopt in Frankrijk'"
+ },
+ "https://tweakers.net/nieuws/253690": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html#reacties",
+  "description": "De makers van PHP raden aan om naast het patchen van de recente bugs ook een mitigatie door te voeren. Volgens de makers is het in zeldzame gevallen alsnog mogelijk dat een aanvaller de bug uitbuit. Dat is echter dermate ingewikkeld dat PHP dat pas tijdens een komende release officieel aanpast.",
+  "first": "Fri, 23 Oct 2026 14:41:00 +0000",
+  "guid": "https://tweakers.net/nieuws/253690",
+  "link": "https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html",
+  "pubDate": "Fri, 23 Oct 2026 16:25:52 +0200",
+  "title": "Makers van PHP raden alsnog mitigatie aan voor minder gevaarlijke potentiële bug"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

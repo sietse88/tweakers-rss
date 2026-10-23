@@ -5029,6 +5029,17 @@
   "pubDate": "Fri, 23 Oct 2026 13:08:02 +0200",
   "title": "Atari stopt volgend jaar volledig met ondersteuning voor geflopte VCS-console"
  },
+ "https://tweakers.net/nieuws/253680": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253680/emudhra-stopt-certificaattak-na-blunder-met-zwakke-private-keys.html#reacties",
+  "description": "EMudhra stopt helemaal met zijn TLS-certificaatuitgaven. Dat gebeurt nadat het bedrijf eerder deze week certificaten bleek uit te geven waarvan de cryptografische sleutels eenvoudig te achterhalen waren. Volgens eMudhra werden die certificaten niet in de praktijk gebruikt, maar het bedrijf vindt dat het door dat geschade vertrouwen niet meer door kan gaan.",
+  "first": "Fri, 23 Oct 2026 12:25:40 +0000",
+  "guid": "https://tweakers.net/nieuws/253680",
+  "link": "https://tweakers.net/nieuws/253680/emudhra-stopt-certificaattak-na-blunder-met-zwakke-private-keys.html",
+  "pubDate": "Fri, 23 Oct 2026 14:06:48 +0200",
+  "title": "EMudhra stopt certificaattak na blunder met zwakke private keys"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

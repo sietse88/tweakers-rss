@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 23 Oct 2026 14:41:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:11:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>MediaMarkt wordt een franchise zodat er mogelijk meer winkels bij kunnen komen</title>
+    <link>https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253692</guid>
+    <pubDate>Fri, 23 Oct 2026 17:00:31 +0200</pubDate>
+    <description>Iedere ondernemer kan in de toekomst een filiaal van MediaMarkt beginnen. De elektronicawinkelketen begint een franchisemodel waardoor ondernemers een eigen vestiging kunnen openen en zeggenschap houden over bijvoorbeeld personeelszaken en lokale aanbiedingen. MediaMarkt werd onlangs overgenomen door een Chinese investeerder, die op deze manier meer winkels in het straatbeeld wil krijgen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html#reacties</comments>
+  </item>
   <item>
     <title>Makers van PHP raden alsnog mitigatie aan voor minder gevaarlijke potentiële bug</title>
     <link>https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html</link>

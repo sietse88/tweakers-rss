@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 10:58:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 11:43:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252574/schneider-wil-1-komma-2-miljard-euro-bieden-voor-smarthomefabrikant-shelly.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Vooral Limburgse en Overijsselse zonnepaneelbezitters merken einde saldering'</title>
-    <link>https://tweakers.net/nieuws/252570/vooral-limburgse-en-overijsselse-zonnepaneelbezitters-merken-einde-saldering.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252570</guid>
-    <pubDate>Thu, 24 Sep 2026 13:36:47 +0200</pubDate>
-    <description>Vooral inwoners van Limburg en Overijssel gaan het verdwijnen van de salderingsregeling merken. Dat blijkt uit onderzoek van Independer. In die provincies wordt relatief veel stroom teruggeleverd aan het net, waardoor de gevolgen groter zijn.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252570/vooral-limburgse-en-overijsselse-zonnepaneelbezitters-merken-einde-saldering.html#reacties</comments>
   </item>
 </channel>
 </rss>

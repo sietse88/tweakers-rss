@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 02:12:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 04:12:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Anker Solix Solarbank Max AC-thuisbatterij - Zwaargewicht om volop te profiteren</title>
+    <link>https://tweakers.net/reviews/15298/anker-solix-solarbank-max-ac-thuisbatterij-zwaargewicht-om-volop-te-profiteren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15298</guid>
+    <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Max AC kan 3500W leveren. Niet alleen het vermogen is groot: ook de capaciteit mag er zijn.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Review / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15298/anker-solix-solarbank-max-ac-thuisbatterij-zwaargewicht-om-volop-te-profiteren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - EcoFlow Stream AC 5000-thuisbatterij - Compact model met genoeg capaciteit</title>
+    <link>https://tweakers.net/reviews/15300/ecoflow-stream-ac-5000-thuisbatterij-compact-model-met-genoeg-capaciteit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15300</guid>
+    <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De EcoFlow Stream AC 5000 kwam in de zomer van 2026 op de markt. Hij heeft een capaciteit van 5kWh en kan vermogens tot 2500W leveren.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Review / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15300/ecoflow-stream-ac-5000-thuisbatterij-compact-model-met-genoeg-capaciteit.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Marstek Venus E 3.0-thuisbatterij - Platte thuisbatterij voor klein prijsje</title>
+    <link>https://tweakers.net/reviews/15302/marstek-venus-e-30-thuisbatterij-platte-thuisbatterij-voor-klein-prijsje.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15302</guid>
+    <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+    <description>De Venus E 3.0 thuisbatterij van Marstek valt op door zijn vormgeving. Hij is plat en hoog en neemt zo weinig ruimte in beslag.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Review / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15302/marstek-venus-e-30-thuisbatterij-platte-thuisbatterij-voor-klein-prijsje.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - De salderingsregeling stopt in 2027: wanneer loont een thuisbatterij?</title>
+    <link>https://tweakers.net/reviews/15474/de-salderingsregeling-stopt-in-2027-wanneer-loont-een-thuisbatterij.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15474</guid>
+    <pubDate>Sat, 24 Oct 2026 05:59:00 +0200</pubDate>
+    <description>Nu het salderen stopt, zoeken veel zonnepaneleneigenaren naar manieren om toch te blijven profiteren van hun zonnepanelen. Welke opties heb je?</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Achtergrond / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15474/de-salderingsregeling-stopt-in-2027-wanneer-loont-een-thuisbatterij.html#reacties</comments>
+  </item>
+  <item>
+    <title>Benchmark - Testmethode thuisbatterijen: zo testen we plug-inbatterijen</title>
+    <link>https://tweakers.net/reviews/15476/testmethode-thuisbatterijen-zo-testen-we-plug-inbatterijen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15476</guid>
+    <pubDate>Sat, 24 Oct 2026 05:58:00 +0200</pubDate>
+    <description>Om thuisbatterijen te kunnen vergelijken willen we reproduceerbare testdata hebben. We hebben daarvoor een uitgebreid protocol ontwikkeld.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Benchmark / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15476/testmethode-thuisbatterijen-zo-testen-we-plug-inbatterijen.html#reacties</comments>
+  </item>
   <item>
     <title>Bug in Node.js maakte op afstand uitvoeren van code mogelijk</title>
     <link>https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html</link>
@@ -5414,16 +5464,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / VR-brillen</category>
     <comments>https://tweakers.net/nieuws/252544/meta-brengt-vr-bril-van-100-gram-in-de-lente-uit-voor-1300-dollar.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Nederland maakt soeverein alternatief voor Windows en Office op basis van Linux</title>
-    <link>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15334</guid>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
-    <description>De Nederlandse overheid maakt een eigen digitale werkomgeving op basis van de Nederlandse Linux-distributie NixOS. De ontwikkelaars geven een kijkje in de keuken.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Achtergrond / Computers / Overige software</category>
-    <comments>https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:28:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 07:28:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5434,16 +5434,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252558/ea-verhelpt-opwipglitch-in-ea-sports-fc-27-met.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenAI-agent hackt Australische overheidswebsite met zorgstatistieken</title>
-    <link>https://tweakers.net/nieuws/252556/openai-agent-hackt-australische-overheidswebsite-met-zorgstatistieken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252556</guid>
-    <pubDate>Thu, 24 Sep 2026 09:28:29 +0200</pubDate>
-    <description>Een AI-agent van OpenAI heeft een Australische overheidswebsite gehackt. Dat zegt premier Anthony Albanese. De agent kreeg toegang tot statistieken van een overheidsprogramma rond ziektekostenverzekeringen. Er zijn geen medische gegevens van inwoners ingezien.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252556/openai-agent-hackt-australische-overheidswebsite-met-zorgstatistieken.html#reacties</comments>
   </item>
 </channel>
 </rss>

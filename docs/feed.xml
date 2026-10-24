@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 18:14:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 19:29:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5284,16 +5284,6 @@
     <dc:creator>Reinoud Dik</dc:creator>
     <category>Round-up / Computers / Processorkoeling</category>
     <comments>https://tweakers.net/reviews/15078/23-cpu-koelers-tot-40-euro-goede-koelers-voor-een-paar-tientjes.html#reacties</comments>
-  </item>
-  <item>
-    <title>Meta komt met Tamagotchi-gadget om zijn AI dichter bij mensen te brengen</title>
-    <link>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252590</guid>
-    <pubDate>Thu, 24 Sep 2026 21:19:31 +0200</pubDate>
-    <description>Meta brengt in december in de VS een wearable uit waarin het zijn AI-agent Muse in een schattig jasje steekt. Ceo Mark Zuckerberg onthulde de Muse Charm, die vooral bedoeld zou zijn om vast te houden. Het ontwerp is van voormalige Apple-werknemers, die eind vorig jaar overstapten naar Meta.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html#reacties</comments>
   </item>
 </channel>
 </rss>

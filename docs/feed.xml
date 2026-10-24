@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 12:44:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 13:29:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Marktontwikkelingen</category>
     <comments>https://tweakers.net/nieuws/252578/nederlandse-inlichtingendiensten-politie-om-ncsc-en-nctv-waarschuwen-voor-ai.html#reacties</comments>
-  </item>
-  <item>
-    <title>Populaire VR-game Beat Saber krijgt 'zijn grootste update ooit' in lente 2027</title>
-    <link>https://tweakers.net/nieuws/252572/populaire-vr-game-beat-saber-krijgt-zijn-grootste-update-ooit-in-lente-2027.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252572</guid>
-    <pubDate>Thu, 24 Sep 2026 15:15:22 +0200</pubDate>
-    <description>VR-ritmegame Beat Saber krijgt komend voorjaar 'zijn grootste update ooit', zeggen de ontwikkelaars. Het spel krijgt bijvoorbeeld een compleet nieuwe spelmodus. Ook gaat de campagne op de schop en verschijnt er een progressiesysteem waarmee je nieuwe items kunt vrijspelen.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252572/populaire-vr-game-beat-saber-krijgt-zijn-grootste-update-ooit-in-lente-2027.html#reacties</comments>
   </item>
 </channel>
 </rss>

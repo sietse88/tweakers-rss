@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 17:59:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 18:14:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5294,16 +5294,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Marktontwikkelingen</category>
     <comments>https://tweakers.net/nieuws/252590/meta-komt-met-tamagotchi-gadget-om-zijn-ai-dichter-bij-mensen-te-brengen.html#reacties</comments>
-  </item>
-  <item>
-    <title>NASA kiest Nederlands detectiesysteem voor Prima-ruimtetelescoop</title>
-    <link>https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252584</guid>
-    <pubDate>Thu, 24 Sep 2026 20:06:02 +0200</pubDate>
-    <description>NASA kiest detectietechnologie van Nederlandse bodem voor de nieuwe ruimtetelescoop die het in 2033 wil lanceren. De PRobe far-Infrared Mission for Astrophysics (Prima) wordt de eerste ruimtetelescoop met een actief gekoelde spiegel: op 4,5 kelvin. Daardoor is Prima veel gevoeliger.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Beeld en geluid / Spiegelreflexcamera's</category>
-    <comments>https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html#reacties</comments>
   </item>
 </channel>
 </rss>

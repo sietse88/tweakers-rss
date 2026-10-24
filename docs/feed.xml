@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:28:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 07:58:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5424,16 +5424,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252562/quake-champions-is-niet-meer-gratis-maar-bestaande-spelers-houden-toegang.html#reacties</comments>
-  </item>
-  <item>
-    <title>EA verhelpt 'opwipglitch' in EA Sports FC 27 met update 1.0.1</title>
-    <link>https://tweakers.net/nieuws/252558/ea-verhelpt-opwipglitch-in-ea-sports-fc-27-met.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252558</guid>
-    <pubDate>Thu, 24 Sep 2026 09:46:59 +0200</pubDate>
-    <description>EA heeft een probleem in EA Sports FC 27 opgelost waardoor spelers de bal opwipten in plaats van hem te passen. Dat bevestigt een woordvoerder aan Tweakers. De ontwikkelaar pakt het probleem aan in de 1.0.1-update.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252558/ea-verhelpt-opwipglitch-in-ea-sports-fc-27-met.html#reacties</comments>
   </item>
 </channel>
 </rss>

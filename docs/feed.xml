@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 15:14:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 15:29:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Overige software</category>
     <comments>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html#reacties</comments>
-  </item>
-  <item>
-    <title>Tweede Kamer wil camerabrillen breder verbieden, kabinet ziet geen noodzaak</title>
-    <link>https://tweakers.net/nieuws/252580/tweede-kamer-wil-camerabrillen-breder-verbieden-kabinet-ziet-geen-noodzaak.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252580</guid>
-    <pubDate>Thu, 24 Sep 2026 17:26:56 +0200</pubDate>
-    <description>Het Nederlandse kabinet ziet geen heil in een expliciet verbod op camerabrillen waarmee gebruikers stiekem mensen kunnen filmen. Bestaande regels bieden al privacybescherming en de regering wacht een rapport af van de Europese privacytoezichthouder EDPB. De Tweede Kamer wil wel een verbod.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
-    <comments>https://tweakers.net/nieuws/252580/tweede-kamer-wil-camerabrillen-breder-verbieden-kabinet-ziet-geen-noodzaak.html#reacties</comments>
   </item>
 </channel>
 </rss>

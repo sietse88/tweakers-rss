@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 09:28:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 09:43:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5404,16 +5404,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Mac mini (M6) en Mac Studio (M5 Ultra) - Nieuwste hardware voor vertrouwde Macs</title>
-    <link>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15318</guid>
-    <pubDate>Thu, 24 Sep 2026 11:30:00 +0200</pubDate>
-    <description>De Apple M6-chip debuteert in de nieuwe Mac mini, terwijl de Mac Studio een upgrade krijgt naar de M5 Ultra. Hoe presteren Apples nieuwste cpu's?</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Review / Computers / Pc's</category>
-    <comments>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html#reacties</comments>
   </item>
 </channel>
 </rss>

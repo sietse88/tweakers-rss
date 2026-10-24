@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 11:43:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 12:28:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5374,16 +5374,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252572/populaire-vr-game-beat-saber-krijgt-zijn-grootste-update-ooit-in-lente-2027.html#reacties</comments>
-  </item>
-  <item>
-    <title>Schneider wil 1,2 miljard euro bieden voor smarthomefabrikant Shelly</title>
-    <link>https://tweakers.net/nieuws/252574/schneider-wil-1-komma-2-miljard-euro-bieden-voor-smarthomefabrikant-shelly.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252574</guid>
-    <pubDate>Thu, 24 Sep 2026 14:25:45 +0200</pubDate>
-    <description>Schneider Electric is officieel van plan om Shelly over te nemen. Het Franse bedrijf wil een bod van 70 euro per aandeel uitbrengen voor het smarthomemerk, wat in totaal neerkomt op zo'n 1,2 miljard euro. Shelly zelf steunt de overname.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252574/schneider-wil-1-komma-2-miljard-euro-bieden-voor-smarthomefabrikant-shelly.html#reacties</comments>
   </item>
 </channel>
 </rss>

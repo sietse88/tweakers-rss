@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:58:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:13:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'XBOX sluit Dishonored-maker Arkane als het geen koper vindt voor 13 november'</title>
+    <link>https://tweakers.net/nieuws/253704/xbox-sluit-dishonored-maker-arkane-als-het-geen-koper-vindt-voor-13-november.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253704</guid>
+    <pubDate>Sat, 24 Oct 2026 10:07:22 +0200</pubDate>
+    <description>XBOX gaat Dishonored-studio Arkane Lyon sluiten als het geen koper vindt voor 13 november. Dat zeggen ingewijden tegen de Franse krant Le Monde. De studio werkt intussen nog wel door aan zijn volgende game: Marvel's Blade.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253704/xbox-sluit-dishonored-maker-arkane-als-het-geen-koper-vindt-voor-13-november.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Anker Solix Solarbank Max AC-thuisbatterij - Zwaargewicht om volop te profiteren</title>
     <link>https://tweakers.net/reviews/15298/anker-solix-solarbank-max-ac-thuisbatterij-zwaargewicht-om-volop-te-profiteren.html</link>

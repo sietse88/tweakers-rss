@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 09:43:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 10:13:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5394,16 +5394,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/252568/ubuntu-gebruikers-krijgen-voortaan-elke-week-kernelupdate.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gerucht: XBOX Helix-gpu is tot 40 procent krachtiger dan PlayStation 6</title>
-    <link>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252566</guid>
-    <pubDate>Thu, 24 Sep 2026 11:59:38 +0200</pubDate>
-    <description>De gpu in de aanstaande XBOX Helix is mogelijk tot 40 procent krachtiger dan die in de PlayStation 6. Dat zegt de bekende hardwareleaker KeplerL2. Daarnaast hebben beide chips volgens Kepler de tape-outfase doorlopen. Dat betekent dat het ontwerp is afgerond.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252566/gerucht-xbox-helix-gpu-is-tot-40-procent-krachtiger-dan-playstation-6.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 04:12:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 06:28:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5454,16 +5454,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartglasses</category>
     <comments>https://tweakers.net/nieuws/252554/cameraloze-meta-smartbril-met-ai-verschijnt-in-oktober-voor-349-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Meta brengt VR-bril van 100 gram in de lente uit voor 1300 dollar</title>
-    <link>https://tweakers.net/nieuws/252544/meta-brengt-vr-bril-van-100-gram-in-de-lente-uit-voor-1300-dollar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252544</guid>
-    <pubDate>Thu, 24 Sep 2026 08:13:49 +0200</pubDate>
-    <description>Meta introduceert zijn VR Glasses. Het gaat, zoals de naam suggereert, om een VR-headset die sterk lijkt op een bril. Daardoor weegt hij zo'n 100 gram. De VR-bril komt in de lente van 2027 uit voor 1300 dollar. De europrijs is nog niet bekend.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / VR-brillen</category>
-    <comments>https://tweakers.net/nieuws/252544/meta-brengt-vr-bril-van-100-gram-in-de-lente-uit-voor-1300-dollar.html#reacties</comments>
   </item>
 </channel>
 </rss>

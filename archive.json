@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252564": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Laptops",
-  "comments": "https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html#reacties",
-  "description": "Microsoft komt met vernieuwde versies van zijn Surface Pro 12\" en Surface Laptop 13\". Die beschikken over een nieuwe Snapdragon X2 Plus-soc van Qualcomm. Ze bieden daarmee betere prestaties en een langere accuduur, stelt het bedrijf. De laptops verschijnen in oktober.",
-  "guid": "https://tweakers.net/nieuws/252564",
-  "link": "https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html",
-  "pubDate": "Thu, 24 Sep 2026 11:15:19 +0200",
-  "title": "Microsoft stopt nieuwe Snapdragon X2 Plus-cpu in Surface Laptop en Surface Pro"
- },
  "https://tweakers.net/nieuws/252566": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Gaming / Consoles",
@@ -4979,6 +4969,17 @@
   "link": "https://tweakers.net/nieuws/253704/xbox-sluit-dishonored-maker-arkane-als-het-geen-koper-vindt-voor-13-november.html",
   "pubDate": "Sat, 24 Oct 2026 10:07:22 +0200",
   "title": "'XBOX sluit Dishonored-maker Arkane als het geen koper vindt voor 13 november'"
+ },
+ "https://tweakers.net/nieuws/253706": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html#reacties",
+  "description": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang, na een reeks ontsnappingen door AI-agents. Het bedrijf zegt dat te blijven doen totdat de benodigde safeguards voldoende zijn verbeterd.",
+  "first": "Sat, 24 Oct 2026 09:28:41 +0000",
+  "guid": "https://tweakers.net/nieuws/253706",
+  "link": "https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html",
+  "pubDate": "Sat, 24 Oct 2026 11:14:39 +0200",
+  "title": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

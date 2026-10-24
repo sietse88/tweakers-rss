@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 08:58:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 09:28:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang</title>
+    <link>https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253706</guid>
+    <pubDate>Sat, 24 Oct 2026 11:14:39 +0200</pubDate>
+    <description>OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang, na een reeks ontsnappingen door AI-agents. Het bedrijf zegt dat te blijven doen totdat de benodigde safeguards voldoende zijn verbeterd.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html#reacties</comments>
+  </item>
   <item>
     <title>'XBOX sluit Dishonored-maker Arkane als het geen koper vindt voor 13 november'</title>
     <link>https://tweakers.net/nieuws/253704/xbox-sluit-dishonored-maker-arkane-als-het-geen-koper-vindt-voor-13-november.html</link>
@@ -5404,16 +5414,6 @@
     <dc:creator>Tomas Hochstenbach</dc:creator>
     <category>Review / Computers / Pc's</category>
     <comments>https://tweakers.net/reviews/15318/mac-mini-m6-en-mac-studio-m5-ultra-nieuwste-hardware-voor-vertrouwde-macs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft stopt nieuwe Snapdragon X2 Plus-cpu in Surface Laptop en Surface Pro</title>
-    <link>https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252564</guid>
-    <pubDate>Thu, 24 Sep 2026 11:15:19 +0200</pubDate>
-    <description>Microsoft komt met vernieuwde versies van zijn Surface Pro 12" en Surface Laptop 13". Die beschikken over een nieuwe Snapdragon X2 Plus-soc van Qualcomm. Ze bieden daarmee betere prestaties en een langere accuduur, stelt het bedrijf. De laptops verschijnen in oktober.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html#reacties</comments>
   </item>
 </channel>
 </rss>

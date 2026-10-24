@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:59:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:29:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5304,16 +5304,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Beeld en geluid / Spiegelreflexcamera's</category>
     <comments>https://tweakers.net/nieuws/252584/nasa-kiest-nederlands-detectiesysteem-voor-prima-ruimtetelescoop.html#reacties</comments>
-  </item>
-  <item>
-    <title>Verzamelaarsdoos GTA VI kost 400 euro en bevat veel extra's, maar niet de game</title>
-    <link>https://tweakers.net/nieuws/252588/verzamelaarsdoos-gta-vi-kost-400-euro-en-bevat-veel-extras-maar-niet-de-game.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252588</guid>
-    <pubDate>Thu, 24 Sep 2026 19:24:16 +0200</pubDate>
-    <description>Rockstar Games kondigt een luxe verzamelaarsdoos van GTA VI aan, die 399,99 euro kost. Deze Grand Theft Auto VI: The Goodtime State – Vice City Collection geeft gamers veel goodies, waaronder een Oakley-zonnebril, een crossbodybag en een sleutelhanger. GTA VI zelf zit niet in de doos.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Gaming / Game-accessoires</category>
-    <comments>https://tweakers.net/nieuws/252588/verzamelaarsdoos-gta-vi-kost-400-euro-en-bevat-veel-extras-maar-niet-de-game.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 15:59:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 16:59:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Gaming / Game-accessoires</category>
     <comments>https://tweakers.net/nieuws/252588/verzamelaarsdoos-gta-vi-kost-400-euro-en-bevat-veel-extras-maar-niet-de-game.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Age of Empires 5 sneuvelt bij ontslagronde en reorganisatie World's Edge'</title>
-    <link>https://tweakers.net/nieuws/252586/age-of-empires-5-sneuvelt-bij-ontslagronde-en-reorganisatie-worlds-edge.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252586</guid>
-    <pubDate>Thu, 24 Sep 2026 18:56:11 +0200</pubDate>
-    <description>Bij XBOX-gamestudio World's Edge zou bijna de helft van het personeel zijn ontslagen . Ook zou het volgende grote project zijn geschrapt. Naar verluidt is dat onaangekondigde project Age of Empires 5. Dit melden gamenieuwssites op basis van posts van ontslagen medewerkers.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252586/age-of-empires-5-sneuvelt-bij-ontslagronde-en-reorganisatie-worlds-edge.html#reacties</comments>
   </item>
 </channel>
 </rss>

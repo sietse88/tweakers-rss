@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 08:28:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:58:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5414,16 +5414,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/252564/microsoft-stopt-nieuwe-snapdragon-x2-plus-cpu-in-surface-laptop-en-surface-pro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Meta verwijdert satirische video Roel Maalderink met kritiek op zijn slimme bril</title>
-    <link>https://tweakers.net/nieuws/252560/meta-verwijdert-satirische-video-roel-maalderink-met-kritiek-op-zijn-slimme-bril.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252560</guid>
-    <pubDate>Thu, 24 Sep 2026 10:44:24 +0200</pubDate>
-    <description>Meta heeft een satirische video van programmamaker Roel Maalderink en privacyorganisatie Bits of Freedom van Instagram gehaald. De video ging over de slimme brillen van Meta, die camera's bevatten waarmee gebruikers relatief ongemerkt foto's en video's kunnen maken.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
-    <comments>https://tweakers.net/nieuws/252560/meta-verwijdert-satirische-video-roel-maalderink-met-kritiek-op-zijn-slimme-bril.html#reacties</comments>
   </item>
 </channel>
 </rss>

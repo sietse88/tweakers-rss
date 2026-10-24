@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 24 Oct 2026 15:29:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 15:59:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252586/age-of-empires-5-sneuvelt-bij-ontslagronde-en-reorganisatie-worlds-edge.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlanders kunnen DigiD downloaden als app voor Windows en macOS</title>
-    <link>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252582</guid>
-    <pubDate>Thu, 24 Sep 2026 17:53:15 +0200</pubDate>
-    <description>De Nederlandse overheid brengt de DigiD-app uit voor pc's, wat eerder al was aangekondigd. De pc-app is bedoeld voor mensen die geen smartphone hebben. In Nederland zijn dat er een miljoen, aldus de overheid. De app draait op Windows 11 en Mac-computers met macOS 15 (Sequoia) of hoger.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Overige software</category>
-    <comments>https://tweakers.net/nieuws/252582/nederlanders-kunnen-digid-downloaden-als-app-voor-windows-en-macos.html#reacties</comments>
   </item>
 </channel>
 </rss>

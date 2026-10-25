@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 09:46:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 10:16:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Ontwikkelaars mogen van Apple niet langer apps updaten op oude iOS-versies'</title>
+    <link>https://tweakers.net/nieuws/253718/ontwikkelaars-mogen-van-apple-niet-langer-apps-updaten-op-oude-ios-versies.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253718</guid>
+    <pubDate>Sun, 25 Oct 2026 11:10:00 +0100</pubDate>
+    <description>Ontwikkelaars mogen van Apple niet langer apps updaten op oude iOS-versies, zo claimt youtuber Hugh Jeffreys. Sinds kort komt er dan een foutmelding dat de app geen iOS 12 of lager mag ondersteunen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253718/ontwikkelaars-mogen-van-apple-niet-langer-apps-updaten-op-oude-ios-versies.html#reacties</comments>
+  </item>
   <item>
     <title>Musk beperkte Starlink in Oekraïne vanwege offensieve droneacties</title>
     <link>https://tweakers.net/nieuws/253712/musk-beperkte-starlink-in-oekraine-vanwege-offensieve-droneacties.html</link>
@@ -5234,16 +5244,6 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Preview / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15336/snapdragon-8-elite-gen-6-extreme-flinke-stap-vooruit-met-nieuwe-2nm-socs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google wil in oktober eerste testsatelliet voor ruimtedatacenter lanceren</title>
-    <link>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252602</guid>
-    <pubDate>Fri, 25 Sep 2026 12:06:20 +0200</pubDate>
-    <description>Google wil op 1 oktober zijn eerste testsatelliet lanceren in het kader van Project Suncatcher. Het is de bedoeling dat er uiteindelijk een satellietconstellatie komt met de gezamenlijke rekenkracht van een volwaardig AI-datacenter.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Wetenschap</category>
-    <comments>https://tweakers.net/nieuws/252602/google-wil-in-oktober-eerste-testsatelliet-voor-ruimtedatacenter-lanceren.html#reacties</comments>
   </item>
 </channel>
 </rss>

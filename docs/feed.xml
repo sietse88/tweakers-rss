@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 13:31:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 14:31:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5194,26 +5194,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/252622/gravity-linux-voor-apple-is-asahi-fork-die-vibecoden-wel-toelaat.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Witte Huis verzoekt AI-bedrijven om modellen niet te delen met VK'</title>
-    <link>https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252604</guid>
-    <pubDate>Fri, 25 Sep 2026 16:24:34 +0200</pubDate>
-    <description>Het Witte Huis heeft OpenAI en Anthropic gevraagd om nieuwe AI-modellen niet meteen te delen met de testinstantie van de Britse overheid. Amerika wil de modellen eerst zelf testen. Dat meldt Politico op basis van anonieme bronnen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252604/witte-huis-verzoekt-ai-bedrijven-om-modellen-niet-te-delen-met-vk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Raspberry Pi wil doorverkooptactiek indammen en maakt geheugenupgrade onmogelijk</title>
-    <link>https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252620</guid>
-    <pubDate>Fri, 25 Sep 2026 16:21:46 +0200</pubDate>
-    <description>Gebruikers kunnen het geheugen van een Raspberry Pi niet zomaar upgraden omdat de firmware dat niet toestaat. Het bedrijf achter de populaire singleboardcomputer zegt dat het daarmee wil voorkomen dat kopers het ram upgraden en de pc'tjes daarna doorverkopen als origineel. Dat beleid en de aangepaste firmware bestaan al sinds 2024, voordat de ramcrisis begon.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Singleboardcomputers</category>
-    <comments>https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html#reacties</comments>
   </item>
 </channel>
 </rss>

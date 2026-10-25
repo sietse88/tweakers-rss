@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 16:02:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 16:17:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5154,16 +5154,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html#reacties</comments>
-  </item>
-  <item>
-    <title>'OpenAI wil GPT-6 Cyber voor securityonderzoekers in komende weken uitbrengen'</title>
-    <link>https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252624</guid>
-    <pubDate>Fri, 25 Sep 2026 18:07:36 +0200</pubDate>
-    <description>OpenAI is van plan in de komende weken een aparte versie van ChatGPT uit te brengen die specifiek gericht is op cybersecurity. GPT-6 Cyber zou inmiddels in een alfatest beschikbaar zijn voor een beperkt aantal klanten. Steeds meer AI-bedrijven brengen zulke versies uit, juist nu er groeiende zorgen zijn over de hackcapaciteiten van deze modellen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html#reacties</comments>
   </item>
 </channel>
 </rss>

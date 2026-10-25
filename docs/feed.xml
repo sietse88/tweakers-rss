@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 11:46:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 12:01:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,16 +5234,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft voegt programmeertool en OpenClaw-achtige agent toe aan Copilot-app</title>
-    <link>https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252606</guid>
-    <pubDate>Fri, 25 Sep 2026 14:00:00 +0200</pubDate>
-    <description>Microsoft komt met verschillende vernieuwingen voor de Copilot-app. Het bedrijf integreert de programmeertool GitHub Copilot in de app. Daarnaast introduceert Microsoft Autopilot. Deze OpenClaw-achtige AI-agent moet non-stop op de achtergrond taken kunnen uitvoeren.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html#reacties</comments>
   </item>
 </channel>
 </rss>

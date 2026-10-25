@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 11:31:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 11:46:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Scherm iPhone Duo breekt bij tientallen klanten op hetzelfde punt</title>
+    <link>https://tweakers.net/nieuws/253722/scherm-iphone-duo-breekt-bij-tientallen-klanten-op-hetzelfde-punt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253722</guid>
+    <pubDate>Sun, 25 Oct 2026 12:44:00 +0100</pubDate>
+    <description>Het scherm van de vouwbare smartphone Apple iPhone Duo breekt bij tientallen klanten op dezelfde manier, op hetzelfde punt boven een scharnier. Dat blijkt uit meldingen. De telefoon kwam vrijdag uit.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253722/scherm-iphone-duo-breekt-bij-tientallen-klanten-op-hetzelfde-punt.html#reacties</comments>
+  </item>
   <item>
     <title>Steam gaat aanbevelingen doen voor games die onlangs zijn uitgekomen</title>
     <link>https://tweakers.net/nieuws/253720/steam-gaat-aanbevelingen-doen-voor-games-die-onlangs-zijn-uitgekomen.html</link>
@@ -5234,16 +5244,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/252606/microsoft-voegt-programmeertool-en-openclaw-achtige-agent-toe-aan-copilot-app.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ransomwaregroep hackt onlinesupermarkt Flink en vraagt slachtoffers om losgeld</title>
-    <link>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252608</guid>
-    <pubDate>Fri, 25 Sep 2026 13:38:13 +0200</pubDate>
-    <description>Bezorgbedrijf en onlinesupermarkt Flink is gehackt. Hackers van waarschijnlijk LPG Group zijn binnengedrongen in interne systemen van het bedrijf en hebben persoonsgegevens van klanten gestolen. Het gaat onder andere om naam-, adres- en woonplaatsgegevens, maar niet om wachtwoorden of betaalgegevens. Opvallend genoeg vragen de hackers losgeld aan individuele slachtoffers.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html#reacties</comments>
   </item>
 </channel>
 </rss>

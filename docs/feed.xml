@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 04:30:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 05:30:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5264,16 +5264,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Achtergrond / Tablets en telefoons / Smartglasses</category>
     <comments>https://tweakers.net/reviews/15352/meta-wil-af-van-het-slechte-imago-van-camerabrillen-dat-het-zelf-veroorzaakte.html#reacties</comments>
-  </item>
-  <item>
-    <title>Netflix brengt abonnement met reclame op 1 maart uit in Nederland en België</title>
-    <link>https://tweakers.net/nieuws/252592/netflix-brengt-abonnement-met-reclame-op-1-maart-uit-in-nederland-en-belgie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252592</guid>
-    <pubDate>Fri, 25 Sep 2026 07:29:23 +0200</pubDate>
-    <description>Netflix brengt zijn abonnement met advertenties op 1 maart 2027 uit in Nederland en België. Kijkers betalen dan minder, maar moeten voor en tijdens films en series wel reclameblokken uitzitten.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Televisies</category>
-    <comments>https://tweakers.net/nieuws/252592/netflix-brengt-abonnement-met-reclame-op-1-maart-uit-in-nederland-en-belgie.html#reacties</comments>
   </item>
 </channel>
 </rss>

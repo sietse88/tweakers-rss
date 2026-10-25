@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 16:17:21 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 17:17:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5144,16 +5144,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Beeld en geluid / Televisies</category>
     <comments>https://tweakers.net/nieuws/252630/beelden-van-nieuwe-ipad-mini-homepod-minis-en-identieke-apple-tv-verschijnen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Populaire Qobuz-client QBZ voor Linux moet stoppen vanwege rechtenkwestie</title>
-    <link>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252628</guid>
-    <pubDate>Fri, 25 Sep 2026 19:10:01 +0200</pubDate>
-    <description>Een populaire open source Linux-client voor muziekstreamingdienst Qobuz is gestopt. QBZ werd algemeen gezien als de beste Linux-client voor de dienst, die geen native app voor dat besturingssysteem heeft. Volgens de ontwikkelaar gaat het om een rechtenkwestie.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/252628/populaire-qobuz-client-qbz-voor-linux-moet-stoppen-vanwege-rechtenkwestie.html#reacties</comments>
   </item>
 </channel>
 </rss>

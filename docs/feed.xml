@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 17:47:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 18:47:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5124,16 +5124,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/252638/optionele-microsoft-365-update-lijkt-office-installaties-soms-te-verwijderen.html#reacties</comments>
-  </item>
-  <item>
-    <title>TSMC is begonnen met productie van chips op A14-procedé, sneller dan gedacht</title>
-    <link>https://tweakers.net/nieuws/252636/tsmc-is-begonnen-met-productie-van-chips-op-a14-procede-sneller-dan-gedacht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252636</guid>
-    <pubDate>Fri, 25 Sep 2026 20:40:24 +0200</pubDate>
-    <description>TSMC zou zijn begonnen met de eerste proefproducties van chips op zijn '1,4nm'-procedé. Volgens bronnen in de industrie loopt het ontwikkelproces van 'A14'-chips daarmee voorspoediger dan gepland. TSMC zou al eind dit jaar kunnen opschalen naar grotere productievolumes en dan begin 2028 al kunnen beginnen met de massaproductie van chips op het modernste procedé.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/252636/tsmc-is-begonnen-met-productie-van-chips-op-a14-procede-sneller-dan-gedacht.html#reacties</comments>
   </item>
 </channel>
 </rss>

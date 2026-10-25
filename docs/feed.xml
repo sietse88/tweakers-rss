@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 07:46:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 08:16:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Realme krijgt vertegenwoordiging in Nederland en België, net nu OnePlus weggaat</title>
+    <link>https://tweakers.net/nieuws/253714/realme-krijgt-vertegenwoordiging-in-nederland-en-belgie-net-nu-oneplus-weggaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253714</guid>
+    <pubDate>Sun, 25 Oct 2026 09:13:00 +0100</pubDate>
+    <description>Smartphonemerk realme heeft vertegenwoordiging gekregen in Nederland en België. Dat meldt Androidworld. Realme valt net als OnePlus onder OPPO. OnePlus is dit jaar juist vertrokken uit Europa.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253714/realme-krijgt-vertegenwoordiging-in-nederland-en-belgie-net-nu-oneplus-weggaat.html#reacties</comments>
+  </item>
   <item>
     <title>Gigabyte levert grote ramkoeler mee met WRX90 AI TOP-moederbord</title>
     <link>https://tweakers.net/nieuws/253710/gigabyte-levert-grote-ramkoeler-mee-met-wrx90-ai-top-moederbord.html</link>

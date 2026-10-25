@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 12:16:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 12:46:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,16 +5234,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html#reacties</comments>
-  </item>
-  <item>
-    <title>Stichting begint massaclaim tegen Fortnite vanwege verslavend ontwerp</title>
-    <link>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252614</guid>
-    <pubDate>Fri, 25 Sep 2026 14:33:21 +0200</pubDate>
-    <description>De stichting Massaschade &amp; Consument is een nieuwe massaclaim gestart, dit keer tegen Epic Games. De stichting stelt dat Epic spelers onder druk zette om in-appaankopen in Fortnite te doen en hen zo misleidde. De stichting eist dat Epic Games onder andere stopt met aflopende timers en 'het verslavende ontwerp', maar wil ook een schadevergoeding.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252614/stichting-begint-massaclaim-tegen-fortnite-vanwege-verslavend-ontwerp.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 15:02:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 16:02:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5164,16 +5164,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252624/openai-wil-gpt-6-cyber-voor-securityonderzoekers-in-komende-weken-uitbrengen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Anthropic koopt 7 jaar lang voor 11,6 miljard dollar rekenkracht in bij Akamai</title>
-    <link>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252626</guid>
-    <pubDate>Fri, 25 Sep 2026 17:50:25 +0200</pubDate>
-    <description>Anthropic gaat samenwerken met Akamai om computekracht in te kopen. Het AI-bedrijf betaalt daarvoor in zeven jaar ruim tien miljard euro. Als onderdeel van die samenwerking mag Anthropic ook een aandeel van maximaal vijf procent in Akamai kopen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252626/anthropic-koopt-7-jaar-lang-voor-11-komma-6-miljard-dollar-rekenkracht-in-bij-akamai.html#reacties</comments>
   </item>
 </channel>
 </rss>

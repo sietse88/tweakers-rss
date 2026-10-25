@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 12:46:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 13:31:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,26 +5214,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Singleboardcomputers</category>
     <comments>https://tweakers.net/nieuws/252620/raspberry-pi-wil-doorverkooptactiek-indammen-en-maakt-geheugenupgrade-onmogelijk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fedora-gebruikers discussiëren over het vervangen van LibreOffice door Collabora</title>
-    <link>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252616</guid>
-    <pubDate>Fri, 25 Sep 2026 15:30:00 +0200</pubDate>
-    <description>Fedora-gebruikers en -ontwikkelaars voeren momenteel een lange discussie over het vervangen van LibreOffice door Collabora Office. De vervanging maakt nog geen deel uit van officieel beleid en wordt niet serieus nagestreefd, maar heeft wel veel voorstanders.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Officesoftware en suites</category>
-    <comments>https://tweakers.net/nieuws/252616/fedora-gebruikers-discussieren-over-het-vervangen-van-libreoffice-door-collabora.html#reacties</comments>
-  </item>
-  <item>
-    <title>WiCi One-behuizing laat RTX-gpu's draadloos verbinding maken met pc via Wi-Fi 7</title>
-    <link>https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252618</guid>
-    <pubDate>Fri, 25 Sep 2026 15:23:42 +0200</pubDate>
-    <description>Een fabrikant komt met een gpu-behuizing waarmee RTX-videokaarten draadloos verbinding kunnen maken met apparaten als laptops. Volgens de fabrikant zien apparaten de draadloze egpu als een 'gewone' videokaart in plaats van als een losse streaming-pc.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/252618/wici-one-behuizing-laat-rtx-gpus-draadloos-verbinding-maken-met-pc-via-wi-fi-7.html#reacties</comments>
   </item>
 </channel>
 </rss>

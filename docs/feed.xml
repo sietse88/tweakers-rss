@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 11:16:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 11:31:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5244,16 +5244,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/252608/ransomwaregroep-hackt-onlinesupermarkt-flink-en-vraagt-slachtoffers-om-losgeld.html#reacties</comments>
-  </item>
-  <item>
-    <title>Preview - Snapdragon 8 Elite Gen 6 (Extreme) - Flinke stap vooruit met nieuwe 2nm-socs</title>
-    <link>https://tweakers.net/reviews/15336/snapdragon-8-elite-gen-6-extreme-flinke-stap-vooruit-met-nieuwe-2nm-socs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15336</guid>
-    <pubDate>Fri, 25 Sep 2026 13:30:00 +0200</pubDate>
-    <description>Qualcomm heeft de Snapdragon 8 Elite Gen 6 en Snapdragon 8 Elite Extreme Gen 6 aangekondigd. Tweakers was aanwezig en kon alvast wat benchmarks draaien.</description>
-    <dc:creator>Dennis de Vries</dc:creator>
-    <category>Preview / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15336/snapdragon-8-elite-gen-6-extreme-flinke-stap-vooruit-met-nieuwe-2nm-socs.html#reacties</comments>
   </item>
 </channel>
 </rss>

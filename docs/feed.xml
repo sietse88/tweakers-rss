@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 12:01:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 12:16:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Doomscrollen op groot scherm: Instagram komt uit voor Apple TV</title>
+    <link>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253726</guid>
+    <pubDate>Sun, 25 Oct 2026 13:03:00 +0100</pubDate>
+    <description>Instagram heeft een app voor Apple TV uitgebracht. De app kan onder meer Reels op een groot scherm tonen. Instagram verscheen afgelopen jaar al op meer tv-platforms.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html#reacties</comments>
+  </item>
   <item>
     <title>Scherm iPhone Duo breekt bij tientallen klanten op hetzelfde punt</title>
     <link>https://tweakers.net/nieuws/253722/scherm-iphone-duo-breekt-bij-tientallen-klanten-op-hetzelfde-punt.html</link>

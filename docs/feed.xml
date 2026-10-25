@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 25 Oct 2026 09:01:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 09:16:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Musk beperkte Starlink in Oekraïne vanwege offensieve droneacties</title>
+    <link>https://tweakers.net/nieuws/253712/musk-beperkte-starlink-in-oekraine-vanwege-offensieve-droneacties.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253712</guid>
+    <pubDate>Sun, 25 Oct 2026 10:11:00 +0100</pubDate>
+    <description>Directeur Elon Musk beperkte Starlink in Oekraïne omdat het systeem werd gebruikt voor offensieve droneacties in Rusland, waarbij burgers zouden zijn gestorven. Volgens Musk is dat in strijd met de voorwaarden van het satellietcommunicatiesysteem.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253712/musk-beperkte-starlink-in-oekraine-vanwege-offensieve-droneacties.html#reacties</comments>
+  </item>
   <item>
     <title>Realme krijgt vertegenwoordiging in Nederland en België, net nu OnePlus weggaat</title>
     <link>https://tweakers.net/nieuws/253714/realme-krijgt-vertegenwoordiging-in-nederland-en-belgie-net-nu-oneplus-weggaat.html</link>

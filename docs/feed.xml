@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 14:20:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 14:35:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>EasyJet biedt vanaf volgend jaar Starlink-internet aan tijdens vluchten</title>
+    <link>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253758</guid>
+    <pubDate>Mon, 26 Oct 2026 15:29:39 +0100</pubDate>
+    <description>EasyJet gaat vanaf 2027 tijdens vluchten satellietinternet van Starlink aanbieden. Dat geldt voor de vliegtuigmodellen A320, A320neo en A321neo. Het is voor het eerst dat de budgetvliegmaatschappij wifi aanbiedt.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html#reacties</comments>
+  </item>
+  <item>
+    <title>YouTube streamt vanaf begin 2027 video's in hogere kwaliteit met AV2-codec</title>
+    <link>https://tweakers.net/nieuws/253750/youtube-streamt-vanaf-begin-2027-videos-in-hogere-kwaliteit-met-av2-codec.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253750</guid>
+    <pubDate>Mon, 26 Oct 2026 15:17:42 +0100</pubDate>
+    <description>YouTube krijgt begin 2027 ondersteuning voor de AV2-videocodec. Dat moet onder meer zorgen voor een hogere beeldkwaliteit bij lagere bitrates. Google experimenteert ook met de integratie van de nieuwe codec in zijn browser Chrome.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Fotografie en video</category>
+    <comments>https://tweakers.net/nieuws/253750/youtube-streamt-vanaf-begin-2027-videos-in-hogere-kwaliteit-met-av2-codec.html#reacties</comments>
+  </item>
   <item>
     <title>Kabinet werkt aan wet voor soepelere uitwisseling van burgerdata</title>
     <link>https://tweakers.net/nieuws/253754/kabinet-werkt-aan-wet-voor-soepelere-uitwisseling-van-burgerdata.html</link>
@@ -36,14 +56,14 @@
     <comments>https://tweakers.net/nieuws/253756/nieuwe-ipad-mini-heeft-8-komma-5-inch-oledscherm-en-a20-pro-chip.html#reacties</comments>
   </item>
   <item>
-    <title>Deens ministerie staakt proef met Office-alternatief binnen halfjaar</title>
-    <link>https://tweakers.net/nieuws/253752/deens-ministerie-staakt-proef-met-office-alternatief-binnen-halfjaar.html</link>
+    <title>Deens ministerie trekt binnen halfjaar stekker uit proef met Office-alternatief</title>
+    <link>https://tweakers.net/nieuws/253752/deens-ministerie-trekt-binnen-halfjaar-stekker-uit-proef-met-office-alternatief.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253752</guid>
     <pubDate>Mon, 26 Oct 2026 14:48:43 +0100</pubDate>
     <description>Het Deense ministerie van Digitalisering is eerder dit jaar stilletjes gestopt met een project om over te stappen op een open source-alternatief voor Microsoft Office. De bedoeling was om over te stappen op Collabora. Dat meldt Tom's Hardware op basis van Deense media.</description>
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253752/deens-ministerie-staakt-proef-met-office-alternatief-binnen-halfjaar.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253752/deens-ministerie-trekt-binnen-halfjaar-stekker-uit-proef-met-office-alternatief.html#reacties</comments>
   </item>
   <item>
     <title>KPN verhuist e-mails en bestanden naar nieuwe dienst binnen EU</title>

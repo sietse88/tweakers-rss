@@ -4752,7 +4752,7 @@
   "author": "Eveline Meijer",
   "category": "Nieuws / IT Pro / Software development",
   "comments": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html#reacties",
-  "description": "Systemd heeft ondersteuning gekregen voor het ontwikkelen van programma's in Rust. Dat meldt Linux-kernelontwikkelaar Christian Brauner op GitHub. Systemd is een systeem- en servicemanager voor Linux, die het opstarten van het systeem regelt en achtergrondprocessen beheert.",
+  "description": "Met Systemd kunnen ontwikkelaars voortaan programma's in Rust schrijven. Dat meldt Linux-kernelontwikkelaar Christian Brauner op GitHub. Systemd is een systeem- en servicemanager voor Linux, die het opstarten van het systeem regelt en achtergrondprocessen beheert.",
   "first": "Mon, 26 Oct 2026 07:19:11 +0000",
   "guid": "https://tweakers.net/nieuws/253730",
   "link": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html",

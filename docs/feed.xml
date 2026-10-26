@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 06:48:57 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:19:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ontwikkelaars kunnen losse systemd-componenten voortaan in Rust schrijven</title>
+    <link>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253730</guid>
+    <pubDate>Mon, 26 Oct 2026 08:14:07 +0100</pubDate>
+    <description>Systemd heeft ondersteuning gekregen voor het ontwikkelen van programma's in Rust. Dat meldt Linux-kernelontwikkelaar Christian Brauner op GitHub. Systemd is een systeem- en servicemanager voor Linux, die het opstarten van het systeem regelt en achtergrondprocessen beheert.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html#reacties</comments>
+  </item>
   <item>
     <title>Doomscrollen op groot scherm: Instagram komt uit voor Apple TV</title>
     <link>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html</link>

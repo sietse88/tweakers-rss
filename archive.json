@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252640": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties",
-  "description": "Opnieuw lijken AI-modellen van OpenAI buiten hun boekje te zijn gegaan. ChatGPT blijkt afbeeldingen van 53 gebruikers te hebben laten uitlekken. In een tweede incident bleek dat AI-agents hebben ingebroken op Amerikaanse overheidswebsites via gevonden inloggegevens.",
-  "guid": "https://tweakers.net/nieuws/252640",
-  "link": "https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html",
-  "pubDate": "Sat, 26 Sep 2026 09:52:24 +0200",
-  "title": "Opnieuw gaan OpenAI-modellen de fout in door foto's te lekken en sites te hacken"
- },
  "https://tweakers.net/nieuws/252642": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Officesoftware en suites",
@@ -4751,13 +4741,13 @@
  "https://tweakers.net/nieuws/253730": {
   "author": "Eveline Meijer",
   "category": "Nieuws / IT Pro / Software development",
-  "comments": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html#reacties",
   "description": "Met Systemd kunnen ontwikkelaars voortaan programma's in Rust schrijven. Dat meldt Linux-kernelontwikkelaar Christian Brauner op GitHub. Systemd is een systeem- en servicemanager voor Linux, die het opstarten van het systeem regelt en achtergrondprocessen beheert.",
   "first": "Mon, 26 Oct 2026 07:19:11 +0000",
   "guid": "https://tweakers.net/nieuws/253730",
-  "link": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-losse-systemd-componenten-voortaan-in-rust-schrijven.html",
+  "link": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html",
   "pubDate": "Mon, 26 Oct 2026 08:14:07 +0100",
-  "title": "Ontwikkelaars kunnen losse systemd-componenten voortaan in Rust schrijven"
+  "title": "Ontwikkelaars kunnen nieuwe systemd-componenten voortaan in Rust bouwen"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 10:49:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 11:19:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>IFixit: scharnier en binnenste scherm iPhone Duo zijn lastig te repareren</title>
+    <link>https://tweakers.net/nieuws/253740/ifixit-scharnier-en-binnenste-scherm-iphone-duo-zijn-lastig-te-repareren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253740</guid>
+    <pubDate>Mon, 26 Oct 2026 12:08:45 +0100</pubDate>
+    <description>De iPhone Duo krijgt van iFixit een vijf op een schaal van tien voor repareerbaarheid. Daarnaast ontdekte de site dat er stof in het scharnier kan komen, waardoor het scherm kapot kan gaan. Toch vindt iFixit de iPhone Duo de best te repareren vouwbare smartphone tot nu toe.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253740/ifixit-scharnier-en-binnenste-scherm-iphone-duo-zijn-lastig-te-repareren.html#reacties</comments>
+  </item>
   <item>
     <title>ICC behoudt toegang tot Amerikaanse techdiensten ondanks sancties</title>
     <link>https://tweakers.net/nieuws/253738/icc-behoudt-toegang-tot-amerikaanse-techdiensten-ondanks-sancties.html</link>

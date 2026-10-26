@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 14:35:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 16:05:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Anthropic meldt nettoverlies van 80,7 miljard dollar in aanvraag voor beursgang</title>
+    <link>https://tweakers.net/nieuws/253762/anthropic-meldt-nettoverlies-van-80-komma-7-miljard-dollar-in-aanvraag-voor-beursgang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253762</guid>
+    <pubDate>Mon, 26 Oct 2026 16:46:43 +0100</pubDate>
+    <description>Anthropic heeft de aanvraag voor zijn beursgang openbaar gemaakt. Daarin staat dat het bedrijf in de eerste helft van 2026 een nettoverlies van 80,7 miljard dollar leed. In diezelfde periode was de omzet 16,3 miljard dollar. De beursgang vindt mogelijk volgende maand nog plaats.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253762/anthropic-meldt-nettoverlies-van-80-komma-7-miljard-dollar-in-aanvraag-voor-beursgang.html#reacties</comments>
+  </item>
   <item>
     <title>EasyJet biedt vanaf volgend jaar Starlink-internet aan tijdens vluchten</title>
     <link>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html</link>

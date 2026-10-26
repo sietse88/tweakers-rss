@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 09:49:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 10:19:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5084,16 +5084,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252648/tiktok-schikt-weer-en-wordt-in-ieder-geval-in-alabama-veiliger-voor-kinderen.html#reacties</comments>
-  </item>
-  <item>
-    <title>SURF maakt AI-omgeving met commerciële en open llm's beschikbaar voor onderwijs</title>
-    <link>https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252646</guid>
-    <pubDate>Sat, 26 Sep 2026 12:15:58 +0200</pubDate>
-    <description>Ict-koepel SURF gaat een eigen AI-omgeving uitbrengen voor het Nederlandse onderwijs. SURF AI bestaat uit een omgeving waar instellingen llm's kunnen samenvoegen en een applicatie waarmee die modellen kunnen worden gebruikt. De data blijft dan binnen een afgesloten omgeving, zodat die omgeving aan privacy- en compliance-eisen voldoet. De tool komt vanaf begin volgend jaar beschikbaar.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Onderwijs en werkgelegenheid</category>
-    <comments>https://tweakers.net/nieuws/252646/surf-maakt-ai-omgeving-met-commerciele-en-open-llms-beschikbaar-voor-onderwijs.html#reacties</comments>
   </item>
 </channel>
 </rss>

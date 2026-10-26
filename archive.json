@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252642": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Officesoftware en suites",
-  "comments": "https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html#reacties",
-  "description": "Excel krijgt een functie waar Microsoft al meer dan veertig jaar niets van wil weten: het wordt mogelijk om meerdere waarden aan een cel toe te kennen. Gebruikers kunnen dan meerdere namen of cijfers in één cel zetten door die met komma's te scheiden. Excel behandelt ze als aparte waardes en kan ze dus los van elkaar filteren.",
-  "guid": "https://tweakers.net/nieuws/252642",
-  "link": "https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html",
-  "pubDate": "Sat, 26 Sep 2026 10:53:09 +0200",
-  "title": "Excel kan voortaan meerdere waardes aan één cel toekennen"
- },
  "https://tweakers.net/nieuws/252644": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Software development",
@@ -4748,6 +4738,17 @@
   "link": "https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html",
   "pubDate": "Mon, 26 Oct 2026 08:14:07 +0100",
   "title": "Ontwikkelaars kunnen nieuwe systemd-componenten voortaan in Rust bouwen"
+ },
+ "https://tweakers.net/nieuws/253736": {
+  "author": "Eveline Meijer",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html#reacties",
+  "description": "SpaceX leent 40 miljard dollar, die het bedrijf wil gebruiken om gpu's voor AI aan te schaffen. Dat heeft ceo Elon Musk bekendgemaakt op X. Het is onduidelijk of de deal al helemaal rond is.",
+  "first": "Mon, 26 Oct 2026 09:04:26 +0000",
+  "guid": "https://tweakers.net/nieuws/253736",
+  "link": "https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html",
+  "pubDate": "Mon, 26 Oct 2026 09:53:59 +0100",
+  "title": "SpaceX leent 40 miljard dollar om gpu's te kopen voor AI"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

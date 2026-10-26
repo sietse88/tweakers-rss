@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 08:04:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 09:04:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>SpaceX leent 40 miljard dollar om gpu's te kopen voor AI</title>
+    <link>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253736</guid>
+    <pubDate>Mon, 26 Oct 2026 09:53:59 +0100</pubDate>
+    <description>SpaceX leent 40 miljard dollar, die het bedrijf wil gebruiken om gpu's voor AI aan te schaffen. Dat heeft ceo Elon Musk bekendgemaakt op X. Het is onduidelijk of de deal al helemaal rond is.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html#reacties</comments>
+  </item>
   <item>
     <title>Ontwikkelaars kunnen nieuwe systemd-componenten voortaan in Rust bouwen</title>
     <link>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html</link>
@@ -5094,16 +5104,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/252644/ruby-on-rails-oprichter-vibecodet-zijn-eigen-software-om-naar-vreselijk-rust.html#reacties</comments>
-  </item>
-  <item>
-    <title>Excel kan voortaan meerdere waardes aan één cel toekennen</title>
-    <link>https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252642</guid>
-    <pubDate>Sat, 26 Sep 2026 10:53:09 +0200</pubDate>
-    <description>Excel krijgt een functie waar Microsoft al meer dan veertig jaar niets van wil weten: het wordt mogelijk om meerdere waarden aan een cel toe te kennen. Gebruikers kunnen dan meerdere namen of cijfers in één cel zetten door die met komma's te scheiden. Excel behandelt ze als aparte waardes en kan ze dus los van elkaar filteren.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Officesoftware en suites</category>
-    <comments>https://tweakers.net/nieuws/252642/excel-kan-voortaan-meerdere-waardes-aan-een-cel-toekennen.html#reacties</comments>
   </item>
 </channel>
 </rss>

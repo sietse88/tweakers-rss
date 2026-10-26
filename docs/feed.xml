@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 19:21:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 19:51:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Duitse Volkswagen zou Chinese software willen gebruiken in Europa</title>
+    <link>https://tweakers.net/nieuws/253778/duitse-volkswagen-zou-chinese-software-willen-gebruiken-in-europa.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253778</guid>
+    <pubDate>Mon, 26 Oct 2026 20:42:09 +0100</pubDate>
+    <description>Het Duitse concern Volkswagen zou voor zijn Europese modellen mogelijk overstappen op Chinese software. Dat meldt persbureau Reuters. Momenteel hebben Europese Volkswagen-modellen software die Volkswagen maakt met Rivian.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/253778/duitse-volkswagen-zou-chinese-software-willen-gebruiken-in-europa.html#reacties</comments>
+  </item>
   <item>
     <title>Apple erkent probleem met scherm iPhone Duo en vervangt getroffen exemplaren</title>
     <link>https://tweakers.net/nieuws/253774/apple-erkent-probleem-met-scherm-iphone-duo-en-vervangt-getroffen-exemplaren.html</link>

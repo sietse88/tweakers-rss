@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 14:05:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 14:20:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Kabinet werkt aan wet voor soepelere uitwisseling van burgerdata</title>
+    <link>https://tweakers.net/nieuws/253754/kabinet-werkt-aan-wet-voor-soepelere-uitwisseling-van-burgerdata.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253754</guid>
+    <pubDate>Mon, 26 Oct 2026 15:12:55 +0100</pubDate>
+    <description>Nederlandse overheidsinstanties moeten onderling gemakkelijker en veiliger gegevens van inwoners kunnen delen om proactieve dienstverlening mogelijk te maken. Dat schrijft staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid Eric van der Burg aan de Tweede Kamer.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253754/kabinet-werkt-aan-wet-voor-soepelere-uitwisseling-van-burgerdata.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nieuwe iPad mini heeft 8,5 inch oledscherm en A20 Pro-chip</title>
+    <link>https://tweakers.net/nieuws/253756/nieuwe-ipad-mini-heeft-8-komma-5-inch-oledscherm-en-a20-pro-chip.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253756</guid>
+    <pubDate>Mon, 26 Oct 2026 15:01:04 +0100</pubDate>
+    <description>Apple heeft de nieuwe iPad mini onthuld. Deze versie van de tablet heeft een groter oledscherm, een dunner ontwerp en een A20 Pro-chip. Het apparaat is vanaf woensdagavond te reserveren, vanaf 759 euro. De tablet ligt vanaf 6 november in de winkel.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Tablets</category>
+    <comments>https://tweakers.net/nieuws/253756/nieuwe-ipad-mini-heeft-8-komma-5-inch-oledscherm-en-a20-pro-chip.html#reacties</comments>
+  </item>
   <item>
     <title>Deens ministerie staakt proef met Office-alternatief binnen halfjaar</title>
     <link>https://tweakers.net/nieuws/253752/deens-ministerie-staakt-proef-met-office-alternatief-binnen-halfjaar.html</link>

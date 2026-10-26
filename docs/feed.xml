@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 12:04:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 12:35:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>KPN vervangt e-maildienst door Mail en Cloud met opslag binnen EU</title>
+    <link>https://tweakers.net/nieuws/253748/kpn-vervangt-e-maildienst-door-mail-en-cloud-met-opslag-binnen-eu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253748</guid>
+    <pubDate>Mon, 26 Oct 2026 13:24:24 +0100</pubDate>
+    <description>KPN introduceert een vernieuwde e-mail- en opslagdienst, genaamd KPN Mail en Cloud. De dienst slaat gegevens binnen de Europese Unie op. Ook bevat de dienst extra beveiligingsmaatregelen, zoals bescherming tegen phishing en virussen.</description>
+    <dc:creator>Eveline Meijer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253748/kpn-vervangt-e-maildienst-door-mail-en-cloud-met-opslag-binnen-eu.html#reacties</comments>
+  </item>
   <item>
     <title>IFixit: scharnier en binnenste scherm iPhone Duo zijn lastig te repareren</title>
     <link>https://tweakers.net/nieuws/253740/ifixit-scharnier-en-binnenste-scherm-iphone-duo-zijn-lastig-te-repareren.html</link>

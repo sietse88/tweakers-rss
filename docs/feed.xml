@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 01:33:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 04:03:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5104,16 +5104,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252640/opnieuw-gaan-openai-modellen-de-fout-in-door-fotos-te-lekken-en-sites-te-hacken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Samsung Galaxy Watch9 en Ultra2 - Nog meer focus op gezondheid</title>
-    <link>https://tweakers.net/reviews/15346/samsung-galaxy-watch9-en-ultra2-nog-meer-focus-op-gezondheid.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15346</guid>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Je kunt je horloge erop gelijkzetten: elke zomer introduceert Samsung twee nieuwe Galaxy-smartwatches. Naast de normale Galaxy Watch9 is er dit jaar ook een geüpdatete Ultra.</description>
-    <dc:creator>Eric van Ballegoie</dc:creator>
-    <category>Review / Tablets en telefoons / Smartwatches</category>
-    <comments>https://tweakers.net/reviews/15346/samsung-galaxy-watch9-en-ultra2-nog-meer-focus-op-gezondheid.html#reacties</comments>
   </item>
 </channel>
 </rss>

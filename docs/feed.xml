@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 26 Oct 2026 17:20:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 18:05:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft biedt 60.000 werknemers vertrekregeling, niet in Nederland en België</title>
+    <link>https://tweakers.net/nieuws/253770/microsoft-biedt-60000-werknemers-vertrekregeling-niet-in-nederland-en-belgie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253770</guid>
+    <pubDate>Mon, 26 Oct 2026 19:01:00 +0100</pubDate>
+    <description>Microsoft biedt 60.000 werknemers een regeling aan om vrijwillig te vertrekken. De regeling is er niet voor werknemers in Nederland en België. In totaal gaat het om een kwart van Microsofts medewerkers.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253770/microsoft-biedt-60000-werknemers-vertrekregeling-niet-in-nederland-en-belgie.html#reacties</comments>
+  </item>
   <item>
     <title>NPO, Talpa en DPG willen dat politiek meer doet tegen illegale streaming</title>
     <link>https://tweakers.net/nieuws/253766/npo-talpa-en-dpg-willen-dat-politiek-meer-doet-tegen-illegale-streaming.html</link>

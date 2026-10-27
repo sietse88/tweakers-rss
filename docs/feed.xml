@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 07:22:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 07:52:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,16 +5214,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/252656/apple-moet-5-miljard-euro-betalen-wegens-patentinbreuk-rond-haptische-feedback.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Bungie schrapte geheel nieuwe Destiny-game voor jonger publiek'</title>
-    <link>https://tweakers.net/nieuws/252650/bungie-schrapte-geheel-nieuwe-destiny-game-voor-jonger-publiek.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252650</guid>
-    <pubDate>Sun, 27 Sep 2026 09:51:00 +0200</pubDate>
-    <description>Bungie werkte aan een nieuwe Destiny-game gericht op jongere spelers. Dat zegt de bekende gamejournalist Jason Schreier op basis van ingewijden. Het zou een ander type game worden, in de stijl van actiegames als Genshin Impact. Het project werd uiteindelijk geschrapt.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252650/bungie-schrapte-geheel-nieuwe-destiny-game-voor-jonger-publiek.html#reacties</comments>
   </item>
 </channel>
 </rss>

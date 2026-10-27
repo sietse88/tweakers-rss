@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 09:22:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 09:38:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI brengt GPT-6.1 Terra uit met 50 procent lagere api-tarieven dan Sol</title>
+    <link>https://tweakers.net/nieuws/253786/openai-brengt-gpt-61-terra-uit-met-50-procent-lagere-api-tarieven-dan-sol.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253786</guid>
+    <pubDate>Tue, 27 Oct 2026 10:23:40 +0100</pubDate>
+    <description>OpenAI komt met GPT-6.1 Terra, een nieuw AI-model dat is gericht op efficiëntie. Volgens het bedrijf zijn de standaard api-tarieven 50 procent lager dan die voor zijn complexere GPT-6.1 Sol-model. Het nieuwe model moet tegen lagere kosten ook aanzienlijk beter presteren dan het vorige Terra-model.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253786/openai-brengt-gpt-61-terra-uit-met-50-procent-lagere-api-tarieven-dan-sol.html#reacties</comments>
+  </item>
   <item>
     <title>Apple brengt iOS 27.2 uit met Apple Pencil-ondersteuning voor iPhone Duo</title>
     <link>https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html</link>

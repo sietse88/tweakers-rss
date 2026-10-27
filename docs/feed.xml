@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 14:38:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 14:54:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Vermoedelijke Roblox-crawler downloadt 145gb aan 3d-assets zonder toestemming'</title>
+    <link>https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253810</guid>
+    <pubDate>Tue, 27 Oct 2026 15:49:48 +0100</pubDate>
+    <description>Volgens de 3d-asset site Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Gameontwikkeling</category>
+    <comments>https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html#reacties</comments>
+  </item>
   <item>
     <title>Apple voorziet iMac 24" van M6-chip voor dezelfde prijs: 1819 euro</title>
     <link>https://tweakers.net/nieuws/253820/apple-voorziet-imac-24-inch-van-m6-chip-voor-dezelfde-prijs-1819-euro.html</link>
@@ -40,7 +50,7 @@
     <link>https://tweakers.net/nieuws/253818/apple-macbook-pro-14-inch-krijgt-m6-chip-en-wordt-weer-100-euro-duurder.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253818</guid>
     <pubDate>Tue, 27 Oct 2026 15:07:42 +0100</pubDate>
-    <description>Apple stopt een M6-chip in zijn MacBook Pro 14". De laptop presteert daardoor beter. Apple levert de MacBook Pro voortaan ook standaard met 1TB opslag of meer. De laptop komt op vrijdag 6 november uit. De prijs stijgt dan opnieuw met 100 euro, van 2229 naar 2329 euro.</description>
+    <description>Apple stopt een M6-chip in zijn MacBook Pro 14". De laptop presteert daardoor beter. Apple levert de MacBook Pro voortaan ook standaard met 1TB opslag of meer. De laptop komt op vrijdag 6 november uit. De prijs stijgt dan opnieuw met 100 euro, van 2229 naar 2329 euro voor een 1TB-model.</description>
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/253818/apple-macbook-pro-14-inch-krijgt-m6-chip-en-wordt-weer-100-euro-duurder.html#reacties</comments>

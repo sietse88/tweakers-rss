@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 19:39:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 19:54:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Grand Theft Auto VI is naar verluidt 210GB groot</title>
+    <link>https://tweakers.net/nieuws/253834/grand-theft-auto-vi-is-naar-verluidt-210gb-groot.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253834</guid>
+    <pubDate>Tue, 27 Oct 2026 20:44:05 +0100</pubDate>
+    <description>Grand Theft Auto VI neemt naar verluidt 210GB opslagruimte in op de PlayStation 5. Dat meldt het account PlayStation Game Size op X. De game komt op 19 november uit op PlayStation 5 en XBOX Series S en X.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253834/grand-theft-auto-vi-is-naar-verluidt-210gb-groot.html#reacties</comments>
+  </item>
   <item>
     <title>Tailscale waarschuwt voor lek waarmee hackers rootrechten kunnen krijgen</title>
     <link>https://tweakers.net/nieuws/253832/tailscale-waarschuwt-voor-lek-waarmee-hackers-rootrechten-kunnen-krijgen.html</link>

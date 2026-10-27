@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 13:08:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 13:23:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Serieuze' cyberaanval treft Kingdom Come-maker Warhorse</title>
+    <link>https://tweakers.net/nieuws/253806/serieuze-cyberaanval-treft-kingdom-come-maker-warhorse.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253806</guid>
+    <pubDate>Tue, 27 Oct 2026 14:13:05 +0100</pubDate>
+    <description>Hackers hebben gameontwikkelaar Warhorse Studios getroffen met een cyberaanval. Het is niet bekend welke informatie mogelijk is gestolen. De ontwikkelaar zegt samen te werken met cybersecurityexperts om systemen veilig te stellen en te begrijpen wat er precies is gebeurd.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253806/serieuze-cyberaanval-treft-kingdom-come-maker-warhorse.html#reacties</comments>
+  </item>
   <item>
     <title>Proton bevestigt dat het mogelijk mensen ontslaat die geen AI gebruiken in werk</title>
     <link>https://tweakers.net/nieuws/253800/proton-bevestigt-dat-het-mogelijk-mensen-ontslaat-die-geen-ai-gebruiken-in-werk.html</link>

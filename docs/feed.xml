@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 16:09:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 16:24:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Brein haalt weer illegale IPTV-aanbieder offline, teller staat op 200 dit jaar</title>
+    <link>https://tweakers.net/nieuws/253826/brein-haalt-weer-illegale-iptv-aanbieder-offline-teller-staat-op-200-dit-jaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253826</guid>
+    <pubDate>Tue, 27 Oct 2026 17:11:00 +0100</pubDate>
+    <description>Stichting Brein heeft weer een illegale IPTV-aanbieder offline gehaald. De teller staat dit jaar intussen op tweehonderd van zulke aanbieders. Mediamerken vroegen juist deze week de politiek om meer te doen tegen zulke diensten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/253826/brein-haalt-weer-illegale-iptv-aanbieder-offline-teller-staat-op-200-dit-jaar.html#reacties</comments>
+  </item>
   <item>
     <title>Instagram krijgt langere, horizontale video's</title>
     <link>https://tweakers.net/nieuws/253816/instagram-krijgt-langere-horizontale-videos.html</link>

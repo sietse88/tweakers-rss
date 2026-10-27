@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 15:09:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 15:24:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Schermen van iPhone Duo’s breken steeds op dezelfde plek: wat is er aan de hand?</title>
+    <link>https://tweakers.net/reviews/15524/schermen-van-iphone-duos-breken-steeds-op-dezelfde-plek-wat-is-er-aan-de-hand.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15524</guid>
+    <pubDate>Tue, 27 Oct 2026 16:15:00 +0100</pubDate>
+    <description>Bij sommige gebruikers gaat het scherm van de iPhone Duo stuk en telkens op dezelfde plek. Is er iets ernstigs aan de hand met deze nieuwe telefoon?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/reviews/15524/schermen-van-iphone-duos-breken-steeds-op-dezelfde-plek-wat-is-er-aan-de-hand.html#reacties</comments>
+  </item>
   <item>
     <title>Apple voegt met OpenAI en niet Google AI-functies toe aan kantoorsoftware</title>
     <link>https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html</link>

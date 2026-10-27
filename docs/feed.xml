@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 19:54:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 20:54:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Redmi K100-smartphone heeft 10.000 mAh-accu en Snapdragon 8 Elite-soc</title>
+    <link>https://tweakers.net/nieuws/253836/redmi-k100-smartphone-heeft-10000-mah-accu-en-snapdragon-8-elite-soc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253836</guid>
+    <pubDate>Tue, 27 Oct 2026 21:36:31 +0100</pubDate>
+    <description>Xiaomi heeft de Redmi K100 uitgebracht in China. De telefoon heeft onder meer een 10.000mAh-accu, die met maximaal 100W kan worden opgeladen. Hij kost omgerekend minimaal 404 euro. De levering begint op 31 oktober.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253836/redmi-k100-smartphone-heeft-10000-mah-accu-en-snapdragon-8-elite-soc.html#reacties</comments>
+  </item>
   <item>
     <title>Grand Theft Auto VI is naar verluidt 210GB groot</title>
     <link>https://tweakers.net/nieuws/253834/grand-theft-auto-vi-is-naar-verluidt-210gb-groot.html</link>

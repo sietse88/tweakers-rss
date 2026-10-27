@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 16:54:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 17:09:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Noyb dient onder meer bij AP klacht in tegen Scale AI om tracken van AI-trainers</title>
+    <link>https://tweakers.net/nieuws/253828/noyb-dient-onder-meer-bij-ap-klacht-in-tegen-scale-ai-om-tracken-van-ai-trainers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253828</guid>
+    <pubDate>Tue, 27 Oct 2026 17:56:53 +0100</pubDate>
+    <description>Privacyorganisatie noyb heeft bij vier Europese toezichthouders klachten ingediend over Scale AI. Die liggen bij de Nederlandse Autoriteit Persoonsgegevens, de Franse Commission nationale de l'informatique et des libertés (CNIL), de Italiaanse Garante per la protezione dei dati personali (GPDP) en de Oostenrijkse Datenschutzbehörde.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253828/noyb-dient-onder-meer-bij-ap-klacht-in-tegen-scale-ai-om-tracken-van-ai-trainers.html#reacties</comments>
+  </item>
   <item>
     <title>Gerucht: OPPO Find X10 Ultra krijgt 100MP-selfiecamera met vierkante sensor</title>
     <link>https://tweakers.net/nieuws/253824/gerucht-oppo-find-x10-ultra-krijgt-100mp-selfiecamera-met-vierkante-sensor.html</link>

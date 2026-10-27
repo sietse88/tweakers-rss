@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 07:07:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 07:22:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia-boardpartner: we kunnen geen RTX 5090 meer bestellen bij Nvidia</title>
+    <link>https://tweakers.net/nieuws/253782/nvidia-boardpartner-we-kunnen-geen-rtx-5090-meer-bestellen-bij-nvidia.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253782</guid>
+    <pubDate>Tue, 27 Oct 2026 08:20:36 +0100</pubDate>
+    <description>Een Nvidia-boardpartner zegt dat Nvidia nu geen RTX 5090-bestellingen accepteert. Dat meldt Roman Hartung, beter bekend als der8auer, op basis van ingewijden. Nvidia accepteert ook geen backorders, wat bij gpu-tekorten normaal wel kon.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253782/nvidia-boardpartner-we-kunnen-geen-rtx-5090-meer-bestellen-bij-nvidia.html#reacties</comments>
+  </item>
   <item>
     <title>Benchmark - Hoeveel vram heb je nodig voor gaming? 17 videokaarten van 6GB tot 24GB getest</title>
     <link>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html</link>

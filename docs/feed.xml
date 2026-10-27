@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 09:38:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 09:53:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252662/ft-investeringsbedrijf-apax-wil-odido-volledig-overnemen.html#reacties</comments>
-  </item>
-  <item>
-    <title>WordPress.com-eigenaar krijgt nieuw bestuur na mislukte coup</title>
-    <link>https://tweakers.net/nieuws/252658/wordpress-punt-com-eigenaar-krijgt-nieuw-bestuur-na-mislukte-coup.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252658</guid>
-    <pubDate>Sun, 27 Sep 2026 11:51:04 +0200</pubDate>
-    <description>Matt Mullenweg, de ceo van WordPress.com-eigenaar Automattic, heeft het bestuur van zijn bedrijf opnieuw ingericht. Hij deed dat nadat eerdere bestuursleden hem probeerden af te zetten als directeur.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252658/wordpress-punt-com-eigenaar-krijgt-nieuw-bestuur-na-mislukte-coup.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:38:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 10:53:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Overige componenten</category>
     <comments>https://tweakers.net/nieuws/252654/lian-li-hub-schakelt-pc-uit-en-stuurt-een-mailtje-wanneer-gpu-kabel-oververhit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Discord werkt aan gamemodus die cpu en gpu minder belast</title>
-    <link>https://tweakers.net/nieuws/252652/discord-werkt-aan-gamemodus-die-cpu-en-gpu-minder-belast.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252652</guid>
-    <pubDate>Sun, 27 Sep 2026 12:43:00 +0200</pubDate>
-    <description>Discord werkt aan een gamemodus voor zijn chatdienst. De functie moet het cpu- en gpu-gebruik van de desktopapp beperken tijdens het gamen. Wanneer die precies verschijnt, is niet bekend.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252652/discord-werkt-aan-gamemodus-die-cpu-en-gpu-minder-belast.html#reacties</comments>
   </item>
 </channel>
 </rss>

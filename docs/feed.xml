@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 08:07:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 08:22:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple brengt iOS 27.2 uit met Apple Pencil-ondersteuning voor iPhone Duo</title>
+    <link>https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253784</guid>
+    <pubDate>Tue, 27 Oct 2026 09:14:23 +0100</pubDate>
+    <description>Apple heeft iOS 27.2 uitgebracht. Deze update bevat verschillende wijzigingen voor de iPhone Duo, waaronder Apple Pencil-ondersteuning. Siri AI krijgt ondersteuning voor meer talen, maar nog niet voor het Nederlands.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html#reacties</comments>
+  </item>
   <item>
     <title>Videokaartenbouwer: we kunnen geen RTX 5090-chips meer bestellen bij Nvidia</title>
     <link>https://tweakers.net/nieuws/253782/videokaartenbouwer-we-kunnen-geen-rtx-5090-chips-meer-bestellen-bij-nvidia.html</link>
@@ -5204,16 +5214,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252660/openai-legt-ontwikkeling-krachtigste-ai-modellen-tijdelijk-stil.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple moet 5 miljard euro betalen wegens patentinbreuk rond haptische feedback</title>
-    <link>https://tweakers.net/nieuws/252656/apple-moet-5-miljard-euro-betalen-wegens-patentinbreuk-rond-haptische-feedback.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252656</guid>
-    <pubDate>Sun, 27 Sep 2026 10:13:22 +0200</pubDate>
-    <description>Apple moet een schadevergoeding van omgerekend 5 miljard euro betalen wegens patentinbreuk. Taction, een bedrijf dat technieken voor haptische feedback ontwikkelt, spande de zaak aan. Apple gaat in hoger beroep.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252656/apple-moet-5-miljard-euro-betalen-wegens-patentinbreuk-rond-haptische-feedback.html#reacties</comments>
   </item>
 </channel>
 </rss>

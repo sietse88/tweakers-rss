@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 16:24:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 16:54:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gerucht: OPPO Find X10 Ultra krijgt 100MP-selfiecamera met vierkante sensor</title>
+    <link>https://tweakers.net/nieuws/253824/gerucht-oppo-find-x10-ultra-krijgt-100mp-selfiecamera-met-vierkante-sensor.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253824</guid>
+    <pubDate>Tue, 27 Oct 2026 17:43:00 +0100</pubDate>
+    <description>De Chinese smartphonemaker OPPO zou zijn Find X10 Ultra-telefoon willen voorzien van een selfiecamera met een vierkante 100-megapixelsensor. Telefoons met zo'n frontcamera zijn nog niet verschenen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253824/gerucht-oppo-find-x10-ultra-krijgt-100mp-selfiecamera-met-vierkante-sensor.html#reacties</comments>
+  </item>
   <item>
     <title>Brein haalt weer illegale IPTV-aanbieder offline, teller staat op 200 dit jaar</title>
     <link>https://tweakers.net/nieuws/253826/brein-haalt-weer-illegale-iptv-aanbieder-offline-teller-staat-op-200-dit-jaar.html</link>

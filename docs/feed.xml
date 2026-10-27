@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 13:38:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 14:23:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple MacBook Pro 14" krijgt M6-chip en wordt weer 100 euro duurder</title>
+    <link>https://tweakers.net/nieuws/253818/apple-macbook-pro-14-inch-krijgt-m6-chip-en-wordt-weer-100-euro-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253818</guid>
+    <pubDate>Tue, 27 Oct 2026 15:07:42 +0100</pubDate>
+    <description>Apple stopt een M6-chip in zijn MacBook Pro 14". De laptop presteert daardoor beter. Apple levert de MacBook Pro voortaan ook standaard met 1TB opslag of meer. De laptop komt op vrijdag 6 november uit. De prijs stijgt dan opnieuw met 100 euro, van 2229 naar 2329 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/253818/apple-macbook-pro-14-inch-krijgt-m6-chip-en-wordt-weer-100-euro-duurder.html#reacties</comments>
+  </item>
   <item>
     <title>Gratis game Pokémon Unite gaat in 2027 volledig offline</title>
     <link>https://tweakers.net/nieuws/253794/gratis-game-pokemon-unite-gaat-in-2027-volledig-offline.html</link>

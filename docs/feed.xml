@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 14:23:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 14:38:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple voorziet iMac 24" van M6-chip voor dezelfde prijs: 1819 euro</title>
+    <link>https://tweakers.net/nieuws/253820/apple-voorziet-imac-24-inch-van-m6-chip-voor-dezelfde-prijs-1819-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253820</guid>
+    <pubDate>Tue, 27 Oct 2026 15:34:56 +0100</pubDate>
+    <description>Apple geeft zijn iMac 24" een specbump. De all-in-one-desktop krijgt een upgrade naar de M6-chip, Wi-Fi 7 en optioneel een 2,5Gbit/s-ethernetpoort. Apple levert de nieuwe iMac vanaf vrijdag 6 november. De prijs blijft hetzelfde: minimaal 1819 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/253820/apple-voorziet-imac-24-inch-van-m6-chip-voor-dezelfde-prijs-1819-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Vlaamse boekensector wil regels tegen gebruik van boeken voor AI-training</title>
+    <link>https://tweakers.net/nieuws/253814/vlaamse-boekensector-wil-regels-tegen-gebruik-van-boeken-voor-ai-training.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253814</guid>
+    <pubDate>Tue, 27 Oct 2026 15:32:14 +0100</pubDate>
+    <description>De Vlaamse boekensector wil dat de politiek optreedt tegen het gebruik van boeken voor AI-training zonder vergoeding. Daarom zouden er Europese en Belgische regels moeten komen, zo vindt de Groep Algemene Uitgevers.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253814/vlaamse-boekensector-wil-regels-tegen-gebruik-van-boeken-voor-ai-training.html#reacties</comments>
+  </item>
   <item>
     <title>Apple MacBook Pro 14" krijgt M6-chip en wordt weer 100 euro duurder</title>
     <link>https://tweakers.net/nieuws/253818/apple-macbook-pro-14-inch-krijgt-m6-chip-en-wordt-weer-100-euro-duurder.html</link>

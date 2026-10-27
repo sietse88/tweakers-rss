@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 04:07:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 05:07:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Benchmark - Hoeveel vram heb je nodig voor gaming? 17 videokaarten van 6GB tot 24GB getest</title>
+    <link>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15486</guid>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+    <description>Moderne games vereisen steeds meer geheugen om goed te draaien. In dit artikel lees je hoeveel videogeheugen in 2026 aan te bevelen is.</description>
+    <dc:creator>Reinoud Dik</dc:creator>
+    <category>Benchmark / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html#reacties</comments>
+  </item>
   <item>
     <title>Duitse Volkswagen zou Chinese software willen gebruiken in Europa</title>
     <link>https://tweakers.net/nieuws/253778/duitse-volkswagen-zou-chinese-software-willen-gebruiken-in-europa.html</link>

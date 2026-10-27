@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 05:07:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 07:07:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,16 +5214,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252650/bungie-schrapte-geheel-nieuwe-destiny-game-voor-jonger-publiek.html#reacties</comments>
-  </item>
-  <item>
-    <title>Quicktest - HP OmniBook X - Een laptop van uitersten</title>
-    <link>https://tweakers.net/reviews/15286/hp-omnibook-x-een-laptop-van-uitersten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15286</guid>
-    <pubDate>Sun, 27 Sep 2026 09:00:00 +0200</pubDate>
-    <description>De Omnibook X is een luxe ogende 16"-laptop. Hoe presteert hij in de praktijk?</description>
-    <dc:creator>Jelle Stuip</dc:creator>
-    <category>Quicktest / Computers / Laptops</category>
-    <comments>https://tweakers.net/reviews/15286/hp-omnibook-x-een-laptop-van-uitersten.html#reacties</comments>
   </item>
 </channel>
 </rss>

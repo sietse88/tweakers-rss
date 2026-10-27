@@ -4918,12 +4918,12 @@
   "author": "Lumen Heijdendael",
   "category": "Nieuws / Gaming / Gameontwikkeling",
   "comments": "https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html#reacties",
-  "description": "Volgens de 3d-asset site Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.",
+  "description": "Volgens de 3d-assetsite Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.",
   "first": "Tue, 27 Oct 2026 14:54:03 +0000",
   "guid": "https://tweakers.net/nieuws/253810",
   "link": "https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html",
   "pubDate": "Tue, 27 Oct 2026 15:49:48 +0100",
-  "title": "'Vermoedelijke Roblox-crawler downloadt 145gb aan 3d-assets zonder toestemming'"
+  "title": "'Vermoedelijke Roblox-crawler downloadt 145GB aan 3d-assets zonder toestemming'"
  },
  "https://tweakers.net/nieuws/253812": {
   "author": "Arnoud Wokke",
@@ -4968,6 +4968,17 @@
   "link": "https://tweakers.net/nieuws/253820/apple-voorziet-imac-24-inch-van-m6-chip-voor-dezelfde-prijs-1819-euro.html",
   "pubDate": "Tue, 27 Oct 2026 15:34:56 +0100",
   "title": "Apple voorziet iMac 24\" van M6-chip voor dezelfde prijs: 1819 euro"
+ },
+ "https://tweakers.net/nieuws/253822": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Design en multimedia",
+  "comments": "https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html#reacties",
+  "description": "Apple heeft AI-functies toegevoegd aan zijn foto- en kantoorsoftware, zoals Pixelmator Pro en Keynote, Pages en Numbers. Apple maakt die functies met OpenAI en niet met Google, zoals met de nieuwe Siri AI.",
+  "first": "Tue, 27 Oct 2026 15:09:05 +0000",
+  "guid": "https://tweakers.net/nieuws/253822",
+  "link": "https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html",
+  "pubDate": "Tue, 27 Oct 2026 16:04:37 +0100",
+  "title": "Apple voegt met OpenAI en niet Google AI-functies toe aan kantoorsoftware"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

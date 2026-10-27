@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 27 Oct 2026 14:54:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 15:09:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
-    <title>'Vermoedelijke Roblox-crawler downloadt 145gb aan 3d-assets zonder toestemming'</title>
+    <title>Apple voegt met OpenAI en niet Google AI-functies toe aan kantoorsoftware</title>
+    <link>https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253822</guid>
+    <pubDate>Tue, 27 Oct 2026 16:04:37 +0100</pubDate>
+    <description>Apple heeft AI-functies toegevoegd aan zijn foto- en kantoorsoftware, zoals Pixelmator Pro en Keynote, Pages en Numbers. Apple maakt die functies met OpenAI en niet met Google, zoals met de nieuwe Siri AI.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Design en multimedia</category>
+    <comments>https://tweakers.net/nieuws/253822/apple-voegt-met-openai-en-niet-google-ai-functies-toe-aan-kantoorsoftware.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Vermoedelijke Roblox-crawler downloadt 145GB aan 3d-assets zonder toestemming'</title>
     <link>https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253810</guid>
     <pubDate>Tue, 27 Oct 2026 15:49:48 +0100</pubDate>
-    <description>Volgens de 3d-asset site Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.</description>
+    <description>Volgens de 3d-assetsite Open3DLab heeft een crawler die vermoedelijk afkomstig is van Roblox 145GB aan projecten gedownload zonder toestemming van de site. Het is niet bekend of de crawler echt van Roblox is. De site vermoedt dat de bestanden zullen worden gebruikt voor AI-training. Roblox heeft niet gereageerd.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Gaming / Gameontwikkeling</category>
     <comments>https://tweakers.net/nieuws/253810/vermoedelijke-roblox-crawler-downloadt-145gb-aan-3d-assets-zonder-toestemming.html#reacties</comments>

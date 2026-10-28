@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 06:56:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 07:11:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Netwerk</category>
     <comments>https://tweakers.net/nieuws/252676/inwoners-van-harderwijk-kunnen-op-een-glasvezelnetwerk-kiezen-uit-vier-providers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft handhaaft IE Mode in Edge tot in ieder geval eind 2029</title>
-    <link>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252668</guid>
-    <pubDate>Mon, 28 Sep 2026 09:10:47 +0200</pubDate>
-    <description>De ondersteuning voor IE Mode in Microsoft Edge loopt tot in ieder geval het einde van 2029. Dat heeft Microsoft bekendgemaakt. Gebruikers kunnen via IE Mode nog altijd de engine van Internet Explorer gebruiken.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Browsers</category>
-    <comments>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html#reacties</comments>
   </item>
 </channel>
 </rss>

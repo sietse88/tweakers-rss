@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 09:26:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 09:56:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html#reacties</comments>
-  </item>
-  <item>
-    <title>Thermal Grizzly en Noctua brengen gpu-stekkerbewaker van 189,90 euro uit</title>
-    <link>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252680</guid>
-    <pubDate>Mon, 28 Sep 2026 11:53:20 +0200</pubDate>
-    <description>Thermal Grizzly en Noctua hebben de WireView Pro II Noctua Edition op de markt gebracht. Dit is een 12V-2x6-monitoringsapparaat voor high-end gpu's. Het apparaat heeft een adviesprijs van 189,90 euro en is per direct te koop.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Overige componenten</category>
-    <comments>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

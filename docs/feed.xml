@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 06:26:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 06:41:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5374,16 +5374,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
     <comments>https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Minecraft krijgt na ruim veertien jaar een nieuwe dimensie: de Sift</title>
-    <link>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252666</guid>
-    <pubDate>Mon, 28 Sep 2026 08:32:06 +0200</pubDate>
-    <description>Minecraft krijgt voor het eerst in meer dan veertien jaar een nieuwe dimensie: de Sift. Die komt in 2027 naar de Java- en Bedrock-versie van de game. De Sift wordt ook onderdeel van Minecraft Dungeons II.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html#reacties</comments>
   </item>
 </channel>
 </rss>

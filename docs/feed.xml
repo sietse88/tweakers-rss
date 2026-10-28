@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 17:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:42:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Wetenschap</category>
     <comments>https://tweakers.net/nieuws/252712/spacex-brengt-starship-voor-het-eerst-in-baan-om-aarde.html#reacties</comments>
-  </item>
-  <item>
-    <title>Opgepakte Nederlandse ShinyHunters-verdachte zou net vrij zijn na celstraf</title>
-    <link>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252702</guid>
-    <pubDate>Mon, 28 Sep 2026 19:33:31 +0200</pubDate>
-    <description>De Nederlandse politie heeft een 24-jarige Nederlander opgepakt op verdenking van banden met ShinyHunters. Die cybercrimebende zit achter de grote hack op Odido en claimt ook de FBI te hebben gehackt. De verdachte zou sinds dit jaar weer vrij zijn na een celstraf voor hacken en afpersen.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / E-commerce</category>
-    <comments>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html#reacties</comments>
   </item>
 </channel>
 </rss>

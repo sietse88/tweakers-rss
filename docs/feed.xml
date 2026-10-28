@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 06:10:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 06:26:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252666/minecraft-krijgt-na-ruim-veertien-jaar-een-nieuwe-dimensie-de-sift.html#reacties</comments>
-  </item>
-  <item>
-    <title>Patiënten kunnen niet bij ziekenhuisdossiers vanwege Citrix-kwetsbaarheden</title>
-    <link>https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252664</guid>
-    <pubDate>Mon, 28 Sep 2026 08:12:59 +0200</pubDate>
-    <description>Het Nederlandse Nationaal Cyber Security Centrum (NCSC) waarschuwt voor kwetsbaarheden in Citrix NetScaler ADC en NetScaler Gateway. Bij diverse ziekenhuizen ontstonden daardoor problemen. Inmiddels zijn patches verschenen voor de kwetsbaarheden.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252664/patienten-kunnen-niet-bij-ziekenhuisdossiers-vanwege-citrix-kwetsbaarheden.html#reacties</comments>
   </item>
 </channel>
 </rss>

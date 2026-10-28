@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 06:41:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 06:56:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini</title>
+    <link>https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253844</guid>
+    <pubDate>Wed, 28 Oct 2026 07:42:17 +0100</pubDate>
+    <description>Apple zou de iPhone 18-lijn begin volgend jaar uitbreiden met onder meer een goedkoper model, dat dan een 60Hz-scherm krijgt en een A20-chip. De sensor voor de frontcamera krijgt mogelijk een upgrade naar 24MP. Dit meldt de Chinese leaker Digital Chat Station op Weibo.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Sony-exclusive Demon's Souls draait op pc: PS5-emulatie zit in stroomversnelling</title>
     <link>https://tweakers.net/reviews/15470/sony-exclusive-demons-souls-draait-op-pc-ps5-emulatie-zit-in-stroomversnelling.html</link>
@@ -5364,16 +5374,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Browsers</category>
     <comments>https://tweakers.net/nieuws/252668/microsoft-handhaaft-ie-mode-in-edge-tot-in-ieder-geval-eind-2029.html#reacties</comments>
-  </item>
-  <item>
-    <title>Odido verwacht belkwaliteit naar andere providers nog dit jaar te verbeteren</title>
-    <link>https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252670</guid>
-    <pubDate>Mon, 28 Sep 2026 08:46:50 +0200</pubDate>
-    <description>Odido verwacht de kwaliteit van belgesprekken met klanten van andere providers voor het einde van dit jaar te verbeteren. Op dit moment is de belkwaliteit bij telefoongesprekken tussen Odido-sims en sims van andere providers niet optimaal. Tussen Odido-abonnees bestaan geen problemen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
-    <comments>https://tweakers.net/nieuws/252670/odido-verwacht-belkwaliteit-naar-andere-providers-nog-dit-jaar-te-verbeteren.html#reacties</comments>
   </item>
 </channel>
 </rss>

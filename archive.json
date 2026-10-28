@@ -81,16 +81,6 @@
   "pubDate": "Tue, 29 Sep 2026 11:09:25 +0200",
   "title": "KPN TV+-update zet ESPN UHD bij sommige klanten op zwart"
  },
- "https://tweakers.net/nieuws/252698": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / Marktontwikkelingen",
-  "comments": "https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html#reacties",
-  "description": "Verschillende ziekenhuizen in Nederland brengen hun patiëntenportals langzaamaan weer online. Vanwege ernstige kwetsbaarheden in Citrix-systemen hadden ziekenhuizen delen van hun IT-omgevingen preventief offline gehaald. Het Amphia-ziekenhuis in Breda is nog niet toe aan herstel.",
-  "guid": "https://tweakers.net/nieuws/252698",
-  "link": "https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html",
-  "pubDate": "Mon, 28 Sep 2026 17:26:17 +0200",
-  "title": "Nederlandse ziekenhuizen brengen patiëntenportals langzaam weer online"
- },
  "https://tweakers.net/nieuws/252700": {
   "author": "Jasper Bakker",
   "category": "Nieuws / Gaming / Games",
@@ -5006,6 +4996,17 @@
   "pubDate": "Wed, 28 Oct 2026 11:58:55 +0100",
   "title": "SK hynix waarschuwt dat geheugentekort tot 2030 duurt, haalt recordwinst"
  },
+ "https://tweakers.net/nieuws/253858": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / E-commerce",
+  "comments": "https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html#reacties",
+  "description": "De Nederlandse politie heeft in een internationaal onderzoek naar een hostingbedrijf tientallen servers in beslag genomen bij een datacentrum in Limburg. Het bedrijf zou betrokken zijn bij uiteenlopende vormen van cybercrime, van ransomware en infostealers tot phishing en kindermisbruikmateriaal.",
+  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
+  "guid": "https://tweakers.net/nieuws/253858",
+  "link": "https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html",
+  "pubDate": "Wed, 28 Oct 2026 16:15:21 +0100",
+  "title": "Politie neemt tientallen servers in beslag bij 'bulletproof hoster' in Limburg"
+ },
  "https://tweakers.net/nieuws/253860": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -5027,6 +5028,28 @@
   "link": "https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html",
   "pubDate": "Wed, 28 Oct 2026 14:27:41 +0100",
   "title": "Thuiskopieheffing voor e-readers stijgt met 7 euro, tarief smartphones daalt"
+ },
+ "https://tweakers.net/nieuws/253868": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties",
+  "description": "OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.",
+  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
+  "guid": "https://tweakers.net/nieuws/253868",
+  "link": "https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html",
+  "pubDate": "Wed, 28 Oct 2026 16:12:26 +0100",
+  "title": "'OpenAI wil tpu's van Google kopen om minder afhankelijk van Nvidia te worden'"
+ },
+ "https://tweakers.net/nieuws/253870": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Beeld en geluid / Smarthome-accessoires",
+  "comments": "https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html#reacties",
+  "description": "HomeWizard introduceert de Temperature Humidity Meter voor het meten van de temperatuur en luchtvochtigheid. Het apparaatje werkt op een oplaadbare accu en vereist geen hub of bridge. De Temperature Humidity Meter is vanaf 27,95 euro verkrijgbaar en wordt vanaf 30 november geleverd.",
+  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
+  "guid": "https://tweakers.net/nieuws/253870",
+  "link": "https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html",
+  "pubDate": "Wed, 28 Oct 2026 16:18:59 +0100",
+  "title": "HomeWizard maakt oplaadbare temperatuur- en luchtvochtigheidsmeter van 28 euro"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

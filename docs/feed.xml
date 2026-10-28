@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 15:12:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 15:27:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>HomeWizard maakt oplaadbare temperatuur- en luchtvochtigheidsmeter van 28 euro</title>
+    <link>https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253870</guid>
+    <pubDate>Wed, 28 Oct 2026 16:18:59 +0100</pubDate>
+    <description>HomeWizard introduceert de Temperature Humidity Meter voor het meten van de temperatuur en luchtvochtigheid. Het apparaatje werkt op een oplaadbare accu en vereist geen hub of bridge. De Temperature Humidity Meter is vanaf 27,95 euro verkrijgbaar en wordt vanaf 30 november geleverd.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
+    <comments>https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Politie neemt tientallen servers in beslag bij 'bulletproof hoster' in Limburg</title>
+    <link>https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253858</guid>
+    <pubDate>Wed, 28 Oct 2026 16:15:21 +0100</pubDate>
+    <description>De Nederlandse politie heeft in een internationaal onderzoek naar een hostingbedrijf tientallen servers in beslag genomen bij een datacentrum in Limburg. Het bedrijf zou betrokken zijn bij uiteenlopende vormen van cybercrime, van ransomware en infostealers tot phishing en kindermisbruikmateriaal.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html#reacties</comments>
+  </item>
+  <item>
+    <title>'OpenAI wil tpu's van Google kopen om minder afhankelijk van Nvidia te worden'</title>
+    <link>https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253868</guid>
+    <pubDate>Wed, 28 Oct 2026 16:12:26 +0100</pubDate>
+    <description>OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties</comments>
+  </item>
   <item>
     <title>Thuiskopieheffing voor e-readers stijgt met 7 euro, tarief smartphones daalt</title>
     <link>https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html</link>
@@ -5344,16 +5374,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlandse ziekenhuizen brengen patiëntenportals langzaam weer online</title>
-    <link>https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252698</guid>
-    <pubDate>Mon, 28 Sep 2026 17:26:17 +0200</pubDate>
-    <description>Verschillende ziekenhuizen in Nederland brengen hun patiëntenportals langzaamaan weer online. Vanwege ernstige kwetsbaarheden in Citrix-systemen hadden ziekenhuizen delen van hun IT-omgevingen preventief offline gehaald. Het Amphia-ziekenhuis in Breda is nog niet toe aan herstel.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/252698/nederlandse-ziekenhuizen-brengen-patientenportals-langzaam-weer-online.html#reacties</comments>
   </item>
 </channel>
 </rss>

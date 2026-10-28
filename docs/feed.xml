@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 18:12:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 19:27:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google komt al na twee weken met opvolger van cybersecuritymodel Gemini 4 Argon</title>
+    <link>https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253880</guid>
+    <pubDate>Wed, 28 Oct 2026 20:18:40 +0100</pubDate>
+    <description>Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html#reacties</comments>
+  </item>
   <item>
     <title>Apple MacBook Pro met touchscreen en oledscherm kost minstens 3349 euro</title>
     <link>https://tweakers.net/nieuws/253878/apple-macbook-pro-met-touchscreen-en-oledscherm-kost-minstens-3349-euro.html</link>

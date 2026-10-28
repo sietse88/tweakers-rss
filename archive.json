@@ -5032,13 +5032,13 @@
  "https://tweakers.net/nieuws/253868": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties",
   "description": "OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.",
   "first": "Wed, 28 Oct 2026 15:27:16 +0000",
   "guid": "https://tweakers.net/nieuws/253868",
-  "link": "https://tweakers.net/nieuws/253868/openai-wil-tpus-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html",
+  "link": "https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html",
   "pubDate": "Wed, 28 Oct 2026 16:12:26 +0100",
-  "title": "'OpenAI wil tpu's van Google kopen om minder afhankelijk van Nvidia te worden'"
+  "title": "'OpenAI wil chips van Google kopen om minder afhankelijk van Nvidia te worden'"
  },
  "https://tweakers.net/nieuws/253870": {
   "author": "Yannick Spinner",
@@ -5050,6 +5050,17 @@
   "link": "https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html",
   "pubDate": "Wed, 28 Oct 2026 16:18:59 +0100",
   "title": "HomeWizard maakt oplaadbare temperatuur- en luchtvochtigheidsmeter van 28 euro"
+ },
+ "https://tweakers.net/nieuws/253872": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html#reacties",
+  "description": "De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor zijn digitale overheidsdiensten zoals MyMinfin tijdelijk niet bereikbaar. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.",
+  "first": "Wed, 28 Oct 2026 15:57:19 +0000",
+  "guid": "https://tweakers.net/nieuws/253872",
+  "link": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html",
+  "pubDate": "Wed, 28 Oct 2026 16:48:41 +0100",
+  "title": "Belgische FOD Financiën haalt sommige diensten offline door cyberaanval"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

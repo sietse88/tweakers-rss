@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 11:26:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 11:41:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5394,16 +5394,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html#reacties</comments>
-  </item>
-  <item>
-    <title>.Community - Poll: ruim 90 procent van de tweakers wil geen Steam Frame</title>
-    <link>https://tweakers.net/reviews/15362/poll-ruim-90-procent-van-de-tweakers-wil-geen-steam-frame.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15362</guid>
-    <pubDate>Mon, 28 Sep 2026 13:40:50 +0200</pubDate>
-    <description>Ruim 90 procent van de tweakers wil geen Steam Frame.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>.Community / Gaming / VR-brillen</category>
-    <comments>https://tweakers.net/reviews/15362/poll-ruim-90-procent-van-de-tweakers-wil-geen-steam-frame.html#reacties</comments>
   </item>
 </channel>
 </rss>

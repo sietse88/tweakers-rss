@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 07:11:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 07:26:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Elke openbare Discord-server krijgt webpagina tenzij admin die uitzet</title>
+    <link>https://tweakers.net/nieuws/253842/elke-openbare-discord-server-krijgt-webpagina-tenzij-admin-die-uitzet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253842</guid>
+    <pubDate>Wed, 28 Oct 2026 08:15:20 +0100</pubDate>
+    <description>Discord geeft openbare servers, zogeheten Discoverable Servers, vanaf 16 november een webpagina. Op die manier moeten potentiële leden die servers makkelijker kunnen vinden via zoekmachines. De functie werkt niet met terugwerkende kracht voor de berichten op bestaande openbare servers.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253842/elke-openbare-discord-server-krijgt-webpagina-tenzij-admin-die-uitzet.html#reacties</comments>
+  </item>
   <item>
     <title>Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini</title>
     <link>https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html</link>

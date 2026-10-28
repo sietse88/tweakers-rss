@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 12:11:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:41:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Na ruim negen jaar krijgt Odido met Tisha van Lammeren nieuwe ceo</title>
+    <link>https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253860</guid>
+    <pubDate>Wed, 28 Oct 2026 13:31:55 +0100</pubDate>
+    <description>Odido krijgt per direct een nieuwe ceo, Tisha van Lammeren. Ze volgt Søren Abildgaard op, die meer dan negen jaar directeur was bij de Nederlandse provider.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html#reacties</comments>
+  </item>
   <item>
     <title>Quicktest - Corsair Sabre v3 Pro PureVector - Brakke aim? Deze muis fixt het voor je</title>
     <link>https://tweakers.net/reviews/15488/corsair-sabre-v3-pro-purevector-brakke-aim-deze-muis-fixt-het-voor-je.html</link>
@@ -5384,16 +5394,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nvidia brengt platform uit dat 'Hugging Face-aanval had kunnen voorkomen'</title>
-    <link>https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252686</guid>
-    <pubDate>Mon, 28 Sep 2026 14:38:10 +0200</pubDate>
-    <description>Nvidia heeft het Open Agent Safety Platform uitgebracht. Dit platform bestaat uit twee nieuwe beveiligingstools voor AI-agents. Het bedrijf claimt dat deze tools de hack op Hugging Face door agents van OpenAI hadden kunnen voorkomen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html#reacties</comments>
   </item>
 </channel>
 </rss>

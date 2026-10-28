@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 05:10:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 05:25:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,16 +16,6 @@
     <height>192</height>
   </image>
   <item>
-    <title>Achtergrond - Hoe Ziggo als eerste Europese provider zijn netwerk ombouwde voor Docsis 4.0</title>
-    <link>https://tweakers.net/reviews/15510/hoe-ziggo-als-eerste-europese-provider-zijn-netwerk-ombouwde-voor-docsis-40.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15510</guid>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
-    <description>Als eerste Europese provider rolde Ziggo Docsis 4.0 grootschalig uit op zijn netwerk. Tweakers sprak daarover met John Louwerse, technical platform lead hfc bij VodafoneZiggo.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Achtergrond / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/reviews/15510/hoe-ziggo-als-eerste-europese-provider-zijn-netwerk-ombouwde-voor-docsis-40.html#reacties</comments>
-  </item>
-  <item>
     <title>Achtergrond - Sony-exclusive Demon's Souls draait op pc: PS5-emulatie zit in stroomversnelling</title>
     <link>https://tweakers.net/reviews/15470/sony-exclusive-demons-souls-draait-op-pc-ps5-emulatie-zit-in-stroomversnelling.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15470</guid>
@@ -34,6 +24,16 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Achtergrond / Gaming / Consoles</category>
     <comments>https://tweakers.net/reviews/15470/sony-exclusive-demons-souls-draait-op-pc-ps5-emulatie-zit-in-stroomversnelling.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Hoe Ziggo als eerste Europese provider zijn netwerk ombouwde voor Docsis 4.0</title>
+    <link>https://tweakers.net/reviews/15510/hoe-ziggo-als-eerste-europese-provider-zijn-netwerk-ombouwde-voor-docsis-40.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15510</guid>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+    <description>Als eerste Europese provider rolde Ziggo Docsis 4.0 grootschalig uit op zijn netwerk. Tweakers sprak daarover met John Louwerse, technical platform lead hfc bij VodafoneZiggo.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Achtergrond / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/reviews/15510/hoe-ziggo-als-eerste-europese-provider-zijn-netwerk-ombouwde-voor-docsis-40.html#reacties</comments>
   </item>
   <item>
     <title>Redmi K100-smartphone heeft 10.000 mAh-accu en Snapdragon 8 Elite-soc</title>

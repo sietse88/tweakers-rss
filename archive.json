@@ -81,16 +81,6 @@
   "pubDate": "Tue, 29 Sep 2026 11:09:25 +0200",
   "title": "KPN TV+-update zet ESPN UHD bij sommige klanten op zwart"
  },
- "https://tweakers.net/nieuws/252682": {
-  "author": "Eveline Meijer",
-  "category": "Nieuws / IT Pro / Politiek en recht",
-  "comments": "https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html#reacties",
-  "description": "De ceo's van OpenAI en Anthropic zijn gevraagd om voor de Australische Senaat te verschijnen en vragen te beantwoorden. De Senaat doet onderzoek naar AI. Het verzoek komt enkele dagen nadat bekend werd dat een agent van OpenAI een Australische overheidswebsite hackte.",
-  "guid": "https://tweakers.net/nieuws/252682",
-  "link": "https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html",
-  "pubDate": "Mon, 28 Sep 2026 12:54:51 +0200",
-  "title": "Australische Senaat ontbiedt OpenAI- en Anthropic-ceo's voor AI-verhoor"
- },
  "https://tweakers.net/nieuws/252684": {
   "author": "Eveline Meijer",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -5030,6 +5020,17 @@
   "link": "https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html",
   "pubDate": "Wed, 28 Oct 2026 07:42:17 +0100",
   "title": "Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini"
+ },
+ "https://tweakers.net/nieuws/253846": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Architectuur",
+  "comments": "https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html#reacties",
+  "description": "Door een kritieke kwetsbaarheid in de UEFI-firmware EDK II kunnen kwaadwillenden eigen code uitvoeren op systemen die vanaf het netwerk opstarten. Aanvallers kunnen zonder authenticatie code uitvoeren voordat de beveiligingsfunctie Secure Boot en het OS zelf starten.",
+  "first": "Wed, 28 Oct 2026 10:56:35 +0000",
+  "guid": "https://tweakers.net/nieuws/253846",
+  "link": "https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html",
+  "pubDate": "Wed, 28 Oct 2026 11:53:02 +0100",
+  "title": "Kritiek lek in UEFI-serverfirmware maakt codeuitvoering mogelijk bij netwerkboot"
  },
  "https://tweakers.net/nieuws/253848": {
   "author": "Yannick Spinner",

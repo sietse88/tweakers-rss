@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 10:11:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 10:56:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Kritiek lek in UEFI-serverfirmware maakt codeuitvoering mogelijk bij netwerkboot</title>
+    <link>https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253846</guid>
+    <pubDate>Wed, 28 Oct 2026 11:53:02 +0100</pubDate>
+    <description>Door een kritieke kwetsbaarheid in de UEFI-firmware EDK II kunnen kwaadwillenden eigen code uitvoeren op systemen die vanaf het netwerk opstarten. Aanvallers kunnen zonder authenticatie code uitvoeren voordat de beveiligingsfunctie Secure Boot en het OS zelf starten.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Architectuur</category>
+    <comments>https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html#reacties</comments>
+  </item>
   <item>
     <title>KPN heeft 6 miljoen glasvezelaansluitingen</title>
     <link>https://tweakers.net/nieuws/253852/kpn-heeft-6-miljoen-glasvezelaansluitingen.html</link>
@@ -5384,16 +5394,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>.Community / Gaming / VR-brillen</category>
     <comments>https://tweakers.net/reviews/15362/poll-ruim-90-procent-van-de-tweakers-wil-geen-steam-frame.html#reacties</comments>
-  </item>
-  <item>
-    <title>Australische Senaat ontbiedt OpenAI- en Anthropic-ceo's voor AI-verhoor</title>
-    <link>https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252682</guid>
-    <pubDate>Mon, 28 Sep 2026 12:54:51 +0200</pubDate>
-    <description>De ceo's van OpenAI en Anthropic zijn gevraagd om voor de Australische Senaat te verschijnen en vragen te beantwoorden. De Senaat doet onderzoek naar AI. Het verzoek komt enkele dagen nadat bekend werd dat een agent van OpenAI een Australische overheidswebsite hackte.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252682/australische-senaat-ontbiedt-openai-en-anthropic-ceos-voor-ai-verhoor.html#reacties</comments>
   </item>
 </channel>
 </rss>

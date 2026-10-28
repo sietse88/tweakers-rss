@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 15:57:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:12:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5374,16 +5374,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fans ronden decompilatie van Super Mario Galaxy voor pc-port af</title>
-    <link>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252700</guid>
-    <pubDate>Mon, 28 Sep 2026 18:02:30 +0200</pubDate>
-    <description>Een groep fans van de Super Mario Galaxy-games is klaar met een decompilatie van de eerste game uit die Nintendo-serie. Daarmee maken de modders een speelbare pc-port van de game, die ze tonen in een YouTube-video. Werk aan Super Mario Galaxy 2 begint nu.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252700/fans-ronden-decompilatie-van-super-mario-galaxy-voor-pc-port-af.html#reacties</comments>
   </item>
 </channel>
 </rss>

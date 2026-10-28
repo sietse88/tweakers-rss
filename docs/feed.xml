@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 13:12:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 13:42:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Thuiskopieheffing voor e-readers stijgt met 7 euro, tarief smartphones daalt</title>
+    <link>https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253862</guid>
+    <pubDate>Wed, 28 Oct 2026 14:27:41 +0100</pubDate>
+    <description>De thuiskopieheffing in Nederland wordt vanaf 2027 op een andere manier berekend. Daardoor stijgen sommige tarieven, zoals die voor e-readers, terwijl andere dalen. Ook zijn sommige apparaten, zoals externe ssd's, nu vrijgesteld van de heffing, terwijl voor nassen nu wel een vergoeding geldt.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html#reacties</comments>
+  </item>
   <item>
     <title>Na ruim negen jaar krijgt Odido met Tisha van Lammeren nieuwe ceo</title>
     <link>https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html</link>

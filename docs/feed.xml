@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 08:26:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 08:41:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>DeepMind geeft generator 3d-'spelwerelden' met Genie 4 dynamische audio</title>
+    <link>https://tweakers.net/nieuws/253848/deepmind-geeft-generator-3d-spelwerelden-met-genie-4-dynamische-audio.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253848</guid>
+    <pubDate>Wed, 28 Oct 2026 09:37:35 +0100</pubDate>
+    <description>Google DeepMind brengt de nieuwste versie van de generator van interactieve 3d-werelden genaamd Genie 4 onder een beperkt aantal testers. Het nieuwe model kan onder meer audio genereren bij de 'spelwerelden'. Later moet het model beschikbaar komen voor Google AI Ultra-abonnees.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/253848/deepmind-geeft-generator-3d-spelwerelden-met-genie-4-dynamische-audio.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Geen massale hacks via PHP2Shell: waarom de waarschuwingen toch terecht waren</title>
     <link>https://tweakers.net/reviews/15532/geen-massale-hacks-via-php2shell-waarom-de-waarschuwingen-toch-terecht-waren.html</link>
@@ -5384,16 +5394,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Overige componenten</category>
     <comments>https://tweakers.net/nieuws/252680/thermal-grizzly-en-noctua-brengen-gpu-stekkerbewaker-van-189-komma-90-euro-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Linux-distro postmarketOS heet voortaan Nura</title>
-    <link>https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252678</guid>
-    <pubDate>Mon, 28 Sep 2026 10:32:10 +0200</pubDate>
-    <description>De Linux-distributie postmarketOS heeft een nieuwe naam: Nura. De naam komt voort uit een selectieproces van anderhalf jaar, waarin ruim driehonderd door de community bedachte namen werden overwogen. Het logo van de Linux-distro blijft hetzelfde.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html#reacties</comments>
   </item>
 </channel>
 </rss>

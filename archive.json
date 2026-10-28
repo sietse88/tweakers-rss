@@ -81,16 +81,6 @@
   "pubDate": "Tue, 29 Sep 2026 11:09:25 +0200",
   "title": "KPN TV+-update zet ESPN UHD bij sommige klanten op zwart"
  },
- "https://tweakers.net/nieuws/252678": {
-  "author": "Eveline Meijer",
-  "category": "Nieuws / Tablets en telefoons / Mobiele besturingssystemen",
-  "comments": "https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html#reacties",
-  "description": "De Linux-distributie postmarketOS heeft een nieuwe naam: Nura. De naam komt voort uit een selectieproces van anderhalf jaar, waarin ruim driehonderd door de community bedachte namen werden overwogen. Het logo van de Linux-distro blijft hetzelfde.",
-  "guid": "https://tweakers.net/nieuws/252678",
-  "link": "https://tweakers.net/nieuws/252678/linux-distro-postmarketos-heet-voortaan-nura.html",
-  "pubDate": "Mon, 28 Sep 2026 10:32:10 +0200",
-  "title": "Linux-distro postmarketOS heet voortaan Nura"
- },
  "https://tweakers.net/nieuws/252680": {
   "author": "Eveline Meijer",
   "category": "Nieuws / Computers / Overige componenten",
@@ -5050,6 +5040,17 @@
   "link": "https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html",
   "pubDate": "Wed, 28 Oct 2026 07:42:17 +0100",
   "title": "Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini"
+ },
+ "https://tweakers.net/nieuws/253848": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / IT Pro / Wetenschap",
+  "comments": "https://tweakers.net/nieuws/253848/deepmind-geeft-generator-3d-spelwerelden-met-genie-4-dynamische-audio.html#reacties",
+  "description": "Google DeepMind brengt de nieuwste versie van de generator van interactieve 3d-werelden genaamd Genie 4 onder een beperkt aantal testers. Het nieuwe model kan onder meer audio genereren bij de 'spelwerelden'. Later moet het model beschikbaar komen voor Google AI Ultra-abonnees.",
+  "first": "Wed, 28 Oct 2026 08:41:22 +0000",
+  "guid": "https://tweakers.net/nieuws/253848",
+  "link": "https://tweakers.net/nieuws/253848/deepmind-geeft-generator-3d-spelwerelden-met-genie-4-dynamische-audio.html",
+  "pubDate": "Wed, 28 Oct 2026 09:37:35 +0100",
+  "title": "DeepMind geeft generator 3d-'spelwerelden' met Genie 4 dynamische audio"
  },
  "https://tweakers.net/nieuws/253850": {
   "author": "Jasper Bakker",

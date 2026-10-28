@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 07:26:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 07:41:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Patches voor Linux-kernel Raspberry Pi suggereren komst van goedkope modellen'</title>
+    <link>https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253838</guid>
+    <pubDate>Wed, 28 Oct 2026 08:38:51 +0100</pubDate>
+    <description>Nieuwe toevoegingen aan de Linux-kernel voor Raspberry Pi-microcomputers lijken erop te wijzen dat er twee nieuwe modellen aankomen. Het gaat om de kleine Raspberry Pi Zero 3 W en de goedkope Raspberry Pi 4 Model A. Dit meldt Phoronix op basis van kernelpatches voor nieuwe apparaten.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Singleboardcomputers</category>
+    <comments>https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html#reacties</comments>
+  </item>
   <item>
     <title>Elke openbare Discord-server krijgt webpagina tenzij admin die uitzet</title>
     <link>https://tweakers.net/nieuws/253842/elke-openbare-discord-server-krijgt-webpagina-tenzij-admin-die-uitzet.html</link>

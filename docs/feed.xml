@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 11:41:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 11:56:53 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252686/nvidia-brengt-platform-uit-dat-hugging-face-aanval-had-kunnen-voorkomen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Privacystichting SDBN verruilt naam voor Data Justice Europe</title>
-    <link>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252684</guid>
-    <pubDate>Mon, 28 Sep 2026 13:47:00 +0200</pubDate>
-    <description>Stichting Data Bescherming Nederland (SDBN) heet voortaan Data Justice Europe. De nieuwe naam past volgens de stichting beter bij het werk dat zij doet en bij de landen waarin zij actief is. De stichting mag nu namelijk ook buiten Nederland actie voeren.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252684/privacystichting-sdbn-verruilt-naam-voor-data-justice-europe.html#reacties</comments>
   </item>
 </channel>
 </rss>

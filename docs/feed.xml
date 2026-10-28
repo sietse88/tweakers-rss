@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 07:56:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 08:26:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Geen massale hacks via PHP2Shell: waarom de waarschuwingen toch terecht waren</title>
+    <link>https://tweakers.net/reviews/15532/geen-massale-hacks-via-php2shell-waarom-de-waarschuwingen-toch-terecht-waren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15532</guid>
+    <pubDate>Wed, 28 Oct 2026 09:15:00 +0100</pubDate>
+    <description>Was de reactie op PHP2Shell overdreven? Security stond op scherp en sites gingen preventief offline. Maar de voorspelde hackgolf bleef uit. Waarom? En kan de PHPocalypse nog komen?</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Achtergrond / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/reviews/15532/geen-massale-hacks-via-php2shell-waarom-de-waarschuwingen-toch-terecht-waren.html#reacties</comments>
+  </item>
+  <item>
+    <title>NS toont lijnnummers van treinen vanaf 13 december op stationsschermen</title>
+    <link>https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253850</guid>
+    <pubDate>Wed, 28 Oct 2026 09:14:59 +0100</pubDate>
+    <description>De NS gaat lijnnummers van treinen vanaf 13 december tonen onder meer op de informatieschermen op treinstations. Dit moet reizigers 'extra houvast bieden, vooral bij verstoringen, spoorwijzigingen en overstappen', legt de treinvervoerder uit.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html#reacties</comments>
+  </item>
   <item>
     <title>'Patches voor Linux-kernel Raspberry Pi suggereren komst van goedkope modellen'</title>
     <link>https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html</link>

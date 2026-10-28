@@ -5051,6 +5051,17 @@
   "pubDate": "Wed, 28 Oct 2026 07:42:17 +0100",
   "title": "Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini"
  },
+ "https://tweakers.net/nieuws/253850": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html#reacties",
+  "description": "De NS gaat lijnnummers van treinen vanaf 13 december tonen onder meer op de informatieschermen op treinstations. Dit moet reizigers 'extra houvast bieden, vooral bij verstoringen, spoorwijzigingen en overstappen', legt de treinvervoerder uit.",
+  "first": "Wed, 28 Oct 2026 08:26:20 +0000",
+  "guid": "https://tweakers.net/nieuws/253850",
+  "link": "https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html",
+  "pubDate": "Wed, 28 Oct 2026 09:14:59 +0100",
+  "title": "NS toont lijnnummers van treinen vanaf 13 december op stationsschermen"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",
@@ -5670,5 +5681,16 @@
   "link": "https://tweakers.net/reviews/15524/schermen-van-iphone-duos-breken-steeds-op-dezelfde-plek-wat-is-er-aan-de-hand.html",
   "pubDate": "Tue, 27 Oct 2026 16:15:00 +0100",
   "title": "Achtergrond - Schermen van iPhone Duo’s breken steeds op dezelfde plek: wat is er aan de hand?"
+ },
+ "https://tweakers.net/reviews/15532": {
+  "author": "Jasper Bakker",
+  "category": "Achtergrond / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/reviews/15532/geen-massale-hacks-via-php2shell-waarom-de-waarschuwingen-toch-terecht-waren.html#reacties",
+  "description": "Was de reactie op PHP2Shell overdreven? Security stond op scherp en sites gingen preventief offline. Maar de voorspelde hackgolf bleef uit. Waarom? En kan de PHPocalypse nog komen?",
+  "first": "Wed, 28 Oct 2026 08:26:20 +0000",
+  "guid": "https://tweakers.net/reviews/15532",
+  "link": "https://tweakers.net/reviews/15532/geen-massale-hacks-via-php2shell-waarom-de-waarschuwingen-toch-terecht-waren.html",
+  "pubDate": "Wed, 28 Oct 2026 09:15:00 +0100",
+  "title": "Achtergrond - Geen massale hacks via PHP2Shell: waarom de waarschuwingen toch terecht waren"
  }
 }

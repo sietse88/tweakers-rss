@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 19:27:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 20:12:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft stopt met bekritiseerde Copilot-app op smart-tv's van Samsung en LG</title>
+    <link>https://tweakers.net/nieuws/253882/microsoft-stopt-met-bekritiseerde-copilot-app-op-smart-tvs-van-samsung-en-lg.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253882</guid>
+    <pubDate>Wed, 28 Oct 2026 20:56:39 +0100</pubDate>
+    <description>Microsoft stopt met de ondersteuning voor Copilot op smart-tv's. Televisies van LG en Samsung kregen vorig jaar een Copilot-app, die in eerste instantie niet te verwijderen was. Daar kwam veel kritiek op.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/nieuws/253882/microsoft-stopt-met-bekritiseerde-copilot-app-op-smart-tvs-van-samsung-en-lg.html#reacties</comments>
+  </item>
   <item>
     <title>Google komt al na twee weken met opvolger van cybersecuritymodel Gemini 4 Argon</title>
     <link>https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html</link>

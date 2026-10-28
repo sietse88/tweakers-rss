@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 12:41:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 13:12:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252690/ps3-slim-en-super-slim-komen-dichter-bij-custom-firmware-door-bootloaderhack.html#reacties</comments>
-  </item>
-  <item>
-    <title>Frans OVHcloud en Canadees CGI bouwen Europese infrastructuur voor satellietdata</title>
-    <link>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252688</guid>
-    <pubDate>Mon, 28 Sep 2026 15:01:08 +0200</pubDate>
-    <description>OVHcloud en CGI gaan een nieuwe infrastructuur bouwen om Europese observatiegegevens van satellieten op te slaan en te verwerken. Het Franse en het Canadese bedrijf hebben daarvoor een contract van dertig maanden binnengehaald bij de European Space Agency (ESA).</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252688/frans-ovhcloud-en-canadees-cgi-bouwen-europese-infrastructuur-voor-satellietdata.html#reacties</comments>
   </item>
 </channel>
 </rss>

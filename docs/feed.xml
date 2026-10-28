@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:42:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:12:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Amazon brengt Echo Studio met ingebouwde camera en Echo Time-wekker uit</title>
+    <link>https://tweakers.net/nieuws/253874/amazon-brengt-echo-studio-met-ingebouwde-camera-en-echo-time-wekker-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253874</guid>
+    <pubDate>Wed, 28 Oct 2026 17:56:12 +0100</pubDate>
+    <description>Amazon heeft vier nieuwe Echo-speakers aangekondigd. De nieuwe Echo Studio krijgt een camera. Verder komt het bedrijf onder meer met de Echo Time, een speaker die ook dienstdoet als wekker. Het is niet duidelijk of en wanneer deze apparaten in Nederland en België worden uitgebracht.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Speakers</category>
+    <comments>https://tweakers.net/nieuws/253874/amazon-brengt-echo-studio-met-ingebouwde-camera-en-echo-time-wekker-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Belgische FOD Financiën haalt sommige diensten offline door cyberaanval</title>
     <link>https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html</link>
@@ -5364,16 +5374,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / E-commerce</category>
     <comments>https://tweakers.net/nieuws/252702/opgepakte-nederlandse-shinyhunters-verdachte-zou-net-vrij-zijn-na-celstraf.html#reacties</comments>
-  </item>
-  <item>
-    <title>Lenovo komt met duurste Googlebook tot nu toe: 1499 euro voor Android-laptop</title>
-    <link>https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252704</guid>
-    <pubDate>Mon, 28 Sep 2026 19:00:43 +0200</pubDate>
-    <description>Lenovo kondigt de Googlebook 15 aan in een persbericht voor de Nederlandse en Belgische markt. De laptop draait een aangepast Android, heeft een Intel Core Ultra 5 en een 15"-2,8k-oledscherm. De accuduur is maximaal 12,5 uur en de vanafprijs is 1499 euro. Kopers krijgen er wel een AI-muis bij.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/252704/lenovo-komt-met-duurste-googlebook-tot-nu-toe-1499-euro-voor-android-laptop.html#reacties</comments>
   </item>
 </channel>
 </rss>

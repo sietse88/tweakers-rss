@@ -5024,13 +5024,13 @@
  "https://tweakers.net/nieuws/253872": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html#reacties",
-  "description": "De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor zijn digitale overheidsdiensten zoals MyMinfin tijdelijk niet bereikbaar. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.",
+  "comments": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html#reacties",
+  "description": "De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor heeft de instantie zijn digitale overheidsdiensten zoals MyMinfin tijdelijk offline gehaald. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.",
   "first": "Wed, 28 Oct 2026 15:57:19 +0000",
   "guid": "https://tweakers.net/nieuws/253872",
-  "link": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html",
+  "link": "https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html",
   "pubDate": "Wed, 28 Oct 2026 16:48:41 +0100",
-  "title": "Belgische FOD Financiën haalt sommige diensten offline door cyberaanval"
+  "title": "Belgische FOD Financiën haalt sommige diensten offline vanwege cyberaanval"
  },
  "https://tweakers.net/nieuws/253874": {
   "author": "Kevin Krikhaar",
@@ -5042,6 +5042,17 @@
   "link": "https://tweakers.net/nieuws/253874/amazon-brengt-echo-studio-met-ingebouwde-camera-en-echo-time-wekker-uit.html",
   "pubDate": "Wed, 28 Oct 2026 17:56:12 +0100",
   "title": "Amazon brengt Echo Studio met ingebouwde camera en Echo Time-wekker uit"
+ },
+ "https://tweakers.net/nieuws/253878": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Laptops",
+  "comments": "https://tweakers.net/nieuws/253878/apple-macbook-pro-met-touchscreen-en-oledscherm-kost-minstens-3349-euro.html#reacties",
+  "description": "Apple heeft zijn eerste laptop met touchscreen aangekondigd. Deze MacBook Pro is beschikbaar met een 14\"- of 16\"-oledscherm en krijgt een M5 Pro- of M5 Max-chip. De laptop kost minstens 3349 euro en is vanaf 6 november verkrijgbaar.",
+  "first": "Wed, 28 Oct 2026 18:12:45 +0000",
+  "guid": "https://tweakers.net/nieuws/253878",
+  "link": "https://tweakers.net/nieuws/253878/apple-macbook-pro-met-touchscreen-en-oledscherm-kost-minstens-3349-euro.html",
+  "pubDate": "Wed, 28 Oct 2026 18:59:23 +0100",
+  "title": "Apple MacBook Pro met touchscreen en oledscherm kost minstens 3349 euro"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

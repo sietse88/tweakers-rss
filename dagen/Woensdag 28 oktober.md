@@ -144,8 +144,8 @@ HomeWizard introduceert de Temperature Humidity Meter voor het meten van de temp
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html)
 
-## Belgische FOD Financiën haalt sommige diensten offline door cyberaanval
+## Belgische FOD Financiën haalt sommige diensten offline vanwege cyberaanval
 
-De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor zijn digitale overheidsdiensten zoals MyMinfin tijdelijk niet bereikbaar. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.
+De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor heeft de instantie zijn digitale overheidsdiensten zoals MyMinfin tijdelijk offline gehaald. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-door-cyberaanval.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html)

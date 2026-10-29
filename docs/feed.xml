@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 16:31:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 16:46:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse overheid vindt alternatieve browsers privacyvriendelijker dan Edge</title>
+    <link>https://tweakers.net/nieuws/253918/nederlandse-overheid-vindt-alternatieve-browsers-privacyvriendelijker-dan-edge.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253918</guid>
+    <pubDate>Thu, 29 Oct 2026 17:34:39 +0100</pubDate>
+    <description>In een onderzoek van de Nederlandse Rijksoverheid naar de privacyvriendelijkheid van vier browsers scoort Microsoft Edge slechter dan de concurrentie. Het interne advies aan sharedserviceorganisaties (SSO's) is om op korte termijn een overstap naar Mozilla Firefox Enterprise te onderzoeken.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/253918/nederlandse-overheid-vindt-alternatieve-browsers-privacyvriendelijker-dan-edge.html#reacties</comments>
+  </item>
   <item>
     <title>SIDN stelt verhuizing van .nl naar Hello Registry weer uit</title>
     <link>https://tweakers.net/nieuws/253920/sidn-stelt-verhuizing-van-nl-naar-hello-registry-weer-uit.html</link>
@@ -66,14 +76,14 @@
     <comments>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html#reacties</comments>
   </item>
   <item>
-    <title>CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken</title>
-    <link>https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html</link>
+    <title>CISA: hackers misbruiken PHP-lek in combinatie met Linux-kernelbug uit mei</title>
+    <link>https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253904</guid>
     <pubDate>Thu, 29 Oct 2026 14:58:44 +0100</pubDate>
     <description>Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html#reacties</comments>
   </item>
   <item>
     <title>Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties</title>
@@ -5334,16 +5344,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252762/gta-vi-krijgt-orkanen-en-twee-keer-grotere-kaart-dan-gta-v.html#reacties</comments>
-  </item>
-  <item>
-    <title>Remaster van The Witcher 3 is uit en breekt meteen spelersrecord op Steam</title>
-    <link>https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252752</guid>
-    <pubDate>Tue, 29 Sep 2026 18:41:47 +0200</pubDate>
-    <description>De remaster van The Witcher 3: Wild Hunt is uit. De game komt beschikbaar als update van de oude versie, die nog wel toegankelijk blijft via de bèta-instellingen. Op dinsdagavond speelden meer dan 120.000 spelers de game gelijktijdig op Steam.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html#reacties</comments>
   </item>
 </channel>
 </rss>

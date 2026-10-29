@@ -84,11 +84,11 @@ Jongeren zijn mediawijzer dan ouderen: ze herkennen AI-beeldmateriaal sneller, b
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html)
 
-## CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken
+## CISA: hackers misbruiken PHP-lek in combinatie met Linux-kernelbug uit mei
 
 Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html)
 
 ## Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging
 

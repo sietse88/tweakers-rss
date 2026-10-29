@@ -81,16 +81,6 @@
   "pubDate": "Wed, 30 Sep 2026 13:38:21 +0200",
   "title": "Microsoft verwijderde data van non-profits voortijdig en permanent"
  },
- "https://tweakers.net/nieuws/252752": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html#reacties",
-  "description": "De remaster van The Witcher 3: Wild Hunt is uit. De game komt beschikbaar als update van de oude versie, die nog wel toegankelijk blijft via de bèta-instellingen. Op dinsdagavond speelden meer dan 120.000 spelers de game gelijktijdig op Steam.",
-  "guid": "https://tweakers.net/nieuws/252752",
-  "link": "https://tweakers.net/nieuws/252752/remaster-van-the-witcher-3-is-uit-en-breekt-meteen-spelersrecord-op-steam.html",
-  "pubDate": "Tue, 29 Sep 2026 18:41:47 +0200",
-  "title": "Remaster van The Witcher 3 is uit en breekt meteen spelersrecord op Steam"
- },
  "https://tweakers.net/nieuws/252762": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Gaming / Games",
@@ -4987,13 +4977,13 @@
  "https://tweakers.net/nieuws/253904": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html#reacties",
+  "comments": "https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html#reacties",
   "description": "Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.",
   "first": "Thu, 29 Oct 2026 14:05:00 +0000",
   "guid": "https://tweakers.net/nieuws/253904",
-  "link": "https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html",
+  "link": "https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html",
   "pubDate": "Thu, 29 Oct 2026 14:58:44 +0100",
-  "title": "CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken"
+  "title": "CISA: hackers misbruiken PHP-lek in combinatie met Linux-kernelbug uit mei"
  },
  "https://tweakers.net/nieuws/253906": {
   "author": "Daan van Monsjou",
@@ -5038,6 +5028,17 @@
   "link": "https://tweakers.net/nieuws/253912/xbox-ceo-zegt-consolevraag-niet-te-kunnen-bijbenen-terwijl-verkopen-inzakken.html",
   "pubDate": "Thu, 29 Oct 2026 15:32:35 +0100",
   "title": "XBOX-ceo zegt consolevraag niet te kunnen bijbenen terwijl verkopen inzakken"
+ },
+ "https://tweakers.net/nieuws/253918": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / Computers / Browsers",
+  "comments": "https://tweakers.net/nieuws/253918/nederlandse-overheid-vindt-alternatieve-browsers-privacyvriendelijker-dan-edge.html#reacties",
+  "description": "In een onderzoek van de Nederlandse Rijksoverheid naar de privacyvriendelijkheid van vier browsers scoort Microsoft Edge slechter dan de concurrentie. Het interne advies aan sharedserviceorganisaties (SSO's) is om op korte termijn een overstap naar Mozilla Firefox Enterprise te onderzoeken.",
+  "first": "Thu, 29 Oct 2026 16:46:23 +0000",
+  "guid": "https://tweakers.net/nieuws/253918",
+  "link": "https://tweakers.net/nieuws/253918/nederlandse-overheid-vindt-alternatieve-browsers-privacyvriendelijker-dan-edge.html",
+  "pubDate": "Thu, 29 Oct 2026 17:34:39 +0100",
+  "title": "Nederlandse overheid vindt alternatieve browsers privacyvriendelijker dan Edge"
  },
  "https://tweakers.net/nieuws/253920": {
   "author": "Jasper Bakker",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:19:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:34:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google gaat in meer landen reclame tonen in AI-modus, maar nog niet in de EU</title>
+    <link>https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253890</guid>
+    <pubDate>Thu, 29 Oct 2026 13:20:47 +0100</pubDate>
+    <description>Google gaat in meer landen advertenties tonen in zijn AI-zoekresultaten. Het bedrijf deed dat tot nu toe alleen in de VS, maar breidt nu uit naar tien andere landen. Later dit jaar volgen nóg meer landen. Voorlopig zitten Nederland en België er niet tussen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers zetten gegevens van ruim 41.000 medewerkers Amerikaans ministerie online</title>
     <link>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>.Community / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Microsoft betaalt mensen om seksuele plaatjes van Copilot te verbeteren'</title>
-    <link>https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252730</guid>
-    <pubDate>Tue, 29 Sep 2026 14:29:54 +0200</pubDate>
-    <description>Microsoft heeft honderden mensen in dienst om afbeeldingen die Copilot genereert te beoordelen, inclusief de bijbehorende prompts. Sommige van die afbeeldingen zijn seksueel getint. Het doel is niet om content op te sporen die in strijd is met regels of wetten, maar om de output van Copilot te verbeteren, zo meldt 404 Media.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Software</category>
-    <comments>https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html#reacties</comments>
   </item>
 </channel>
 </rss>

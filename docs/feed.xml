@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 19:01:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 19:16:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Driekwart van AI-chipproductie door Chinese fabrikant CXMT is niet bruikbaar'</title>
+    <link>https://tweakers.net/nieuws/253926/driekwart-van-ai-chipproductie-door-chinese-fabrikant-cxmt-is-niet-bruikbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253926</guid>
+    <pubDate>Thu, 29 Oct 2026 20:08:32 +0100</pubDate>
+    <description>De Chinese geheugenmaker CXMT zou eind dit jaar met de massaproductie van HBM3E-chips voor AI-hardware willen beginnen, maar slechts een kwart van de geproduceerde chips zou bruikbaar zijn. De verwachte yields van de chipproductie liggen tussen de 20 en 30 procent, meldt persbureau Reuters.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/253926/driekwart-van-ai-chipproductie-door-chinese-fabrikant-cxmt-is-niet-bruikbaar.html#reacties</comments>
+  </item>
   <item>
     <title>Apple verlaagt commissie in App Store Taiwan naar 26 procent na overleg met FTC</title>
     <link>https://tweakers.net/nieuws/253924/apple-verlaagt-commissie-in-app-store-taiwan-naar-26-procent-na-overleg-met-ftc.html</link>

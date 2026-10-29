@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:04:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:19:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Software</category>
     <comments>https://tweakers.net/nieuws/252730/microsoft-betaalt-mensen-om-seksuele-plaatjes-van-copilot-te-verbeteren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Sony is voor het eerst sinds 1967 niet op elektronicabeurs CES</title>
-    <link>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252728</guid>
-    <pubDate>Tue, 29 Sep 2026 14:09:57 +0200</pubDate>
-    <description>Muziek speelde je op lp's en tv keek je in zwart-wit: sinds de Consumer Electronics Show begon in 1967, was de Japanse elektronicagigant Sony er altijd bij. Tot de editie van 2027, want Sony heeft gezegd dat het volgend jaar niet op de beurs zal zijn.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html#reacties</comments>
   </item>
 </channel>
 </rss>

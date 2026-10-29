@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:49:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 13:04:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>No Man's Sky is nu uit voor iPhones en iPads, krijgt opnieuw gratis update</title>
+    <link>https://tweakers.net/nieuws/253898/no-mans-sky-is-nu-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253898</guid>
+    <pubDate>Thu, 29 Oct 2026 13:48:56 +0100</pubDate>
+    <description>Hello Games brengt No Man's Sky uit voor iPhones en iPads. Tegelijkertijd krijgt de game opnieuw een gratis update genaamd Forsaken. De nieuwste update krijgt deze keer een Halloween-thema, waarin spelers de 'duistere kant van het universum' moeten verkennen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253898/no-mans-sky-is-nu-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html#reacties</comments>
+  </item>
   <item>
     <title>Google gaat in meer landen reclame tonen in AI-modus, maar nog niet in de EU</title>
     <link>https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html</link>
@@ -5334,16 +5344,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Laptops en systemen</category>
     <comments>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Vouwbare Motorola-telefoon is veel kleiner dan iPhone Duo en Z Fold8'</title>
-    <link>https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252736</guid>
-    <pubDate>Tue, 29 Sep 2026 15:00:24 +0200</pubDate>
-    <description>De brede vouwbare smartphone waaraan Motorola werkt, zou veel kleiner zijn dan de Apple iPhone Duo en Samsung Galaxy Z Fold8. Dat meldt Android Headlines. Het vouwbare scherm is 6,9", tegenover 7,6" bij de concurrenten.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html#reacties</comments>
   </item>
 </channel>
 </rss>

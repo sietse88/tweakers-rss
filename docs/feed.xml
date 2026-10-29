@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 13:19:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 13:49:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties</title>
+    <link>https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253902</guid>
+    <pubDate>Thu, 29 Oct 2026 14:40:36 +0100</pubDate>
+    <description>Jongeren zijn mediawijzer dan ouderen: ze herkennen AI-beeldmateriaal sneller, begrijpen algoritmes beter en hebben een goed besef van de invloed van sociale media. Dit blijkt uit onderzoek in opdracht van de Vlaamse minister van Media onder 4456 Vlamingen van 16 tot 98 jaar.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html#reacties</comments>
+  </item>
   <item>
     <title>No Man's Sky is nu uit voor iPhones en iPads, krijgt opnieuw gratis update</title>
     <link>https://tweakers.net/nieuws/253898/no-mans-sky-is-nu-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html</link>

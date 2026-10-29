@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 06:29:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 06:59:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple Mac Studio met 512GB geheugen kost minstens 25.129 euro</title>
+    <link>https://tweakers.net/nieuws/253884/apple-mac-studio-met-512gb-geheugen-kost-minstens-25129-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253884</guid>
+    <pubDate>Thu, 29 Oct 2026 07:41:57 +0100</pubDate>
+    <description>Apple heeft een nieuwe Mac Studio-variant uitgebracht. Die heeft nog steeds de krachtigste M5 Ultra-soc van het bedrijf, maar krijgt 512GB geheugen. Voorheen leverde Apple de Mac Studio met maximaal 256GB ram. Het nieuwe model kost minstens 25.129 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Pc's</category>
+    <comments>https://tweakers.net/nieuws/253884/apple-mac-studio-met-512gb-geheugen-kost-minstens-25129-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Review - PocketBook InkPad One - Digitaal notitieblok geeft schrijfkramp</title>
     <link>https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html</link>
@@ -5394,16 +5404,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
     <comments>https://tweakers.net/nieuws/252716/nothing-headphone-1-pro-krijgt-betere-anc-en-drie-drivers-voor-349-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Naughty Dog onthult scifigame in 2027 volledig en deelt nog geen releaseplannen</title>
-    <link>https://tweakers.net/nieuws/252714/naughty-dog-onthult-scifigame-in-2027-volledig-en-deelt-nog-geen-releaseplannen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252714</guid>
-    <pubDate>Tue, 29 Sep 2026 08:56:25 +0200</pubDate>
-    <description>Naughty Dog deelt volgend jaar meer details over Intergalactic: The Heretic Prophet. De gamestudio kondigde dat spel in 2024 al aan, maar sindsdien bleef het stil. De studio werkt ook aan twee The Last of Us-projecten, maar die zitten in een vroeg stadium.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252714/naughty-dog-onthult-scifigame-in-2027-volledig-en-deelt-nog-geen-releaseplannen.html#reacties</comments>
   </item>
 </channel>
 </rss>

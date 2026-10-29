@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 19:31:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 20:16:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google stopt eind dit jaar met zijn AI-codinghulp Jules</title>
+    <link>https://tweakers.net/nieuws/253928/google-stopt-eind-dit-jaar-met-zijn-ai-codinghulp-jules.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253928</guid>
+    <pubDate>Thu, 29 Oct 2026 21:01:03 +0100</pubDate>
+    <description>Google trekt de stekker uit zijn AI-codinghulp Jules. Gebruikers kunnen deze AI-agent voor het schrijven van code nog tot 11 november gebruiken. Daarna zet Google de tool op read-only om hem daarna op 31 december geheel stop te zetten.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253928/google-stopt-eind-dit-jaar-met-zijn-ai-codinghulp-jules.html#reacties</comments>
+  </item>
   <item>
     <title>'Driekwart van AI-chipproductie door Chinese fabrikant CXMT is niet bruikbaar'</title>
     <link>https://tweakers.net/nieuws/253926/driekwart-van-ai-chipproductie-door-chinese-fabrikant-cxmt-is-niet-bruikbaar.html</link>

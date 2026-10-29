@@ -71,16 +71,6 @@
   "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
   "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
  },
- "https://tweakers.net/nieuws/252744": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Tablets en telefoons / Wearable-accessoires",
-  "comments": "https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html#reacties",
-  "description": "Drie Nederlandse organisaties dreigen Meta voor de rechter te slepen als het bedrijf doorgaat met de verkoop van zijn slimme brillen in de huidige vorm. De Consumentenbond, Offlimits en The Firewall claimen dat gebruik van de brillen tegen de wet is en misbruik in de hand werkt.",
-  "guid": "https://tweakers.net/nieuws/252744",
-  "link": "https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html",
-  "pubDate": "Tue, 29 Sep 2026 16:00:18 +0200",
-  "title": "Consumentenbond, Offlimits en The Firewall slepen Meta voor rechter om gluurbril"
- },
  "https://tweakers.net/nieuws/252746": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / Computers / Browsers",
@@ -5033,6 +5023,17 @@
   "link": "https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html",
   "pubDate": "Thu, 29 Oct 2026 14:40:36 +0100",
   "title": "Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties"
+ },
+ "https://tweakers.net/nieuws/253904": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Internet",
+  "comments": "https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html#reacties",
+  "description": "Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.",
+  "first": "Thu, 29 Oct 2026 14:05:00 +0000",
+  "guid": "https://tweakers.net/nieuws/253904",
+  "link": "https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html",
+  "pubDate": "Thu, 29 Oct 2026 14:58:44 +0100",
+  "title": "CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

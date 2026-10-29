@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 06:59:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 07:29:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia fikst videofreezes en zwarte schermen op RTX 50-videokaarten en RTX Spark</title>
+    <link>https://tweakers.net/nieuws/253886/nvidia-fikst-videofreezes-en-zwarte-schermen-op-rtx-50-videokaarten-en-rtx-spark.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253886</guid>
+    <pubDate>Thu, 29 Oct 2026 08:22:37 +0100</pubDate>
+    <description>Nvidia komt met een hotfixdriver voor RTX 50-videokaarten en de RTX Spark. De update verhelpt een probleem in een driver die vorige week uitkwam. Daarbij kon videoweergave vastlopen en aangesloten schermen een paar seconden zwart worden.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253886/nvidia-fikst-videofreezes-en-zwarte-schermen-op-rtx-50-videokaarten-en-rtx-spark.html#reacties</comments>
+  </item>
   <item>
     <title>Apple Mac Studio met 512GB geheugen kost minstens 25.129 euro</title>
     <link>https://tweakers.net/nieuws/253884/apple-mac-studio-met-512gb-geheugen-kost-minstens-25129-euro.html</link>

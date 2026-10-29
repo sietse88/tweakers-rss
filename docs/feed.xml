@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 10:34:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:04:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,26 +5364,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252728/sony-is-voor-het-eerst-sinds-1967-niet-op-elektronicabeurs-ces.html#reacties</comments>
-  </item>
-  <item>
-    <title>Quicktest - BenQ RD280UG - Bijzondere 3:2-monitor voor developers</title>
-    <link>https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/12152</guid>
-    <pubDate>Tue, 29 Sep 2026 14:00:00 +0200</pubDate>
-    <description>BenQ richt zich met de RD280UG-monitor vol op developers. Hij heeft een bijzondere 3:2-verhouding, ingebouwde verlichting en andere functies voor comfortabeler code kloppen.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Quicktest / Computers / Monitors</category>
-    <comments>https://tweakers.net/reviews/12152/benq-rd280ug-bijzondere-32-monitor-voor-developers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kobo-fabrikant belooft herstel van verdwenen boeken en notities na bug in bèta's</title>
-    <link>https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252726</guid>
-    <pubDate>Tue, 29 Sep 2026 13:55:57 +0200</pubDate>
-    <description>Een paar Kobo-bèta-updates zorgen voor problemen op sommige e-readers. Daardoor worden bepaalde boeken en notities onzichtbaar. Andere gebruikers melden 'eindeloze laadschermen'. Fabrikant Rakuten werkt aan een oplossing om verdwenen data te herstellen.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / E-readers</category>
-    <comments>https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html#reacties</comments>
   </item>
 </channel>
 </rss>

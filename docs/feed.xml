@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 14:05:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 14:20:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging</title>
+    <link>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253906</guid>
+    <pubDate>Thu, 29 Oct 2026 15:03:07 +0100</pubDate>
+    <description>Alpine Linux heeft zijn GitLab-server compleet opnieuw opgebouwd. De ontwikkelaars zagen dat hackers probeerden een kritieke kwetsbaarheid in het Git-platform uit te buiten. Er zijn geen aanwijzingen dat dat is gelukt, maar het team greep toch uit voorzorg in.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html#reacties</comments>
+  </item>
   <item>
     <title>CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken</title>
     <link>https://tweakers.net/nieuws/253904/cisa-ziet-dat-hackers-fragnesia-bug-in-linux-kernel-actief-misbruiken.html</link>

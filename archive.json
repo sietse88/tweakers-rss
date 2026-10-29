@@ -5035,6 +5035,17 @@
   "pubDate": "Thu, 29 Oct 2026 14:58:44 +0100",
   "title": "CISA ziet dat hackers Fragnesia-bug in Linux-kernel actief misbruiken"
  },
+ "https://tweakers.net/nieuws/253906": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html#reacties",
+  "description": "Alpine Linux heeft zijn GitLab-server compleet opnieuw opgebouwd. De ontwikkelaars zagen dat hackers probeerden een kritieke kwetsbaarheid in het Git-platform uit te buiten. Er zijn geen aanwijzingen dat dat is gelukt, maar het team greep toch uit voorzorg in.",
+  "first": "Thu, 29 Oct 2026 14:20:03 +0000",
+  "guid": "https://tweakers.net/nieuws/253906",
+  "link": "https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html",
+  "pubDate": "Thu, 29 Oct 2026 15:03:07 +0100",
+  "title": "Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

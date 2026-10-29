@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 14:20:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 14:35:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Android 16 is meestgebruikte versie, blijkt uit actuele cijfers van Google</title>
+    <link>https://tweakers.net/nieuws/253908/android-16-is-meestgebruikte-versie-blijkt-uit-actuele-cijfers-van-google.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253908</guid>
+    <pubDate>Thu, 29 Oct 2026 15:25:21 +0100</pubDate>
+    <description>Google onthult actuele cijfers over gebruikte Android-versies en daaruit blijkt dat Android 16 het meestgebruikt is. Deze versie van vorig jaar draait op 25,4 procent van de toestellen. Android 14 is het op een na meestgebruikt met 15,3 procent. De nieuwste versie, Android 17, heeft slechts 1 procent.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/253908/android-16-is-meestgebruikte-versie-blijkt-uit-actuele-cijfers-van-google.html#reacties</comments>
+  </item>
   <item>
     <title>Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging</title>
     <link>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Oordopjes</category>
     <comments>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Mozilla brengt Firefox met nieuw ontwerp uit</title>
-    <link>https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252746</guid>
-    <pubDate>Tue, 29 Sep 2026 16:21:50 +0200</pubDate>
-    <description>Mozilla heeft Firefox 157 uitgebracht, de eerste versie van de browser met een nieuw ontwerp. Daarnaast keert de compacte modus terug en kunnen gebruikers sites vastzetten op de pagina voor een nieuw tabblad.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Browsers</category>
-    <comments>https://tweakers.net/nieuws/252746/mozilla-brengt-firefox-met-nieuw-ontwerp-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

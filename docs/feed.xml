@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 10:19:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 10:34:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers zetten gegevens van ruim 41.000 medewerkers Amerikaans ministerie online</title>
+    <link>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253896</guid>
+    <pubDate>Thu, 29 Oct 2026 11:27:26 +0100</pubDate>
+    <description>Hackers hebben de gegevens van meer dan 41.000 medewerkers van het Amerikaanse ministerie van Binnenlandse Veiligheid online gezet. Het gaat onder andere om namen, telefoonnummers en e-mailadressen van personeelsleden, waaronder werknemers met 'gevoelige functies'.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html#reacties</comments>
+  </item>
   <item>
     <title>Rockstar: GTA VI krijgt bijna evenveel land als GTA IV, GTA V en RDR2 samen</title>
     <link>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html</link>
@@ -5374,16 +5384,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Tablets en telefoons / E-readers</category>
     <comments>https://tweakers.net/nieuws/252726/kobo-fabrikant-belooft-herstel-van-verdwenen-boeken-en-notities-na-bug-in-betas.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bose bouwt noisecancellation in bedrade USB-C-oortjes voor 99,95 euro</title>
-    <link>https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252724</guid>
-    <pubDate>Tue, 29 Sep 2026 12:27:03 +0200</pubDate>
-    <description>Bose brengt voor het eerst in jaren nieuwe bedrade oordoppen uit. Ze werken via USB-C, ondersteunen actieve ruisonderdrukking en hebben fysieke knoppen. Ze komen in oktober uit voor 99,95 euro. Er is nog niets bekend over de beschikbaarheid in de Benelux.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Beeld en geluid / Oordopjes</category>
-    <comments>https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

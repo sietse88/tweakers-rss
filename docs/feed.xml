@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 14:35:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 14:50:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>XBOX-ceo zegt consolevraag niet te kunnen bijbenen terwijl verkopen inzakken</title>
+    <link>https://tweakers.net/nieuws/253912/xbox-ceo-zegt-consolevraag-niet-te-kunnen-bijbenen-terwijl-verkopen-inzakken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253912</guid>
+    <pubDate>Thu, 29 Oct 2026 15:32:35 +0100</pubDate>
+    <description>Microsoft kan de vraag naar XBOX-consoles niet bijbenen. Dat zegt XBOX-ceo Asha Sharma na de bekendmaking van Microsofts kwartaalcijfers. Het bedrijf 'zet zich in om meer consoles in de handen van spelers te krijgen', aldus de topvrouw.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/253912/xbox-ceo-zegt-consolevraag-niet-te-kunnen-bijbenen-terwijl-verkopen-inzakken.html#reacties</comments>
+  </item>
   <item>
     <title>Android 16 is meestgebruikte versie, blijkt uit actuele cijfers van Google</title>
     <link>https://tweakers.net/nieuws/253908/android-16-is-meestgebruikte-versie-blijkt-uit-actuele-cijfers-van-google.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252754/nederlandse-gemeenten-betaalden-in-2025-185-miljoen-euro-voor-microsoft-diensten.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fairphone presenteert Fairbuds 2-oortjes van 119 euro over twee weken</title>
-    <link>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252750</guid>
-    <pubDate>Tue, 29 Sep 2026 16:45:00 +0200</pubDate>
-    <description>Fairphone gaat de Fairbuds 2 over twee weken presenteren. De nieuwe draadloze oordopjes gaan 119 euro kosten en dat is minder dan de Fairbuds kostten bij release twee jaar geleden. Fairphone had de komst van de oortjes eerder al bevestigd.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Oordopjes</category>
-    <comments>https://tweakers.net/nieuws/252750/fairphone-presenteert-fairbuds-2-oortjes-van-119-euro-over-twee-weken.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -5027,13 +5027,13 @@
  "https://tweakers.net/nieuws/253880": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / Computers / Software",
-  "comments": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html#reacties",
-  "description": "Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.",
+  "comments": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-zijn-flagshipmodel-gemini-4-argon.html#reacties",
+  "description": "Google heeft Gemini 4 Carbon aangekondigd. Het bedrijf claimt dat dit AI-model onder meer beter presteert in cybersecuritytaken dan Gemini 4 Argon, dat pas twee weken geleden verscheen. Het bedrijf brengt het nieuwe model niet meteen voor iedereen uit.",
   "first": "Wed, 28 Oct 2026 19:27:52 +0000",
   "guid": "https://tweakers.net/nieuws/253880",
-  "link": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-cybersecuritymodel-gemini-4-argon.html",
+  "link": "https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-zijn-flagshipmodel-gemini-4-argon.html",
   "pubDate": "Wed, 28 Oct 2026 20:18:40 +0100",
-  "title": "Google komt al na twee weken met opvolger van cybersecuritymodel Gemini 4 Argon"
+  "title": "Google komt al na twee weken met opvolger van zijn flagshipmodel Gemini 4 Argon"
  },
  "https://tweakers.net/nieuws/253882": {
   "author": "Kevin Krikhaar",
@@ -5067,6 +5067,17 @@
   "link": "https://tweakers.net/nieuws/253886/nvidia-fikst-videofreezes-en-zwarte-schermen-op-rtx-50-videokaarten-en-rtx-spark.html",
   "pubDate": "Thu, 29 Oct 2026 08:22:37 +0100",
   "title": "Nvidia fikst videofreezes en zwarte schermen op RTX 50-videokaarten en RTX Spark"
+ },
+ "https://tweakers.net/nieuws/253888": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/253888/gerucht-intel-werkt-aan-moon-lake-cpus-zonder-p-cores-voor-budgetlaptops.html#reacties",
+  "description": "Intel werkt mogelijk aan nieuwe Moon Lake-processors. Dat claimt de bekende leaker Jaykihn. Volgens hem krijgen ze vier extra zuinige LPE-cores en tdp's van 6 tot 15W. Daarmee zijn de cpu's gericht op ultragoedkope instaplaptops. De releasedatum is nog niet bekend.",
+  "first": "Thu, 29 Oct 2026 08:14:28 +0000",
+  "guid": "https://tweakers.net/nieuws/253888",
+  "link": "https://tweakers.net/nieuws/253888/gerucht-intel-werkt-aan-moon-lake-cpus-zonder-p-cores-voor-budgetlaptops.html",
+  "pubDate": "Thu, 29 Oct 2026 09:00:55 +0100",
+  "title": "Gerucht: Intel werkt aan Moon Lake-cpu's zonder P-cores voor budgetlaptops"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

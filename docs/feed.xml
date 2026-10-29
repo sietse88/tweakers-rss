@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 07:29:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 07:59:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5404,16 +5404,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nothing Headphone 1 Pro krijgt betere anc en drie drivers voor 349 euro</title>
-    <link>https://tweakers.net/nieuws/252716/nothing-headphone-1-pro-krijgt-betere-anc-en-drie-drivers-voor-349-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252716</guid>
-    <pubDate>Tue, 29 Sep 2026 09:54:43 +0200</pubDate>
-    <description>Nothing brengt zijn eerste 'Pro'-hoofdtelefoon uit. De Headphone 1 Pro krijgt meerdere drivers voor een betere geluidskwaliteit, krachtigere actieve ruisonderdrukking en meer. De hoofdtelefoon is per direct beschikbaar, ook in Nederland en België. Hij kost 349 euro.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
-    <comments>https://tweakers.net/nieuws/252716/nothing-headphone-1-pro-krijgt-betere-anc-en-drie-drivers-voor-349-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

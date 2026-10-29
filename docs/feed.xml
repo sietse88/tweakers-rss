@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 08:29:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 09:49:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rockstar: GTA VI krijgt bijna evenveel land als GTA IV, GTA V en RDR2 samen</title>
+    <link>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253892</guid>
+    <pubDate>Thu, 29 Oct 2026 10:04:20 +0100</pubDate>
+    <description>Grand Theft Auto VI wordt 'bijna even groot' als GTA IV, GTA V en Red Dead Redemption 2 samen. Dat zegt ontwikkelaar Rockstar Games tegen Edge Magazine. De studio zei eerder al dat de kaart van het spel grofweg twee keer zo groot is als die van GTA V.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html#reacties</comments>
+  </item>
   <item>
     <title>Gerucht: Intel werkt aan Moon Lake-cpu's zonder P-cores voor budgetlaptops</title>
     <link>https://tweakers.net/nieuws/253888/gerucht-intel-werkt-aan-moon-lake-cpus-zonder-p-cores-voor-budgetlaptops.html</link>
@@ -5384,36 +5394,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Raspberry Pi-adapter voor slimme schermen kost 32 euro</title>
-    <link>https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252718</guid>
-    <pubDate>Tue, 29 Sep 2026 11:28:39 +0200</pubDate>
-    <description>Raspberry Pi komt met een nieuwe Smart Display-module. Gebruikers kunnen daar een Compute Module 5 op bevestigen en hem gebruiken om slimme schermen mee aan te sturen. Het apparaat kost 32 euro, maar lijkt nog niet beschikbaar te zijn in de Benelux.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Overige componenten</category>
-    <comments>https://tweakers.net/nieuws/252718/raspberry-pi-adapter-voor-slimme-schermen-kost-32-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>KPN TV+-update zet ESPN UHD bij sommige klanten op zwart</title>
-    <link>https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252672</guid>
-    <pubDate>Tue, 29 Sep 2026 11:09:25 +0200</pubDate>
-    <description>Een aantal klanten van KPN ontvangt geen aanvoersignaal voor ESPN UHD-kanalen sinds een update van KPN TV+. Daardoor zien zij op deze kanalen een zwart scherm. KPN verwacht het probleem eind oktober te hebben opgelost.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Decoders</category>
-    <comments>https://tweakers.net/nieuws/252672/kpn-tv+-update-zet-espn-uhd-bij-sommige-klanten-op-zwart.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ziggo maakt netwerk klaar voor Docsis 4.0 om snelheden tot 8Gbit/s te bieden</title>
-    <link>https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252720</guid>
-    <pubDate>Tue, 29 Sep 2026 10:43:27 +0200</pubDate>
-    <description>VodafoneZiggo heeft zijn internetnetwerk klaargemaakt voor de Docsis 4.0-standaard. Daarmee is het netwerk klaar voor abonnementen met hogere snelheden. De provider wil op termijn abonnementen met downloadsnelheden tot 8Gbit/s introduceren.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/252720/ziggo-maakt-netwerk-klaar-voor-docsis-40-om-snelheden-tot-8gbit-s-te-bieden.html#reacties</comments>
   </item>
 </channel>
 </rss>

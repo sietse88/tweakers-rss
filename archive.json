@@ -91,26 +91,6 @@
   "pubDate": "Tue, 29 Sep 2026 18:41:47 +0200",
   "title": "Remaster van The Witcher 3 is uit en breekt meteen spelersrecord op Steam"
  },
- "https://tweakers.net/nieuws/252754": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Politiek en recht",
-  "comments": "https://tweakers.net/nieuws/252754/nederlandse-gemeenten-betaalden-in-2025-185-miljoen-euro-voor-microsoft-diensten.html#reacties",
-  "description": "Nederlandse gemeenten betaalden vorig jaar ongeveer 185 miljoen euro voor producten en diensten van Microsoft. Dat blijkt uit een onderzoek van Binnenlands Bestuur en het AD. Het gaat daarbij uitsluitend om uitgaven van gemeenten en niet van andere overheidsorganisaties, zoals provincies en waterschappen.",
-  "guid": "https://tweakers.net/nieuws/252754",
-  "link": "https://tweakers.net/nieuws/252754/nederlandse-gemeenten-betaalden-in-2025-185-miljoen-euro-voor-microsoft-diensten.html",
-  "pubDate": "Tue, 29 Sep 2026 17:40:40 +0200",
-  "title": "Nederlandse gemeenten betaalden in 2025 185 miljoen euro voor Microsoft-diensten"
- },
- "https://tweakers.net/nieuws/252756": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/252756/hackers-bieden-gegevens-van-150000-leden-fitnessketen-jims-aan-op-darkweb.html#reacties",
-  "description": "Hackers hebben de gegevens van 150.000 leden van fitnessketen Jims gestolen, bevestigt moederbedrijf Colruyt aan VRT NWS. Het gaat om leden van 31 van de 85 filialen. Om welke locaties het gaat, is niet bekend. Het lek vond al in juli plaats, maar nu pas wordt de omvang duidelijk.",
-  "guid": "https://tweakers.net/nieuws/252756",
-  "link": "https://tweakers.net/nieuws/252756/hackers-bieden-gegevens-van-150000-leden-fitnessketen-jims-aan-op-darkweb.html",
-  "pubDate": "Tue, 29 Sep 2026 18:09:19 +0200",
-  "title": "Hackers bieden gegevens van 150.000 leden fitnessketen Jims aan op darkweb"
- },
  "https://tweakers.net/nieuws/252762": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Gaming / Games",
@@ -4985,13 +4965,13 @@
  "https://tweakers.net/nieuws/253898": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/253898/no-mans-sky-is-nu-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html#reacties",
-  "description": "Hello Games brengt No Man's Sky uit voor iPhones en iPads. Tegelijkertijd krijgt de game opnieuw een gratis update genaamd Forsaken. De nieuwste update krijgt deze keer een Halloween-thema, waarin spelers de 'duistere kant van het universum' moeten verkennen.",
+  "comments": "https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html#reacties",
+  "description": "Hello Games brengt No Man's Sky uit voor iPhones en iPads. Tegelijkertijd krijgt de game opnieuw een gratis update genaamd Forsaken. De nieuwste update heeft een Halloween-thema. Daarin verkennen spelers de 'duistere kant van het universum'.",
   "first": "Thu, 29 Oct 2026 13:04:52 +0000",
   "guid": "https://tweakers.net/nieuws/253898",
-  "link": "https://tweakers.net/nieuws/253898/no-mans-sky-is-nu-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html",
+  "link": "https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html",
   "pubDate": "Thu, 29 Oct 2026 13:48:56 +0100",
-  "title": "No Man's Sky is nu uit voor iPhones en iPads, krijgt opnieuw gratis update"
+  "title": "No Man's Sky is uit voor iPhones en iPads, krijgt opnieuw gratis update"
  },
  "https://tweakers.net/nieuws/253902": {
   "author": "Jasper Bakker",
@@ -5037,6 +5017,17 @@
   "pubDate": "Thu, 29 Oct 2026 15:25:21 +0100",
   "title": "Android 16 is meestgebruikte versie, blijkt uit actuele cijfers van Google"
  },
+ "https://tweakers.net/nieuws/253910": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253910/na-verzet-stelt-meta-nieuwe-zakelijke-voorwaarden-voor-onbepaalde-tijd-uit.html#reacties",
+  "description": "Meta stelt de invoering van nieuwe voorwaarden voor zakelijke gebruikers voor onbepaalde tijd uit. Oorspronkelijk stelde Meta het al uit tot 20 november, maar door weerstand uit de uitgeverswereld en de advertentiesector stelt het bedrijf de invoering nu voor onbepaalde tijd uit. Meta zou content van derden mogen gebruiken voor AI-training.",
+  "first": "Thu, 29 Oct 2026 16:31:18 +0000",
+  "guid": "https://tweakers.net/nieuws/253910",
+  "link": "https://tweakers.net/nieuws/253910/na-verzet-stelt-meta-nieuwe-zakelijke-voorwaarden-voor-onbepaalde-tijd-uit.html",
+  "pubDate": "Thu, 29 Oct 2026 16:30:24 +0100",
+  "title": "Na verzet stelt Meta nieuwe zakelijke voorwaarden voor onbepaalde tijd uit"
+ },
  "https://tweakers.net/nieuws/253912": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Gaming / Consoles",
@@ -5047,6 +5038,17 @@
   "link": "https://tweakers.net/nieuws/253912/xbox-ceo-zegt-consolevraag-niet-te-kunnen-bijbenen-terwijl-verkopen-inzakken.html",
   "pubDate": "Thu, 29 Oct 2026 15:32:35 +0100",
   "title": "XBOX-ceo zegt consolevraag niet te kunnen bijbenen terwijl verkopen inzakken"
+ },
+ "https://tweakers.net/nieuws/253920": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/253920/sidn-stelt-verhuizing-van-nl-naar-hello-registry-weer-uit.html#reacties",
+  "description": "De eerder al opgeschoven migratie van het registratieplatform voor .nl-domeinnamen naar Hello Registry loopt weer vertraging op. Domeinbeheerder SIDN meldt dat veel onderdelen klaar zijn, maar dat de deadline van 3 november niet haalbaar is. De overgang moest oorspronkelijk in maart 2026 gebeuren.",
+  "first": "Thu, 29 Oct 2026 16:31:18 +0000",
+  "guid": "https://tweakers.net/nieuws/253920",
+  "link": "https://tweakers.net/nieuws/253920/sidn-stelt-verhuizing-van-nl-naar-hello-registry-weer-uit.html",
+  "pubDate": "Thu, 29 Oct 2026 16:51:45 +0100",
+  "title": "SIDN stelt verhuizing van .nl naar Hello Registry weer uit"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
@@ -5177,16 +5179,6 @@
   "link": "https://tweakers.net/reviews/15364/zijn-die-nieuwe-android-laptops-duur-prijzen-van-googlebooks-vergeleken.html",
   "pubDate": "Wed, 30 Sep 2026 06:00:00 +0200",
   "title": "Achtergrond - Zijn die nieuwe Android-laptops duur? Prijzen van Googlebooks vergeleken"
- },
- "https://tweakers.net/reviews/15366": {
-  "author": "Lumen Heijdendael",
-  "category": "Achtergrond / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html#reacties",
-  "description": "Organisaties verzamelen zich buiten het hoofdkantoor van Meta in Amsterdam om actie te voeren.",
-  "guid": "https://tweakers.net/reviews/15366",
-  "link": "https://tweakers.net/reviews/15366/schrijvers-in-actie-tegen-meta-ik-wil-mijn-woorden-terug.html",
-  "pubDate": "Tue, 29 Sep 2026 18:00:00 +0200",
-  "title": "Achtergrond - Schrijvers in actie tegen Meta: 'Ik wil mijn woorden terug'"
  },
  "https://tweakers.net/reviews/15368": {
   "author": "Kevin Krikhaar",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:34:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:49:50 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/252736/vouwbare-motorola-telefoon-is-veel-kleiner-dan-iphone-duo-en-z-fold8.html#reacties</comments>
-  </item>
-  <item>
-    <title>.Community - De beste +3-reacties van augustus: zelfbewuste AI en zo start je met LoRa</title>
-    <link>https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15360</guid>
-    <pubDate>Tue, 29 Sep 2026 14:45:00 +0200</pubDate>
-    <description>Dit zijn alle +3-reacties die lezers in augustus onder onze artikelen achterlieten.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>.Community / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/reviews/15360/de-beste-+3-reacties-van-augustus-zelfbewuste-ai-en-zo-start-je-met-lora.html#reacties</comments>
   </item>
 </channel>
 </rss>

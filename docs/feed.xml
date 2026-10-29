@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 13:04:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 13:19:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Wearable-accessoires</category>
     <comments>https://tweakers.net/nieuws/252744/consumentenbond-offlimits-en-the-firewall-slepen-meta-voor-rechter-om-gluurbril.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google lijkt ondersteuning voor ChromeOS in 2034 te beëindigen</title>
-    <link>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252738</guid>
-    <pubDate>Tue, 29 Sep 2026 15:08:21 +0200</pubDate>
-    <description>Google blijft ChromeOS tot halverwege 2034 ondersteunen. Het bedrijf zegt dat Chromebooks tot halverwege dat jaar updates blijven krijgen. Daarna stopt de ondersteuning vermoedelijk. Veel recente Chromebooks krijgen daarnaast overstapmogelijkheden naar het nieuwe Googlebook OS.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Laptops en systemen</category>
-    <comments>https://tweakers.net/nieuws/252738/google-lijkt-ondersteuning-voor-chromeos-in-2034-te-beeindigen.html#reacties</comments>
   </item>
 </channel>
 </rss>

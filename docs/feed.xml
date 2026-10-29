@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 18:46:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 19:01:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Audio</category>
     <comments>https://tweakers.net/nieuws/252764/videoland-gaat-ook-podcasts-aanbieden.html#reacties</comments>
-  </item>
-  <item>
-    <title>GTA VI krijgt orkanen en twee keer grotere kaart dan GTA V</title>
-    <link>https://tweakers.net/nieuws/252762/gta-vi-krijgt-orkanen-en-twee-keer-grotere-kaart-dan-gta-v.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252762</guid>
-    <pubDate>Tue, 29 Sep 2026 20:49:29 +0200</pubDate>
-    <description>Grand Theft Auto VI krijgt een kaart die twee keer zo groot is als die van zijn voorganger, onthult Rockstar in een interview met Game Informer. De ontwikkelaar zegt dat de game 'met enige afstand' de grootste kaart heeft van alle games die Rockstar tot nu toe heeft gemaakt.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252762/gta-vi-krijgt-orkanen-en-twee-keer-grotere-kaart-dan-gta-v.html#reacties</comments>
   </item>
 </channel>
 </rss>

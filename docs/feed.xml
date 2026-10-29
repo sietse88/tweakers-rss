@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 05:14:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 05:29:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,16 +16,6 @@
     <height>192</height>
   </image>
   <item>
-    <title>Achtergrond - EU maakt AI-watermerken verplicht, maar niet waterdicht</title>
-    <link>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15464</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-    <description>Alle AI-diensten bouwen watermerken in om later te kunnen zien of bijvoorbeeld een tekst door AI is gemaakt. Hoe werkt dat?</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Achtergrond / Computers / Software</category>
-    <comments>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html#reacties</comments>
-  </item>
-  <item>
     <title>Review - PocketBook InkPad One - Digitaal notitieblok geeft schrijfkramp</title>
     <link>https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15330</guid>
@@ -34,6 +24,16 @@
     <dc:creator>Jelle Stuip</dc:creator>
     <category>Review / Tablets en telefoons / E-readers</category>
     <comments>https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - EU maakt AI-watermerken verplicht, maar niet waterdicht</title>
+    <link>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15464</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+    <description>Alle AI-diensten bouwen watermerken in om later te kunnen zien of bijvoorbeeld een tekst door AI is gemaakt. Hoe werkt dat?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Computers / Software</category>
+    <comments>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html#reacties</comments>
   </item>
   <item>
     <title>Microsoft stopt met bekritiseerde Copilot-app op smart-tv's van Samsung en LG</title>

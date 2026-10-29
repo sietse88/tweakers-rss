@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 29 Oct 2026 09:49:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 10:19:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Beeld en geluid / Oordopjes</category>
     <comments>https://tweakers.net/nieuws/252724/bose-bouwt-noisecancellation-in-bedrade-usb-c-oortjes-voor-99-komma-95-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>AMD neemt AI-bedrijf World Labs over voor 7,2 miljard euro in aandelen</title>
-    <link>https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252710</guid>
-    <pubDate>Tue, 29 Sep 2026 12:04:58 +0200</pubDate>
-    <description>AMD neemt AI-start-up World Labs over. Dat bedrijf werkt aan AI-modellen die gebruikt worden om 3d-omgevingen te simuleren. De overname wordt volledig betaald met AMD-aandelen en moet dit jaar nog worden afgerond.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252710/amd-neemt-ai-bedrijf-world-labs-over-voor-7-komma-2-miljard-euro-in-aandelen.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 11:49:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 12:04:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>The Verge: The Elder Scrolls VI gaat Sentinel heten en wordt over maand getoond</title>
+    <link>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253958</guid>
+    <pubDate>Fri, 30 Oct 2026 12:59:32 +0100</pubDate>
+    <description>De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de nieuwe, langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls' gaan.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html#reacties</comments>
+  </item>
   <item>
     <title>Dune: Awakening krijgt offline singleplayer en crossplay</title>
     <link>https://tweakers.net/nieuws/253940/dune-awakening-krijgt-offline-singleplayer-en-crossplay.html</link>
@@ -5334,16 +5344,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan</title>
-    <link>https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252442</guid>
-    <pubDate>Wed, 30 Sep 2026 14:00:00 +0200</pubDate>
-    <description>Samsung kondigt de Tab S12-serie aan, die bestaat uit de Tab S12+ en Tab S12 Ultra. Ze hebben allebei een nieuwere MediaTek Dimensity 9500-soc. Ten opzichte van hun voorgangers zijn er ook wat downgrades. De introductieprijzen stijgen flink.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Tablets</category>
-    <comments>https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html#reacties</comments>
   </item>
 </channel>
 </rss>

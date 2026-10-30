@@ -61,16 +61,6 @@
   "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
   "title": "Explainer - Wat de SpO₂-waarde op je smartwatch betekent en wanneer die nuttig is"
  },
- "https://tweakers.net/nieuws/252442": {
-  "author": "Friso Weijers",
-  "category": "Nieuws / Tablets en telefoons / Tablets",
-  "comments": "https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html#reacties",
-  "description": "Samsung kondigt de Tab S12-serie aan, die bestaat uit de Tab S12+ en Tab S12 Ultra. Ze hebben allebei een nieuwere MediaTek Dimensity 9500-soc. Ten opzichte van hun voorgangers zijn er ook wat downgrades. De introductieprijzen stijgen flink.",
-  "guid": "https://tweakers.net/nieuws/252442",
-  "link": "https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html",
-  "pubDate": "Wed, 30 Sep 2026 14:00:00 +0200",
-  "title": "Samsung kondigt Tab S12-serie met downgrades en hogere prijs aan"
- },
  "https://tweakers.net/nieuws/252778": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
@@ -5061,6 +5051,17 @@
   "link": "https://tweakers.net/nieuws/253948/synology-waarschuwt-voor-ransomware-op-nasen-die-op-verouderde-firmware-draaien.html",
   "pubDate": "Fri, 30 Oct 2026 11:57:16 +0100",
   "title": "Synology waarschuwt voor ransomware op nas'en die op verouderde firmware draaien"
+ },
+ "https://tweakers.net/nieuws/253958": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html#reacties",
+  "description": "De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de nieuwe, langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls' gaan.",
+  "first": "Fri, 30 Oct 2026 12:04:08 +0000",
+  "guid": "https://tweakers.net/nieuws/253958",
+  "link": "https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html",
+  "pubDate": "Fri, 30 Oct 2026 12:59:32 +0100",
+  "title": "The Verge: The Elder Scrolls VI gaat Sentinel heten en wordt over maand getoond"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

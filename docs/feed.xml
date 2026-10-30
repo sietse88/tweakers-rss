@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 18:14:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 18:29:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Proton-ceo schrapt hersollicitatiegesprekken met werknemers over AI-gebruik'</title>
+    <link>https://tweakers.net/nieuws/253986/proton-ceo-schrapt-hersollicitatiegesprekken-met-werknemers-over-ai-gebruik.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253986</guid>
+    <pubDate>Fri, 30 Oct 2026 19:25:42 +0100</pubDate>
+    <description>Proton-ceo Andy Yen zou 'hersollicitatiegesprekken' met werknemers over hun AI-gebruik hebben geannuleerd. Volgens 404 Media wilde Yen met de gesprekken onderzoeken hoe zijn werknemers AI gebruiken. Als zij niet genoeg AI zouden inzetten, zou dat mogelijk leiden tot ontslag.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253986/proton-ceo-schrapt-hersollicitatiegesprekken-met-werknemers-over-ai-gebruik.html#reacties</comments>
+  </item>
   <item>
     <title>Dodelijke explosie bij Fab 28 in Israël kostte Intel 600 miljoen dollar omzet</title>
     <link>https://tweakers.net/nieuws/253984/dodelijke-explosie-bij-fab-28-in-israel-kostte-intel-600-miljoen-dollar-omzet.html</link>

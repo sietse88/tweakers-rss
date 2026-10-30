@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 13:04:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 13:34:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Omdia: smartphonemarkt kromp 20 procent in het derde kwartaal</title>
+    <link>https://tweakers.net/nieuws/253966/omdia-smartphonemarkt-kromp-20-procent-in-het-derde-kwartaal.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253966</guid>
+    <pubDate>Fri, 30 Oct 2026 14:21:24 +0100</pubDate>
+    <description>De wereldwijde smartphonemarkt is in het derde kwartaal van 2026 met 20 procent gekrompen. Dat meldt marktonderzoeker Omdia. Volgens het bedrijf verkochten fabrikanten 254,7 miljoen smartphones. Dat is het kleinste aantal verkochte smartphones in een derde kwartaal sinds 2013.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253966/omdia-smartphonemarkt-kromp-20-procent-in-het-derde-kwartaal.html#reacties</comments>
+  </item>
   <item>
     <title>Europa werkt aan directe onderzeese internetkabelverbinding met Groenland</title>
     <link>https://tweakers.net/nieuws/253956/europa-werkt-aan-directe-onderzeese-internetkabelverbinding-met-groenland.html</link>

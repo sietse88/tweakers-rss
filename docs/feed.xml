@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 03:02:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 04:02:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,26 +5344,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252768/axios-openai-zou-omgerekend-bijna-70-miljard-dollar-per-jaar-omzetten.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Apple iPhone 18 Pro en Pro Max Review - Sterke update, slechte koop</title>
-    <link>https://tweakers.net/reviews/15322/apple-iphone-18-pro-en-pro-max-review-sterke-update-slechte-koop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15322</guid>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
-    <description>De Apple iPhone 18 Pro (Max) is geen spannende update. Rechtvaardigen de kleine verbeteringen de flink gestegen prijs?</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Review / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15322/apple-iphone-18-pro-en-pro-max-review-sterke-update-slechte-koop.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Zijn die nieuwe Android-laptops duur? Prijzen van Googlebooks vergeleken</title>
-    <link>https://tweakers.net/reviews/15364/zijn-die-nieuwe-android-laptops-duur-prijzen-van-googlebooks-vergeleken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15364</guid>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
-    <description>Begin december komen de eerste laptops met Android uit in Nederland. Die kosten vanaf 1300 euro. Zijn ze duur ten opzichte van andere laptops en zo ja, waarom dan?</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Achtergrond / Computers / Laptops</category>
-    <comments>https://tweakers.net/reviews/15364/zijn-die-nieuwe-android-laptops-duur-prijzen-van-googlebooks-vergeleken.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 11:34:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:49:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Nieuws / Tablets en telefoons / Tablets</category>
     <comments>https://tweakers.net/nieuws/252442/samsung-kondigt-tab-s12-serie-met-downgrades-en-hogere-prijs-aan.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft verwijderde data van non-profits voortijdig en permanent</title>
-    <link>https://tweakers.net/nieuws/252748/microsoft-verwijderde-data-van-non-profits-voortijdig-en-permanent.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252748</guid>
-    <pubDate>Wed, 30 Sep 2026 13:38:21 +0200</pubDate>
-    <description>Microsoft erkent dat het gegevens van stichtingen en non-profitorganisaties door een fout voortijdig en permanent heeft verwijderd. Het gaat om stichtingen die gebruikmaakten van een gratis Microsoft 365 Business Premium-licentie voor non-profits. Het is onduidelijk hoeveel non-profits slachtoffer zijn.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Business software</category>
-    <comments>https://tweakers.net/nieuws/252748/microsoft-verwijderde-data-van-non-profits-voortijdig-en-permanent.html#reacties</comments>
   </item>
 </channel>
 </rss>

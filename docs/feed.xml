@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:59:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 16:14:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / E-commerce</category>
     <comments>https://tweakers.net/nieuws/252808/google-betaalt-klein-aantal-uitgevers-schrale-vergoeding-voor-ai-overzichten.html#reacties</comments>
-  </item>
-  <item>
-    <title>XBOX komt na 18 jaar met eigen versie van PlayStations platina trofee</title>
-    <link>https://tweakers.net/nieuws/252806/xbox-komt-na-18-jaar-met-eigen-versie-van-playstations-platina-trofee.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252806</guid>
-    <pubDate>Wed, 30 Sep 2026 18:06:37 +0200</pubDate>
-    <description>Achttien jaar nadat PlayStation de platina trofee introduceerde, komt XBOX met een eigen variant. 'Completionists' ontvangen binnenkort een Mythic-achievement als ze de andere achievements in een game hebben behaald.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252806/xbox-komt-na-18-jaar-met-eigen-versie-van-playstations-platina-trofee.html#reacties</comments>
   </item>
 </channel>
 </rss>

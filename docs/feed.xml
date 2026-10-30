@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 14:44:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 14:59:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,26 +5364,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html#reacties</comments>
-  </item>
-  <item>
-    <title>Klanten van EasyEnergy krijgen voortaan een gratis P1-dongel</title>
-    <link>https://tweakers.net/nieuws/252794/klanten-van-easyenergy-krijgen-voortaan-een-gratis-p1-dongel.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252794</guid>
-    <pubDate>Wed, 30 Sep 2026 16:58:35 +0200</pubDate>
-    <description>EasyEnergy geeft klanten voortaan standaard een gratis Sparky-P1-dongel. Volgens de energieleverancier krijgen klanten daarmee meer inzicht in hun energiegebruik en kunnen zij hun stroom slimmer inzetten.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252794/klanten-van-easyenergy-krijgen-voortaan-een-gratis-p1-dongel.html#reacties</comments>
-  </item>
-  <item>
-    <title>Vandebron gaat 2fa afdwingen en blijft authenticatieapps ondersteunen</title>
-    <link>https://tweakers.net/nieuws/252784/vandebron-gaat-2fa-afdwingen-en-blijft-authenticatieapps-ondersteunen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252784</guid>
-    <pubDate>Wed, 30 Sep 2026 16:53:53 +0200</pubDate>
-    <description>Energieleverancier Vandebron gaat tweestapsverificatie afdwingen bij alle klanten. Het Nederlandse bedrijf gaat dat in de eerste plaats via e-mail doen. De bestaande, veiligere methode met codes uit authenticatieapps blijft beschikbaar.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252784/vandebron-gaat-2fa-afdwingen-en-blijft-authenticatieapps-ondersteunen.html#reacties</comments>
   </item>
 </channel>
 </rss>

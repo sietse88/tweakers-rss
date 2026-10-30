@@ -91,16 +91,6 @@
   "pubDate": "Wed, 30 Sep 2026 16:53:53 +0200",
   "title": "Vandebron gaat 2fa afdwingen en blijft authenticatieapps ondersteunen"
  },
- "https://tweakers.net/nieuws/252788": {
-  "author": "Kevin Krikhaar",
-  "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html#reacties",
-  "description": "Een samenwerkingsverband van Europese toezichthouders gaat tien gamebedrijven onderzoeken, waaronder Minecraft-maker Mojang en het bedrijf achter Clash of Clans. Ze vermoeden dat de bedrijven zich niet houden aan de regels over in-gameaankopen.",
-  "guid": "https://tweakers.net/nieuws/252788",
-  "link": "https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html",
-  "pubDate": "Wed, 30 Sep 2026 14:47:39 +0200",
-  "title": "EU onderzoekt of Minecraft en Clash of Clans regels over in-gamevaluta schenden"
- },
  "https://tweakers.net/nieuws/252790": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Software development",
@@ -5073,6 +5063,17 @@
   "link": "https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html",
   "pubDate": "Fri, 30 Oct 2026 12:59:32 +0100",
   "title": "The Verge: The Elder Scrolls VI gaat Sentinel heten en wordt over maand getoond"
+ },
+ "https://tweakers.net/nieuws/253964": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / Internet",
+  "comments": "https://tweakers.net/nieuws/253964/hackers-stelen-data-van-2300-onderzoeksdeelnemers-bij-belgisch-medisch-instituut.html#reacties",
+  "description": "Hackers hebben de gegevens van 2300 onderzoeksdeelnemers van het Instituut voor Tropische Geneeskunde (ITG) in Antwerpen gestolen. Het instituut heeft hen per e-mail op de hoogte gebracht. In bepaalde gevallen stalen de aanvallers ook gezondheidsgegevens.",
+  "first": "Fri, 30 Oct 2026 12:49:14 +0000",
+  "guid": "https://tweakers.net/nieuws/253964",
+  "link": "https://tweakers.net/nieuws/253964/hackers-stelen-data-van-2300-onderzoeksdeelnemers-bij-belgisch-medisch-instituut.html",
+  "pubDate": "Fri, 30 Oct 2026 13:34:35 +0100",
+  "title": "Hackers stelen data van 2300 onderzoeksdeelnemers bij Belgisch medisch instituut"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

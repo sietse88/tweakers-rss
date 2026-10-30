@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 12:19:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 12:49:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers stelen data van 2300 onderzoeksdeelnemers bij Belgisch medisch instituut</title>
+    <link>https://tweakers.net/nieuws/253964/hackers-stelen-data-van-2300-onderzoeksdeelnemers-bij-belgisch-medisch-instituut.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253964</guid>
+    <pubDate>Fri, 30 Oct 2026 13:34:35 +0100</pubDate>
+    <description>Hackers hebben de gegevens van 2300 onderzoeksdeelnemers van het Instituut voor Tropische Geneeskunde (ITG) in Antwerpen gestolen. Het instituut heeft hen per e-mail op de hoogte gebracht. In bepaalde gevallen stalen de aanvallers ook gezondheidsgegevens.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253964/hackers-stelen-data-van-2300-onderzoeksdeelnemers-bij-belgisch-medisch-instituut.html#reacties</comments>
+  </item>
   <item>
     <title>Digitale multitool Flipper One kost 400 dollar en is nu in preorder te koop</title>
     <link>https://tweakers.net/nieuws/253954/digitale-multitool-flipper-one-kost-400-dollar-en-is-nu-in-preorder-te-koop.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252796/signal-brengt-lokale-beveiligde-back-ups-naar-iphone-ipad-en-desktop.html#reacties</comments>
-  </item>
-  <item>
-    <title>EU onderzoekt of Minecraft en Clash of Clans regels over in-gamevaluta schenden</title>
-    <link>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252788</guid>
-    <pubDate>Wed, 30 Sep 2026 14:47:39 +0200</pubDate>
-    <description>Een samenwerkingsverband van Europese toezichthouders gaat tien gamebedrijven onderzoeken, waaronder Minecraft-maker Mojang en het bedrijf achter Clash of Clans. Ze vermoeden dat de bedrijven zich niet houden aan de regels over in-gameaankopen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252788/eu-onderzoekt-of-minecraft-en-clash-of-clans-regels-over-in-gamevaluta-schenden.html#reacties</comments>
   </item>
 </channel>
 </rss>

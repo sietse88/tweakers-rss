@@ -120,11 +120,11 @@ De Europese Unie wil een onderzeese internetkabel aanleggen tussen Europa en Gro
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253956/europa-werkt-aan-directe-onderzeese-internetkabelverbinding-met-groenland.html)
 
-## Omdia: smartphonemarkt kromp 20 procent in het derde kwartaal
+## 'Hogere prijzen drukken wereldwijde smartphoneverkoop met 20 procent'
 
 De wereldwijde smartphonemarkt is in het derde kwartaal van 2026 met 20 procent gekrompen. Dat meldt marktonderzoeker Omdia. Volgens het bedrijf verkochten fabrikanten 254,7 miljoen smartphones. Dat is het kleinste aantal verkochte smartphones in een derde kwartaal sinds 2013.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/253966/omdia-smartphonemarkt-kromp-20-procent-in-het-derde-kwartaal.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/253966/hogere-prijzen-drukken-wereldwijde-smartphoneverkoop-met-20-procent.html)
 
 ## Mistrals grootste openweightmodel Le Chonk is uit
 

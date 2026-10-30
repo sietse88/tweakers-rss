@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:03:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 10:48:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Automatiseringsdienst If This Then That werkt voortaan met credits</title>
+    <link>https://tweakers.net/nieuws/253944/automatiseringsdienst-if-this-then-that-werkt-voortaan-met-credits.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253944</guid>
+    <pubDate>Fri, 30 Oct 2026 11:39:14 +0100</pubDate>
+    <description>Automatiseringsdienst If This Then That verandert zijn prijzen. De dienst stapt over op een systeem waarbij gebruikers onbeperkt applets kunnen maken, maar betalen naar gebruik. IFTTT integreert daarnaast verschillende AI-functies. Zo wordt het mogelijk met gewone taal applets te maken, maar applets kunnen ook bijvoorbeeld websites in de gaten houden en ze kunnen worden geïntegreerd in andere llm's.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/253944/automatiseringsdienst-if-this-then-that-werkt-voortaan-met-credits.html#reacties</comments>
+  </item>
   <item>
     <title>The Duskbloods komt pas in 2027 uit</title>
     <link>https://tweakers.net/nieuws/253936/the-duskbloods-komt-pas-in-2027-uit.html</link>

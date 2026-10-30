@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 06:48:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 07:18:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252772/apple-ceo-ternus-wil-sneller-meer-nieuwe-producten-uitbrengen.html#reacties</comments>
-  </item>
-  <item>
-    <title>EU rolt bende op die miljoen oude smartphones als nieuw zou hebben verkocht</title>
-    <link>https://tweakers.net/nieuws/252770/eu-rolt-bende-op-die-miljoen-oude-smartphones-als-nieuw-zou-hebben-verkocht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252770</guid>
-    <pubDate>Wed, 30 Sep 2026 09:05:11 +0200</pubDate>
-    <description>Europese opsporingsdiensten hebben een vermeende criminele bende opgerold die op grote schaal gebruikte smartphones als nieuw verkocht. De toestellen zouden uit oude onderdelen bestaan en vervolgens aan klanten in de EU zijn verkocht. Ook Nederland en België waren bij de actie betrokken.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252770/eu-rolt-bende-op-die-miljoen-oude-smartphones-als-nieuw-zou-hebben-verkocht.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:29:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 15:44:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252806/xbox-komt-na-18-jaar-met-eigen-versie-van-playstations-platina-trofee.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Apple brengt smarthomehub HomePad, HomePod mini en Apple TV op 13 oktober uit'</title>
-    <link>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252802</guid>
-    <pubDate>Wed, 30 Sep 2026 17:34:39 +0200</pubDate>
-    <description>Apple brengt zijn smarthomehub op 13 oktober uit. Dat zeggen bronnen tegen Mark Gurman van Bloomberg. Deze 'HomePad' zou eruitzien als de iMac G4. Tegelijkertijd komt Apple naar verluidt met een nieuwe HomePod mini en Apple TV.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Speakers</category>
-    <comments>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

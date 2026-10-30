@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 14:59:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 15:14:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Tablets en telefoons / Bluetooth trackers</category>
     <comments>https://tweakers.net/nieuws/252804/samsung-smarttag-3-is-compacter-en-werkt-met-ios-apparaten.html#reacties</comments>
-  </item>
-  <item>
-    <title>AI-bedrijven sluiten vrijwillig akkoord om toezicht te houden op AI-ontwikkeling</title>
-    <link>https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252782</guid>
-    <pubDate>Wed, 30 Sep 2026 17:08:25 +0200</pubDate>
-    <description>Leiders van een aantal grote techbedrijven hebben een vrijwillig akkoord gesloten met de Amerikaanse president Donald Trump om zelf AI te reguleren. In het akkoord staat onder andere dat de bedrijven zowel intern als extern toezicht gaan houden op de ontwikkeling van AI. Daarin staat ook dat het 'op termijn' logisch is om de vrijwillige afspraken wettelijk vast te leggen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252782/ai-bedrijven-sluiten-vrijwillig-akkoord-om-toezicht-te-houden-op-ai-ontwikkeling.html#reacties</comments>
   </item>
 </channel>
 </rss>

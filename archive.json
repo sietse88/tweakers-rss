@@ -81,16 +81,6 @@
   "pubDate": "Wed, 30 Sep 2026 13:38:21 +0200",
   "title": "Microsoft verwijderde data van non-profits voortijdig en permanent"
  },
- "https://tweakers.net/nieuws/252774": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / Computers / Geheugen intern",
-  "comments": "https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html#reacties",
-  "description": "Het Amerikaanse geheugenbedrijf Netlist eist van de handelstoezichthouder een importverbod op geheugenchips van Micron. Dit verbod zou ook moeten gelden voor afnemers Nvidia, Broadcom en Google. Volgens Netlist maakt geheugenfabrikant Micron inbreuk op zijn patenten op HBM-chips.",
-  "guid": "https://tweakers.net/nieuws/252774",
-  "link": "https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html",
-  "pubDate": "Wed, 30 Sep 2026 12:00:11 +0200",
-  "title": "Geheugenbedrijf Netlist eist importverbod VS op HBM-geheugenchips van Micron"
- },
  "https://tweakers.net/nieuws/252778": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
@@ -100,16 +90,6 @@
   "link": "https://tweakers.net/nieuws/252778/70-procent-van-eu-instellingen-e-mailt-via-servers-van-amerikaanse-bedrijven.html",
   "pubDate": "Wed, 30 Sep 2026 16:03:18 +0200",
   "title": "70 procent van EU-instellingen e-mailt via servers van Amerikaanse bedrijven"
- },
- "https://tweakers.net/nieuws/252780": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Gaming / Consoles",
-  "comments": "https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html#reacties",
-  "description": "Microsofts XBOX maakt de Disc to Digital-optie nu voor iedereen beschikbaar. Gebruikers kunnen daarmee hun fysieke disc koppelen aan hun account, en dezelfde game ook digitaal downloaden en spelen. 1581 games komen op dit moment in aanmerking voor de functie.",
-  "guid": "https://tweakers.net/nieuws/252780",
-  "link": "https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html",
-  "pubDate": "Wed, 30 Sep 2026 11:49:37 +0200",
-  "title": "XBOX maakt digitalisering van fysieke discs voor iedereen beschikbaar"
  },
  "https://tweakers.net/nieuws/252782": {
   "author": "Lumen Heijdendael",
@@ -5057,6 +5037,17 @@
   "link": "https://tweakers.net/nieuws/253934/reddit-gaat-volledig-achter-de-login-muur.html",
   "pubDate": "Fri, 30 Oct 2026 08:47:50 +0100",
   "title": "Reddit gaat volledig achter de login-muur"
+ },
+ "https://tweakers.net/nieuws/253936": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/253936/the-duskbloods-komt-pas-in-2027-uit.html#reacties",
+  "description": "FromSoftware heeft Switch-game The Duskbloods uitgesteld. De ontwikkelaar heeft meer tijd nodig om de game af te maken. The Duskbloods zou aanvankelijk nog dit jaar moeten verschijnen.",
+  "first": "Fri, 30 Oct 2026 10:03:51 +0000",
+  "guid": "https://tweakers.net/nieuws/253936",
+  "link": "https://tweakers.net/nieuws/253936/the-duskbloods-komt-pas-in-2027-uit.html",
+  "pubDate": "Fri, 30 Oct 2026 10:52:29 +0100",
+  "title": "The Duskbloods komt pas in 2027 uit"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

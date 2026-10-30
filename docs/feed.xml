@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 09:03:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 10:03:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>The Duskbloods komt pas in 2027 uit</title>
+    <link>https://tweakers.net/nieuws/253936/the-duskbloods-komt-pas-in-2027-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253936</guid>
+    <pubDate>Fri, 30 Oct 2026 10:52:29 +0100</pubDate>
+    <description>FromSoftware heeft Switch-game The Duskbloods uitgesteld. De ontwikkelaar heeft meer tijd nodig om de game af te maken. The Duskbloods zou aanvankelijk nog dit jaar moeten verschijnen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253936/the-duskbloods-komt-pas-in-2027-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Meerderheid van Nederlandse Kamer wil verbod op AI in het basisonderwijs</title>
     <link>https://tweakers.net/nieuws/253932/meerderheid-van-nederlandse-kamer-wil-verbod-op-ai-in-het-basisonderwijs.html</link>
@@ -5324,26 +5334,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
     <comments>https://tweakers.net/nieuws/252786/aanvallers-kwamen-mogelijk-binnen-bij-rijksoverheid-via-citrix-lekken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Geheugenbedrijf Netlist eist importverbod VS op HBM-geheugenchips van Micron</title>
-    <link>https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252774</guid>
-    <pubDate>Wed, 30 Sep 2026 12:00:11 +0200</pubDate>
-    <description>Het Amerikaanse geheugenbedrijf Netlist eist van de handelstoezichthouder een importverbod op geheugenchips van Micron. Dit verbod zou ook moeten gelden voor afnemers Nvidia, Broadcom en Google. Volgens Netlist maakt geheugenfabrikant Micron inbreuk op zijn patenten op HBM-chips.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Geheugen intern</category>
-    <comments>https://tweakers.net/nieuws/252774/geheugenbedrijf-netlist-eist-importverbod-vs-op-hbm-geheugenchips-van-micron.html#reacties</comments>
-  </item>
-  <item>
-    <title>XBOX maakt digitalisering van fysieke discs voor iedereen beschikbaar</title>
-    <link>https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252780</guid>
-    <pubDate>Wed, 30 Sep 2026 11:49:37 +0200</pubDate>
-    <description>Microsofts XBOX maakt de Disc to Digital-optie nu voor iedereen beschikbaar. Gebruikers kunnen daarmee hun fysieke disc koppelen aan hun account, en dezelfde game ook digitaal downloaden en spelen. 1581 games komen op dit moment in aanmerking voor de functie.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252780/xbox-maakt-digitalisering-van-fysieke-discs-voor-iedereen-beschikbaar.html#reacties</comments>
   </item>
 </channel>
 </rss>

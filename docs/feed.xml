@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:44:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 15:59:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bloomberg: EA sloot BioWare om te focussen op Star Wars Battlefront 3</title>
+    <link>https://tweakers.net/nieuws/253980/bloomberg-ea-sloot-bioware-om-te-focussen-op-star-wars-battlefront-3.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253980</guid>
+    <pubDate>Fri, 30 Oct 2026 16:42:29 +0100</pubDate>
+    <description>Volgens Bloomberg-journalist Jason Schreier heeft Electronic Arts de deuren van BioWare gesloten vanwege de ontwikkeling van een nieuwe titel in de Star Wars Battlefront-reeks. EA zou in financieel zwaar weer zitten vanwege de overname door het Public Investment Fund, het staatsfonds van Saoedi-Arabië. Daardoor is de ontwikkelaar opgezadeld met een schuld van 18 miljard dollar.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253980/bloomberg-ea-sloot-bioware-om-te-focussen-op-star-wars-battlefront-3.html#reacties</comments>
+  </item>
   <item>
     <title>Apple heeft agentische-AI-start-up Ascend.io overgenomen</title>
     <link>https://tweakers.net/nieuws/253978/apple-heeft-agentische-ai-start-up-ascend-punt-io-overgenomen.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 04:02:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 05:02:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Google Fitbit Edge - Tussen fitnessband en smartwatch</title>
+    <link>https://tweakers.net/reviews/15542/google-fitbit-edge-tussen-fitnessband-en-smartwatch.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15542</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <description>De Google Fitbit Edge is een kruising tussen de schermloze Fitbit Air-tracker en de Pixel Watch 5: licht en compact, maar mét een scherm en ingebouwde gps.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>Review / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/reviews/15542/google-fitbit-edge-tussen-fitnessband-en-smartwatch.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Philips OLED811-tv – Minder helder voor meer geld</title>
+    <link>https://tweakers.net/reviews/15480/philips-oled811-tv-minder-helder-voor-meer-geld.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15480</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <description>De Philips OLED811 moet dit jaar de strijd aanbinden met de Samsung S90H en LG C6. Kan dit luxe Ambilight-model een beetje meekomen?</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Review / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15480/philips-oled811-tv-minder-helder-voor-meer-geld.html#reacties</comments>
+  </item>
   <item>
     <title>Google stopt eind dit jaar met zijn AI-codinghulp Jules</title>
     <link>https://tweakers.net/nieuws/253928/google-stopt-eind-dit-jaar-met-zijn-ai-codinghulp-jules.html</link>

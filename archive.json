@@ -81,16 +81,6 @@
   "pubDate": "Wed, 30 Sep 2026 16:53:53 +0200",
   "title": "Vandebron gaat 2fa afdwingen en blijft authenticatieapps ondersteunen"
  },
- "https://tweakers.net/nieuws/252790": {
-  "author": "Lumen Heijdendael",
-  "category": "Nieuws / IT Pro / Software development",
-  "comments": "https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html#reacties",
-  "description": "Het Chinese AI-bedrijf DeepSeek heeft software voor chips van Huawei ontwikkeld op basis van de programmeertaal TileLang. Het bedrijf wil daarmee zijn afhankelijkheid van het Amerikaanse Nvidia afbouwen.",
-  "guid": "https://tweakers.net/nieuws/252790",
-  "link": "https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html",
-  "pubDate": "Wed, 30 Sep 2026 16:36:01 +0200",
-  "title": "DeepSeek maakt software voor Huawei-chips om onafhankelijker van Nvidia te zijn"
- },
  "https://tweakers.net/nieuws/252794": {
   "author": "Yannick Spinner",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
@@ -5066,6 +5056,17 @@
   "link": "https://tweakers.net/nieuws/253960/openai-verdubbelt-gebruikslimieten-chatgpt-pro-na-kritiek-op-geplande-verlaging.html",
   "pubDate": "Fri, 30 Oct 2026 14:45:27 +0100",
   "title": "OpenAI verdubbelt gebruikslimieten ChatGPT Pro na kritiek op geplande verlaging"
+ },
+ "https://tweakers.net/nieuws/253962": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/253962/kwaadaardige-claude-extensie-van-cursor-raakt-5000-gebruikers.html#reacties",
+  "description": "Cursor heeft een kwaadaardige versie van een Claude-extensie van zijn marktplaats verwijderd. Die extensie stal gevoelige gegevens. Volgens Cursor hebben 5000 gebruikers de extensie gedownload.",
+  "first": "Fri, 30 Oct 2026 14:44:17 +0000",
+  "guid": "https://tweakers.net/nieuws/253962",
+  "link": "https://tweakers.net/nieuws/253962/kwaadaardige-claude-extensie-van-cursor-raakt-5000-gebruikers.html",
+  "pubDate": "Fri, 30 Oct 2026 15:37:34 +0100",
+  "title": "Kwaadaardige Claude-extensie van Cursor raakt 5000 gebruikers"
  },
  "https://tweakers.net/nieuws/253964": {
   "author": "Imre Himmelbauer",

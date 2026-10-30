@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 12:04:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 12:19:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
+    <title>Digitale multitool Flipper One kost 400 dollar en is nu in preorder te koop</title>
+    <link>https://tweakers.net/nieuws/253954/digitale-multitool-flipper-one-kost-400-dollar-en-is-nu-in-preorder-te-koop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253954</guid>
+    <pubDate>Fri, 30 Oct 2026 13:13:25 +0100</pubDate>
+    <description>Flipper is begonnen met preorders voor de digitale multitool Flipper One. Die gaat 400 dollar kosten. Dat is meer dan gedacht, maar de makers wijten dat aan de ramcrisis. Kopers kunnen nu alvast een coupon kopen waarmee ze korting krijgen als de Kickstarter-campagne begint.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Gadgets</category>
+    <comments>https://tweakers.net/nieuws/253954/digitale-multitool-flipper-one-kost-400-dollar-en-is-nu-in-preorder-te-koop.html#reacties</comments>
+  </item>
+  <item>
     <title>The Verge: The Elder Scrolls VI gaat Sentinel heten en wordt over maand getoond</title>
     <link>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253958</guid>
     <pubDate>Fri, 30 Oct 2026 12:59:32 +0100</pubDate>
-    <description>De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de nieuwe, langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls' gaan.</description>
+    <description>De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de nieuwe, langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls'.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html#reacties</comments>

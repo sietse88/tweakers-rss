@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 11:03:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:34:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Dune: Awakening krijgt offline singleplayer en crossplay</title>
+    <link>https://tweakers.net/nieuws/253940/dune-awakening-krijgt-offline-singleplayer-en-crossplay.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253940</guid>
+    <pubDate>Fri, 30 Oct 2026 12:25:05 +0100</pubDate>
+    <description>Dune: Awakening krijgt de komende maanden verschillende nieuwe functies. Zo kunnen spelers de singleplayermodus in november offline spelen. Vanaf januari 2027 kunnen ze bovendien met spelers op andere platforms. Daarnaast komt er op 1 december een gratis uitbreiding met 35 uur gameplay uit. De ontwikkelaar wil de doorontwikkeling van de game bekostigen met een nieuwe in-gamewinkel voor cosmetische items.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/253940/dune-awakening-krijgt-offline-singleplayer-en-crossplay.html#reacties</comments>
+  </item>
   <item>
     <title>Synology waarschuwt voor ransomware op nas'en die op verouderde firmware draaien</title>
     <link>https://tweakers.net/nieuws/253948/synology-waarschuwt-voor-ransomware-op-nasen-die-op-verouderde-firmware-draaien.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Business software</category>
     <comments>https://tweakers.net/nieuws/252748/microsoft-verwijderde-data-van-non-profits-voortijdig-en-permanent.html#reacties</comments>
-  </item>
-  <item>
-    <title>Aanvallers kwamen mogelijk binnen bij Rijksoverheid via Citrix-lekken</title>
-    <link>https://tweakers.net/nieuws/252786/aanvallers-kwamen-mogelijk-binnen-bij-rijksoverheid-via-citrix-lekken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252786</guid>
-    <pubDate>Wed, 30 Sep 2026 13:30:44 +0200</pubDate>
-    <description>Door de nieuwste beveiligingsgaten in Citrix-systemen zijn aanvallers mogelijk binnengedrongen bij de Nederlandse Rijksoverheid. Dit meldt de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Het gaat om systemen voor thuiswerken, die deels nog offline zijn.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/252786/aanvallers-kwamen-mogelijk-binnen-bij-rijksoverheid-via-citrix-lekken.html#reacties</comments>
   </item>
 </channel>
 </rss>

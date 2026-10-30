@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:14:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 15:29:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple heeft agentische-AI-start-up Ascend.io overgenomen</title>
+    <link>https://tweakers.net/nieuws/253978/apple-heeft-agentische-ai-start-up-ascend-punt-io-overgenomen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253978</guid>
+    <pubDate>Fri, 30 Oct 2026 16:16:09 +0100</pubDate>
+    <description>Apple heeft eerder dit jaar de AI-start-up Ascend.io overgenomen. Dat valt te lezen op de website van de Europese Commissie. Door de Digital Markets Act moeten bedrijven overnames boven een bepaald bedrag openbaar maken. Wat Apple precies heeft betaald voor de start-up, is niet bekend.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/253978/apple-heeft-agentische-ai-start-up-ascend-punt-io-overgenomen.html#reacties</comments>
+  </item>
   <item>
     <title>Kwaadaardige Claude-extensie van Cursor raakt 5000 gebruikers</title>
     <link>https://tweakers.net/nieuws/253962/kwaadaardige-claude-extensie-van-cursor-raakt-5000-gebruikers.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/252802/apple-brengt-smarthomehub-homepad-homepod-mini-en-apple-tv-op-13-oktober-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Samsung SmartTag 3 is compacter en werkt met iOS-apparaten</title>
-    <link>https://tweakers.net/nieuws/252804/samsung-smarttag-3-is-compacter-en-werkt-met-ios-apparaten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252804</guid>
-    <pubDate>Wed, 30 Sep 2026 17:28:58 +0200</pubDate>
-    <description>Samsung heeft zijn derde slimme tracker aangekondigd. Voor het eerst kunnen niet alleen Samsung Galaxy-apparaten deze SmartTag volgen, maar ook iOS-apparaten. De compacte tracker komt volgend jaar beschikbaar.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Bluetooth trackers</category>
-    <comments>https://tweakers.net/nieuws/252804/samsung-smarttag-3-is-compacter-en-werkt-met-ios-apparaten.html#reacties</comments>
   </item>
 </channel>
 </rss>

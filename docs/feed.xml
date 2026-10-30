@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 20:30:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 22:15:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -46,14 +46,14 @@
     <comments>https://tweakers.net/nieuws/253986/proton-ceo-schrapt-hersollicitatiegesprekken-met-werknemers-over-ai-gebruik.html#reacties</comments>
   </item>
   <item>
-    <title>Dodelijke explosie bij Fab 28 in Israël kostte Intel 600 miljoen dollar omzet</title>
-    <link>https://tweakers.net/nieuws/253984/dodelijke-explosie-bij-fab-28-in-israel-kostte-intel-600-miljoen-dollar-omzet.html</link>
+    <title>Dodelijke explosie bij Fab 28 in Israël kost Intel 600 miljoen dollar omzet</title>
+    <link>https://tweakers.net/nieuws/253984/dodelijke-explosie-bij-fab-28-in-israel-kost-intel-600-miljoen-dollar-omzet.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253984</guid>
     <pubDate>Fri, 30 Oct 2026 18:27:06 +0100</pubDate>
-    <description>De explosie bij Intels Fab 28 in Israël heeft het bedrijf 600 miljoen dollar aan omzet gekost. Dat zegt cfo David Zinsner in de bespreking van de kwartaalcijfers. De explosie van twee weken geleden kostte twee werknemers het leven. Iemand anders raakte zwaargewond.</description>
+    <description>De explosie bij Intels Fab 28 in Israël kost het bedrijf 600 miljoen dollar aan omzet. Dat zegt cfo David Zinsner in de bespreking van de kwartaalcijfers. De explosie van twee weken geleden kostte twee werknemers het leven. Iemand anders raakte zwaargewond.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/253984/dodelijke-explosie-bij-fab-28-in-israel-kostte-intel-600-miljoen-dollar-omzet.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/253984/dodelijke-explosie-bij-fab-28-in-israel-kost-intel-600-miljoen-dollar-omzet.html#reacties</comments>
   </item>
   <item>
     <title>Hackers krijgen Linux-distro Bazzite in Steam Deck-modus werkend op PS5</title>

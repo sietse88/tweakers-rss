@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 19:14:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 19:44:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia-ceo zou 'nauwe band' hebben gehad met spion uit China</title>
+    <link>https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253990</guid>
+    <pubDate>Fri, 30 Oct 2026 20:27:49 +0100</pubDate>
+    <description>Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html#reacties</comments>
+  </item>
   <item>
     <title>'Proton-ceo schrapt hersollicitatiegesprekken met werknemers over AI-gebruik'</title>
     <link>https://tweakers.net/nieuws/253986/proton-ceo-schrapt-hersollicitatiegesprekken-met-werknemers-over-ai-gebruik.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 17:44:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 18:14:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/252812/reddit-blokkeert-rss-feeds-en-geeft-nieuwe-accounts-geen-toegang-tot-oude-ui.html#reacties</comments>
-  </item>
-  <item>
-    <title>RTL: geen enkele klant betaalde losgeld aan hackers van onlinesupermarkt Flink</title>
-    <link>https://tweakers.net/nieuws/252810/rtl-geen-enkele-klant-betaalde-losgeld-aan-hackers-van-onlinesupermarkt-flink.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252810</guid>
-    <pubDate>Wed, 30 Sep 2026 20:14:17 +0200</pubDate>
-    <description>Tot dusver heeft nog geen enkele klant losgeld betaald aan de ransomwarebende die onlinesupermarkt Flink hackte. De criminelen vroegen klanten om ongeveer 11 euro in crypto. In ruil daarvoor zouden ze de gestolen gebruikersdata niet publiceren.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252810/rtl-geen-enkele-klant-betaalde-losgeld-aan-hackers-van-onlinesupermarkt-flink.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 13:34:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 14:29:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Videoland krijgt volgend jaar losse abonnementen voor sport na Viaplay-overname</title>
+    <link>https://tweakers.net/nieuws/253976/videoland-krijgt-volgend-jaar-losse-abonnementen-voor-sport-na-viaplay-overname.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253976</guid>
+    <pubDate>Fri, 30 Oct 2026 15:23:22 +0100</pubDate>
+    <description>Videoland krijgt in de toekomst een apart sportabonnement. Eigenaar DPG Media heeft de overname van Viaplay definitief afgerond en schrijft aan abonnees dat sport 'een afzonderlijk aanbod naast de bestaande Videoland-abonnementen blijft'.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/253976/videoland-krijgt-volgend-jaar-losse-abonnementen-voor-sport-na-viaplay-overname.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Nvidia wil RTX 5080 met 24GB eerder uitbrengen dan verwacht en 16GB uitfaseren'</title>
+    <link>https://tweakers.net/nieuws/253974/nvidia-wil-rtx-5080-met-24gb-eerder-uitbrengen-dan-verwacht-en-16gb-uitfaseren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253974</guid>
+    <pubDate>Fri, 30 Oct 2026 15:08:25 +0100</pubDate>
+    <description>Nvidia zou de GeForce RTX 5080 met 24GB eerder uitbrengen dan gedacht. De kaart zou volgend jaar worden aangekondigd, maar lijkt volgens bronnen van ChannelGate in ieder geval in China al in december van dit jaar uit te komen. De kaart vervangt dan de huidige 16GB-versie en wordt de krachtigste videokaart die in China te koop komt. Het is niet duidelijk of de kaart ook in andere regio's de 16GB-versie vervangt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/253974/nvidia-wil-rtx-5080-met-24gb-eerder-uitbrengen-dan-verwacht-en-16gb-uitfaseren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Britse inlichtingendienst is duizenden gevoelige opslagapparaten kwijt</title>
+    <link>https://tweakers.net/nieuws/253950/britse-inlichtingendienst-is-duizenden-gevoelige-opslagapparaten-kwijt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253950</guid>
+    <pubDate>Fri, 30 Oct 2026 14:47:16 +0100</pubDate>
+    <description>De Britse inlichtingendienst GCHQ is duizenden opslagapparaten kwijt waarop mogelijk gevoelig materiaal staat. Apparaten zoals USB-sticks, sd-kaartjes en externe ssd's zijn spoorloos, zegt een toezichthouder.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Computers / Geheugenkaarten</category>
+    <comments>https://tweakers.net/nieuws/253950/britse-inlichtingendienst-is-duizenden-gevoelige-opslagapparaten-kwijt.html#reacties</comments>
+  </item>
+  <item>
+    <title>OpenAI verdubbelt gebruikslimieten ChatGPT Pro na kritiek op geplande verlaging</title>
+    <link>https://tweakers.net/nieuws/253960/openai-verdubbelt-gebruikslimieten-chatgpt-pro-na-kritiek-op-geplande-verlaging.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253960</guid>
+    <pubDate>Fri, 30 Oct 2026 14:45:27 +0100</pubDate>
+    <description>OpenAI gaat de gebruikslimiet voor alle ChatGPT Pro-abonnementen verdubbelen na kritiek op de oorspronkelijke plannen om die limiet juist te halveren. ChatGPT Pro is de duurste abonnementsreeks die OpenAI aanbiedt. De techgigant wilde de gebruikslimiet halveren voor het goedkopere ChatGPT Pro 200-abonnement, terwijl de prijs voor de dienst even hoog zou blijven.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/253960/openai-verdubbelt-gebruikslimieten-chatgpt-pro-na-kritiek-op-geplande-verlaging.html#reacties</comments>
+  </item>
+  <item>
+    <title>Mistrals grootste openweightmodel Le Chonk is uit</title>
+    <link>https://tweakers.net/nieuws/253970/mistrals-grootste-openweightmodel-le-chonk-is-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253970</guid>
+    <pubDate>Fri, 30 Oct 2026 14:41:27 +0100</pubDate>
+    <description>Het Franse AI-bedrijf Mistral heeft de weights van zijn Large 4-model openbaar gemaakt. Het bedrijf kondigde het krachtigste model, ook wel 'Le Chonk' genoemd, eerder deze maand aan. Het model bestaat uit een biljoen parameters en is daarmee het grootste openweightmodel buiten China.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/253970/mistrals-grootste-openweightmodel-le-chonk-is-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Omdia: smartphonemarkt kromp 20 procent in het derde kwartaal</title>
     <link>https://tweakers.net/nieuws/253966/omdia-smartphonemarkt-kromp-20-procent-in-het-derde-kwartaal.html</link>
@@ -60,7 +110,7 @@
     <link>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253958</guid>
     <pubDate>Fri, 30 Oct 2026 12:59:32 +0100</pubDate>
-    <description>De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de nieuwe, langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls'.</description>
+    <description>De nieuwe Elder Scrolls-game gaat Sentinel heten. The Verge schrijft dat Microsoft en Bethesda de langverwachte game over een maand aankondigen. De game speelt zich af in Hammerfell en gaat daadwerkelijk over de geschiedenis van de mysterieuze 'Elder Scrolls'.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253958/the-verge-the-elder-scrolls-vi-gaat-sentinel-heten-en-wordt-over-maand-getoond.html#reacties</comments>
@@ -70,7 +120,7 @@
     <link>https://tweakers.net/nieuws/253940/dune-awakening-krijgt-offline-singleplayer-en-crossplay.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253940</guid>
     <pubDate>Fri, 30 Oct 2026 12:25:05 +0100</pubDate>
-    <description>Dune: Awakening krijgt de komende maanden verschillende nieuwe functies. Zo kunnen spelers de singleplayermodus in november offline spelen. Vanaf januari 2027 kunnen ze bovendien met spelers op andere platforms. Daarnaast komt er op 1 december een gratis uitbreiding met 35 uur gameplay uit. De ontwikkelaar wil de doorontwikkeling van de game bekostigen met een nieuwe in-gamewinkel voor cosmetische items.</description>
+    <description>Dune: Awakening krijgt de komende maanden verschillende nieuwe functies. Zo kunnen spelers de singleplayermodus in november offline spelen. Vanaf januari 2027 kunnen ze bovendien met spelers op andere platforms spelen. Daarnaast komt er op 1 december een gratis uitbreiding met 35 uur gameplay uit. De ontwikkelaar wil de doorontwikkeling van de game bekostigen met een nieuwe in-gamewinkel voor cosmetische items.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253940/dune-awakening-krijgt-offline-singleplayer-en-crossplay.html#reacties</comments>
@@ -5334,46 +5384,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/252790/deepseek-maakt-software-voor-huawei-chips-om-onafhankelijker-van-nvidia-te-zijn.html#reacties</comments>
-  </item>
-  <item>
-    <title>70 procent van EU-instellingen e-mailt via servers van Amerikaanse bedrijven</title>
-    <link>https://tweakers.net/nieuws/252778/70-procent-van-eu-instellingen-e-mailt-via-servers-van-amerikaanse-bedrijven.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252778</guid>
-    <pubDate>Wed, 30 Sep 2026 16:03:18 +0200</pubDate>
-    <description>70 procent van de instellingen van de Europese Unie (EU) laat zijn e-mail via Amerikaanse servers lopen. Ook de e-mail van de Europese Commissie loopt via Amerikaanse diensten.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252778/70-procent-van-eu-instellingen-e-mailt-via-servers-van-amerikaanse-bedrijven.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Massa's massaclaims: schrijf je vooral in, maar verwacht er niets van</title>
-    <link>https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15374</guid>
-    <pubDate>Wed, 30 Sep 2026 16:00:00 +0200</pubDate>
-    <description>Massaclaims tegen techbedrijven klinken aantrekkelijk: schrijf je gratis in, misschien krijg je wel wat geld. Maar of dat werkt, is onzeker.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Achtergrond / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/reviews/15374/massas-massaclaims-schrijf-je-vooral-in-maar-verwacht-er-niets-van.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenAI voegt abonnement van 500 dollar toe en knijpt abo van 200 dollar af</title>
-    <link>https://tweakers.net/nieuws/252798/openai-voegt-abonnement-van-500-dollar-toe-en-knijpt-abo-van-200-dollar-af.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252798</guid>
-    <pubDate>Wed, 30 Sep 2026 15:50:06 +0200</pubDate>
-    <description>Het duurste abonnement van OpenAI kost nu 500 dollar per maand. Daarvoor krijgen gebruikers de hoogste gebruikslimieten en snellere reacties. Tot dusver kostte het duurste abonnement 200 dollar. Dat blijft bestaan, maar de gebruikslimieten gaan door de helft.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/252798/openai-voegt-abonnement-van-500-dollar-toe-en-knijpt-abo-van-200-dollar-af.html#reacties</comments>
-  </item>
-  <item>
-    <title>Signal brengt lokale beveiligde back-ups naar iPhone, iPad en desktop</title>
-    <link>https://tweakers.net/nieuws/252796/signal-brengt-lokale-beveiligde-back-ups-naar-iphone-ipad-en-desktop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252796</guid>
-    <pubDate>Wed, 30 Sep 2026 15:46:55 +0200</pubDate>
-    <description>Signal introduceert lokale back-ups van gesprekken voor iPhone-, iPad- en desktopgebruikers. De back-ups zijn net als de reguliere berichtendienst versleuteld. Lokale back-ups zijn met Signals Android-app al jaren mogelijk.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252796/signal-brengt-lokale-beveiligde-back-ups-naar-iphone-ipad-en-desktop.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 06:03:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 06:33:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/252770/eu-rolt-bende-op-die-miljoen-oude-smartphones-als-nieuw-zou-hebben-verkocht.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft rolt Windows 11 26H2 gefaseerd uit via Windows Update</title>
-    <link>https://tweakers.net/nieuws/252766/microsoft-rolt-windows-11-26h2-gefaseerd-uit-via-windows.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252766</guid>
-    <pubDate>Wed, 30 Sep 2026 08:22:08 +0200</pubDate>
-    <description>Windows-gebruikers krijgen de volgende grote release van Windows 11 aangeboden via Windows Update. Microsoft rolt deze 26H2-release gefaseerd uit. Het is volgens het bedrijf een lichte update die nieuwe functies activeert die al aanwezig zijn in het besturingssysteem.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/252766/microsoft-rolt-windows-11-26h2-gefaseerd-uit-via-windows.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 30 Oct 2026 16:14:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 16:59:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers krijgen Linux-distro Bazzite in Steam Deck-modus werkend op PS5</title>
+    <link>https://tweakers.net/nieuws/253982/hackers-krijgen-linux-distro-bazzite-in-steam-deck-modus-werkend-op-ps5.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253982</guid>
+    <pubDate>Fri, 30 Oct 2026 17:49:57 +0100</pubDate>
+    <description>Hackers hebben de Linux-distributie Bazzite werkend gekregen op de PlayStation 5. Het systeem draait vanaf een extern opslagmedium, zoals een externe ssd. Het OS start standaard in Steam Gaming Mode, de interface van de Steam Deck.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/253982/hackers-krijgen-linux-distro-bazzite-in-steam-deck-modus-werkend-op-ps5.html#reacties</comments>
+  </item>
   <item>
     <title>Bloomberg: EA sloot BioWare om te focussen op Star Wars Battlefront 3</title>
     <link>https://tweakers.net/nieuws/253980/bloomberg-ea-sloot-bioware-om-te-focussen-op-star-wars-battlefront-3.html</link>

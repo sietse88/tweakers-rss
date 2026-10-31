@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 17:17:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 17:47:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5134,16 +5134,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html#reacties</comments>
-  </item>
-  <item>
-    <title>PlayStation 5-basismodel krijgt AI-upscaler voor betere beeldkwaliteit</title>
-    <link>https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252870</guid>
-    <pubDate>Thu, 01 Oct 2026 19:41:43 +0200</pubDate>
-    <description>Sony en AMD brengen een AI-upscaler naar het PlayStation 5-basismodel: QSSR. Dat is een nieuwe versie van de PSSR-upscaler, die tot nu toe alleen op de PS5 Pro werkte. De upscaler wordt vanaf vandaag toegevoegd aan de eerste games.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html#reacties</comments>
   </item>
 </channel>
 </rss>

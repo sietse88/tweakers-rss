@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 10:01:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 10:46:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5224,16 +5224,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / E-commerce</category>
     <comments>https://tweakers.net/nieuws/252838/wehkamp-haalt-meta-camerabrillen-per-direct-uit-verkoop-door-privacyzorgen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google vecht eis om zoekdata te delen met concurrenten aan</title>
-    <link>https://tweakers.net/nieuws/252836/google-vecht-eis-om-zoekdata-te-delen-met-concurrenten-aan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252836</guid>
-    <pubDate>Thu, 01 Oct 2026 12:37:30 +0200</pubDate>
-    <description>Google vecht de eis van de Europese Commissie om zijn zoekmachinedata te delen met concurrerende zoekmachines en AI-chatbots aan bij de op een na hoogste EU-rechtbank. Volgens het bedrijf schendt het besluit de privacy van Europese gebruikers.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252836/google-vecht-eis-om-zoekdata-te-delen-met-concurrenten-aan.html#reacties</comments>
   </item>
 </channel>
 </rss>

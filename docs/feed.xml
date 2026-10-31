@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 12:01:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 13:16:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5194,16 +5194,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252858/autoriteiten-vinden-110tb-gestolen-gegevens-op-servers-ransomwarebende-killsec.html#reacties</comments>
-  </item>
-  <item>
-    <title>'EU onderzoekt Binance omdat het Europese klanten bedient zonder vergunning'</title>
-    <link>https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252844</guid>
-    <pubDate>Thu, 01 Oct 2026 15:13:32 +0200</pubDate>
-    <description>Europese toezichthouders doen onderzoek naar Binance, meldt The Financial Times. De cryptobeurs heeft geen vergunning in Europa, maar bedient hier alsnog klanten. Het bedrijf beroept zich op een wettelijke uitzondering, maar de toezichthouders betwijfelen of die uitzondering hier wel geldt.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html#reacties</comments>
   </item>
 </channel>
 </rss>

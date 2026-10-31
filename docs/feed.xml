@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 17:47:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 18:47:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5124,16 +5124,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252866/the-division-studio-massive-krijgt-controle-over-splinter-cell-en-ghost-recon.html#reacties</comments>
-  </item>
-  <item>
-    <title>Windows-pc's kunnen nu Linux-containers draaien via WSL</title>
-    <link>https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252862</guid>
-    <pubDate>Thu, 01 Oct 2026 20:34:07 +0200</pubDate>
-    <description>Microsoft brengt WSL Containers officieel uit. Gebruikers kunnen daarmee Linux-containers draaien binnen Windows 11. De functie werd al langer getest, maar is nu voor iedereen beschikbaar.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/252862/windows-pcs-kunnen-nu-linux-containers-draaien-via-wsl.html#reacties</comments>
   </item>
 </channel>
 </rss>

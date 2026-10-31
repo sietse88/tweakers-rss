@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 11:31:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 12:01:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,26 +5204,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/252844/eu-onderzoekt-binance-omdat-het-europese-klanten-bedient-zonder-vergunning.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Naughty Dog brengt eerst nieuwe Uncharted uit en dan The Last of Us Part III'</title>
-    <link>https://tweakers.net/nieuws/252842/naughty-dog-brengt-eerst-nieuwe-uncharted-uit-en-dan-the-last-of-us-part-iii.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252842</guid>
-    <pubDate>Thu, 01 Oct 2026 14:00:00 +0200</pubDate>
-    <description>Naughty Dog werkt aan een nieuwe game in de Uncharted-franchise. Dat claimen bronnen van de doorgaans betrouwbare gamingwebsite MP1st en leaker NateTheHate. Volgens de site werkt de studio ook aan een nieuwe The Last of Us, die pas na de volgende Uncharted zou uitkomen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252842/naughty-dog-brengt-eerst-nieuwe-uncharted-uit-en-dan-the-last-of-us-part-iii.html#reacties</comments>
-  </item>
-  <item>
-    <title>Framework vraagt 7659 euro voor Desktop met 192GB ram en zonder ssd</title>
-    <link>https://tweakers.net/nieuws/252840/framework-vraagt-7659-euro-voor-desktop-met-192gb-ram-en-zonder-ssd.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252840</guid>
-    <pubDate>Thu, 01 Oct 2026 13:54:57 +0200</pubDate>
-    <description>Framework komt met een nieuwe variant van zijn Desktop-mini-pc. Die krijgt een nieuwe Ryzen AI Max+ PRO 495-processor met 192GB geïntegreerd geheugen. Een DIY-versie zonder ssd kost 7659 euro. Een kant-en-klare versie met 2TB opslagruimte en Fedora Linux kost 8379 euro.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/252840/framework-vraagt-7659-euro-voor-desktop-met-192gb-ram-en-zonder-ssd.html#reacties</comments>
   </item>
 </channel>
 </rss>

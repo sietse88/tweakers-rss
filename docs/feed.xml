@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 08:46:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:01:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Disney+ lijkt HDR10 weer te ondersteunen via VP9-Profile 2</title>
+    <link>https://tweakers.net/nieuws/253994/disney+-lijkt-hdr10-weer-te-ondersteunen-via-vp9-profile-2.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253994</guid>
+    <pubDate>Sat, 31 Oct 2026 09:53:16 +0100</pubDate>
+    <description>Disney+ lijkt opnieuw HDR10 te ondersteunen in Europa. De streamingdienst verwijderde de mogelijkheid om in hdr te streamen in bepaalde landen, waaronder Nederland en België, na een patentzaak van InterDigital over het gebruik van de HEVC-codec. Disney+ stapt volgens FlatPanelsHD nu over naar VP9-Profile 2.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
+    <comments>https://tweakers.net/nieuws/253994/disney+-lijkt-hdr10-weer-te-ondersteunen-via-vp9-profile-2.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Apple iPhone Duo - Eerste vouw is meteen raak</title>
     <link>https://tweakers.net/reviews/15516/apple-iphone-duo-eerste-vouw-is-meteen-raak.html</link>
@@ -5244,16 +5254,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/252832/toekomst-android-central-onzeker-nu-moederbedrijf-alle-medewerkers-ontslaat.html#reacties</comments>
-  </item>
-  <item>
-    <title>IKEA begint verkoop XBOX-collectie</title>
-    <link>https://tweakers.net/nieuws/252830/ikea-begint-verkoop-xbox-collectie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252830</guid>
-    <pubDate>Thu, 01 Oct 2026 10:55:01 +0200</pubDate>
-    <description>IKEA is donderdag begonnen met de verkoop van zijn XBOX-collectie YXSTABY. Beide bedrijven hadden de producten ruim een maand geleden aangekondigd. Het gaat onder meer om een krukje, kussen en bord voor controllers.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Gaming / Game-accessoires</category>
-    <comments>https://tweakers.net/nieuws/252830/ikea-begint-verkoop-xbox-collectie.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 09:01:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:16:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,26 +5234,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Achtergrond / Computers / Geheugen intern</category>
     <comments>https://tweakers.net/reviews/15372/een-jaar-geheugenchaos-ddr5-is-vier-keer-duurder-en-de-prijzen-stijgen-weer.html#reacties</comments>
-  </item>
-  <item>
-    <title>KPN verhelpt zwart beeld op ESPN UHD voor meeste klanten</title>
-    <link>https://tweakers.net/nieuws/252834/kpn-verhelpt-zwart-beeld-op-espn-uhd-voor-meeste-klanten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252834</guid>
-    <pubDate>Thu, 01 Oct 2026 11:15:41 +0200</pubDate>
-    <description>KPN heeft de problemen met de ESPN UHD-kanalen voor 'het grootste deel' van zijn klanten opgelost, meldt de provider aan Tweakers. Bij een aantal klanten stonden die zenders sinds een update van de KPN TV+-launcher op zwart.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/252834/kpn-verhelpt-zwart-beeld-op-espn-uhd-voor-meeste-klanten.html#reacties</comments>
-  </item>
-  <item>
-    <title>Toekomst Android Central onzeker nu moederbedrijf alle medewerkers ontslaat</title>
-    <link>https://tweakers.net/nieuws/252832/toekomst-android-central-onzeker-nu-moederbedrijf-alle-medewerkers-ontslaat.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252832</guid>
-    <pubDate>Thu, 01 Oct 2026 11:08:27 +0200</pubDate>
-    <description>De toekomst van Android-fansite Android Central is onzeker nu het moederbedrijf alle zes de medewerkers heeft ontslagen. Moederbedrijf Future PLC heeft nog geen verklaring gegeven. De site is nog online.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252832/toekomst-android-central-onzeker-nu-moederbedrijf-alle-medewerkers-ontslaat.html#reacties</comments>
   </item>
 </channel>
 </rss>

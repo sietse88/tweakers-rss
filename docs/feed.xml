@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 07:16:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:16:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5264,16 +5264,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252824/shinyhunters-site-gaat-offline-dag-na-ultimatum-aan-fbi.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft-topvrouw: XBOX-divisie is niet te koop</title>
-    <link>https://tweakers.net/nieuws/252822/microsoft-topvrouw-xbox-divisie-is-niet-te-koop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252822</guid>
-    <pubDate>Thu, 01 Oct 2026 10:07:34 +0200</pubDate>
-    <description>De XBOX-divisie is niet te koop, zegt XBOX-topvrouw Asha Sharma in een interview. Er gingen de afgelopen maanden geruchten dat Microsoft misschien van zijn gamingdivisie af zou willen. Het citaat sluit niet uit dat Microsoft XBOX een zelfstandig bedrijf maakt.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252822/microsoft-topvrouw-xbox-divisie-is-niet-te-koop.html#reacties</comments>
   </item>
 </channel>
 </rss>

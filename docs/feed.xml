@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 13:16:56 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 14:01:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5184,16 +5184,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252860/pubg-makers-schrappen-extractionshooter-black-budget.html#reacties</comments>
-  </item>
-  <item>
-    <title>Autoriteiten vinden 110TB gestolen gegevens op servers ransomwarebende KillSec</title>
-    <link>https://tweakers.net/nieuws/252858/autoriteiten-vinden-110tb-gestolen-gegevens-op-servers-ransomwarebende-killsec.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252858</guid>
-    <pubDate>Thu, 01 Oct 2026 15:59:43 +0200</pubDate>
-    <description>Politiediensten hebben de websites van ransomwaregroep KillSec offline gehaald. Tijdens een gezamenlijke actie arresteerden ze meerdere verdachten, onder wie een 16-jarige die mogelijk de leider van KillSec was. Daarbij werd ook 110TB aan gestolen gegevens in beslag genomen.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252858/autoriteiten-vinden-110tb-gestolen-gegevens-op-servers-ransomwarebende-killsec.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 14:47:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 15:47:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5164,16 +5164,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Processors</category>
     <comments>https://tweakers.net/nieuws/252864/gerucht-amd-ryzen-z3-handheldchip-krijgt-zen-6-cpu-en-rdna-4m-igpu.html#reacties</comments>
-  </item>
-  <item>
-    <title>Amerikaanse overheid brengt AI-chatbot uit die overheidsvragen beantwoordt</title>
-    <link>https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252828</guid>
-    <pubDate>Thu, 01 Oct 2026 17:42:48 +0200</pubDate>
-    <description>De Amerikaanse overheid brengt een AI-chatbot uit waarmee gebruikers vragen kunnen stellen over overheidsdiensten. De website gebruikt de AI-modellen Google Gemini en Grok om vragen van gebruikers te beantwoorden, bijvoorbeeld over het aanvragen van een paspoort of het vinden van een baan.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252828/amerikaanse-overheid-brengt-ai-chatbot-uit-die-overheidsvragen-beantwoordt.html#reacties</comments>
   </item>
 </channel>
 </rss>

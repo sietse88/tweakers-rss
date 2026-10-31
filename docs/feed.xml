@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 06:15:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 06:46:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5284,16 +5284,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gerucht: Google maakt Pixel 11a iets kleiner dan voorgangers</title>
-    <link>https://tweakers.net/nieuws/252820/gerucht-google-maakt-pixel-11a-iets-kleiner-dan-voorgangers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252820</guid>
-    <pubDate>Thu, 01 Oct 2026 08:36:06 +0200</pubDate>
-    <description>Er zijn renders en details verschenen van de Pixel 11a, de nog niet aangekondigde goedkopere telefoon uit de Pixel 11-lijn van Google. De 11a is volgens de informatie iets kleiner dan de 10a en 9a, al zijn de verschillen klein.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252820/gerucht-google-maakt-pixel-11a-iets-kleiner-dan-voorgangers.html#reacties</comments>
   </item>
 </channel>
 </rss>

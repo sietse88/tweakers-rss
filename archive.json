@@ -10,57 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat": {
-  "author": "Eric van Ballegoie",
-  "category": "Explainer / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat#reacties",
-  "description": "Je smartwatch meet naast je hartslag ook hrv: de variatie in tijd tussen hartslagen. Zo helpt die waarde om belasting en herstel in te schatten.",
-  "first": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "guid": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat",
-  "link": "https://tweakers.net/informatie/explainer/hoe-hrv-op-je-smartwatch-belasting-en-herstel-inschat",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Explainer - Hoe hrv op je smartwatch belasting en herstel inschat"
- },
- "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten": {
-  "author": "Eric van Ballegoie",
-  "category": "Explainer / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten#reacties",
-  "description": "Dualband-gps gebruikt twee frequenties om je locatie nauwkeuriger te bepalen, vooral tussen hoge gebouwen. Toch blijven ook de antenne en software bepalend.",
-  "guid": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten",
-  "link": "https://tweakers.net/informatie/explainer/waarom-dualband-gps-je-route-nauwkeuriger-kan-meten",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Explainer - Waarom dualband-gps je route nauwkeuriger kan meten"
- },
- "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt": {
-  "author": "Eric van Ballegoie",
-  "category": "Explainer / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt#reacties",
-  "description": "Een kras op je smartwatch is zo gemaakt. Saffierglas is krasvaster dan gehard glas, maar niet onbreekbaar. Zo verschilt het van Gorilla Glass.",
-  "guid": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt",
-  "link": "https://tweakers.net/informatie/explainer/waarom-saffierglas-minder-snel-krast-maar-je-smartwatch-niet-onbreekbaar-maakt",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Explainer - Waarom saffierglas minder snel krast, maar je smartwatch niet onbreekbaar maakt"
- },
- "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet": {
-  "author": "Eric van Ballegoie",
-  "category": "Explainer / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet#reacties",
-  "description": "Met de ecg-functie van je smartwatch leg je je hartritme vast. Lees wat de uitslag wel en niet zegt en waarom een normale meting hartproblemen niet uitsluit.",
-  "guid": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet",
-  "link": "https://tweakers.net/informatie/explainer/wat-de-ecg-functie-van-je-smartwatch-wel-en-niet-meet",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Explainer - Wat de ecg-functie van je smartwatch wel en niet meet"
- },
- "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is": {
-  "author": "Eric van Ballegoie",
-  "category": "Explainer / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is#reacties",
-  "description": "Veel smartwatches meten je SpO₂, oftewel je zuurstofsaturatie. Wat betekent een waarde tussen 95 en 100 procent, hoe betrouwbaar is die en wanneer heb je er iets aan?",
-  "guid": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is",
-  "link": "https://tweakers.net/informatie/explainer/wat-de-spo2-waarde-op-je-smartwatch-betekent-en-wanneer-die-nuttig-is",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Explainer - Wat de SpO₂-waarde op je smartwatch betekent en wanneer die nuttig is"
- },
  "https://tweakers.net/nieuws/252814": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / IT Pro / Politiek en recht",
@@ -5175,17 +5124,6 @@
   "link": "https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html",
   "pubDate": "Thu, 29 Oct 2026 06:00:00 +0100",
   "title": "Review - PocketBook InkPad One - Digitaal notitieblok geeft schrijfkramp"
- },
- "https://tweakers.net/reviews/15340": {
-  "author": "Olaf Weijers",
-  "category": "Review / Computers / Modems en routers",
-  "comments": "https://tweakers.net/reviews/15340/asus-rog-rapture-gt-bn98-router-wi-fi-8-in-huis-wi-fi-7-in-de-praktijk.html#reacties",
-  "description": "In dit artikel bekijken we de eerste Wi-Fi 8-router van ASUS. Die is zijn tijd ver vooruit: clients voor deze standaard zijn er nog niet. Toch al kopen, of nog wachten?",
-  "first": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "guid": "https://tweakers.net/reviews/15340",
-  "link": "https://tweakers.net/reviews/15340/asus-rog-rapture-gt-bn98-router-wi-fi-8-in-huis-wi-fi-7-in-de-praktijk.html",
-  "pubDate": "Thu, 01 Oct 2026 06:00:00 +0200",
-  "title": "Review - ASUS ROG Rapture GT-BN98-router - Wi-Fi 8 in huis, Wi-Fi 7 in de praktijk"
  },
  "https://tweakers.net/reviews/15344": {
   "author": "Sjef Weller",

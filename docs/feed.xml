@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 16:47:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 17:17:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5144,16 +5144,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252870/playstation-5-basismodel-krijgt-ai-upscaler-voor-betere-beeldkwaliteit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Samsung verhoogt adviesprijzen Galaxy S26-serie met 100 tot 200 euro</title>
-    <link>https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252868</guid>
-    <pubDate>Thu, 01 Oct 2026 19:07:04 +0200</pubDate>
-    <description>Samsung verhoogt stilletjes de adviesprijzen van zijn Galaxy S26-telefoons. In de meeste gevallen gaat het om een stijging van 100 euro, al wordt de duurste S26 Ultra-configuratie 200 euro duurder. De S26 FE, die onlangs verscheen, blijft buiten schot.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252868/samsung-verhoogt-adviesprijzen-galaxy-s26-serie-met-100-tot-200-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 10:46:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 11:01:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse thuisladers die stroom terugleveren, krijgen minder ERE-certificaten</title>
+    <link>https://tweakers.net/nieuws/253998/nederlandse-thuisladers-die-stroom-terugleveren-krijgen-minder-ere-certificaten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253998</guid>
+    <pubDate>Sat, 31 Oct 2026 11:48:46 +0100</pubDate>
+    <description>Nederlanders die hun auto opladen bij hun thuislader, krijgen maximaal een ERE-vergoeding op basis van hun nettoafname van het net. Dat heeft de Nederlandse Emissieautoriteit eind oktober bekendgemaakt. Dat is ongunstig voor mensen die met zonnepanelen veel stroom terugleveren aan het net.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/253998/nederlandse-thuisladers-die-stroom-terugleveren-krijgen-minder-ere-certificaten.html#reacties</comments>
+  </item>
   <item>
     <title>Anthropic sloopt vijfuurslimiet uit duurste Claude-abonnement</title>
     <link>https://tweakers.net/nieuws/253996/anthropic-sloopt-vijfuurslimiet-uit-duurste-claude-abonnement.html</link>

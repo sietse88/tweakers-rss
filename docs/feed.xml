@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 31 Oct 2026 06:46:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 07:16:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5274,16 +5274,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252822/microsoft-topvrouw-xbox-divisie-is-niet-te-koop.html#reacties</comments>
-  </item>
-  <item>
-    <title>FTC onderzoekt OpenAI en Anthropic vanwege hacks door AI-agents</title>
-    <link>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252814</guid>
-    <pubDate>Thu, 01 Oct 2026 09:07:13 +0200</pubDate>
-    <description>De Amerikaanse Federal Trade Commission is begonnen met een onderzoek naar AI-bedrijven vanwege de risico's van AI. De hacks die AI-agents tijdens tests zelf hebben uitgevoerd, vormen de aanleiding.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252814/ftc-onderzoekt-openai-en-anthropic-vanwege-hacks-door-ai-agents.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 18:32:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 19:17:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4964,16 +4964,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Achtergrond / IT Pro / Software development</category>
     <comments>https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google maakt Pixel 10a stilletjes 100 euro duurder</title>
-    <link>https://tweakers.net/nieuws/252922/google-maakt-pixel-10a-stilletjes-100-euro-duurder.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252922</guid>
-    <pubDate>Fri, 02 Oct 2026 21:10:45 +0200</pubDate>
-    <description>Google heeft stilletjes de prijs van de Pixel 10a met 100 euro verhoogd. De 128GB-versie van de smartphone kost nu 649 euro, terwijl de 256GB-versie 749 euro kost. Bij de introductie kostten de versies nog respectievelijk 549 en 649 euro.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252922/google-maakt-pixel-10a-stilletjes-100-euro-duurder.html#reacties</comments>
   </item>
 </channel>
 </rss>

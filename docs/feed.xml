@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 06:03:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 07:03:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5104,16 +5104,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Achtergrond / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/reviews/15382/apple-waagt-zich-met-een-thuishub-aan-een-bijna-verlaten-markt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Luisterboekendienst Fluister schrapt onbeperkt luisteren per 1 november</title>
-    <link>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252876</guid>
-    <pubDate>Fri, 02 Oct 2026 08:49:24 +0200</pubDate>
-    <description>Luisterboekendienst Fluister stopt per 1 november met zijn onbeperkte aanbod. Gebruikers krijgen iedere maand 'een nieuwe selectie boeken', die drie maanden beschikbaar blijft. De dienst blijft gratis voor abonnees van DPG Media. Losse Fluister-abonnementen worden goedkoper.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Beeld en geluid / Overige audio</category>
-    <comments>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html#reacties</comments>
   </item>
 </channel>
 </rss>

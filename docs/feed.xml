@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 12:19:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:04:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5054,36 +5054,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
     <comments>https://tweakers.net/nieuws/252898/voor-het-eerst-hebben-meeste-deelnemers-steam-hardware-survey-32gb-ram.html#reacties</comments>
-  </item>
-  <item>
-    <title>VoetbalTV krijgt geen schadevergoeding ondanks veel te trage AP</title>
-    <link>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252888</guid>
-    <pubDate>Fri, 02 Oct 2026 15:04:25 +0200</pubDate>
-    <description>De Autoriteit Persoonsgegevens hoeft geen schadevergoeding te betalen aan VoetbalTV, terwijl dat platform failliet ging door een onterechte AVG-boete. VoetbalTV, onderdeel van uitgever Talpa, stelde dat het 25.000 euro misliep omdat de AP veel te lang deed over een boetebesluit. De rechter concludeert nu nogmaals dat de boete onterecht was, maar dat VoetbalTV zijn gemiste inkomsten niet kan bewijzen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252888/voetbaltv-krijgt-geen-schadevergoeding-ondanks-veel-te-trage-ap.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nvidia introduceert DGX Spark met 64GB ram voor oude prijs 128GB-model</title>
-    <link>https://tweakers.net/nieuws/252826/nvidia-introduceert-dgx-spark-met-64gb-ram-voor-oude-prijs-128gb-model.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252826</guid>
-    <pubDate>Fri, 02 Oct 2026 15:00:00 +0200</pubDate>
-    <description>Nvidia introduceert een nieuwe versie van zijn DGX Spark-mini-pc voor AI-taken. Die krijgt met 64GB de helft minder geheugen dan het bestaande model en bovendien een kleinere 2TB-ssd. Intussen verhoogt Nvidia de prijs van het 128GB-model met bijna 50 procent.</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/252826/nvidia-introduceert-dgx-spark-met-64gb-ram-voor-oude-prijs-128gb-model.html#reacties</comments>
-  </item>
-  <item>
-    <title>Android Central blijft publiceren ondanks ontslagen</title>
-    <link>https://tweakers.net/nieuws/252902/android-central-blijft-publiceren-ondanks-ontslagen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252902</guid>
-    <pubDate>Fri, 02 Oct 2026 14:52:25 +0200</pubDate>
-    <description>Android Central blijft artikelen publiceren. Uitgever Future ontsloeg eerder deze week alle zes de redacteuren. Daardoor leek de toekomst van de site in gevaar, maar Future bevestigt dat het doorgaat.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252902/android-central-blijft-publiceren-ondanks-ontslagen.html#reacties</comments>
   </item>
 </channel>
 </rss>

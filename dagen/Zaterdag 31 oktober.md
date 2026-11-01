@@ -20,7 +20,7 @@ Proton-ceo Andy Yen zou 'hersollicitatiegesprekken' met werknemers over hun AI-g
 
 ## Nvidia-ceo zou 'nauwe band' hebben gehad met spion uit China
 
-Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.
+Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang is geen familie, maar zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html)
 

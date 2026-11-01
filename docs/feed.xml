@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 11:19:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 12:04:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google ontvangt haiku vanuit satelliet in eerste stap naar ruimte-datacenter</title>
+    <link>https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254020</guid>
+    <pubDate>Sun, 01 Nov 2026 12:53:10 +0100</pubDate>
+    <description>Google heeft voor het eerst data vanuit een tpu ontvangen die in een satelliet in de ruimte is gebouwd. Google wil met Project Suncatcher meeliften op het idee om datacenters in de ruimte te bouwen en zegt daar met een eerste, toepasselijke 'Hello world' een belangrijke mijlpaal in te hebben behaald.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Servers</category>
+    <comments>https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html#reacties</comments>
+  </item>
   <item>
     <title>Linux Mint krijgt weer een Hibernate-modus</title>
     <link>https://tweakers.net/nieuws/254014/linux-mint-krijgt-weer-een-hibernate-modus.html</link>
@@ -150,7 +160,7 @@
     <link>https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/253990</guid>
     <pubDate>Fri, 30 Oct 2026 20:27:49 +0100</pubDate>
-    <description>Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.</description>
+    <description>Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang is geen familie, maar zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html#reacties</comments>
@@ -5084,26 +5094,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/252900/digid-lost-storing-op-waardoor-gebruikers-niet-konden-inloggen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ook Raspberry Pi's met 2GB geheugen worden duurder door ramcrisis</title>
-    <link>https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252892</guid>
-    <pubDate>Fri, 02 Oct 2026 13:59:06 +0200</pubDate>
-    <description>Raspberry Pi verhoogt ook de prijzen van de 2GB-versies van de Raspberry Pi 4 en 5. De aanhoudende geheugencrisis raakt nu ook die modellen, nadat het bedrijf achter de singleboardcomputers eerder alleen de prijzen van modellen met meer geheugen verhoogde. Vooralsnog blijven de 1GB-modellen buiten schot.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Singleboardcomputers</category>
-    <comments>https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html#reacties</comments>
-  </item>
-  <item>
-    <title>Scarlet vergroot databundels van mobiele abonnementen met 5 tot 15GB</title>
-    <link>https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252896</guid>
-    <pubDate>Fri, 02 Oct 2026 13:56:09 +0200</pubDate>
-    <description>Scarlet heeft de databundels van zijn mobiele abonnementen uitgebreid. De Belgische provider heeft de prijzen niet veranderd. Verder krijgen klanten met een Cherry-abonnement 400 extra belminuten per maand, waardoor zij maandelijks 1000 minuten kunnen bellen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html#reacties</comments>
   </item>
 </channel>
 </rss>

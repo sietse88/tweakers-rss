@@ -30,16 +30,6 @@
   "pubDate": "Fri, 02 Oct 2026 15:04:25 +0200",
   "title": "VoetbalTV krijgt geen schadevergoeding ondanks veel te trage AP"
  },
- "https://tweakers.net/nieuws/252892": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Singleboardcomputers",
-  "comments": "https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html#reacties",
-  "description": "Raspberry Pi verhoogt ook de prijzen van de 2GB-versies van de Raspberry Pi 4 en 5. De aanhoudende geheugencrisis raakt nu ook die modellen, nadat het bedrijf achter de singleboardcomputers eerder alleen de prijzen van modellen met meer geheugen verhoogde. Vooralsnog blijven de 1GB-modellen buiten schot.",
-  "guid": "https://tweakers.net/nieuws/252892",
-  "link": "https://tweakers.net/nieuws/252892/ook-raspberry-pis-met-2gb-geheugen-worden-duurder-door-ramcrisis.html",
-  "pubDate": "Fri, 02 Oct 2026 13:59:06 +0200",
-  "title": "Ook Raspberry Pi's met 2GB geheugen worden duurder door ramcrisis"
- },
  "https://tweakers.net/nieuws/252894": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / Gaming / Games",
@@ -49,16 +39,6 @@
   "link": "https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html",
   "pubDate": "Fri, 02 Oct 2026 16:19:11 +0200",
   "title": "Nederlander veroordeeld voor verkoop van GTA V-cheats"
- },
- "https://tweakers.net/nieuws/252896": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Internettoegang",
-  "comments": "https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html#reacties",
-  "description": "Scarlet heeft de databundels van zijn mobiele abonnementen uitgebreid. De Belgische provider heeft de prijzen niet veranderd. Verder krijgen klanten met een Cherry-abonnement 400 extra belminuten per maand, waardoor zij maandelijks 1000 minuten kunnen bellen.",
-  "guid": "https://tweakers.net/nieuws/252896",
-  "link": "https://tweakers.net/nieuws/252896/scarlet-vergroot-databundels-van-mobiele-abonnementen-met-5-tot-15gb.html",
-  "pubDate": "Fri, 02 Oct 2026 13:56:09 +0200",
-  "title": "Scarlet vergroot databundels van mobiele abonnementen met 5 tot 15GB"
  },
  "https://tweakers.net/nieuws/252898": {
   "author": "Imre Himmelbauer",
@@ -4751,7 +4731,7 @@
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Computers / Videokaarten",
   "comments": "https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html#reacties",
-  "description": "Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.",
+  "description": "Nvidia-ceo Jensen Huang zou een nauwe band hebben gehad met een Chinese spion, meldt The New York Times. Alice Huang is geen familie, maar zou zo'n band hebben opgebouwd met de directeur van Nvidia en informatie hebben doorgespeeld aan de Chinese overheid.",
   "first": "Fri, 30 Oct 2026 19:44:52 +0000",
   "guid": "https://tweakers.net/nieuws/253990",
   "link": "https://tweakers.net/nieuws/253990/nvidia-ceo-zou-nauwe-band-hebben-gehad-met-spion-uit-china.html",
@@ -4867,6 +4847,17 @@
   "link": "https://tweakers.net/nieuws/254014/linux-mint-krijgt-weer-een-hibernate-modus.html",
   "pubDate": "Sun, 01 Nov 2026 11:56:17 +0100",
   "title": "Linux Mint krijgt weer een Hibernate-modus"
+ },
+ "https://tweakers.net/nieuws/254020": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Servers",
+  "comments": "https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html#reacties",
+  "description": "Google heeft voor het eerst data vanuit een tpu ontvangen die in een satelliet in de ruimte is gebouwd. Google wil met Project Suncatcher meeliften op het idee om datacenters in de ruimte te bouwen en zegt daar met een eerste, toepasselijke 'Hello world' een belangrijke mijlpaal in te hebben behaald.",
+  "first": "Sun, 01 Nov 2026 12:04:21 +0000",
+  "guid": "https://tweakers.net/nieuws/254020",
+  "link": "https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html",
+  "pubDate": "Sun, 01 Nov 2026 12:53:10 +0100",
+  "title": "Google ontvangt haiku vanuit satelliet in eerste stap naar ruimte-datacenter"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

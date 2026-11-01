@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 16:17:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 17:32:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4984,16 +4984,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Smarthome</category>
     <comments>https://tweakers.net/nieuws/252920/nabu-casa-hernoemt-home-assistant-cloud-omdat-big-tech-cloud-heeft-verpest.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nvidia Shield TV Pro wordt zeven jaar na release 100 euro duurder</title>
-    <link>https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252916</guid>
-    <pubDate>Fri, 02 Oct 2026 19:28:04 +0200</pubDate>
-    <description>Nvidia heeft de Shield TV Pro duurder gemaakt, bevestigt het bedrijf aan Wccftech. In de Verenigde Staten stijgt de prijs van 199 naar 299 dollar. In Nederland en België kost het streamingapparaat nu 299 euro, 100 euro meer dan eerder. Het bedrijf stopt ook met de productie van de 'gewone' Shield TV.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html#reacties</comments>
   </item>
 </channel>
 </rss>

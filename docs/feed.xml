@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 05:03:27 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 05:18:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,16 +16,6 @@
     <height>192</height>
   </image>
   <item>
-    <title>Achtergrond - Een console kopen voor GTA VI? Dit betaal je voor een PS5 of XBOX</title>
-    <link>https://tweakers.net/reviews/15538/een-console-kopen-voor-gta-vi-dit-betaal-je-voor-een-ps5-of-xbox.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15538</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0100</pubDate>
-    <description>Na 13 jaar wachten komt GTA VI op 19 november uit. Voorlopig gebeurt dat alleen op de PS5 en XBOX Series X/S. Wat betaal je daar tegenwoordig voor?</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Achtergrond / Gaming / Consoles</category>
-    <comments>https://tweakers.net/reviews/15538/een-console-kopen-voor-gta-vi-dit-betaal-je-voor-een-ps5-of-xbox.html#reacties</comments>
-  </item>
-  <item>
     <title>Quicktest - Philips 34B2U5900C - Extra scherpe ultrawide voor je werkplek</title>
     <link>https://tweakers.net/reviews/15534/philips-34b2u5900c-extra-scherpe-ultrawide-voor-je-werkplek.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15534</guid>
@@ -34,6 +24,16 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Quicktest / Computers / Monitors</category>
     <comments>https://tweakers.net/reviews/15534/philips-34b2u5900c-extra-scherpe-ultrawide-voor-je-werkplek.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Een console kopen voor GTA VI? Dit betaal je voor een PS5 of XBOX</title>
+    <link>https://tweakers.net/reviews/15538/een-console-kopen-voor-gta-vi-dit-betaal-je-voor-een-ps5-of-xbox.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15538</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Na 13 jaar wachten komt GTA VI op 19 november uit. Voorlopig gebeurt dat alleen op de PS5 en XBOX Series X/S. Wat betaal je daar tegenwoordig voor?</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / Gaming / Consoles</category>
+    <comments>https://tweakers.net/reviews/15538/een-console-kopen-voor-gta-vi-dit-betaal-je-voor-een-ps5-of-xbox.html#reacties</comments>
   </item>
   <item>
     <title>Nederlandse thuisladers die stroom terugleveren, krijgen minder ERE-certificaten</title>

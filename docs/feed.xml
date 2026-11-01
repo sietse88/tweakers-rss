@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 16:02:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 16:17:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4994,16 +4994,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Mediaspelers</category>
     <comments>https://tweakers.net/nieuws/252916/nvidia-shield-tv-pro-wordt-zeven-jaar-na-release-100-euro-duurder.html#reacties</comments>
-  </item>
-  <item>
-    <title>Amerikaans hof vernietigt vonnis na AI-video van overleden slachtoffer</title>
-    <link>https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252914</guid>
-    <pubDate>Fri, 02 Oct 2026 18:17:06 +0200</pubDate>
-    <description>Het hof van beroep van Arizona heeft een vonnis vernietigd dat mede tot stand kwam door een AI-video van het overleden slachtoffer. De doodgeschoten Christopher Pelkey legde een 'verklaring' af die was gemaakt met AI. De rechter liet de video toe en veroordeelde schutter Gabriel Horcasitas tot tien jaar cel.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252914/amerikaans-hof-vernietigt-vonnis-na-ai-video-van-overleden-slachtoffer.html#reacties</comments>
   </item>
 </channel>
 </rss>

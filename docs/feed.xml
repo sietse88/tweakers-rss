@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 08:03:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 08:33:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>FBI wijst naar Noord-Korea als Binance-hackers</title>
+    <link>https://tweakers.net/nieuws/254002/fbi-wijst-naar-noord-korea-als-binance-hackers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254002</guid>
+    <pubDate>Sun, 01 Nov 2026 09:17:19 +0100</pubDate>
+    <description>De Amerikaanse FBI zegt dat Noord-Koreaanse hackers bij Binance hebben ingebroken. De federale politiedienst wijst naar een bende genaamd TraderTraitor, een ransomwarebende die sinds 2022 actief is en namens Noord-Korea blockchainbedrijven hackt. Andere beveiligingsbedrijven wezen die bende eerder ook aan.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254002/fbi-wijst-naar-noord-korea-als-binance-hackers.html#reacties</comments>
+  </item>
   <item>
     <title>Quicktest - Philips 34B2U5900C - Extra scherpe ultrawide voor je werkplek</title>
     <link>https://tweakers.net/reviews/15534/philips-34b2u5900c-extra-scherpe-ultrawide-voor-je-werkplek.html</link>

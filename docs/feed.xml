@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 10:19:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 10:34:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Imec gaat onderzoek doen naar toepassingen voor Belgisch leger</title>
+    <link>https://tweakers.net/nieuws/254010/imec-gaat-onderzoek-doen-naar-toepassingen-voor-belgisch-leger.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254010</guid>
+    <pubDate>Sun, 01 Nov 2026 11:24:37 +0100</pubDate>
+    <description>Het Belgische onderzoeksinstituut imec gaat samenwerken met het ministerie van Defensie. Imec gaat onder andere onderzoek doen op gebieden waar het leger behoefte aan heeft, zoals communicatie, AI, locatiegegevens en sensoren.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254010/imec-gaat-onderzoek-doen-naar-toepassingen-voor-belgisch-leger.html#reacties</comments>
+  </item>
   <item>
     <title>Ook Grok gaat watermerken toevoegen aan tekst</title>
     <link>https://tweakers.net/nieuws/254008/ook-grok-gaat-watermerken-toevoegen-aan-tekst.html</link>

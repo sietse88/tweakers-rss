@@ -4843,6 +4843,17 @@
   "pubDate": "Sun, 01 Nov 2026 09:17:19 +0100",
   "title": "FBI wijst naar Noord-Korea als Binance-hackers"
  },
+ "https://tweakers.net/nieuws/254004": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Software development",
+  "comments": "https://tweakers.net/nieuws/254004/claude-mag-geen-bestaande-games-meer-bewerken-of-repliceren.html#reacties",
+  "description": "Anthropic heeft strengere regels toegevoegd aan Claude voor het herschrijven of aanpassen van games. In de basisprompt van de llm staat een nieuwe regel waarin staat dat Claude geen specifieke bestaande games mag herschrijven. Meerdere ontwikkelaars melden dat ook op GitHub. Steeds meer gamemakers gebruiken Claude om bestaande games te verbeteren, maar dat knijpt Anthropic nu af.",
+  "first": "Sun, 01 Nov 2026 09:04:05 +0000",
+  "guid": "https://tweakers.net/nieuws/254004",
+  "link": "https://tweakers.net/nieuws/254004/claude-mag-geen-bestaande-games-meer-bewerken-of-repliceren.html",
+  "pubDate": "Sun, 01 Nov 2026 09:53:50 +0100",
+  "title": "Claude mag geen bestaande games meer bewerken of repliceren"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 05:18:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 06:03:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5114,16 +5114,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Beeld en geluid / Overige audio</category>
     <comments>https://tweakers.net/nieuws/252876/luisterboekendienst-fluister-schrapt-onbeperkt-luisteren-per-1-november.html#reacties</comments>
-  </item>
-  <item>
-    <title>Versio-storing blokkeert voor deel klanten DNS- en accountbeheer - update</title>
-    <link>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-dns-en-accountbeheer.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252872</guid>
-    <pubDate>Fri, 02 Oct 2026 07:56:59 +0200</pubDate>
-    <description>Hostingprovider Versio heeft al zeker een week last van een grote storing. 'Een deel' van de klanten heeft daardoor geen toegang tot het klantpaneel en het DNS-beheerpaneel. Daardoor kunnen klanten bijvoorbeeld geen storingen oplossen. Ook overstappen lukt niet.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Serversoftware</category>
-    <comments>https://tweakers.net/nieuws/252872/versio-storing-blokkeert-voor-deel-klanten-dns-en-accountbeheer.html#reacties</comments>
   </item>
 </channel>
 </rss>

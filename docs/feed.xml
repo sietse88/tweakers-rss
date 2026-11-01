@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 13:04:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:19:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5044,16 +5044,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
-  </item>
-  <item>
-    <title>Voor het eerst hebben meeste deelnemers Steam Hardware Survey 32GB ram</title>
-    <link>https://tweakers.net/nieuws/252898/voor-het-eerst-hebben-meeste-deelnemers-steam-hardware-survey-32gb-ram.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252898</guid>
-    <pubDate>Fri, 02 Oct 2026 15:06:18 +0200</pubDate>
-    <description>In september was 32GB de meest voorkomende hoeveelheid ram in de Steam Hardware Survey. Tot en met augustus hadden de meeste deelnemers nog systemen met 16GB werkgeheugen. Het is niet duidelijk of de stijging het gevolg is van upgrades.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/252898/voor-het-eerst-hebben-meeste-deelnemers-steam-hardware-survey-32gb-ram.html#reacties</comments>
   </item>
 </channel>
 </rss>

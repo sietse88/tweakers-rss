@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 07:33:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 08:03:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5084,16 +5084,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/252880/hp-omnibook-5-moet-concurreren-met-macbook-neo-voor-100-euro-meer.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nieuwsblog: kunnen AI's denken, of is dat vooral een semantische discussie?</title>
-    <link>https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252854</guid>
-    <pubDate>Fri, 02 Oct 2026 10:00:00 +0200</pubDate>
-    <description>Kan een llm denken? Is AI zelfbewust? Wat is zelfbewustzijn eigenlijk? Volgen we daarin de res cogitans van Descartes of is zelfbewustzijn meer de transcendentale apperceptie van Kant? Wees gerust: wij hebben geen idee en we gaan ook niet doen alsof we het weten. Wat we wél weten, is dat het nieuws over hackende AI-agents op de redactie tot veel discussie leidde.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/252854/nieuwsblog-kunnen-ais-denken-of-is-dat-vooral-een-semantische-discussie.html#reacties</comments>
   </item>
 </channel>
 </rss>

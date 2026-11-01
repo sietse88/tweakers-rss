@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 10:49:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 11:04:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Linux Mint krijgt weer een Hibernate-modus</title>
+    <link>https://tweakers.net/nieuws/254014/linux-mint-krijgt-weer-een-hibernate-modus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254014</guid>
+    <pubDate>Sun, 01 Nov 2026 11:56:17 +0100</pubDate>
+    <description>De makers van Linux Mint werken aan een Hibernate-modus voor het besturingssysteem. Mint ondersteunt nu alleen nog Suspend. Ubuntu, waar Mint op is gebaseerd, verwijderde Hibernation juist ooit omdat het zo ingewikkeld was om goed te implementeren.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254014/linux-mint-krijgt-weer-een-hibernate-modus.html#reacties</comments>
+  </item>
   <item>
     <title>E Thermostaat van Essent is vanaf februari ook niet meer betaald te gebruiken</title>
     <link>https://tweakers.net/nieuws/254012/e-thermostaat-van-essent-is-vanaf-februari-ook-niet-meer-betaald-te-gebruiken.html</link>
@@ -5104,16 +5114,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Tablets en telefoons / E-readers</category>
     <comments>https://tweakers.net/nieuws/252890/amazon-brengt-nieuwe-kindles-uit-met-ongewijzigd-display-op-standaardmodel.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hans Anders stopt per direct met verkoop van Meta-brillen</title>
-    <link>https://tweakers.net/nieuws/252882/hans-anders-stopt-per-direct-met-verkoop-van-meta-brillen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252882</guid>
-    <pubDate>Fri, 02 Oct 2026 12:59:38 +0200</pubDate>
-    <description>De brillenketen Hans Anders is per direct gestopt met de verkoop van Meta-brillen vanwege de aanhoudende onrust over de privacyrisico's van de brillen. Daarnaast overwegen poppodia en het ministerie van Defensie een verbod op de brillen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252882/hans-anders-stopt-per-direct-met-verkoop-van-meta-brillen.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 01 Nov 2026 13:49:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 15:17:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5014,36 +5014,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Bewakingscamera's</category>
     <comments>https://tweakers.net/nieuws/252912/apple-ontwikkelt-smarthomecamera-die-geen-video-opneemt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Telenet mag na hoger beroep nog steeds niet met 'fiber' adverteren voor coax</title>
-    <link>https://tweakers.net/nieuws/252910/telenet-mag-na-hoger-beroep-nog-steeds-niet-met-fiber-adverteren-voor-coax.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252910</guid>
-    <pubDate>Fri, 02 Oct 2026 17:11:57 +0200</pubDate>
-    <description>Telenet mag zijn coaxverbindingen niet adverteren met de termen 'fiber', 'fibre' of 'glasvezel', heeft het hof van beroep bevestigd. De ondernemingsrechtbank trok in februari al dezelfde conclusie, maar de Belgische provider ging in beroep tegen die uitspraak.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/252910/telenet-mag-na-hoger-beroep-nog-steeds-niet-met-fiber-adverteren-voor-coax.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hackers dringen officieel X-account van Microsoft binnen</title>
-    <link>https://tweakers.net/nieuws/252908/hackers-dringen-officieel-x-account-van-microsoft-binnen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252908</guid>
-    <pubDate>Fri, 02 Oct 2026 17:08:44 +0200</pubDate>
-    <description>Hackers zijn het officiële X-account van Microsoft binnengedrongen. Ze plaatsten een bericht om aandacht te trekken voor een cryptoscam. Inmiddels is het account weer veiliggesteld. Microsoft heeft de hack bevestigd.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/252908/hackers-dringen-officieel-x-account-van-microsoft-binnen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlander veroordeeld voor verkoop van GTA V-cheats</title>
-    <link>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252894</guid>
-    <pubDate>Fri, 02 Oct 2026 16:19:11 +0200</pubDate>
-    <description>Een 25-jarige Nederlandse man is veroordeeld tot achttien maanden onvoorwaardelijke celstraf voor onder andere de verkoop van cheatsoftware voor Grand Theft Auto V. De man verkocht via eigen websites software waarmee gebruikers kunnen cheaten, servers laten crashen en bans omzeilen. Daarnaast verkocht de man gestolen gebruikersnamen en wachtwoorden van een miljoen accounts.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252894/nederlander-veroordeeld-voor-verkoop-van-gta-v-cheats.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 15:05:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 15:20:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Raspberry Pi 5 met 16GB kost na vierde verhoging ruim drie keer zoveel</title>
+    <link>https://tweakers.net/nieuws/254048/raspberry-pi-5-met-16gb-kost-na-vierde-verhoging-ruim-drie-keer-zoveel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254048</guid>
+    <pubDate>Mon, 02 Nov 2026 16:15:43 +0100</pubDate>
+    <description>Raspberry Pi verhoogt de prijs van de 16GB-versie van de Raspberry Pi 5 voor de vierde keer in een jaar tijd. De prijs stijgt ditmaal met 80 dollar naar 385 dollar. De introductieprijs van de singleboardcomputer was 120 dollar.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Singleboardcomputers</category>
+    <comments>https://tweakers.net/nieuws/254048/raspberry-pi-5-met-16gb-kost-na-vierde-verhoging-ruim-drie-keer-zoveel.html#reacties</comments>
+  </item>
   <item>
     <title>'Nvidia deelt nog geen RTX 5080 24GB-ontwerpen met fabrikanten'</title>
     <link>https://tweakers.net/nieuws/254046/nvidia-deelt-nog-geen-rtx-5080-24gb-ontwerpen-met-fabrikanten.html</link>

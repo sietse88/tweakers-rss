@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 09:49:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 11:19:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackaanval op supermarktkoeling raakt naast België ook Luxemburg en Zweden</title>
+    <link>https://tweakers.net/nieuws/254038/hackaanval-op-supermarktkoeling-raakt-naast-belgie-ook-luxemburg-en-zweden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254038</guid>
+    <pubDate>Mon, 02 Nov 2026 12:11:27 +0100</pubDate>
+    <description>De hackaanval van maandagochtend op vries- en koelsystemen in supermarkten en slagerijen bleef niet beperkt tot België, maar trof ook supermarkten en slagerijen in Luxemburg en Zweden. Koeltemperaturen werden verhoogd in winkels van Delhaize, Carrefour, Spar, ICA en Coop. De schade loopt al in de tonnen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254038/hackaanval-op-supermarktkoeling-raakt-naast-belgie-ook-luxemburg-en-zweden.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers verhogen op afstand koeltemperaturen bij Belgische supermarkten</title>
     <link>https://tweakers.net/nieuws/254034/hackers-verhogen-op-afstand-koeltemperaturen-bij-belgische-supermarkten.html</link>

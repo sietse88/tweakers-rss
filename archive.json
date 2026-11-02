@@ -4721,6 +4721,17 @@
   "pubDate": "Mon, 02 Nov 2026 09:16:08 +0100",
   "title": "Oekraïners krijgen na hack valse meldingen over nucleaire aanval"
  },
+ "https://tweakers.net/nieuws/254032": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/254032/rocky-linux-maker-bouwt-met-ai-in-elf-dagen-linux-compatibele-kernel.html#reacties",
+  "description": "De maker van Linux-distributies CentOS en Rocky Linux heeft met OpenAI Codex in elf dagen een geheel nieuwe besturingssysteemkernel gemaakt die compatibel is met Linux. Dit zogeheten Ginux is geheel in Rust geschreven en draait op x86-64-processors.",
+  "first": "Mon, 02 Nov 2026 14:50:23 +0000",
+  "guid": "https://tweakers.net/nieuws/254032",
+  "link": "https://tweakers.net/nieuws/254032/rocky-linux-maker-bouwt-met-ai-in-elf-dagen-linux-compatibele-kernel.html",
+  "pubDate": "Mon, 02 Nov 2026 15:36:05 +0100",
+  "title": "Rocky Linux-maker bouwt met AI in elf dagen Linux-compatibele kernel"
+ },
  "https://tweakers.net/nieuws/254034": {
   "author": "Jasper Bakker",
   "category": "Nieuws / IT Pro / Netwerk en systeembeheer",

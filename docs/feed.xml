@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 14:05:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 14:50:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rocky Linux-maker bouwt met AI in elf dagen Linux-compatibele kernel</title>
+    <link>https://tweakers.net/nieuws/254032/rocky-linux-maker-bouwt-met-ai-in-elf-dagen-linux-compatibele-kernel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254032</guid>
+    <pubDate>Mon, 02 Nov 2026 15:36:05 +0100</pubDate>
+    <description>De maker van Linux-distributies CentOS en Rocky Linux heeft met OpenAI Codex in elf dagen een geheel nieuwe besturingssysteemkernel gemaakt die compatibel is met Linux. Dit zogeheten Ginux is geheel in Rust geschreven en draait op x86-64-processors.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254032/rocky-linux-maker-bouwt-met-ai-in-elf-dagen-linux-compatibele-kernel.html#reacties</comments>
+  </item>
   <item>
     <title>ING voegt reis-e-sim voor ruim 140 landen toe aan huidige betaalpakketten</title>
     <link>https://tweakers.net/nieuws/254044/ing-voegt-reis-e-sim-voor-ruim-140-landen-toe-aan-huidige-betaalpakketten.html</link>

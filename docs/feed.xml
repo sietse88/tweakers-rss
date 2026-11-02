@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 07:34:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 07:49:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI laat ChatGPT-gebruik vanaf december meetellen voor Codex-limiet</title>
+    <link>https://tweakers.net/nieuws/254024/openai-laat-chatgpt-gebruik-vanaf-december-meetellen-voor-codex-limiet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254024</guid>
+    <pubDate>Mon, 02 Nov 2026 08:39:36 +0100</pubDate>
+    <description>OpenAI telt ChatGPT-gebruik vanaf december mee voor de gebruikslimieten van zijn programmeerhulp Codex. Daarnaast stelt het grenzen aan het aantal betaalde ChatGPT-accounts per apparaat en per betaalkaart. Gebruikers kunnen extra tegoed kopen voor bestaande accounts.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254024/openai-laat-chatgpt-gebruik-vanaf-december-meetellen-voor-codex-limiet.html#reacties</comments>
+  </item>
   <item>
     <title>Google ontvangt haiku vanuit satelliet in eerste stap naar ruimte-datacenter</title>
     <link>https://tweakers.net/nieuws/254020/google-ontvangt-haiku-vanuit-satelliet-in-eerste-stap-naar-ruimte-datacenter.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 09:19:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 09:49:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers verhogen op afstand koeltemperaturen bij Belgische supermarkten</title>
+    <link>https://tweakers.net/nieuws/254034/hackers-verhogen-op-afstand-koeltemperaturen-bij-belgische-supermarkten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254034</guid>
+    <pubDate>Mon, 02 Nov 2026 10:31:42 +0100</pubDate>
+    <description>Aanvallers hebben maandagochtend diepvriezers en koelkasten in Belgische supermarkten van Delhaize en Carrefour gehackt en daarbij de temperaturen verhoogd. Naast zeker 40 winkels van AH-moederbedrijf Delhaize en 15 winkels van Carrefour zijn ook slagerijen in België geraakt.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254034/hackers-verhogen-op-afstand-koeltemperaturen-bij-belgische-supermarkten.html#reacties</comments>
+  </item>
   <item>
     <title>Oekraïners krijgen na hack valse meldingen over nucleaire aanval</title>
     <link>https://tweakers.net/nieuws/254028/oekrainers-krijgen-na-hack-valse-meldingen-over-nucleaire-aanval.html</link>

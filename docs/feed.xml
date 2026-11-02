@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 08:34:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 09:19:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Oekraïense luchtalarmapp stuurt na hack vals alarm over nucleaire aanval</title>
-    <link>https://tweakers.net/nieuws/254028/oekraiense-luchtalarmapp-stuurt-na-hack-vals-alarm-over-nucleaire-aanval.html</link>
+    <title>Oekraïners krijgen na hack valse meldingen over nucleaire aanval</title>
+    <link>https://tweakers.net/nieuws/254028/oekrainers-krijgen-na-hack-valse-meldingen-over-nucleaire-aanval.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254028</guid>
     <pubDate>Mon, 02 Nov 2026 09:16:08 +0100</pubDate>
     <description>Het luchtalarmsysteem van Oekraïne is zondagavond gehackt, waardoor sirenes ten onrechte afgaan en de officiële luchtalarmapp valse meldingen geeft. De meldingen waarschuwen voor nucleaire en chemische aanvallen en voor straatgevechten in de hoofdstad Kyiv. Dit meldt de Oekraïense luchtmacht.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/254028/oekraiense-luchtalarmapp-stuurt-na-hack-vals-alarm-over-nucleaire-aanval.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254028/oekrainers-krijgen-na-hack-valse-meldingen-over-nucleaire-aanval.html#reacties</comments>
   </item>
   <item>
     <title>OpenAI laat ChatGPT-gebruik vanaf december meetellen voor Codex-limiet</title>
@@ -4944,16 +4944,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252932/jagex-kondigt-aan-dat-het-een-vierde-runescape-game-maakt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fusiebedrijf Paramount en Warner Bros. Discovery heet Skydance - update</title>
-    <link>https://tweakers.net/nieuws/252928/fusiebedrijf-paramount-en-warner-bros-discovery-heet-skydance.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252928</guid>
-    <pubDate>Sat, 03 Oct 2026 11:12:08 +0200</pubDate>
-    <description>Het nieuwe fusiebedrijf van Paramount en Warner Bros. Discovery gaat Skydance heten, maakt ceo David Ellison bekend. Hij noemt het bedrijf een 'thuis voor het vertellen van gedurfde, kwalitatieve verhalen'. Het bedrijf voert de wijziging door op 6 oktober, als de overname van Warner Bros. Discovery officieel is afgerond.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/252928/fusiebedrijf-paramount-en-warner-bros-discovery-heet-skydance.html#reacties</comments>
   </item>
 </channel>
 </rss>

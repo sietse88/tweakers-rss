@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 08:19:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:34:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Oekraïense luchtalarmapp stuurt na hack vals alarm over nucleaire aanval</title>
+    <link>https://tweakers.net/nieuws/254028/oekraiense-luchtalarmapp-stuurt-na-hack-vals-alarm-over-nucleaire-aanval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254028</guid>
+    <pubDate>Mon, 02 Nov 2026 09:16:08 +0100</pubDate>
+    <description>Het luchtalarmsysteem van Oekraïne is zondagavond gehackt, waardoor sirenes ten onrechte afgaan en de officiële luchtalarmapp valse meldingen geeft. De meldingen waarschuwen voor nucleaire en chemische aanvallen en voor straatgevechten in de hoofdstad Kyiv. Dit meldt de Oekraïense luchtmacht.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254028/oekraiense-luchtalarmapp-stuurt-na-hack-vals-alarm-over-nucleaire-aanval.html#reacties</comments>
+  </item>
   <item>
     <title>OpenAI laat ChatGPT-gebruik vanaf december meetellen voor Codex-limiet</title>
     <link>https://tweakers.net/nieuws/254024/openai-laat-chatgpt-gebruik-vanaf-december-meetellen-voor-codex-limiet.html</link>

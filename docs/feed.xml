@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 01:48:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 04:03:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4954,16 +4954,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Claude uploadde malware, maar worstelde eerst urenlang met captcha's</title>
-    <link>https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15370</guid>
-    <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
-    <description>De AI-bot Claude Mythos 5 wist eerder dit jaar malware te uploaden naar PyPI. Het grootste deel van zijn tijd besteedde het model aan captcha's. Kunnen captcha's zulke AI-aanvallen stoppen?</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Achtergrond / IT Pro / Software development</category>
-    <comments>https://tweakers.net/reviews/15370/claude-uploadde-malware-maar-worstelde-eerst-urenlang-met-captchas.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 20:24:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 20:39:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>New York Times klaagt Brave aan voor AI-scraping en het omzeilen van betaalmuren</title>
+    <link>https://tweakers.net/nieuws/254058/new-york-times-klaagt-brave-aan-voor-ai-scraping-en-het-omzeilen-van-betaalmuren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254058</guid>
+    <pubDate>Mon, 02 Nov 2026 21:32:35 +0100</pubDate>
+    <description>The New York Times en verschillende andere kranten hebben Brave aangeklaagd. Ze claimen dat de webbrowser hun betaalmuren omzeilt en 'miljoenen' van hun artikelen onrechtmatig scrapet en doorverkoopt aan AI-bedrijven.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/254058/new-york-times-klaagt-brave-aan-voor-ai-scraping-en-het-omzeilen-van-betaalmuren.html#reacties</comments>
+  </item>
   <item>
     <title>Google: fabrikant settopboxen verkocht expres backdoortoegang aan criminelen</title>
     <link>https://tweakers.net/nieuws/254054/google-fabrikant-settopboxen-verkocht-expres-backdoortoegang-aan-criminelen.html</link>

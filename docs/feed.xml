@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 07:04:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 07:34:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -4944,16 +4944,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html#reacties</comments>
-  </item>
-  <item>
-    <title>'AMD-driver verwijst naar mogelijke gpu PS6 en apu Steam Deck 2'</title>
-    <link>https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252924</guid>
-    <pubDate>Sat, 03 Oct 2026 09:30:23 +0200</pubDate>
-    <description>AMD's Adrenalin 26.9.2-driver bevat verwijzingen naar hardware die nog niet is uitgebracht. In de driver staan de codenamen ATlite3, AT2 en Gainsborough. Mogelijk gaat het onder meer om de gpu van de PlayStation 6 en de apu van de opvolger van de Steam Deck.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252924/amd-driver-verwijst-naar-mogelijke-gpu-ps6-en-apu-steam-deck-2.html#reacties</comments>
   </item>
 </channel>
 </rss>

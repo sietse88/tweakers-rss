@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:20:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:35:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,24 @@
     <height>192</height>
   </image>
   <item>
-    <title>Nederlandse campagne waarschuwt voor misleiding met dure thuisbatterijen</title>
-    <link>https://tweakers.net/nieuws/254040/nederlandse-campagne-waarschuwt-voor-misleiding-met-dure-thuisbatterijen.html</link>
+    <title>Hackers verhogen ook temperatuur van koelsystemen bij 17 Nederlandse winkels</title>
+    <link>https://tweakers.net/nieuws/254042/hackers-verhogen-ook-temperatuur-van-koelsystemen-bij-17-nederlandse-winkels.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254042</guid>
+    <pubDate>Mon, 02 Nov 2026 14:26:24 +0100</pubDate>
+    <description>Ook Nederlandse winkels zijn maandagochtend geraakt door de hack op vries- en koelsystemen bij supermarkten in België, Luxemburg en Zweden. In Nederland gaat het nu, voor zover bekend, niet om grote supermarktketens, maar om 17 buurtwinkels en slagerijen. Dit meldt koelsystemenleverancier Danfoss.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254042/hackers-verhogen-ook-temperatuur-van-koelsystemen-bij-17-nederlandse-winkels.html#reacties</comments>
+  </item>
+  <item>
+    <title>Campagne waarschuwt voor misleiding met thuisbatterijen tot 50.000 euro</title>
+    <link>https://tweakers.net/nieuws/254040/campagne-waarschuwt-voor-misleiding-met-thuisbatterijen-tot-50000-euro.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254040</guid>
     <pubDate>Mon, 02 Nov 2026 13:35:30 +0100</pubDate>
     <description>Maandag 2 november start een campagne die Nederlandse consumenten waarschuwt voor misleidende verkopers die thuisbatterijen, zonnepanelen, warmtepompen en verduurzamingsadvies aanbieden. Zij misleiden mensen over terugverdientijden en zadelen hen soms op met thuisbatterijen van tienduizenden euro's.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/254040/nederlandse-campagne-waarschuwt-voor-misleiding-met-dure-thuisbatterijen.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254040/campagne-waarschuwt-voor-misleiding-met-thuisbatterijen-tot-50000-euro.html#reacties</comments>
   </item>
   <item>
     <title>Hackers verhogen koeltemperaturen ook bij Luxemburgse en Zweedse supermarkten</title>

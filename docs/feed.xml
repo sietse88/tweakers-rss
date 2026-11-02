@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 16:20:36 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 17:35:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gerucht: Samsung brengt in december camerabril uit, maar nog niet in EU</title>
+    <link>https://tweakers.net/nieuws/254052/gerucht-samsung-brengt-in-december-camerabril-uit-maar-nog-niet-in-eu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254052</guid>
+    <pubDate>Mon, 02 Nov 2026 18:17:34 +0100</pubDate>
+    <description>Samsung komt naar verluidt in december met zijn eerste slimme bril. Het product zou in eerste instantie alleen in Zuid-Korea en de Verenigde Staten verschijnen. De verdere uitbreiding hangt mogelijk af van hoe de bril ontvangen wordt.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartglasses</category>
+    <comments>https://tweakers.net/nieuws/254052/gerucht-samsung-brengt-in-december-camerabril-uit-maar-nog-niet-in-eu.html#reacties</comments>
+  </item>
   <item>
     <title>Proximus verhoogt datalimieten van mobiele abonnementen, meeste tarieven stijgen</title>
     <link>https://tweakers.net/nieuws/254050/proximus-verhoogt-datalimieten-van-mobiele-abonnementen-meeste-tarieven-stijgen.html</link>

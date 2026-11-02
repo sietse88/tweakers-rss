@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 02 Nov 2026 07:49:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:19:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -50,7 +50,7 @@
     <link>https://tweakers.net/nieuws/254012/e-thermostaat-van-essent-is-vanaf-februari-ook-niet-meer-betaald-te-gebruiken.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254012</guid>
     <pubDate>Sun, 01 Nov 2026 11:38:44 +0100</pubDate>
-    <description>Essent-klanten die de E-Thermostaat nog steeds op afstand gebruikten, kunnen dat vanaf februari niet meer doen. De maker van het apparaat, ICY, bood betaalde ondersteuning aan nadat Essent daar zelf in 2026 mee stopte. Die ondersteuning stopt nu helemaal, zegt ICY. Het beheer van de servers wordt te duur.</description>
+    <description>Essent-klanten die de E-Thermostaat nog steeds op afstand gebruikten, kunnen dat vanaf februari niet meer doen. De maker van het apparaat, ICY, bood betaalde ondersteuning aan nadat Essent daar zelf in 2019 mee stopte. Die ondersteuning stopt nu helemaal, zegt ICY. Het beheer van de servers wordt te duur.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Beeld en geluid / Thermostaten</category>
     <comments>https://tweakers.net/nieuws/254012/e-thermostaat-van-essent-is-vanaf-februari-ook-niet-meer-betaald-te-gebruiken.html#reacties</comments>
@@ -4944,16 +4944,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Mediaspelers</category>
     <comments>https://tweakers.net/nieuws/252928/fusiebedrijf-paramount-en-warner-bros-discovery-heet-skydance.html#reacties</comments>
-  </item>
-  <item>
-    <title>VS arresteren man voor smokkel van 300 miljoen dollar aan servers naar China</title>
-    <link>https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252926</guid>
-    <pubDate>Sat, 03 Oct 2026 10:12:08 +0200</pubDate>
-    <description>De Verenigde Staten hebben een man gearresteerd die ervan wordt beschuldigd voor meer dan 300 miljoen dollar aan computerservers naar China te hebben gesmokkeld. De servers zouden gpu's bevatten die in de VS zijn gemaakt en worden gebruikt voor 'superintelligentietoepassingen'.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252926/vs-arresteren-man-voor-smokkel-van-300-miljoen-dollar-aan-servers-naar-china.html#reacties</comments>
   </item>
 </channel>
 </rss>

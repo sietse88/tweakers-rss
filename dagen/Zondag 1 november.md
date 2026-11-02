@@ -38,7 +38,7 @@ Het Belgische onderzoeksinstituut imec gaat samenwerken met het ministerie van D
 
 ## E Thermostaat van Essent is vanaf februari ook niet meer betaald te gebruiken
 
-Essent-klanten die de E-Thermostaat nog steeds op afstand gebruikten, kunnen dat vanaf februari niet meer doen. De maker van het apparaat, ICY, bood betaalde ondersteuning aan nadat Essent daar zelf in 2026 mee stopte. Die ondersteuning stopt nu helemaal, zegt ICY. Het beheer van de servers wordt te duur.
+Essent-klanten die de E-Thermostaat nog steeds op afstand gebruikten, kunnen dat vanaf februari niet meer doen. De maker van het apparaat, ICY, bood betaalde ondersteuning aan nadat Essent daar zelf in 2019 mee stopte. Die ondersteuning stopt nu helemaal, zegt ICY. Het beheer van de servers wordt te duur.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254012/e-thermostaat-van-essent-is-vanaf-februari-ook-niet-meer-betaald-te-gebruiken.html)
 

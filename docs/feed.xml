@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:08:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:23:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Snap schikt met tieners en voorkomt zaak over verslavende Snapchat-streaks</title>
+    <link>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapchat-streaks.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254072</guid>
+    <pubDate>Tue, 03 Nov 2026 11:06:01 +0100</pubDate>
+    <description>Door een schikking hoeft Snap geen rechtszaak te voeren tegen twee Amerikaanse tieners over het verslavende ontwerp van Snapchat. Hoeveel Snap betaalt, is niet bekend.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapchat-streaks.html#reacties</comments>
+  </item>
   <item>
     <title>Scribd meldt hack en waarschuwt gebruikers voor phishing</title>
     <link>https://tweakers.net/nieuws/254068/scribd-meldt-hack-en-waarschuwt-gebruikers-voor-phishing.html</link>

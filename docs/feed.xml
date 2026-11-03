@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 18:55:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 19:25:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Intels cruciale '1,4nm'-procedé is stap dichter bij productie met pdk 0.9</title>
+    <link>https://tweakers.net/nieuws/254110/intels-cruciale-1-komma-4nm-procede-is-stap-dichter-bij-productie-met-pdk-09.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254110</guid>
+    <pubDate>Tue, 03 Nov 2026 20:16:12 +0100</pubDate>
+    <description>Intel Foundry heeft versie 0.9 van de Intel 14A-'pdk' uitgebracht. Zo'n process design kit bevat de ontwerpregels waarmee chipbedrijven daadwerkelijke producten kunnen ontwikkelen. Met versie 0.9 kan het zogenaamde '1,4nm'-procedé bijna worden gevalideerd voor massaproductie.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254110/intels-cruciale-1-komma-4nm-procede-is-stap-dichter-bij-productie-met-pdk-09.html#reacties</comments>
+  </item>
   <item>
     <title>Tesla hernoemt FSD naar Assisted Driving en begrenst hardrijden tot 10 procent</title>
     <link>https://tweakers.net/nieuws/254112/tesla-hernoemt-fsd-naar-assisted-driving-en-begrenst-hardrijden-tot-10-procent.html</link>

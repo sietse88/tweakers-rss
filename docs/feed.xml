@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:53:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 11:08:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Failliet Nederlands hyperloopbedrijf maakt doorstart na Amerikaanse investering</title>
+    <link>https://tweakers.net/nieuws/254076/failliet-nederlands-hyperloopbedrijf-maakt-doorstart-na-amerikaanse-investering.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254076</guid>
+    <pubDate>Tue, 03 Nov 2026 11:59:15 +0100</pubDate>
+    <description>De failliete Delftse start-up Hardt Hyperloop maakt een doorstart dankzij een investering van 'meerdere miljoenen euro's'. De grootste investeerder is het Amerikaanse Green Rock. Hardt wil hyperloops verder ontwikkelen en gaat ook meewerken aan projecten in Noord- en Zuid-Amerika.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254076/failliet-nederlands-hyperloopbedrijf-maakt-doorstart-na-amerikaanse-investering.html#reacties</comments>
+  </item>
   <item>
     <title>Snap schikt met tieners en voorkomt zaak over verslavende Snapstreaks</title>
     <link>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapstreaks.html</link>

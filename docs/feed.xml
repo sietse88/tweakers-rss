@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 14:38:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 15:23:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bambu Lab H3C-3d-printer heeft negen nozzles en kost 2499 euro</title>
+    <link>https://tweakers.net/nieuws/254098/bambu-lab-h3c-3d-printer-heeft-negen-nozzles-en-kost-2499-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254098</guid>
+    <pubDate>Tue, 03 Nov 2026 16:11:04 +0100</pubDate>
+    <description>Bambu Lab komt met een nieuwe 3d-printer: de H3C. Het wordt het nieuwe vlaggenschip van het bedrijf. De H3C beschikt over negen nozzles en kan daarmee tussen verschillende materialen wisselen. Hij kost 2499 euro.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / 3D-printers</category>
+    <comments>https://tweakers.net/nieuws/254098/bambu-lab-h3c-3d-printer-heeft-negen-nozzles-en-kost-2499-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Wachtwoordmanager mSecure meldt verdachte activiteit, raadt wachtwoordreset aan</title>
     <link>https://tweakers.net/nieuws/254094/wachtwoordmanager-msecure-meldt-verdachte-activiteit-raadt-wachtwoordreset-aan.html</link>

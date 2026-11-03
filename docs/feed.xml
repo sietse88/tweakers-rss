@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 18:25:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 18:55:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Tesla hernoemt FSD naar Assisted Driving en begrenst hardrijden tot 10 procent</title>
+    <link>https://tweakers.net/nieuws/254112/tesla-hernoemt-fsd-naar-assisted-driving-en-begrenst-hardrijden-tot-10-procent.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254112</guid>
+    <pubDate>Tue, 03 Nov 2026 19:38:29 +0100</pubDate>
+    <description>De Nederlandse RDW heeft een nieuwe update voor Tesla FSD Supervised goedgekeurd. Daarmee wordt de rijhulp hernoemd naar Tesla Assisted Driving (TAD). Ook de maximumsnelheid wordt teruggeschroefd: een Tesla met deze rijhulp mag hooguit nog 10 procent te hard rijden.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/254112/tesla-hernoemt-fsd-naar-assisted-driving-en-begrenst-hardrijden-tot-10-procent.html#reacties</comments>
+  </item>
   <item>
     <title>AEG: schakel SolarCube-thuisbatterijen volledig uit, reparatie is nodig</title>
     <link>https://tweakers.net/nieuws/254088/aeg-schakel-solarcube-thuisbatterijen-volledig-uit-reparatie-is-nodig.html</link>

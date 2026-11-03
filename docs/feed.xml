@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 17:54:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 18:25:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>AEG: schakel SolarCube-thuisbatterijen volledig uit, reparatie is nodig</title>
+    <link>https://tweakers.net/nieuws/254088/aeg-schakel-solarcube-thuisbatterijen-volledig-uit-reparatie-is-nodig.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254088</guid>
+    <pubDate>Tue, 03 Nov 2026 19:09:03 +0100</pubDate>
+    <description>AEG gaat alle SolarCube-thuisbatterijen repareren. Het apparaat heeft een potentieel probleem met het batterijmanagementsysteem. De fabrikant vraagt gebruikers om hun SolarCube in de tussentijd uit te schakelen en los te koppelen van het elektriciteitsnet.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/nieuws/254088/aeg-schakel-solarcube-thuisbatterijen-volledig-uit-reparatie-is-nodig.html#reacties</comments>
+  </item>
   <item>
     <title>The Fedora Project brengt Fedora 45 uit na twee weken uitstel</title>
     <link>https://tweakers.net/nieuws/254108/the-fedora-project-brengt-fedora-45-uit-na-twee-weken-uitstel.html</link>

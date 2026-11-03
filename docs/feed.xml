@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 01:40:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 05:07:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - TP-Link Archer 8 Ultra - Wi-Fi 8 is nog toekomstmuziek</title>
+    <link>https://tweakers.net/reviews/15512/tp-link-archer-8-ultra-wi-fi-8-is-nog-toekomstmuziek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15512</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+    <description>We bekijken in deze review de TP-Link Archer 8 Ultra en vergelijken de resultaten met de ASUS BN98.</description>
+    <dc:creator>Olaf Weijers</dc:creator>
+    <category>Review / Computers / Modems en routers</category>
+    <comments>https://tweakers.net/reviews/15512/tp-link-archer-8-ultra-wi-fi-8-is-nog-toekomstmuziek.html#reacties</comments>
+  </item>
   <item>
     <title>New York Times klaagt Brave aan voor AI-scraping en het omzeilen van betaalmuren</title>
     <link>https://tweakers.net/nieuws/254058/new-york-times-klaagt-brave-aan-voor-ai-scraping-en-het-omzeilen-van-betaalmuren.html</link>

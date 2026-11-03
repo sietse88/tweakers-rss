@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 07:52:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:08:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Scribd meldt hack en waarschuwt gebruikers voor phishing</title>
+    <link>https://tweakers.net/nieuws/254068/scribd-meldt-hack-en-waarschuwt-gebruikers-voor-phishing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254068</guid>
+    <pubDate>Tue, 03 Nov 2026 10:38:01 +0100</pubDate>
+    <description>Scribd, het bedrijf achter Scribd, SlideShare en Everand, is gehackt. Criminelen kregen daarbij toegang tot data van gebruikers en klanten, zo laat het bedrijf weten. Het heeft gebruikers gewaarschuwd voor phishing.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254068/scribd-meldt-hack-en-waarschuwt-gebruikers-voor-phishing.html#reacties</comments>
+  </item>
+  <item>
+    <title>Betalende Grok-klanten krijgen plots lagere limieten, ook bij 200 dollar</title>
+    <link>https://tweakers.net/nieuws/254062/betalende-grok-klanten-krijgen-plots-lagere-limieten-ook-bij-200-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254062</guid>
+    <pubDate>Tue, 03 Nov 2026 09:54:20 +0100</pubDate>
+    <description>Elon Musks bedrijf xAI heeft dit weekend onaangekondigd de gebruikslimieten van Grok Bot verlaagd voor betalende klanten. Volgens Musk waren de kosten voor het gebruik te hoog in vergelijking met de omzet.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254062/betalende-grok-klanten-krijgen-plots-lagere-limieten-ook-bij-200-dollar.html#reacties</comments>
+  </item>
   <item>
     <title>Sony biedt eigenaren ongebruikte PlayStation 5 in VS tot 400 dollar</title>
     <link>https://tweakers.net/nieuws/254064/sony-biedt-eigenaren-ongebruikte-playstation-5-in-vs-tot-400-dollar.html</link>
@@ -5054,36 +5074,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Audio</category>
     <comments>https://tweakers.net/nieuws/252946/youtube-shorts-gaat-minder-gestolen-content-aanraden.html#reacties</comments>
-  </item>
-  <item>
-    <title>In Jordanië opgepakt ShinyHunters-lid zou helpen andere leden op te sporen</title>
-    <link>https://tweakers.net/nieuws/252940/in-jordanie-opgepakt-shinyhunters-lid-zou-helpen-andere-leden-op-te-sporen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252940</guid>
-    <pubDate>Sun, 04 Oct 2026 12:02:00 +0200</pubDate>
-    <description>Het deze week in Jordanië opgepakte lid van de ShinyHunters-ransomwarebende helpt de Amerikaanse inlichtingendienst FBI om overige leden te traceren. Het is de tweede arrestatie van een lid in korte tijd.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/252940/in-jordanie-opgepakt-shinyhunters-lid-zou-helpen-andere-leden-op-te-sporen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Sony maakt cmos-batterij makkelijk te vervangen in revisie PS5 Slim</title>
-    <link>https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252938</guid>
-    <pubDate>Sun, 04 Oct 2026 11:25:00 +0200</pubDate>
-    <description>De onlangs uitgekomen Wolverine-versie van de Sony PlayStation 5 Slim blijkt intern te zijn aangepast ten opzichte van eerdere PS5 Slim-modellen. Een opvallende upgrade is dat de cmos-batterij nu makkelijker te vervangen is.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/252938/sony-maakt-cmos-batterij-makkelijk-te-vervangen-in-revisie-ps5-slim.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kagi stopt met ontwikkeling Orion-browser voor Linux en Windows</title>
-    <link>https://tweakers.net/nieuws/252934/kagi-stopt-met-ontwikkeling-orion-browser-voor-linux-en-windows.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252934</guid>
-    <pubDate>Sun, 04 Oct 2026 10:15:00 +0200</pubDate>
-    <description>Privacyzoekmachine Kagi stopt met de ontwikkeling van WebKit-browser Orion voor Linux en Windows. Het project gaat als open source verder en het bedrijf maakt de broncode openbaar. Orion voor macOS en iOS blijft wel bestaan.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Browsers</category>
-    <comments>https://tweakers.net/nieuws/252934/kagi-stopt-met-ontwikkeling-orion-browser-voor-linux-en-windows.html#reacties</comments>
   </item>
 </channel>
 </rss>

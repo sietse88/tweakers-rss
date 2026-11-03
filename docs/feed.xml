@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 12:08:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 12:23:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gratis Adobe-concurrent Affinity komt op termijn ook naar Linux</title>
+    <link>https://tweakers.net/nieuws/254078/gratis-adobe-concurrent-affinity-komt-op-termijn-ook-naar-linux.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254078</guid>
+    <pubDate>Tue, 03 Nov 2026 13:14:55 +0100</pubDate>
+    <description>Canva brengt Affinity ook naar Linux. Het bedrijf zegt aan een Linux-versie van die gratis ontwerpsoftware te werken, al is de releasedatum nog niet bekend. De software, die onder andere concurreert met Photoshop, is al beschikbaar voor Windows, macOS en iPads.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Design en multimedia</category>
+    <comments>https://tweakers.net/nieuws/254078/gratis-adobe-concurrent-affinity-komt-op-termijn-ook-naar-linux.html#reacties</comments>
+  </item>
+  <item>
+    <title>Thief Remastered krijgt gratis officiële uitbreiding van makers populaire mod</title>
+    <link>https://tweakers.net/nieuws/254082/thief-remastered-krijgt-gratis-officiele-uitbreiding-van-makers-populaire-mod.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254082</guid>
+    <pubDate>Tue, 03 Nov 2026 13:14:06 +0100</pubDate>
+    <description>Thief: The Dark Project Remastered komt op 3 december uit voor alle platforms en krijgt een gratis uitbreiding genaamd The Tarnished Mirror. Deze vier nieuwe missies worden gemaakt door de makers van The Black Parade, een zeer populaire mod voor de stealthgame die oorspronkelijk in 1998 uitkwam.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254082/thief-remastered-krijgt-gratis-officiele-uitbreiding-van-makers-populaire-mod.html#reacties</comments>
+  </item>
   <item>
     <title>Gamingsmartphone Redmagic 12 Pro heeft bumpers en waterkoeling</title>
     <link>https://tweakers.net/nieuws/253968/gamingsmartphone-redmagic-12-pro-heeft-bumpers-en-waterkoeling.html</link>

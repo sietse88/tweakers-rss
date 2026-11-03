@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 14:08:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 14:38:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Wachtwoordmanager mSecure meldt verdachte activiteit, raadt wachtwoordreset aan</title>
+    <link>https://tweakers.net/nieuws/254094/wachtwoordmanager-msecure-meldt-verdachte-activiteit-raadt-wachtwoordreset-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254094</guid>
+    <pubDate>Tue, 03 Nov 2026 15:31:21 +0100</pubDate>
+    <description>Wachtwoordmanager mSecure meldt in een bericht aan gebruikers dat er 'verdachte activiteit' is geconstateerd. Het bedrijf raadt gebruikers aan om wachtwoorden en tweefactorauthenticatieprocessen te resetten en bestaande passkeys te verwijderen. Het is onduidelijk wat er precies aan de hand is.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254094/wachtwoordmanager-msecure-meldt-verdachte-activiteit-raadt-wachtwoordreset-aan.html#reacties</comments>
+  </item>
   <item>
     <title>Ubiquiti UniFi Cloud Storage-back-updienst kost maandelijks 5 dollar per TB</title>
     <link>https://tweakers.net/nieuws/254092/ubiquiti-unifi-cloud-storage-back-updienst-kost-maandelijks-5-dollar-per-tb.html</link>

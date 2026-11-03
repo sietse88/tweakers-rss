@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 11:53:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 12:08:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gamingsmartphone Redmagic 12 Pro heeft bumpers en waterkoeling</title>
+    <link>https://tweakers.net/nieuws/253968/gamingsmartphone-redmagic-12-pro-heeft-bumpers-en-waterkoeling.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/253968</guid>
+    <pubDate>Tue, 03 Nov 2026 13:00:00 +0100</pubDate>
+    <description>Nubia brengt de Redmagic 12 Pro in de Benelux uit vanaf 899 euro. De gamingsmartphone heeft onder meer fysieke bumpers en een waterkoelsysteem. Het toestel wordt door een nieuwe Snapdragon 8 Elite Extreme Gen 6 aangedreven en is vanaf 18 november verkrijgbaar.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/253968/gamingsmartphone-redmagic-12-pro-heeft-bumpers-en-waterkoeling.html#reacties</comments>
+  </item>
   <item>
     <title>Affinity brengt gratis ontwerpapp ook uit op iPad met ondersteuning voor Pencil</title>
     <link>https://tweakers.net/nieuws/254080/affinity-brengt-gratis-ontwerpapp-ook-uit-op-ipad-met-ondersteuning-voor-pencil.html</link>

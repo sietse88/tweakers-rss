@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 07:07:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 07:22:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5084,16 +5084,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Browsers</category>
     <comments>https://tweakers.net/nieuws/252934/kagi-stopt-met-ontwikkeling-orion-browser-voor-linux-en-windows.html#reacties</comments>
-  </item>
-  <item>
-    <title>Jagex kondigt aan dat het een vierde RuneScape-game maakt</title>
-    <link>https://tweakers.net/nieuws/252932/jagex-kondigt-aan-dat-het-een-vierde-runescape-game-maakt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252932</guid>
-    <pubDate>Sun, 04 Oct 2026 09:11:00 +0200</pubDate>
-    <description>Ontwikkelaar Jagex heeft aangekondigd dat het werkt aan een nieuwe RuneScape-game. Die was in ontwikkeling als uitbreiding op het vorig jaar verschenen Dragonwilds, maar wordt nu een zelfstandige game.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252932/jagex-kondigt-aan-dat-het-een-vierde-runescape-game-maakt.html#reacties</comments>
   </item>
 </channel>
 </rss>

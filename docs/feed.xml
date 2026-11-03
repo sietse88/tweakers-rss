@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 06:37:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 07:07:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Sony biedt eigenaren ongebruikte PlayStation 5 in VS tot 400 dollar</title>
+    <link>https://tweakers.net/nieuws/254064/sony-biedt-eigenaren-ongebruikte-playstation-5-in-vs-tot-400-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254064</guid>
+    <pubDate>Tue, 03 Nov 2026 08:05:51 +0100</pubDate>
+    <description>Sony heeft een melding gestuurd naar eigenaren van een PlayStation 5 in de VS die niet in gebruik is. Eigenaren kunnen tot 400 dollar krijgen voor een console met twee controllers. Microsoft deed dat eerder met XBOX Series-eigenaren.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254064/sony-biedt-eigenaren-ongebruikte-playstation-5-in-vs-tot-400-dollar.html#reacties</comments>
+  </item>
   <item>
     <title>Meta stopt met updates voor de Quest 2 en Quest Pro</title>
     <link>https://tweakers.net/nieuws/254060/meta-stopt-met-updates-voor-de-quest-2-en-quest-pro.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:23:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 10:53:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Snap schikt met tieners en voorkomt zaak over verslavende Snapchat-streaks</title>
-    <link>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapchat-streaks.html</link>
+    <title>Snap schikt met tieners en voorkomt zaak over verslavende Snapstreaks</title>
+    <link>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapstreaks.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254072</guid>
     <pubDate>Tue, 03 Nov 2026 11:06:01 +0100</pubDate>
     <description>Door een schikking hoeft Snap geen rechtszaak te voeren tegen twee Amerikaanse tieners over het verslavende ontwerp van Snapchat. Hoeveel Snap betaalt, is niet bekend.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapchat-streaks.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254072/snap-schikt-met-tieners-en-voorkomt-zaak-over-verslavende-snapstreaks.html#reacties</comments>
   </item>
   <item>
     <title>Scribd meldt hack en waarschuwt gebruikers voor phishing</title>
@@ -5074,16 +5074,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Software</category>
     <comments>https://tweakers.net/nieuws/252942/tuta-brengt-plug-in-uit-voor-integratie-met-nextcloud.html#reacties</comments>
-  </item>
-  <item>
-    <title>YouTube Shorts gaat minder gestolen content aanraden</title>
-    <link>https://tweakers.net/nieuws/252946/youtube-shorts-gaat-minder-gestolen-content-aanraden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252946</guid>
-    <pubDate>Sun, 04 Oct 2026 12:43:02 +0200</pubDate>
-    <description>YouTube gaat minder gestolen content van andere makers aanraden op Shorts. Daarvoor werkt Google het aanbevelingsalgoritme bij. YouTube raadt makers aan om zich te richten op originele video's.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Audio</category>
-    <comments>https://tweakers.net/nieuws/252946/youtube-shorts-gaat-minder-gestolen-content-aanraden.html#reacties</comments>
   </item>
 </channel>
 </rss>

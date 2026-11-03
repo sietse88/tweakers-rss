@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 13:23:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 14:08:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ubiquiti UniFi Cloud Storage-back-updienst kost maandelijks 5 dollar per TB</title>
+    <link>https://tweakers.net/nieuws/254092/ubiquiti-unifi-cloud-storage-back-updienst-kost-maandelijks-5-dollar-per-tb.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254092</guid>
+    <pubDate>Tue, 03 Nov 2026 14:57:34 +0100</pubDate>
+    <description>Ubiquiti komt met een cloudopslagdienst: UniFi Cloud Storage. Die is bedoeld voor gebruikers met een UniFi-nas of UniFi Protect-beveiligingscamera's. De dienst kan data daarvan als back-up naar de cloud sturen. Die kost maandelijks 5 dollar per terabyte, al deelt Ubiquiti geen europrijzen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Nas</category>
+    <comments>https://tweakers.net/nieuws/254092/ubiquiti-unifi-cloud-storage-back-updienst-kost-maandelijks-5-dollar-per-tb.html#reacties</comments>
+  </item>
   <item>
     <title>Europa staat overname MediaMarkt door Chinese webwinkel onder voorwaarden toe</title>
     <link>https://tweakers.net/nieuws/254084/europa-staat-overname-mediamarkt-door-chinese-webwinkel-onder-voorwaarden-toe.html</link>

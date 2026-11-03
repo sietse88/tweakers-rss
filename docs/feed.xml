@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 12:23:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:23:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Europa staat overname MediaMarkt door Chinese webwinkel onder voorwaarden toe</title>
+    <link>https://tweakers.net/nieuws/254084/europa-staat-overname-mediamarkt-door-chinese-webwinkel-onder-voorwaarden-toe.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254084</guid>
+    <pubDate>Tue, 03 Nov 2026 14:07:02 +0100</pubDate>
+    <description>De Europese Commissie geeft het Chinese JD.com onder voorwaarden toestemming om de MediaMarkt-eigenaar Ceconomy over te nemen. De overname van 2,2 miljard euro mag daarmee definitief doorgaan. Toezichthouders maakten zich lang zorgen dat de overname voor oneerlijke concurrentie zou zorgen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254084/europa-staat-overname-mediamarkt-door-chinese-webwinkel-onder-voorwaarden-toe.html#reacties</comments>
+  </item>
+  <item>
+    <title>'SUSE ontslaat 10 procent van zijn personeel vanwege AI'</title>
+    <link>https://tweakers.net/nieuws/254086/suse-ontslaat-10-procent-van-zijn-personeel-vanwege-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254086</guid>
+    <pubDate>Tue, 03 Nov 2026 14:06:24 +0100</pubDate>
+    <description>SUSE is van plan om tien procent van zijn personeel te ontslaan. Dat meldt het bedrijf in een intern memo, dat is ingezien door The Register. Het bedrijf doet dat vanwege 'automatisering en AI', aldus dat nieuwsmedium.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254086/suse-ontslaat-10-procent-van-zijn-personeel-vanwege-ai.html#reacties</comments>
+  </item>
   <item>
     <title>Gratis Adobe-concurrent Affinity komt op termijn ook naar Linux</title>
     <link>https://tweakers.net/nieuws/254078/gratis-adobe-concurrent-affinity-komt-op-termijn-ook-naar-linux.html</link>

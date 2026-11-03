@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 03 Nov 2026 15:23:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 17:54:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>The Fedora Project brengt Fedora 45 uit na twee weken uitstel</title>
+    <link>https://tweakers.net/nieuws/254108/the-fedora-project-brengt-fedora-45-uit-na-twee-weken-uitstel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254108</guid>
+    <pubDate>Tue, 03 Nov 2026 17:48:53 +0100</pubDate>
+    <description>The Fedora Project heeft Fedora 45 officieel uitgebracht. De Linux-distributie krijgt daarmee onder andere nieuwere versies van de Gnome- en KDE-desktopomgevingen. Versie 45 zou eigenlijk twee weken geleden al verschijnen, maar de release werd meermaals uitgesteld vanwege bugs.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254108/the-fedora-project-brengt-fedora-45-uit-na-twee-weken-uitstel.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Samsung Foundry gaat HBM-dies maken voor AMD en Nvidia in tweede fabriek Texas'</title>
+    <link>https://tweakers.net/nieuws/254106/samsung-foundry-gaat-hbm-dies-maken-voor-amd-en-nvidia-in-tweede-fabriek-texas.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254106</guid>
+    <pubDate>Tue, 03 Nov 2026 17:28:13 +0100</pubDate>
+    <description>Samsung Foundry gaat in zijn tweede fabriek in Texas naar verluidt basedies voor High Bandwidth Memory (HBM) maken voor AMD en Nvidia. Daardoor is de fabriek nu al volgeboekt, meldt het Zuid-Koreaanse Maeil Business Newspaper. Samsung zou deze maand beginnen de fabriek te bouwen. De massaproductie moet in 2030 beginnen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/254106/samsung-foundry-gaat-hbm-dies-maken-voor-amd-en-nvidia-in-tweede-fabriek-texas.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ziggo haalde vorig kwartaal 11.800 nieuwe internetklanten binnen</title>
+    <link>https://tweakers.net/nieuws/254104/ziggo-haalde-vorig-kwartaal-11800-nieuwe-internetklanten-binnen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254104</guid>
+    <pubDate>Tue, 03 Nov 2026 17:25:16 +0100</pubDate>
+    <description>Ziggo haalde vorig kwartaal opnieuw meer internetklanten binnen. Netto kreeg de provider er 11.800 klanten bij voor vast internet. Het bedrijf noemt dat het beste resultaat in jaren. Het bedrijf zag voor het eerst in twee jaar tijd ook de omzet groeien.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254104/ziggo-haalde-vorig-kwartaal-11800-nieuwe-internetklanten-binnen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Rockstar: GTA VI is 212GB groot, preloaden begint al op 10 november</title>
+    <link>https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254102</guid>
+    <pubDate>Tue, 03 Nov 2026 16:55:25 +0100</pubDate>
+    <description>Rockstar deelt meer details over het preloaden van Grand Theft Auto VI. Gebruikers kunnen de game op 10 november alvast downloaden, zodat ze bij de release op 19 november meteen aan de slag kunnen. Daarnaast bevestigt het bedrijf het bestandsgrootte: 212GB.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html#reacties</comments>
+  </item>
+  <item>
+    <title>The Elder Scrolls VI heeft na acht jaar eindelijk een naam: Sentinel</title>
+    <link>https://tweakers.net/nieuws/254100/the-elder-scrolls-vi-heeft-na-acht-jaar-eindelijk-een-naam-sentinel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254100</guid>
+    <pubDate>Tue, 03 Nov 2026 16:32:25 +0100</pubDate>
+    <description>Bethesda heeft eindelijk weer iets laten horen over de volgende The Elder Scrolls-game. In een korte teaser bevestigt de studio hoe de game gaat heten, namelijk The Elder Scrolls VI: Sentinel. Concrete details, zoals een releasedatum, ontbreken nog altijd.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254100/the-elder-scrolls-vi-heeft-na-acht-jaar-eindelijk-een-naam-sentinel.html#reacties</comments>
+  </item>
   <item>
     <title>Bambu Lab H3C-3d-printer heeft negen nozzles en kost 2499 euro</title>
     <link>https://tweakers.net/nieuws/254098/bambu-lab-h3c-3d-printer-heeft-negen-nozzles-en-kost-2499-euro.html</link>

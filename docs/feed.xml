@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 16:05:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 18:19:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Overheid Chinese stad wordt mogelijk mede-eigenaar van smartphonetak ZTE</title>
+    <link>https://tweakers.net/nieuws/254162/overheid-chinese-stad-wordt-mogelijk-mede-eigenaar-van-smartphonetak-zte.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254162</guid>
+    <pubDate>Wed, 04 Nov 2026 18:27:00 +0100</pubDate>
+    <description>De overheid van de Chinese stad Shanghai wordt mogelijk mede-eigenaar van de smartphonetak van ZTE. De Chinese fabrikant werkt aan een joint venture voor zijn smartphonedivisie. De Red Magic-gamingsmartphones zouden niet in de deal zitten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254162/overheid-chinese-stad-wordt-mogelijk-mede-eigenaar-van-smartphonetak-zte.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nexus Mods dwingt modders eerlijk over AI-gebruik te zijn, maar verbiedt AI niet</title>
+    <link>https://tweakers.net/nieuws/254158/nexus-mods-dwingt-modders-eerlijk-over-ai-gebruik-te-zijn-maar-verbiedt-ai-niet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254158</guid>
+    <pubDate>Wed, 04 Nov 2026 18:08:20 +0100</pubDate>
+    <description>Nexus Mods past zijn gebruikersbeleid aan door modmakers standaard te vragen of zij AI hebben gebruikt bij de ontwikkeling van een mod. Het gebruik van AI om bijvoorbeeld code of beelden te genereren is niet verboden, maar het verzwijgen hiervan wel.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254158/nexus-mods-dwingt-modders-eerlijk-over-ai-gebruik-te-zijn-maar-verbiedt-ai-niet.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ziggo Group is volgens planning vanaf lente 2027 zelfstandig bedrijf</title>
+    <link>https://tweakers.net/nieuws/254160/ziggo-group-is-volgens-planning-vanaf-lente-2027-zelfstandig-bedrijf.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254160</guid>
+    <pubDate>Wed, 04 Nov 2026 17:48:00 +0100</pubDate>
+    <description>Ziggo Group, het toekomstige moederbedrijf van het Nederlandse Ziggo en het Belgische Telenet, wordt vanaf de lente van volgend jaar zelfstandig. Dat zegt moederbedrijf Liberty Global.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254160/ziggo-group-is-volgens-planning-vanaf-lente-2027-zelfstandig-bedrijf.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apple werkt aan Selfie Sing-karaokefunctie voor iPhones</title>
+    <link>https://tweakers.net/nieuws/254150/apple-werkt-aan-selfie-sing-karaokefunctie-voor-iphones.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254150</guid>
+    <pubDate>Wed, 04 Nov 2026 17:16:02 +0100</pubDate>
+    <description>Apple werkt aan een functie genaamd Selfie Sing voor iOS 27.3. Daarmee verschijnen liedteksten op het scherm en is via de camera te zien hoe de gebruiker meezingt met de muziek. Gebruikers kunnen alleen met bepaalde liedjes meezingen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/254150/apple-werkt-aan-selfie-sing-karaokefunctie-voor-iphones.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - De smeltplekken die security van koel- en vriessystemen in supermarkten bederven</title>
+    <link>https://tweakers.net/reviews/15568/de-smeltplekken-die-security-van-koel-en-vriessystemen-in-supermarkten-bederven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15568</guid>
+    <pubDate>Wed, 04 Nov 2026 17:10:14 +0100</pubDate>
+    <description>Hacks van vries- en koelsystemen bij supermarkten waren te voorspellen. Brengen deze hacks betere basisbeveiliging? De smeltplekken in de beveiliging zijn namelijk best basaal.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Achtergrond / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/reviews/15568/de-smeltplekken-die-security-van-koel-en-vriessystemen-in-supermarkten-bederven.html#reacties</comments>
+  </item>
   <item>
     <title>FT: Oracle trekt zich terug uit miljardencontract met Tencent</title>
     <link>https://tweakers.net/nieuws/254138/ft-oracle-trekt-zich-terug-uit-miljardencontract-met-tencent.html</link>
@@ -5264,46 +5314,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/252988/huawei-en-qualcomm-sluiten-meerjarige-patentdeal-voor-5g-en-ai.html#reacties</comments>
-  </item>
-  <item>
-    <title>Cybercriminelen bieden gestolen data van Flink te koop aan</title>
-    <link>https://tweakers.net/nieuws/252986/cybercriminelen-bieden-gestolen-data-van-flink-te-koop-aan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252986</guid>
-    <pubDate>Mon, 05 Oct 2026 20:05:40 +0200</pubDate>
-    <description>Cybercriminelen bieden de data die ze van onlinesupermarkt Flink stalen te koop aan. De recent opgerichte ransomwarebende LPG zei eind september dat de data van ruim 10.000 werknemers en een miljoen klanten van Flink had gestolen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252986/cybercriminelen-bieden-gestolen-data-van-flink-te-koop-aan.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fout in Dolby Digital-decoder van Windows 11 laat apps en games crashen</title>
-    <link>https://tweakers.net/nieuws/252984/fout-in-dolby-digital-decoder-van-windows-11-laat-apps-en-games-crashen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252984</guid>
-    <pubDate>Mon, 05 Oct 2026 19:30:53 +0200</pubDate>
-    <description>Windows 11 heeft een probleem met de ingebouwde Dolby Digital-decoder. Bij sommige gebruikers leidt dat ertoe dat apps en games crashen. Microsoft zegt te werken aan een oplossing.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/252984/fout-in-dolby-digital-decoder-van-windows-11-laat-apps-en-games-crashen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gratis Gemini-gebruikers verliezen toegang tot Flash- en Pro-modellen</title>
-    <link>https://tweakers.net/nieuws/252982/gratis-gemini-gebruikers-verliezen-toegang-tot-flash-en-pro-modellen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252982</guid>
-    <pubDate>Mon, 05 Oct 2026 18:57:27 +0200</pubDate>
-    <description>Gratis gebruikers van Gemini hebben vanaf 9 oktober geen toegang meer tot de Flash- en Pro-modellen. Dat blijkt uit een geüpdatet ondersteuningsdocument van Google. Zij kunnen dan alleen nog het Flash-Lite-model gebruiken.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Software</category>
-    <comments>https://tweakers.net/nieuws/252982/gratis-gemini-gebruikers-verliezen-toegang-tot-flash-en-pro-modellen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kabinet wil mobieltjes vanaf 2027 hele schooldag weren op scholen</title>
-    <link>https://tweakers.net/nieuws/252980/kabinet-wil-mobieltjes-vanaf-2027-hele-schooldag-weren-op-scholen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252980</guid>
-    <pubDate>Mon, 05 Oct 2026 18:24:49 +0200</pubDate>
-    <description>Het Nederlandse kabinet wil dat alle scholen vanaf 1 januari 2027 het gebruik van mobieltjes op school weren. Op veel scholen mogen leerlingen hun telefoon niet meenemen de klas in. Het kabinet stelt nu een aangescherpte afspraak voor, waarbij telefoons ook niet meer in de pauze, in de aula of op het schoolplein gebruikt mogen worden.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/252980/kabinet-wil-mobieltjes-vanaf-2027-hele-schooldag-weren-op-scholen.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 15:19:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 15:35:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Waarom Tesla’s FSD voortaan TAD heet en minder hard mag rijden</title>
+    <link>https://tweakers.net/reviews/15564/waarom-teslas-fsd-voortaan-tad-heet-en-minder-hard-mag-rijden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15564</guid>
+    <pubDate>Wed, 04 Nov 2026 16:30:00 +0100</pubDate>
+    <description>Tesla's FSD heet binnenkort geen FSD meer, maar TAD. De auto rijdt dan ook iets minder hard. Tweakers legt uit waarom dat zo is.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Achtergrond / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/reviews/15564/waarom-teslas-fsd-voortaan-tad-heet-en-minder-hard-mag-rijden.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers verhoogden temperaturen van koelcellen van Franse bloedbank</title>
     <link>https://tweakers.net/nieuws/254148/hackers-verhoogden-temperaturen-van-koelcellen-van-franse-bloedbank.html</link>

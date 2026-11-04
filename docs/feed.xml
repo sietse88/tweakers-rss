@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 18:49:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 19:19:50 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Omstreden Apple Watch-functies verschijnen in bèta van watchOS 27.3</title>
+    <link>https://tweakers.net/nieuws/254168/omstreden-apple-watch-functies-verschijnen-in-beta-van-watchos-273.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254168</guid>
+    <pubDate>Wed, 04 Nov 2026 20:06:12 +0100</pubDate>
+    <description>De veelbesproken functies Live Terugspoelen en Siri Samenvatting zitten in de bèta van watchOS 27.3. De functies die leunen op het meeluisteren met gesprekken lijken daardoor binnen afzienbare tijd uit te komen. Dat gebeurt voorlopig niet in de Europese Unie.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/nieuws/254168/omstreden-apple-watch-functies-verschijnen-in-beta-van-watchos-273.html#reacties</comments>
+  </item>
   <item>
     <title>Studio stelt God of War Laufey drie maanden uit 'voor puntjes op de i'</title>
     <link>https://tweakers.net/nieuws/254166/studio-stelt-god-of-war-laufey-drie-maanden-uit-voor-puntjes-op-de-i.html</link>

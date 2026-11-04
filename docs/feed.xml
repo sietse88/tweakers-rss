@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 12:34:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 12:49:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Koelinghack treft ook Duitse supermarkten, EU start onderzoek</title>
+    <link>https://tweakers.net/nieuws/254142/koelinghack-treft-ook-duitse-supermarkten-eu-start-onderzoek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254142</guid>
+    <pubDate>Wed, 04 Nov 2026 13:35:58 +0100</pubDate>
+    <description>Ook de koelingen van de Duitse supermarktketens Edeka, CAP en REWE zijn gehackt. Daardoor liep de temperatuur in de koelingen flink op. Volgens Tagesschau gaat het om in totaal vijf supermarkten in de deelstaten Noordrijn-Westfalen, Nedersaksen en Beieren.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254142/koelinghack-treft-ook-duitse-supermarkten-eu-start-onderzoek.html#reacties</comments>
+  </item>
   <item>
     <title>Google dicht 213 bugs in Chrome, weer veel meer dan gemiddeld</title>
     <link>https://tweakers.net/nieuws/254140/google-dicht-213-bugs-in-chrome-weer-veel-meer-dan-gemiddeld.html</link>

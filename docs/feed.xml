@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 14:34:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 14:49:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5264,16 +5264,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252978/rdi-verlaagt-odido-boete-van-1-komma-5-miljoen-uit-2025-met-50000-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Aanvallers hadden twee maanden toegang tot downloadlinks van Belnet</title>
-    <link>https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252976</guid>
-    <pubDate>Mon, 05 Oct 2026 16:37:38 +0200</pubDate>
-    <description>Het Belgische Belnet heeft een beveiligings- en privacyincident vastgesteld binnen zijn IT-infrastructuur. Belnet voorziet Belgische onderwijsinstellingen, onderzoekscentra en overheidsdiensten van netwerk. Aanvallers kregen daarbij mogelijk toegang tot bestanden die via FileSender en FedSender verstuurd zijn. Ze onderschepten ook e-mails naar domeinen van Belnet en verplaatsten die naar externe infrastructuur.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html#reacties</comments>
   </item>
 </channel>
 </rss>

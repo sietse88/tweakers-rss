@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 07:30:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:45:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nexperia klaagt eigenaar Wingtech aan en eist schadevergoeding</title>
+    <link>https://tweakers.net/nieuws/254120/nexperia-klaagt-eigenaar-wingtech-aan-en-eist-schadevergoeding.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254120</guid>
+    <pubDate>Wed, 04 Nov 2026 09:31:08 +0100</pubDate>
+    <description>De Nijmeegse chipmaker Nexperia klaagt zijn eigen moederbedrijf Wingtech, diens eigenaar Zhang Xuezheng en de Chinese onderdelen van Nexperia aan. Nexperia eist een schadevergoeding, omdat de handelingen van Wingtech en Xuezheng 'aanzienlijke schade' hebben toegebracht aan het bedrijf.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254120/nexperia-klaagt-eigenaar-wingtech-aan-en-eist-schadevergoeding.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Hoe illegale IPTV-kastjes een ingang voor criminelen kunnen worden</title>
     <link>https://tweakers.net/reviews/15536/hoe-illegale-iptv-kastjes-een-ingang-voor-criminelen-kunnen-worden.html</link>
@@ -5244,16 +5254,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartglasses</category>
     <comments>https://tweakers.net/nieuws/252956/noorse-regering-wil-camerabrillen-tijdelijk-weren-op-drukke-openbare-plekken.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Onbevoegden' hadden toegang tot gegevens 8,8 miljoen inwoners Denemarken</title>
-    <link>https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252954</guid>
-    <pubDate>Mon, 05 Oct 2026 10:37:09 +0200</pubDate>
-    <description>'Onbevoegde gebruikers' hebben toegang gekregen tot het persoonsregister van Denemarken. Daarbij konden zij de gegevens van 8,8 miljoen inwoners inzien, bevestigt de Deense overheid in een verklaring.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252954/onbevoegden-hadden-toegang-tot-gegevens-8-komma-8-miljoen-inwoners-denemarken.html#reacties</comments>
   </item>
 </channel>
 </rss>

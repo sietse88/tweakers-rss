@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 10:48:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 11:03:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - The Legend of Zelda: Ocarina of Time - Prachtige remake van de beste Zelda-game</title>
+    <link>https://tweakers.net/reviews/15558/the-legend-of-zelda-ocarina-of-time-prachtige-remake-van-de-beste-zelda-game.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15558</guid>
+    <pubDate>Wed, 04 Nov 2026 12:00:00 +0100</pubDate>
+    <description>The Legend of Zelda: Ocarina of Time is misschien wel de beste game ooit gemaakt en de remake die nu voor de Nintendo Switch 2 uitkomt, benadert dat niveau zeker.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15558/the-legend-of-zelda-ocarina-of-time-prachtige-remake-van-de-beste-zelda-game.html#reacties</comments>
+  </item>
   <item>
     <title>ArenaNet kondigt roguelike-uitbreiding voor 21 jaar oude Guild Wars aan</title>
     <link>https://tweakers.net/nieuws/254132/arenanet-kondigt-roguelike-uitbreiding-voor-21-jaar-oude-guild-wars-aan.html</link>
@@ -5254,16 +5264,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html#reacties</comments>
-  </item>
-  <item>
-    <title>Voormalig EVGA-overklokker Kingpin keert terug en hint op samenwerking met ASUS</title>
-    <link>https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252958</guid>
-    <pubDate>Mon, 05 Oct 2026 12:58:35 +0200</pubDate>
-    <description>Vince Lucido, ook wel bekend als Kingpin, gaat weer extreem overklokken. De professionele overklokker was vooral bekend om zijn werk met EVGA, maar stopte toen die fabrikant uit de gpu-markt stapte. Nu lijkt hij aan de slag te gaan met ASUS, al zijn die plannen nog vaag.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/252958/voormalig-evga-overklokker-kingpin-keert-terug-en-hint-op-samenwerking-met-asus.html#reacties</comments>
   </item>
 </channel>
 </rss>

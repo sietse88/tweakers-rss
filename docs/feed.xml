@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 12:49:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 13:04:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5284,26 +5284,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Tablets en telefoons / E-readers</category>
     <comments>https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlands betaalbedrijf Mollie komt met iDEAL-concurrent Pay by Bank</title>
-    <link>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252964</guid>
-    <pubDate>Mon, 05 Oct 2026 15:04:12 +0200</pubDate>
-    <description>Betaalbedrijf Mollie komt met een eigen alternatief voor iDEAL en zijn opvolger Wero. Met Pay by Bank kunnen gebruikers direct via hun bankrekening betalen bij online aankopen. De dienst biedt geen kopersbescherming.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252964/nederlands-betaalbedrijf-mollie-komt-met-ideal-concurrent-pay-by-bank.html#reacties</comments>
-  </item>
-  <item>
-    <title>Citrix dicht actief misbruikt dos-lek in NetScaler</title>
-    <link>https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252966</guid>
-    <pubDate>Mon, 05 Oct 2026 14:57:17 +0200</pubDate>
-    <description>Citrix heeft patches uitgebracht voor een actief misbruikte kwetsbaarheid in NetScaler ADC en NetScaler Gateway. Het lek kan leiden tot denial-of-serviceaanvallen, waardoor een dienst onbeschikbaar wordt.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252966/citrix-dicht-actief-misbruikt-dos-lek-in-netscaler.html#reacties</comments>
   </item>
 </channel>
 </rss>

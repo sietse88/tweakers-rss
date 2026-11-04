@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 13:34:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 14:04:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5264,36 +5264,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Achtergrond / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenAI gaat ChatGPT-advertenties met afbeeldingen tonen, voorlopig alleen in VS</title>
-    <link>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252974</guid>
-    <pubDate>Mon, 05 Oct 2026 16:02:52 +0200</pubDate>
-    <description>OpenAI gaat afbeeldingen van gesponsorde producten en diensten in ChatGPT tonen. De AI-maker begint binnenkort met een test van dit soort visuele advertenties, al is dat voorlopig alleen in de Verenigde Staten. Of en wanneer het bedrijf ze breder uitrolt, is nog niet bekend.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/252974/openai-gaat-chatgpt-advertenties-met-afbeeldingen-tonen-voorlopig-alleen-in-vs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft Authenticator kan vanaf 2027 niet meer via Microsoft geback-upt worden</title>
-    <link>https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252972</guid>
-    <pubDate>Mon, 05 Oct 2026 15:55:48 +0200</pubDate>
-    <description>Gebruikers van de Android-versie van Microsoft Authenticator kunnen vanaf 2027 geen Microsoft-account meer gebruiken om hun tweestapsverificatie te back-uppen. Microsoft zegt dat gebruikers dat alleen nog via Google kunnen doen. Het bedrijf geeft daar geen verklaring voor.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/252972/microsoft-authenticator-kan-vanaf-2027-niet-meer-via-microsoft-geback-upt-worden.html#reacties</comments>
-  </item>
-  <item>
-    <title>PocketBook brengt Verta en Verta Color in november uit vanaf 169 euro</title>
-    <link>https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252970</guid>
-    <pubDate>Mon, 05 Oct 2026 15:50:06 +0200</pubDate>
-    <description>PocketBook introduceert twee nieuwe e-readers, de Verta en Verta Color. Beide apparaten hebben een 6"-scherm en zijn vanaf november verkrijgbaar. De Verta krijgt een adviesprijs van 169 euro. De adviesprijs van de Verta Color ligt tien euro hoger, op 179 euro.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / E-readers</category>
-    <comments>https://tweakers.net/nieuws/252970/pocketbook-brengt-verta-en-verta-color-in-november-uit-vanaf-169-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

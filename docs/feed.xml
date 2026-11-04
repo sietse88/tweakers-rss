@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 13:04:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 13:34:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Indieplatform Itchio verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit</title>
+    <link>https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254126</guid>
+    <pubDate>Wed, 04 Nov 2026 14:18:45 +0100</pubDate>
+    <description>Indiegameplatform Itch.io heeft 'terabytes aan AI-slop' verwijderd. Ontwikkelaars moeten voortaan ook bij bepaalde gamegenres vermelden wanneer ze AI gebruiken. Itch.io verbiedt AI-projecten niet volledig, maar wijst wel op regels over spam.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Koelinghack treft ook Duitse supermarkten, EU start onderzoek</title>
     <link>https://tweakers.net/nieuws/254142/koelinghack-treft-ook-duitse-supermarkten-eu-start-onderzoek.html</link>

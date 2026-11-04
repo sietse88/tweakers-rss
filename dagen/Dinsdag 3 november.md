@@ -36,11 +36,11 @@ Meta stopt volgend jaar met het uitbrengen van updates voor de Quest 2 en Quest 
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254060/meta-stopt-met-updates-voor-de-quest-2-en-quest-pro.html)
 
-## Sony biedt eigenaren ongebruikte PlayStation 5 in VS tot 400 dollar
+## Sony biedt in VS tot 400 dollar aan mensen die hun PlayStation 5 niet gebruiken
 
 Sony heeft een melding gestuurd naar eigenaren van een PlayStation 5 in de VS die niet in gebruik is. Eigenaren kunnen tot 400 dollar krijgen voor een console met twee controllers. Microsoft deed dat eerder met XBOX Series-eigenaren.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254064/sony-biedt-eigenaren-ongebruikte-playstation-5-in-vs-tot-400-dollar.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254064/sony-biedt-in-vs-tot-400-dollar-aan-mensen-die-hun-playstation-5-niet-gebruiken.html)
 
 ## Betalende Grok-klanten krijgen plots lagere limieten, ook bij 200 dollar
 

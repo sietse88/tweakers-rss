@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 11:03:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 11:19:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Binance-hackers kwamen via nepsollicitatie binnen bij DevOps-engineer</title>
+    <link>https://tweakers.net/nieuws/254122/binance-hackers-kwamen-via-nepsollicitatie-binnen-bij-devops-engineer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254122</guid>
+    <pubDate>Wed, 04 Nov 2026 12:09:20 +0100</pubDate>
+    <description>De hackers die cryptovalutaplatform Binance aanvielen, deden dat onder andere door nepsollicitatiegesprekken. Tijdens zo'n gesprek downloadde een werknemer van Binance een geïnfecteerde coderepo op zijn werk-pc. Daarin zat zerodaymalware die de hackers in staat stelde het account van een DevOps-werknemer over te nemen, schrijft Binance in een eerste analyse van de diefstal.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254122/binance-hackers-kwamen-via-nepsollicitatie-binnen-bij-devops-engineer.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Intel brengt Wildcat Lake Refresh uit in tweede kwartaal, Moon Lake eind 2027'</title>
+    <link>https://tweakers.net/nieuws/254134/intel-brengt-wildcat-lake-refresh-uit-in-tweede-kwartaal-moon-lake-eind-2027.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254134</guid>
+    <pubDate>Wed, 04 Nov 2026 12:08:31 +0100</pubDate>
+    <description>Intel brengt zijn Wildcat Lake Refresh- en Moon Lake-processors naar verluidt uit in het tweede en vierde kwartaal van 2027. Dat meldt leaker Jaykihn. De Wildcat Lake Refresh-cpu's gebruiken naar verluidt Intels 18A-P-procedé, terwijl het bedrijf Moon Lake op 18A zou fabriceren.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254134/intel-brengt-wildcat-lake-refresh-uit-in-tweede-kwartaal-moon-lake-eind-2027.html#reacties</comments>
+  </item>
   <item>
     <title>Review - The Legend of Zelda: Ocarina of Time - Prachtige remake van de beste Zelda-game</title>
     <link>https://tweakers.net/reviews/15558/the-legend-of-zelda-ocarina-of-time-prachtige-remake-van-de-beste-zelda-game.html</link>

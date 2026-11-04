@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 19:49:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 20:19:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Dummy toont camerabalk Samsung Galaxy S27 Ultra</title>
+    <link>https://tweakers.net/nieuws/254172/dummy-toont-camerabalk-samsung-galaxy-s27-ultra.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254172</guid>
+    <pubDate>Wed, 04 Nov 2026 21:04:00 +0100</pubDate>
+    <description>Er is een dummy online verschenen op basis van de exacte afmetingen van de Samsung Galaxy S27 Ultra. Die toont een ander ontwerp met een camerabalk en een camera minder. De telefoon zelf is iets groter dan de S26 Ultra.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254172/dummy-toont-camerabalk-samsung-galaxy-s27-ultra.html#reacties</comments>
+  </item>
   <item>
     <title>Aanbieder elektronische cheques Pluxee België waarschuwt klanten na hack</title>
     <link>https://tweakers.net/nieuws/254170/aanbieder-elektronische-cheques-pluxee-belgie-waarschuwt-klanten-na-hack.html</link>

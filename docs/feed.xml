@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 07:00:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 07:15:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>FromSoftware sluit servers Dark Souls 2 en 3 door beveiliginglekken</title>
+    <link>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiliginglekken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254118</guid>
+    <pubDate>Wed, 04 Nov 2026 08:10:27 +0100</pubDate>
+    <description>FromSoftware heeft besloten de servers van Dark Souls 2 en Dark Souls 3 uit te schakelen vanwege beveiligingsproblemen. Dat treft alle platforms waarop de games te spelen zijn. Het is niet bekend wat de beveiligingsproblemen precies inhouden of wanneer de servers weer online komen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiliginglekken.html#reacties</comments>
+  </item>
   <item>
     <title>Google schakelt zoekfunctie mogelijk volledig uit op scholen die geen AI willen</title>
     <link>https://tweakers.net/nieuws/254116/google-schakelt-zoekfunctie-mogelijk-volledig-uit-op-scholen-die-geen-ai-willen.html</link>

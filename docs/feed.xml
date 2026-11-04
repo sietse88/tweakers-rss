@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 15:50:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 16:05:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>FT: Oracle trekt zich terug uit miljardencontract met Tencent</title>
+    <link>https://tweakers.net/nieuws/254138/ft-oracle-trekt-zich-terug-uit-miljardencontract-met-tencent.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254138</guid>
+    <pubDate>Wed, 04 Nov 2026 16:57:09 +0100</pubDate>
+    <description>Oracle trekt zich terug uit een leaseovereenkomst van 7 miljard dollar voor chips met Tencent na vermeende druk van het Witte Huis. Amerikaanse functionarissen zouden zorgen hebben geuit over de deal.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254138/ft-oracle-trekt-zich-terug-uit-miljardencontract-met-tencent.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bug in Debian-packagemanager APT maakte code-uitvoer op rootniveau mogelijk</title>
+    <link>https://tweakers.net/nieuws/254156/bug-in-debian-packagemanager-apt-maakte-code-uitvoer-op-rootniveau-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254156</guid>
+    <pubDate>Wed, 04 Nov 2026 16:52:00 +0100</pubDate>
+    <description>Debian waarschuwt voor een ernstige kwetsbaarheid in packagemanager APT. Aanvallers kunnen die misbruiken door twee packages samen te voegen en zo via een ervan code met rootrechten uit te voeren. Debian heeft de kwetsbaarheid inmiddels verholpen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254156/bug-in-debian-packagemanager-apt-maakte-code-uitvoer-op-rootniveau-mogelijk.html#reacties</comments>
+  </item>
   <item>
     <title>Valve wil stortvloed aan AI-games indammen met strengere Steam-keuring</title>
     <link>https://tweakers.net/nieuws/254136/valve-wil-stortvloed-aan-ai-games-indammen-met-strengere-steam-keuring.html</link>

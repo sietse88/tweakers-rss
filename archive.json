@@ -5047,6 +5047,17 @@
   "pubDate": "Wed, 04 Nov 2026 16:40:20 +0100",
   "title": "Valve wil stortvloed aan AI-games indammen met strengere Steam-keuring"
  },
+ "https://tweakers.net/nieuws/254138": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/254138/ft-oracle-trekt-zich-terug-uit-miljardencontract-met-tencent.html#reacties",
+  "description": "Oracle trekt zich terug uit een leaseovereenkomst van 7 miljard dollar voor chips met Tencent na vermeende druk van het Witte Huis. Amerikaanse functionarissen zouden zorgen hebben geuit over de deal.",
+  "first": "Wed, 04 Nov 2026 16:05:05 +0000",
+  "guid": "https://tweakers.net/nieuws/254138",
+  "link": "https://tweakers.net/nieuws/254138/ft-oracle-trekt-zich-terug-uit-miljardencontract-met-tencent.html",
+  "pubDate": "Wed, 04 Nov 2026 16:57:09 +0100",
+  "title": "FT: Oracle trekt zich terug uit miljardencontract met Tencent"
+ },
  "https://tweakers.net/nieuws/254140": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Browsers",
@@ -5090,6 +5101,17 @@
   "link": "https://tweakers.net/nieuws/254148/hackers-verhoogden-temperaturen-van-koelcellen-van-franse-bloedbank.html",
   "pubDate": "Wed, 04 Nov 2026 15:57:29 +0100",
   "title": "Hackers verhoogden temperaturen van koelcellen van Franse bloedbank"
+ },
+ "https://tweakers.net/nieuws/254156": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254156/bug-in-debian-packagemanager-apt-maakte-code-uitvoer-op-rootniveau-mogelijk.html#reacties",
+  "description": "Debian waarschuwt voor een ernstige kwetsbaarheid in packagemanager APT. Aanvallers kunnen die misbruiken door twee packages samen te voegen en zo via een ervan code met rootrechten uit te voeren. Debian heeft de kwetsbaarheid inmiddels verholpen.",
+  "first": "Wed, 04 Nov 2026 16:05:05 +0000",
+  "guid": "https://tweakers.net/nieuws/254156",
+  "link": "https://tweakers.net/nieuws/254156/bug-in-debian-packagemanager-apt-maakte-code-uitvoer-op-rootniveau-mogelijk.html",
+  "pubDate": "Wed, 04 Nov 2026 16:52:00 +0100",
+  "title": "Bug in Debian-packagemanager APT maakte code-uitvoer op rootniveau mogelijk"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

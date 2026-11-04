@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 12:04:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 12:34:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google dicht 213 bugs in Chrome, weer veel meer dan gemiddeld</title>
+    <link>https://tweakers.net/nieuws/254140/google-dicht-213-bugs-in-chrome-weer-veel-meer-dan-gemiddeld.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254140</guid>
+    <pubDate>Wed, 04 Nov 2026 13:22:06 +0100</pubDate>
+    <description>Google heeft opnieuw een groot aantal bugs in Chrome gerepareerd. In Chrome 157 repareerde het bedrijf 213 bugs, waarvan zeven als Kritiek worden geclassificeerd. Voor zover bekend worden er geen bugs actief misbruikt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/254140/google-dicht-213-bugs-in-chrome-weer-veel-meer-dan-gemiddeld.html#reacties</comments>
+  </item>
   <item>
     <title>Binance-hackers kwamen via nepsollicitatie binnen bij DevOps-engineer</title>
     <link>https://tweakers.net/nieuws/254122/binance-hackers-kwamen-via-nepsollicitatie-binnen-bij-devops-engineer.html</link>

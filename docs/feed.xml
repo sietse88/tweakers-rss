@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 14:49:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 15:04:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers verhoogden temperaturen van koelcellen van Franse bloedbank</title>
+    <link>https://tweakers.net/nieuws/254148/hackers-verhoogden-temperaturen-van-koelcellen-van-franse-bloedbank.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254148</guid>
+    <pubDate>Wed, 04 Nov 2026 15:57:29 +0100</pubDate>
+    <description>Hackers verhoogden op maandag de temperaturen van koelcellen van de Franse bloedbank EFS. De bloedbank had de hackaanval op tijd door en kon daardoor maatregelen nemen. Er is dan ook geen bloed verloren gegaan. De afgelopen tijd zijn koelinstallaties van supermarkten in verschillende EU-landen doelwit geweest van vergelijkbare hacks.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254148/hackers-verhoogden-temperaturen-van-koelcellen-van-franse-bloedbank.html#reacties</comments>
+  </item>
   <item>
     <title>Rijkswaterstaat stelt invoering duur en langlopend ict-project uit vanwege bugs</title>
     <link>https://tweakers.net/nieuws/254124/rijkswaterstaat-stelt-invoering-duur-en-langlopend-ict-project-uit-vanwege-bugs.html</link>

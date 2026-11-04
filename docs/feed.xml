@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 04:29:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 06:30:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,16 +5234,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252948/hackers-zetten-data-700000-mensen-gratis-online-na-hack-waals-onderwijsnetwerk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Renders tonen Fitbit Edge-fitnesstracker met klein scherm en 7 dagen accuduur</title>
-    <link>https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252950</guid>
-    <pubDate>Mon, 05 Oct 2026 08:15:50 +0200</pubDate>
-    <description>Android Headlines heeft afbeeldingen en details van de onaangekondigde Google Fitbit Edge gepubliceerd. Het apparaat krijgt een klein scherm, maar minder functies dan een volwaardige smartwatch. Vermoedelijk komt de Fitbit Edge binnenkort uit.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-    <comments>https://tweakers.net/nieuws/252950/renders-tonen-fitbit-edge-fitnesstracker-met-klein-scherm-en-7-dagen-accuduur.html#reacties</comments>
   </item>
 </channel>
 </rss>

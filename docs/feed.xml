@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 09:45:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 10:48:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
+    <title>ArenaNet kondigt roguelike-uitbreiding voor 21 jaar oude Guild Wars aan</title>
+    <link>https://tweakers.net/nieuws/254132/arenanet-kondigt-roguelike-uitbreiding-voor-21-jaar-oude-guild-wars-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254132</guid>
+    <pubDate>Wed, 04 Nov 2026 11:44:35 +0100</pubDate>
+    <description>ArenaNet heeft Guild Wars Afterlife aangekondigd, een dlc voor het 21 jaar oude Guild Wars. Afterlife komt op 13 januari 2027 beschikbaar als uitbreiding voor Guild Wars Reforged en kost 29,99 euro. Het is de eerste keer in bijna twintig jaar dat de mmorpg een betaalde dlc krijgt.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254132/arenanet-kondigt-roguelike-uitbreiding-voor-21-jaar-oude-guild-wars-aan.html#reacties</comments>
+  </item>
+  <item>
     <title>Cyberaanval bezorgt AH-moederbedrijf 75 tot 100 miljoen euro minder winst</title>
     <link>https://tweakers.net/nieuws/254128/cyberaanval-bezorgt-ah-moederbedrijf-75-tot-100-miljoen-euro-minder-winst.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254128</guid>
     <pubDate>Wed, 04 Nov 2026 10:13:33 +0100</pubDate>
-    <description>Ahold Delhaize verwacht door de hackaanval van vorige maand 200 tot 250 miljoen euro minder omzet en 75 tot 100 miljoen euro minder winst. Dat meldt het moederbedrijf van Albert Heijn bij de presentatie van de kwartaalcijfers. Het voorziet daardoor ook over het hele jaar minder winst te maken.</description>
+    <description>Ahold Delhaize verwacht door de hackaanval van vorige maand 200 tot 250 miljoen euro minder omzet en 75 tot 100 miljoen euro minder aan operationele winst. Dat meldt het moederbedrijf van Albert Heijn bij de presentatie van de kwartaalcijfers. Het voorziet over het hele jaar minder winst te maken.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
     <comments>https://tweakers.net/nieuws/254128/cyberaanval-bezorgt-ah-moederbedrijf-75-tot-100-miljoen-euro-minder-winst.html#reacties</comments>
@@ -46,14 +56,14 @@
     <comments>https://tweakers.net/reviews/15536/hoe-illegale-iptv-kastjes-een-ingang-voor-criminelen-kunnen-worden.html#reacties</comments>
   </item>
   <item>
-    <title>FromSoftware sluit servers Dark Souls 2 en 3 door beveiliginglekken</title>
-    <link>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiliginglekken.html</link>
+    <title>FromSoftware sluit servers Dark Souls 2 en 3 door beveiligingslekken</title>
+    <link>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiligingslekken.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254118</guid>
     <pubDate>Wed, 04 Nov 2026 08:10:27 +0100</pubDate>
     <description>FromSoftware heeft besloten de servers van Dark Souls 2 en Dark Souls 3 uit te schakelen vanwege beveiligingsproblemen. Dat treft alle platforms waarop de games te spelen zijn. Het is niet bekend wat de beveiligingsproblemen precies inhouden of wanneer de servers weer online komen.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiliginglekken.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254118/fromsoftware-sluit-servers-dark-souls-2-en-3-door-beveiligingslekken.html#reacties</comments>
   </item>
   <item>
     <title>Google schakelt zoekfunctie mogelijk volledig uit op scholen die geen AI willen</title>

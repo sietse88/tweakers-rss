@@ -4884,7 +4884,7 @@
   "author": "Lumen Heijdendael",
   "category": "Nieuws / Gaming / Games",
   "comments": "https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html#reacties",
-  "description": "Rockstar deelt meer details over het preloaden van Grand Theft Auto VI. Gebruikers kunnen de game op 10 november alvast downloaden, zodat ze bij de release op 19 november meteen aan de slag kunnen. Daarnaast bevestigt het bedrijf het bestandsgrootte: 212GB.",
+  "description": "Rockstar deelt meer details over het preloaden van Grand Theft Auto VI. Gebruikers kunnen de game op 10 november alvast downloaden, zodat ze bij de release op 19 november meteen aan de slag kunnen. Daarnaast bevestigt het bedrijf de bestandsgrootte: 212GB.",
   "first": "Tue, 03 Nov 2026 17:54:48 +0000",
   "guid": "https://tweakers.net/nieuws/254102",
   "link": "https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html",
@@ -5001,16 +5001,27 @@
   "pubDate": "Wed, 04 Nov 2026 12:09:20 +0100",
   "title": "Binance-hackers kwamen via nepsollicitatie binnen bij DevOps-engineer"
  },
+ "https://tweakers.net/nieuws/254124": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/254124/rijkswaterstaat-stelt-invoering-duur-en-langlopend-ict-project-uit-vanwege-bugs.html#reacties",
+  "description": "De Nederlandse Rijkswaterstaat is tijdelijk gestopt met de invoering van een langlopend ict-systeem. Het AD schrijft dat werknemers het incidentenregistratieprogramma Dynac pas later gaan gebruiken, omdat het in de praktijk niet goed lijkt te werken. Dynac is onderdeel van een langlopend en inmiddels peperduur project om meerdere ict-systemen samen te voegen.",
+  "first": "Wed, 04 Nov 2026 14:34:48 +0000",
+  "guid": "https://tweakers.net/nieuws/254124",
+  "link": "https://tweakers.net/nieuws/254124/rijkswaterstaat-stelt-invoering-duur-en-langlopend-ict-project-uit-vanwege-bugs.html",
+  "pubDate": "Wed, 04 Nov 2026 15:27:02 +0100",
+  "title": "Rijkswaterstaat stelt invoering duur en langlopend ict-project uit vanwege bugs"
+ },
  "https://tweakers.net/nieuws/254126": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Software development",
-  "comments": "https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254126/indieplatform-itch-punt-io-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html#reacties",
   "description": "Indiegameplatform Itch.io heeft 'terabytes aan AI-slop' verwijderd. Ontwikkelaars moeten voortaan ook bij bepaalde gamegenres vermelden wanneer ze AI gebruiken. Itch.io verbiedt AI-projecten niet volledig, maar wijst wel op regels over spam.",
   "first": "Wed, 04 Nov 2026 13:34:40 +0000",
   "guid": "https://tweakers.net/nieuws/254126",
-  "link": "https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html",
+  "link": "https://tweakers.net/nieuws/254126/indieplatform-itch-punt-io-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html",
   "pubDate": "Wed, 04 Nov 2026 14:18:45 +0100",
-  "title": "Indieplatform Itchio verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit"
+  "title": "Indieplatform Itch.io verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit"
  },
  "https://tweakers.net/nieuws/254128": {
   "author": "Jasper Bakker",
@@ -5070,13 +5081,13 @@
  "https://tweakers.net/nieuws/254144": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Computers / Processors",
-  "comments": "https://tweakers.net/nieuws/254144/amd-haalt-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254144/amd-haalt-ruim-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html#reacties",
   "description": "De omzet van AMD's datacentersegment is bijna verdubbeld. De chipfabrikant maakt bekend dat zijn datacenterproducten vorig kwartaal 8,57 miljard dollar hebben opgeleverd. Dat is 97 procent meer dan een jaar geleden. De omzet uit gamingproducten daalde juist met 40 procent.",
   "first": "Wed, 04 Nov 2026 14:19:46 +0000",
   "guid": "https://tweakers.net/nieuws/254144",
-  "link": "https://tweakers.net/nieuws/254144/amd-haalt-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html",
+  "link": "https://tweakers.net/nieuws/254144/amd-haalt-ruim-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html",
   "pubDate": "Wed, 04 Nov 2026 15:02:00 +0100",
-  "title": "AMD haalt tien keer meer omzet uit datacenters dan gaming"
+  "title": "AMD haalt ruim tien keer meer omzet uit datacenters dan gaming"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
@@ -5220,17 +5231,6 @@
   "link": "https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html",
   "pubDate": "Tue, 06 Oct 2026 15:00:00 +0200",
   "title": "Preview - Nintendo Switch Sports Resort - Ouderwetse Wii-pret op Switch 2"
- },
- "https://tweakers.net/reviews/15414": {
-  "author": "Yannick Spinner",
-  "category": "Achtergrond / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html#reacties",
-  "description": "ShinyHunters staat de laatste tijd onder druk. Wie zit er achter deze notoire ransomwarebende?",
-  "first": "Mon, 05 Oct 2026 16:30:00 +0200",
-  "guid": "https://tweakers.net/reviews/15414",
-  "link": "https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html",
-  "pubDate": "Mon, 05 Oct 2026 16:30:00 +0200",
-  "title": "Achtergrond - ShinyHunters wankelt: wie zijn de hackers achter het Odido-datalek?"
  },
  "https://tweakers.net/reviews/15418": {
   "author": "Reinoud Dik",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 14:19:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 14:34:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,24 +16,34 @@
     <height>192</height>
   </image>
   <item>
-    <title>AMD haalt tien keer meer omzet uit datacenters dan gaming</title>
-    <link>https://tweakers.net/nieuws/254144/amd-haalt-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html</link>
+    <title>Rijkswaterstaat stelt invoering duur en langlopend ict-project uit vanwege bugs</title>
+    <link>https://tweakers.net/nieuws/254124/rijkswaterstaat-stelt-invoering-duur-en-langlopend-ict-project-uit-vanwege-bugs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254124</guid>
+    <pubDate>Wed, 04 Nov 2026 15:27:02 +0100</pubDate>
+    <description>De Nederlandse Rijkswaterstaat is tijdelijk gestopt met de invoering van een langlopend ict-systeem. Het AD schrijft dat werknemers het incidentenregistratieprogramma Dynac pas later gaan gebruiken, omdat het in de praktijk niet goed lijkt te werken. Dynac is onderdeel van een langlopend en inmiddels peperduur project om meerdere ict-systemen samen te voegen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254124/rijkswaterstaat-stelt-invoering-duur-en-langlopend-ict-project-uit-vanwege-bugs.html#reacties</comments>
+  </item>
+  <item>
+    <title>AMD haalt ruim tien keer meer omzet uit datacenters dan gaming</title>
+    <link>https://tweakers.net/nieuws/254144/amd-haalt-ruim-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254144</guid>
     <pubDate>Wed, 04 Nov 2026 15:02:00 +0100</pubDate>
     <description>De omzet van AMD's datacentersegment is bijna verdubbeld. De chipfabrikant maakt bekend dat zijn datacenterproducten vorig kwartaal 8,57 miljard dollar hebben opgeleverd. Dat is 97 procent meer dan een jaar geleden. De omzet uit gamingproducten daalde juist met 40 procent.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/254144/amd-haalt-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254144/amd-haalt-ruim-tien-keer-meer-omzet-uit-datacenters-dan-gaming.html#reacties</comments>
   </item>
   <item>
-    <title>Indieplatform Itchio verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit</title>
-    <link>https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html</link>
+    <title>Indieplatform Itch.io verwijdert 'terabytes aan AI-slop' en breidt AI-filter uit</title>
+    <link>https://tweakers.net/nieuws/254126/indieplatform-itch-punt-io-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254126</guid>
     <pubDate>Wed, 04 Nov 2026 14:18:45 +0100</pubDate>
     <description>Indiegameplatform Itch.io heeft 'terabytes aan AI-slop' verwijderd. Ontwikkelaars moeten voortaan ook bij bepaalde gamegenres vermelden wanneer ze AI gebruiken. Itch.io verbiedt AI-projecten niet volledig, maar wijst wel op regels over spam.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/254126/indieplatform-itchio-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254126/indieplatform-itch-punt-io-verwijdert-terabytes-aan-ai-slop-en-breidt-ai-filter-uit.html#reacties</comments>
   </item>
   <item>
     <title>Koelinghack treft ook Duitse supermarkten, EU start onderzoek</title>
@@ -220,7 +230,7 @@
     <link>https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254102</guid>
     <pubDate>Tue, 03 Nov 2026 16:55:25 +0100</pubDate>
-    <description>Rockstar deelt meer details over het preloaden van Grand Theft Auto VI. Gebruikers kunnen de game op 10 november alvast downloaden, zodat ze bij de release op 19 november meteen aan de slag kunnen. Daarnaast bevestigt het bedrijf het bestandsgrootte: 212GB.</description>
+    <description>Rockstar deelt meer details over het preloaden van Grand Theft Auto VI. Gebruikers kunnen de game op 10 november alvast downloaden, zodat ze bij de release op 19 november meteen aan de slag kunnen. Daarnaast bevestigt het bedrijf de bestandsgrootte: 212GB.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/254102/rockstar-gta-vi-is-212gb-groot-preloaden-begint-al-op-10-november.html#reacties</comments>
@@ -5264,16 +5274,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/252976/aanvallers-hadden-twee-maanden-toegang-tot-downloadlinks-van-belnet.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - ShinyHunters wankelt: wie zijn de hackers achter het Odido-datalek?</title>
-    <link>https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15414</guid>
-    <pubDate>Mon, 05 Oct 2026 16:30:00 +0200</pubDate>
-    <description>ShinyHunters staat de laatste tijd onder druk. Wie zit er achter deze notoire ransomwarebende?</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Achtergrond / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/reviews/15414/shinyhunters-wankelt-wie-zijn-de-hackers-achter-het-odido-datalek.html#reacties</comments>
   </item>
 </channel>
 </rss>

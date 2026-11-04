@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 04 Nov 2026 06:30:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 07:00:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google schakelt zoekfunctie mogelijk volledig uit op scholen die geen AI willen</title>
+    <link>https://tweakers.net/nieuws/254116/google-schakelt-zoekfunctie-mogelijk-volledig-uit-op-scholen-die-geen-ai-willen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254116</guid>
+    <pubDate>Wed, 04 Nov 2026 07:45:57 +0100</pubDate>
+    <description>Google schakelt zijn zoekfunctie mogelijk volledig uit op scholen die de AI van het bedrijf afwijzen, meldt The New York Times. Volgens Chris Philips, vicepresident onderwijs bij Google, zijn Google Zoeken en AI 'diep met elkaar verweven' en biedt het bedrijf de functies niet los van elkaar aan.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Onderwijs en werkgelegenheid</category>
+    <comments>https://tweakers.net/nieuws/254116/google-schakelt-zoekfunctie-mogelijk-volledig-uit-op-scholen-die-geen-ai-willen.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft: Windows 11 is 'tot 40 procent sneller' bij multitasken met 8GB ram</title>
     <link>https://tweakers.net/nieuws/254114/microsoft-windows-11-is-tot-40-procent-sneller-bij-multitasken-met-8gb-ram.html</link>

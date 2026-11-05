@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 09:50:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 10:20:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Discord stapt volledig over op Rust en bespaart tot 3,7GB ram in Windows</title>
+    <link>https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254176</guid>
+    <pubDate>Thu, 05 Nov 2026 11:03:54 +0100</pubDate>
+    <description>Discord stapt af van de Electron- en React Native-frameworks voor zijn clientapps en herschrijft de apps volledig in Rust. Dit kan het geheugengebruik van de app terugbrengen van enkele gigabytes naar een paar honderd megabytes. Cto en medeoprichter Stanislav Vishnevskiy toont dit in een screenshot.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html#reacties</comments>
+  </item>
   <item>
     <title>Gerucht: Nintendo's grootste romchipmaker voor Switch 1-gamecards stopt ermee</title>
     <link>https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-1-gamecards-stopt-ermee.html</link>

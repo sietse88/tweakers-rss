@@ -5092,6 +5092,17 @@
   "pubDate": "Wed, 04 Nov 2026 21:04:00 +0100",
   "title": "Dummy toont camerabalk Samsung Galaxy S27 Ultra"
  },
+ "https://tweakers.net/nieuws/254176": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Software development",
+  "comments": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html#reacties",
+  "description": "Discord stapt af van de Electron- en React Native-frameworks voor zijn clientapps en herschrijft de apps volledig in Rust. Dit kan het geheugengebruik van de app terugbrengen van enkele gigabytes naar een paar honderd megabytes. Cto en medeoprichter Stanislav Vishnevskiy toont dit in een screenshot.",
+  "first": "Thu, 05 Nov 2026 10:20:39 +0000",
+  "guid": "https://tweakers.net/nieuws/254176",
+  "link": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html",
+  "pubDate": "Thu, 05 Nov 2026 11:03:54 +0100",
+  "title": "Discord stapt volledig over op Rust en bespaart tot 3,7GB ram in Windows"
+ },
  "https://tweakers.net/nieuws/254178": {
   "author": "Jasper Bakker",
   "category": "Nieuws / Computers / Processors",

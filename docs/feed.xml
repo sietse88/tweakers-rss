@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 05:50:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 06:20:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/252994/openai-geeft-chatgpt-teksten-in-eu-standaard-onzichtbaar-watermerk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google bouwt functie om AI naar vrienden en familie te laten bellen</title>
-    <link>https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252996</guid>
-    <pubDate>Tue, 06 Oct 2026 08:08:01 +0200</pubDate>
-    <description>Google bouwt aan een functie waarmee zijn Pixel 11-telefoon namens de gebruiker vrienden of familie kan bellen om boodschappen over te brengen. Gemini kan al telefoontjes aannemen van bedrijven.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html#reacties</comments>
   </item>
 </channel>
 </rss>

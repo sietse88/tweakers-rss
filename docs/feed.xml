@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 05:04:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 05:20:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html#reacties</comments>
-  </item>
-  <item>
-    <title>Trump Mobile lijkt gehackt, maar 'heeft geen team om ermee om te gaan'</title>
-    <link>https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252990</guid>
-    <pubDate>Tue, 06 Oct 2026 07:10:02 +0200</pubDate>
-    <description>De Amerikaanse provider en telefoonmaker Trump Mobile is gehackt, zo claimt een hackersgroep. Diverse slachtoffers bevestigen volgens Straight Arrow News dat de gegevens kloppen. De hackers zouden nog steeds toegang hebben tot de backend.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/252990/trump-mobile-lijkt-gehackt-maar-heeft-geen-team-om-ermee-om-te-gaan.html#reacties</comments>
   </item>
 </channel>
 </rss>

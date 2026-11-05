@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 14:12:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:27:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>XBOX Cloud Gaming laat smart-tv-gebruikers telefoon als controller inzetten</title>
+    <link>https://tweakers.net/nieuws/254196/xbox-cloud-gaming-laat-smart-tv-gebruikers-telefoon-als-controller-inzetten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254196</guid>
+    <pubDate>Thu, 05 Nov 2026 15:22:15 +0100</pubDate>
+    <description>XBOX rolt de mogelijkheid uit om een smartphone te gebruiken als controller voor XBOX Cloud Gaming. Daarvoor hebben gebruikers een compatibele tv en een telefoon met minimaal Android 12.0 of iOS 14.4 nodig. De functie komt geleidelijk beschikbaar voor gebruikers die Preview Features hebben ingeschakeld.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254196/xbox-cloud-gaming-laat-smart-tv-gebruikers-telefoon-als-controller-inzetten.html#reacties</comments>
+  </item>
   <item>
     <title>Moto buds 2 ultra hebben actieve ruisonderdrukking van Bose en kosten 200 euro</title>
     <link>https://tweakers.net/nieuws/254190/moto-buds-2-ultra-hebben-actieve-ruisonderdrukking-van-bose-en-kosten-200-euro.html</link>
@@ -5284,16 +5294,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kabinet neemt geen extra maatregelen om te voorkomen dat zorgdata in VS belandt</title>
-    <link>https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253020</guid>
-    <pubDate>Tue, 06 Oct 2026 16:26:51 +0200</pubDate>
-    <description>De Nederlandse regering is niet van plan om extra maatregelen te nemen om te voorkomen dat zorgdata bij Amerikaanse leveranciers terechtkomt. Amerikaanse partijen zouden in het kader van de Cloud Act patiëntgegevens van Nederlanders kunnen overdragen aan de Amerikaanse regering.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html#reacties</comments>
   </item>
 </channel>
 </rss>

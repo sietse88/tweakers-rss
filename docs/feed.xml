@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 12:41:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 12:57:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5254,26 +5254,6 @@
     <dc:creator>Jurian Ubachs</dc:creator>
     <category>Preview / Gaming / Games</category>
     <comments>https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlanders vinden onafhankelijk van elkaar zelfde lek in OpenOffice</title>
-    <link>https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253018</guid>
-    <pubDate>Tue, 06 Oct 2026 14:55:49 +0200</pubDate>
-    <description>Nederlandse beveiligingsonderzoekers hebben een lek ontdekt in Apache OpenOffice dat ertoe kan leiden dat een aanvaller een heel systeem kan overnemen. Een update die het lek verhelpt is onderweg en is nu een release candidate.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Overige software</category>
-    <comments>https://tweakers.net/nieuws/253018/nederlanders-vinden-onafhankelijk-van-elkaar-zelfde-lek-in-openoffice.html#reacties</comments>
-  </item>
-  <item>
-    <title>VK denkt dat Meta risico's van nieuwe Instagram-functie niet heeft onderzocht</title>
-    <link>https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253012</guid>
-    <pubDate>Tue, 06 Oct 2026 14:46:11 +0200</pubDate>
-    <description>De Britse communicatietoezichthouder Ofcom start een formeel onderzoek naar Meta. Het bedrijf zou de Online Safety Act schenden met de Snapchat-achtige Instants-functie voor Instagram. Volgens die wet moeten techbedrijven eerst zorgvuldig de risico's van nieuwe functies in kaart brengen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html#reacties</comments>
   </item>
 </channel>
 </rss>

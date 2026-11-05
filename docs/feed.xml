@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 17:27:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:42:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253028/duizenden-systemen-wind-en-zonneparken-zijn-kwetsbaar-voor-cyberaanvallen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Europese Mistral brengt openweightmodel Large 4 met biljoen parameters uit</title>
-    <link>https://tweakers.net/nieuws/253026/europese-mistral-brengt-openweightmodel-large-4-met-biljoen-parameters-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253026</guid>
-    <pubDate>Tue, 06 Oct 2026 19:41:08 +0200</pubDate>
-    <description>Het Franse Mistral heeft zijn krachtigste AI-model tot dusver aangekondigd, Large 4. Volgens de fabrikant presteert dit model beter dan alle andere openweightmodellen buiten China. Large 4 zou vooral goed presteren op het gebied van cybersecurity.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Software</category>
-    <comments>https://tweakers.net/nieuws/253026/europese-mistral-brengt-openweightmodel-large-4-met-biljoen-parameters-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

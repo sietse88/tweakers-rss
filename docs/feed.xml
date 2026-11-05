@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 06:20:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 07:05:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -106,14 +106,14 @@
     <comments>https://tweakers.net/nieuws/254150/apple-werkt-aan-selfie-sing-karaokefunctie-voor-iphones.html#reacties</comments>
   </item>
   <item>
-    <title>Achtergrond - De smeltplekken die security van koel- en vriessystemen in supermarkten bederven</title>
-    <link>https://tweakers.net/reviews/15568/de-smeltplekken-die-security-van-koel-en-vriessystemen-in-supermarkten-bederven.html</link>
+    <title>Achtergrond - Hoe basale beveiligingsfouten gekoelde supermarktproducten laten bederven</title>
+    <link>https://tweakers.net/reviews/15568/hoe-basale-beveiligingsfouten-gekoelde-supermarktproducten-laten-bederven.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15568</guid>
     <pubDate>Wed, 04 Nov 2026 17:10:14 +0100</pubDate>
     <description>Hacks van vries- en koelsystemen bij supermarkten waren te voorspellen. Brengen deze hacks betere basisbeveiliging? De smeltplekken in de beveiliging zijn namelijk best basaal.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Achtergrond / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/reviews/15568/de-smeltplekken-die-security-van-koel-en-vriessystemen-in-supermarkten-bederven.html#reacties</comments>
+    <comments>https://tweakers.net/reviews/15568/hoe-basale-beveiligingsfouten-gekoelde-supermarktproducten-laten-bederven.html#reacties</comments>
   </item>
   <item>
     <title>FT: Oracle trekt zich terug uit miljardencontract met Tencent</title>

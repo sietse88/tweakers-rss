@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 12:57:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:12:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Motorola Signature 27 van 1399 euro heeft tandemoled en loficcamera</title>
+    <link>https://tweakers.net/nieuws/254182/motorola-signature-27-van-1399-euro-heeft-tandemoled-en-loficcamera.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254182</guid>
+    <pubDate>Thu, 05 Nov 2026 14:00:00 +0100</pubDate>
+    <description>Motorola introduceert zijn nieuwe topmodel voor 2027: de Signature 27. De smartphone heeft een scherm met twee gestapelde oleddisplays, een loficcamera en een 2nm-Snapdragon-soc. Ook ondersteunt hij het besturingssysteem GrapheneOS. Het toestel is te koop vanaf 1399 euro.</description>
+    <dc:creator>Dennis de Vries</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254182/motorola-signature-27-van-1399-euro-heeft-tandemoled-en-loficcamera.html#reacties</comments>
+  </item>
   <item>
     <title>Nederland wil start-ups inzetten om glasvezelkabels in Noordzee te beschermen</title>
     <link>https://tweakers.net/nieuws/254188/nederland-wil-start-ups-inzetten-om-glasvezelkabels-in-noordzee-te-beschermen.html</link>
@@ -5244,16 +5254,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253020/kabinet-neemt-geen-extra-maatregelen-om-te-voorkomen-dat-zorgdata-in-vs-belandt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Preview - Nintendo Switch Sports Resort - Ouderwetse Wii-pret op Switch 2</title>
-    <link>https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15412</guid>
-    <pubDate>Tue, 06 Oct 2026 15:00:00 +0200</pubDate>
-    <description>Nintendo Switch Sports Resort brengt de lol van het aloude Wii Sports Resort naar de Switch 2 en doet dat met wisselend succes per minigame.</description>
-    <dc:creator>Jurian Ubachs</dc:creator>
-    <category>Preview / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15412/nintendo-switch-sports-resort-ouderwetse-wii-pret-op-switch-2.html#reacties</comments>
   </item>
 </channel>
 </rss>

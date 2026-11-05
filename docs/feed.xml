@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 14:27:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:57:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers stelen 118 miljoen euro van Franse bank</title>
+    <link>https://tweakers.net/nieuws/254200/hackers-stelen-118-miljoen-euro-van-franse-bank.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254200</guid>
+    <pubDate>Thu, 05 Nov 2026 15:49:52 +0100</pubDate>
+    <description>Hackers hebben bij een cyberaanval geld gestolen van de Franse bank Crédit Mutuel Arkéa. Door de aanval konden de criminelen frauduleuze transacties uitvoeren. De bank heeft naar verluidt 118 miljoen euro schade geleden. De hack heeft geen financiële gevolgen voor klanten.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254200/hackers-stelen-118-miljoen-euro-van-franse-bank.html#reacties</comments>
+  </item>
   <item>
     <title>XBOX Cloud Gaming laat smart-tv-gebruikers telefoon als controller inzetten</title>
     <link>https://tweakers.net/nieuws/254196/xbox-cloud-gaming-laat-smart-tv-gebruikers-telefoon-als-controller-inzetten.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:35:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 08:50:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Gerucht: Nintendo's grootste romchipmaker voor Switch-gamecards stopt ermee</title>
-    <link>https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-gamecards-stopt-ermee.html</link>
+    <title>Gerucht: Nintendo's grootste romchipmaker voor Switch 1-gamecards stopt ermee</title>
+    <link>https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-1-gamecards-stopt-ermee.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254180</guid>
     <pubDate>Thu, 05 Nov 2026 09:07:45 +0100</pubDate>
-    <description>Macronix, de grootste maker van geheugenchips voor Switch-gamecards, zou stoppen met die bedrijfsactiviteit. Het zou er te weinig aan verdienen en dus geen nieuwe romchips meer maken voor Nintendo, meldt een analist. Dit zou geen gevolgen hebben voor chips voor Switch 2-gamecards.</description>
+    <description>Macronix, de grootste maker van geheugenchips voor Switch 1-gamecards, zou stoppen met die bedrijfsactiviteit. Het zou er te weinig aan verdienen en dus geen nieuwe romchips meer maken voor Nintendo, meldt een analist. Dit zou geen gevolgen hebben voor chips voor Switch 2-gamecards.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Geheugen intern</category>
-    <comments>https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-gamecards-stopt-ermee.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-1-gamecards-stopt-ermee.html#reacties</comments>
   </item>
   <item>
     <title>Qualcomm ziet smartphonechipomzet 26 procent kelderen door duur geheugen</title>

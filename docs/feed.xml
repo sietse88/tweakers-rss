@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:50:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:35:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253004/belastingdienst-stopt-microsoft-cloudmigratie-en-kiest-eigen-servers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Samsung maakt Galaxy A-telefoons stilletjes tot 30 procent duurder</title>
-    <link>https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253002</guid>
-    <pubDate>Tue, 06 Oct 2026 11:28:18 +0200</pubDate>
-    <description>Samsung heeft de prijzen van Galaxy A-telefoons in de eigen webwinkel verhoogd. Dat is gebeurd in Nederland en België. De Galaxy A57 5G gaat van 529 euro naar 579 euro. De A37 5G gaat van 429 euro naar 469 euro.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253002/samsung-maakt-galaxy-a-telefoons-stilletjes-tot-30-procent-duurder.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:12:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:57:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nintendo verkoopt 41 procent minder Switch 2-consoles na prijsverhoging door ram</title>
+    <link>https://tweakers.net/nieuws/254194/nintendo-verkoopt-41-procent-minder-switch-2-consoles-na-prijsverhoging-door-ram.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254194</guid>
+    <pubDate>Thu, 05 Nov 2026 14:51:30 +0100</pubDate>
+    <description>Nintendo zag de verkoop van zijn Switch 2 met 41 procent dalen in het afgelopen kwartaal vergeleken met dezelfde periode een jaar eerder. Over de afgelopen twee kwartalen was die daling 37,4 procent. Deze forse afname volgt op prijsverhogingen voor de gameconsole vanwege stijgende geheugenprijzen. De gameverkoop compenseert de daling deels.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254194/nintendo-verkoopt-41-procent-minder-switch-2-consoles-na-prijsverhoging-door-ram.html#reacties</comments>
+  </item>
   <item>
     <title>Motorola Signature 27 van 1399 euro heeft tandemoled en loficcamera</title>
     <link>https://tweakers.net/nieuws/254182/motorola-signature-27-van-1399-euro-heeft-tandemoled-en-loficcamera.html</link>

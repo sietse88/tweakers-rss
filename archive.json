@@ -10,36 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/nieuws/253000": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Computers / Laptops",
-  "comments": "https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html#reacties",
-  "description": "De ontwikkelaar van Magisk, John Wu, werkt aan een manier om Googlebook-laptops te rooten. Dat heeft hij laten weten. De laptops, die vanaf deze week uitkomen, hebben een ontgrendelbare bootloader.",
-  "guid": "https://tweakers.net/nieuws/253000",
-  "link": "https://tweakers.net/nieuws/253000/magisk-ontwikkelaar-werkt-aan-rootmethode-voor-googlebook-laptops.html",
-  "pubDate": "Tue, 06 Oct 2026 12:26:59 +0200",
-  "title": "Magisk-ontwikkelaar werkt aan rootmethode voor Googlebook-laptops"
- },
- "https://tweakers.net/nieuws/253006": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html#reacties",
-  "description": "Er is een darkwebsite waar gebruikers 'afperspakketten' kunnen kopen met naaktfoto's en gegevens van enkele honderden vrouwen uit Nederland en België, zo melden RTL Nieuws en VTM. Dat gebeurde niet eerder op deze manier.",
-  "guid": "https://tweakers.net/nieuws/253006",
-  "link": "https://tweakers.net/nieuws/253006/darkwebsite-biedt-afperspakketten-met-naaktfotos-van-vrouwen-uit-nl-en-be.html",
-  "pubDate": "Tue, 06 Oct 2026 13:46:24 +0200",
-  "title": "Darkwebsite biedt 'afperspakketten' met naaktfoto's van vrouwen uit NL en BE"
- },
- "https://tweakers.net/nieuws/253008": {
-  "author": "Kevin Krikhaar",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html#reacties",
-  "description": "De kledingsite ASOS is mogelijk gehackt. Klanten ontvingen een pushmelding die vermoedelijk van hackers afkomstig is. Daarin beweren ze bedrijfsgegevens te hebben gestolen via een extern bedrijf en dreigen ze die te lekken.",
-  "guid": "https://tweakers.net/nieuws/253008",
-  "link": "https://tweakers.net/nieuws/253008/kledingwinkel-asos-lijkt-te-zijn-gehackt-klanten-ontvangen-dreigende-melding.html",
-  "pubDate": "Tue, 06 Oct 2026 13:47:31 +0200",
-  "title": "Kledingwinkel ASOS lijkt te zijn gehackt: klanten ontvangen dreigende melding"
- },
  "https://tweakers.net/nieuws/253012": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / IT Pro / Politiek en recht",
@@ -49,26 +19,6 @@
   "link": "https://tweakers.net/nieuws/253012/vk-denkt-dat-meta-risicos-van-nieuwe-instagram-functie-niet-heeft-onderzocht.html",
   "pubDate": "Tue, 06 Oct 2026 14:46:11 +0200",
   "title": "VK denkt dat Meta risico's van nieuwe Instagram-functie niet heeft onderzocht"
- },
- "https://tweakers.net/nieuws/253014": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Tablets en telefoons / Smartwatches",
-  "comments": "https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html#reacties",
-  "description": "Garmin heeft de Enduro 4 aangekondigd, een smartwatch met een accuduur van maximaal drie maanden. De nieuwe versie heeft onder meer een grotere opslagcapaciteit van 64GB. Desondanks komt het horloge uit voor dezelfde prijs als de voorganger.",
-  "guid": "https://tweakers.net/nieuws/253014",
-  "link": "https://tweakers.net/nieuws/253014/garmin-verdubbelt-opslag-enduro-4-met-lange-accuduur-en-verhoogt-prijs-niet.html",
-  "pubDate": "Tue, 06 Oct 2026 14:17:51 +0200",
-  "title": "Garmin verdubbelt opslag Enduro 4 met lange accuduur en verhoogt prijs niet"
- },
- "https://tweakers.net/nieuws/253016": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Computers / Software",
-  "comments": "https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html#reacties",
-  "description": "Amazon is bezig met een fix voor Alexa, waarbij de AI-assistent midden in een gesprek 'lalala' zegt of zingt. Volgens het bedrijf gaat het om een softwarefout die een klein aantal klanten heeft getroffen.",
-  "guid": "https://tweakers.net/nieuws/253016",
-  "link": "https://tweakers.net/nieuws/253016/amazon-werkt-aan-fix-voor-bug-waarbij-alexa-minutenlang-lalala-zingt.html",
-  "pubDate": "Tue, 06 Oct 2026 14:31:16 +0200",
-  "title": "Amazon werkt aan fix voor bug waarbij Alexa minutenlang 'lalala' zingt"
  },
  "https://tweakers.net/nieuws/253018": {
   "author": "Arnoud Wokke",
@@ -5095,13 +5045,13 @@
  "https://tweakers.net/nieuws/254176": {
   "author": "Jasper Bakker",
   "category": "Nieuws / IT Pro / Software development",
-  "comments": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-92-procent-ram-in-windows.html#reacties",
   "description": "Discord stapt af van de Electron- en React Native-frameworks voor zijn clientapps en herschrijft de apps volledig in Rust. Dit kan het geheugengebruik van de app terugbrengen van enkele gigabytes naar een paar honderd megabytes. Cto en medeoprichter Stanislav Vishnevskiy toont dit in een screenshot.",
   "first": "Thu, 05 Nov 2026 10:20:39 +0000",
   "guid": "https://tweakers.net/nieuws/254176",
-  "link": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-3-komma-7gb-ram-in-windows.html",
+  "link": "https://tweakers.net/nieuws/254176/discord-stapt-volledig-over-op-rust-en-bespaart-tot-92-procent-ram-in-windows.html",
   "pubDate": "Thu, 05 Nov 2026 11:03:54 +0100",
-  "title": "Discord stapt volledig over op Rust en bespaart tot 3,7GB ram in Windows"
+  "title": "Discord stapt volledig over op Rust en bespaart tot 92 procent ram in Windows"
  },
  "https://tweakers.net/nieuws/254178": {
   "author": "Jasper Bakker",
@@ -5124,6 +5074,17 @@
   "link": "https://tweakers.net/nieuws/254180/gerucht-nintendos-grootste-romchipmaker-voor-switch-1-gamecards-stopt-ermee.html",
   "pubDate": "Thu, 05 Nov 2026 09:07:45 +0100",
   "title": "Gerucht: Nintendo's grootste romchipmaker voor Switch 1-gamecards stopt ermee"
+ },
+ "https://tweakers.net/nieuws/254188": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Marktontwikkelingen",
+  "comments": "https://tweakers.net/nieuws/254188/nederland-wil-start-ups-inzetten-om-glasvezelkabels-in-noordzee-te-beschermen.html#reacties",
+  "description": "De Nederlandse overheid wil start-ups, bedrijven en kennisinstellingen inzetten om kritieke infrastructuur in de Noordzee, zoals glasvezelkabels, beter te beschermen. Defensie schrijft hiervoor nu een opdracht uit, vooruitlopend op een nieuw instituut voor innovatie.",
+  "first": "Thu, 05 Nov 2026 12:41:59 +0000",
+  "guid": "https://tweakers.net/nieuws/254188",
+  "link": "https://tweakers.net/nieuws/254188/nederland-wil-start-ups-inzetten-om-glasvezelkabels-in-noordzee-te-beschermen.html",
+  "pubDate": "Thu, 05 Nov 2026 13:33:00 +0100",
+  "title": "Nederland wil start-ups inzetten om glasvezelkabels in Noordzee te beschermen"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

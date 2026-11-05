@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 15:27:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 15:42:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Gamecontrollers</category>
     <comments>https://tweakers.net/nieuws/253024/razer-wolverine-v4-xbox-controller-heeft-nauwkeurigere-capacitieve-joysticks.html#reacties</comments>
-  </item>
-  <item>
-    <title>Overname Warner Bros. door Paramount is rond: HBO Max en Paramount+ gaan fuseren</title>
-    <link>https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253022</guid>
-    <pubDate>Tue, 06 Oct 2026 17:29:23 +0200</pubDate>
-    <description>Paramount Skydance is officieel eigenaar van Warner Bros. Discovery. Het nieuwe moederbedrijf heet Skydance. Met de megaovername is dik 111 miljard dollar gemoeid. Het fusiebedrijf wil zijn twee streamingdiensten, HBO Max en Paramount+, gaan samenvoegen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253022/overname-warner-bros-door-paramount-is-rond-hbo-max-en-paramount+-gaan-fuseren.html#reacties</comments>
   </item>
 </channel>
 </rss>

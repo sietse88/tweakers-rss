@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 07:05:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 07:35:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Qualcomm ziet smartphonechipomzet 26 procent kelderen door duur geheugen</title>
+    <link>https://tweakers.net/nieuws/254178/qualcomm-ziet-smartphonechipomzet-26-procent-kelderen-door-duur-geheugen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254178</guid>
+    <pubDate>Thu, 05 Nov 2026 08:25:56 +0100</pubDate>
+    <description>De stijgende geheugenprijzen door wereldwijde tekorten drukken Qualcomms omzet uit smartphonechips. In het vierde kwartaal van boekjaar 2026 daalde de omzet uit smartphonechips met 26 procent tot 5,14 miljard dollar. Analisten hadden gerekend op 5,21 miljard dollar.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254178/qualcomm-ziet-smartphonechipomzet-26-procent-kelderen-door-duur-geheugen.html#reacties</comments>
+  </item>
   <item>
     <title>Dummy toont camerabalk Samsung Galaxy S27 Ultra</title>
     <link>https://tweakers.net/nieuws/254172/dummy-toont-camerabalk-samsung-galaxy-s27-ultra.html</link>

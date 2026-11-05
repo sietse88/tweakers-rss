@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 05:20:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 05:50:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/252996/google-bouwt-functie-om-ai-naar-vrienden-en-familie-te-laten-bellen.html#reacties</comments>
-  </item>
-  <item>
-    <title>2K haalt servers NBA 2K25 twee jaar na release offline</title>
-    <link>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/252992</guid>
-    <pubDate>Tue, 06 Oct 2026 07:43:50 +0200</pubDate>
-    <description>Uitgever 2K haalt weer de servers offline van een twee jaar oude NBA 2K-game, waardoor delen van de game onspeelbaar zullen zijn. Dat gebeurde de afgelopen jaren ook al. Dit keer gaat het om NBA 2K25. Ook diverse singleplayermodi worden onspeelbaar.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/252992/2k-haalt-servers-nba-2k25-twee-jaar-na-release-offline.html#reacties</comments>
   </item>
 </channel>
 </rss>

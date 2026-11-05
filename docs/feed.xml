@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:19:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 20:34:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bluetooth krijgt volgend jaar snelheidsboost van 2Mbit/s naar 7,5Mbit/s</title>
+    <link>https://tweakers.net/nieuws/254208/bluetooth-krijgt-volgend-jaar-snelheidsboost-van-2mbit-s-naar-7-komma-5mbit-s.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254208</guid>
+    <pubDate>Thu, 05 Nov 2026 21:23:00 +0100</pubDate>
+    <description>De Bluetooth Special Interest Group heeft High Data Throughput (HDT) goedgekeurd als onderdeel van Bluetooth Core 7.0. Daarmee gaat de maximale doorvoersnelheid van 2Mbit/s naar 7,5Mbit/s. Volgend jaar verschijnen de eerste apparaten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Overige componenten</category>
+    <comments>https://tweakers.net/nieuws/254208/bluetooth-krijgt-volgend-jaar-snelheidsboost-van-2mbit-s-naar-7-komma-5mbit-s.html#reacties</comments>
+  </item>
   <item>
     <title>Claude kan in navolging van ChatGPT financiën bijhouden door koppeling met bank</title>
     <link>https://tweakers.net/nieuws/254224/claude-kan-in-navolging-van-chatgpt-financien-bijhouden-door-koppeling-met-bank.html</link>

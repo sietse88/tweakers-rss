@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 17:57:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 20:19:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,64 @@
     <height>192</height>
   </image>
   <item>
-    <title>WSJ: Apple verdient meer aan opslagvarianten ondanks gestegen prijzen</title>
-    <link>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-prijzen.html</link>
+    <title>Claude kan in navolging van ChatGPT financiën bijhouden door koppeling met bank</title>
+    <link>https://tweakers.net/nieuws/254224/claude-kan-in-navolging-van-chatgpt-financien-bijhouden-door-koppeling-met-bank.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254224</guid>
+    <pubDate>Thu, 05 Nov 2026 21:12:00 +0100</pubDate>
+    <description>Anthropic heeft Claude Personal Finance aangekondigd, een manier om via een koppeling met een bank persoonlijke geldzaken in de gaten te houden. De functie werkt voorlopig alleen nog in Anthropics thuisland, de Verenigde Staten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254224/claude-kan-in-navolging-van-chatgpt-financien-bijhouden-door-koppeling-met-bank.html#reacties</comments>
+  </item>
+  <item>
+    <title>Sony brengt Walkman-koptelefoon MDR-3 uit 1979 terug met USB-C, voor 60 euro</title>
+    <link>https://tweakers.net/nieuws/254222/sony-brengt-walkman-koptelefoon-mdr-3-uit-1979-terug-met-usb-c-voor-60-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254222</guid>
+    <pubDate>Thu, 05 Nov 2026 20:45:00 +0100</pubDate>
+    <description>Sony heeft de MDR-3R aangekondigd, een heruitgave van de hoofdtelefoon die klanten in 1979 kregen bij de eerste Walkman. Om bedraad te luisteren op smartphones, heeft de headset nu USB-C.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Hoofdtelefoons</category>
+    <comments>https://tweakers.net/nieuws/254222/sony-brengt-walkman-koptelefoon-mdr-3-uit-1979-terug-met-usb-c-voor-60-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>X claimt dat de website sneller werkt door herontwerp</title>
+    <link>https://tweakers.net/nieuws/254218/x-claimt-dat-de-website-sneller-werkt-door-herontwerp.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254218</guid>
+    <pubDate>Thu, 05 Nov 2026 20:12:00 +0100</pubDate>
+    <description>X claimt dat de website sneller werkt door een andere opbouw van pagina's. In plaats van drie verschillende servers gebruikt X één server die pagina's levert aan alle soorten gebruikers. De website is bovendien gebouwd met modernere webtechnologieën.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/254218/x-claimt-dat-de-website-sneller-werkt-door-herontwerp.html#reacties</comments>
+  </item>
+  <item>
+    <title>EA brengt Wing Commander opnieuw uit met communitymods erin</title>
+    <link>https://tweakers.net/nieuws/254220/ea-brengt-wing-commander-opnieuw-uit-met-communitymods-erin.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254220</guid>
+    <pubDate>Thu, 05 Nov 2026 19:30:00 +0100</pubDate>
+    <description>EA brengt 25 klassieke games uit via Steam, Good Old Games en de eigen app. Daaronder vallen Anniversary Editions van Wing Commander en Road Rash. Wing Commander bevat mods die de community heeft gemaakt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software boeken</category>
+    <comments>https://tweakers.net/nieuws/254220/ea-brengt-wing-commander-opnieuw-uit-met-communitymods-erin.html#reacties</comments>
+  </item>
+  <item>
+    <title>'YouTube werkt aan experimentele app met naam Tamba'</title>
+    <link>https://tweakers.net/nieuws/254214/youtube-werkt-aan-experimentele-app-met-naam-tamba.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254214</guid>
+    <pubDate>Thu, 05 Nov 2026 19:10:00 +0100</pubDate>
+    <description>YouTube lijkt te werken aan een experimentele app met de naam Tamba. De app richt zich vermoedelijk op Shorts en sociale functies op het videoplatform.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/254214/youtube-werkt-aan-experimentele-app-met-naam-tamba.html#reacties</comments>
+  </item>
+  <item>
+    <title>WSJ: Apple verdient meer aan opslagvarianten ondanks gestegen inkoopprijzen</title>
+    <link>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-inkoopprijzen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254212</guid>
     <pubDate>Thu, 05 Nov 2026 18:25:00 +0100</pubDate>
     <description>Apple verdient per apparaat meer aan een klant die een iPhone met meer opslag koopt dan voorheen. Dat heeft zakenkrant The Wall Street Journal becijferd. Apple verdient nu rond 200 dollar per iPhone als een klant een variant met meer opslag kiest.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-prijzen.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-inkoopprijzen.html#reacties</comments>
   </item>
   <item>
     <title>Leaker: Xiaomi werkt aan Chinese smartphone met 11.000mAh-accu</title>
@@ -5294,26 +5344,6 @@
     <dc:creator>Tomas Hochstenbach</dc:creator>
     <category>Review / Computers / Dockingstations</category>
     <comments>https://tweakers.net/reviews/15356/ugreen-maxidok-10-in-1-dockingstation-thunderbolt-5-voor-maar-200-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Tesla wil snelheidsoverschrijding van FSD begrenzen voor goedkeuring in EU</title>
-    <link>https://tweakers.net/nieuws/253030/tesla-wil-snelheidsoverschrijding-van-fsd-begrenzen-voor-goedkeuring-in-eu.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253030</guid>
-    <pubDate>Tue, 06 Oct 2026 21:21:50 +0200</pubDate>
-    <description>Tesla stelt voor om de naam van Full Self-Driving (Supervised) te veranderen in Assisted Driving. Ook wil de fabrikant de snelheidsoverschrijding begrenzen tot 10 procent boven de snelheidslimiet. Zo wil Tesla zijn rijhulpsysteem in Europa laten goedkeuren.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Cartech</category>
-    <comments>https://tweakers.net/nieuws/253030/tesla-wil-snelheidsoverschrijding-van-fsd-begrenzen-voor-goedkeuring-in-eu.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Duizenden systemen wind- en zonneparken zijn kwetsbaar voor cyberaanvallen'</title>
-    <link>https://tweakers.net/nieuws/253028/duizenden-systemen-wind-en-zonneparken-zijn-kwetsbaar-voor-cyberaanvallen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253028</guid>
-    <pubDate>Tue, 06 Oct 2026 20:30:08 +0200</pubDate>
-    <description>Beheersystemen van duizenden Europese windmolen- en zonneparken zijn niet goed beveiligd. Uit een Nederlands onderzoek blijkt dat 8547 beheerinterfaces en bedieningspanelen in 35 landen toegankelijk zijn via een publieke internetverbinding. Daardoor zijn ze kwetsbaar voor cyberaanvallen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253028/duizenden-systemen-wind-en-zonneparken-zijn-kwetsbaar-voor-cyberaanvallen.html#reacties</comments>
   </item>
 </channel>
 </rss>

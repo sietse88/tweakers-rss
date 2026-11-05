@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 14:57:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 15:27:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bloomberg: Chinese klanten krijgen maar 1 procent van bestelde Nvidia RTX PRO's</title>
+    <link>https://tweakers.net/nieuws/254202/bloomberg-chinese-klanten-krijgen-maar-1-procent-van-bestelde-nvidia-rtx-pros.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254202</guid>
+    <pubDate>Thu, 05 Nov 2026 16:22:26 +0100</pubDate>
+    <description>Alibaba, Tencent, ByteDance en andere Chinese AI- en cloudbedrijven verwachten dat ze de komende vier maanden slechts enkele tienduizenden RTX PRO 5500 zullen ontvangen. Dat is slechts 1 procent van het totale aantal bestelde chips.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254202/bloomberg-chinese-klanten-krijgen-maar-1-procent-van-bestelde-nvidia-rtx-pros.html#reacties</comments>
+  </item>
+  <item>
+    <title>Kwetsbaarheid in Paint is niet te patchen vanwege uitrolfout van Microsoft</title>
+    <link>https://tweakers.net/nieuws/254192/kwetsbaarheid-in-paint-is-niet-te-patchen-vanwege-uitrolfout-van-microsoft.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254192</guid>
+    <pubDate>Thu, 05 Nov 2026 16:20:42 +0100</pubDate>
+    <description>Door een kwetsbaarheid in Microsoft Paint kunnen hackers op afstand code uitvoeren op het systeem waarop Paint draait. Microsoft geeft de kwetsbaarheid een CVSS-score van 8,1 uit 10. De maker van Windows zegt een beveiligingsupdate te hebben uitgebracht, maar lijkt die nog niet te hebben uitgerold.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254192/kwetsbaarheid-in-paint-is-niet-te-patchen-vanwege-uitrolfout-van-microsoft.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers stelen 118 miljoen euro van Franse bank</title>
     <link>https://tweakers.net/nieuws/254200/hackers-stelen-118-miljoen-euro-van-franse-bank.html</link>

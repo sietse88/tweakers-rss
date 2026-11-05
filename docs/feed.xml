@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:12:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 16:42:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Leaker: Xiaomi werkt aan Chinese smartphone met 11.000mAh-accu</title>
+    <link>https://tweakers.net/nieuws/254210/leaker-xiaomi-werkt-aan-chinese-smartphone-met-11000mah-accu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254210</guid>
+    <pubDate>Thu, 05 Nov 2026 17:35:39 +0100</pubDate>
+    <description>De Chinese smartphonefabrikant Xiaomi zou binnenkort een smartphone willen uitbrengen met een 11.000mAh-accu. Dat meldt leaker Digital Chat Station. Dat is de hoogste capaciteit in een Xiaomi-smartphone tot nu toe.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254210/leaker-xiaomi-werkt-aan-chinese-smartphone-met-11000mah-accu.html#reacties</comments>
+  </item>
   <item>
     <title>Bloomberg: Chinese klanten krijgen maar 1 procent van bestelde Nvidia RTX PRO's</title>
     <link>https://tweakers.net/nieuws/254202/bloomberg-chinese-klanten-krijgen-maar-1-procent-van-bestelde-nvidia-rtx-pros.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:57:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:27:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>WSJ: Apple verdient meer aan opslagvarianten ondanks gestegen prijzen</title>
+    <link>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-prijzen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254212</guid>
+    <pubDate>Thu, 05 Nov 2026 18:25:00 +0100</pubDate>
+    <description>Apple verdient per apparaat meer aan een klant die een iPhone met meer opslag koopt dan voorheen. Dat heeft zakenkrant The Wall Street Journal becijferd. Apple verdient nu rond 200 dollar per iPhone als een klant een variant met meer opslag kiest.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254212/wsj-apple-verdient-meer-aan-opslagvarianten-ondanks-gestegen-prijzen.html#reacties</comments>
+  </item>
   <item>
     <title>Leaker: Xiaomi werkt aan Chinese smartphone met 11.000mAh-accu</title>
     <link>https://tweakers.net/nieuws/254210/leaker-xiaomi-werkt-aan-chinese-smartphone-met-11000mah-accu.html</link>

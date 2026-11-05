@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:57:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:12:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Moto buds 2 ultra hebben actieve ruisonderdrukking van Bose en kosten 200 euro</title>
+    <link>https://tweakers.net/nieuws/254190/moto-buds-2-ultra-hebben-actieve-ruisonderdrukking-van-bose-en-kosten-200-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254190</guid>
+    <pubDate>Thu, 05 Nov 2026 15:09:15 +0100</pubDate>
+    <description>Motorola heeft de moto buds 2 ultra uitgebracht. De oordopjes hebben onder meer actieve ruisonderdrukking (anc) en afstelling door Bose. De moto buds 2 ultra zijn vanaf begin december verkrijgbaar voor 200 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Beeld en geluid / Oordopjes</category>
+    <comments>https://tweakers.net/nieuws/254190/moto-buds-2-ultra-hebben-actieve-ruisonderdrukking-van-bose-en-kosten-200-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Quicktest - Apple iMac 24" (2026) met M6 - Kleine upgrades voor fijne all-in-one</title>
+    <link>https://tweakers.net/reviews/15554/apple-imac-24-inch-2026-met-m6-kleine-upgrades-voor-fijne-all-in-one.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15554</guid>
+    <pubDate>Thu, 05 Nov 2026 15:00:00 +0100</pubDate>
+    <description>Na de MacBook Pro en de Mac Mini stopt Apple zijn nieuwste M6-chip ook in de iMac 24". Behalve die specbump is er vrijwel niks veranderd.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Quicktest / Computers / Pc's</category>
+    <comments>https://tweakers.net/reviews/15554/apple-imac-24-inch-2026-met-m6-kleine-upgrades-voor-fijne-all-in-one.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - Apple MacBook Pro Proled XDR Display - Beste laptopscherm met touch als bonus</title>
+    <link>https://tweakers.net/reviews/15560/apple-macbook-pro-proled-xdr-display-beste-laptopscherm-met-touch-als-bonus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15560</guid>
+    <pubDate>Thu, 05 Nov 2026 15:00:00 +0100</pubDate>
+    <description>Apple voegt oled en een touchscreen toe aan zijn MacBook Pro. Hoe bevallen deze wijzigingen?</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Review / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15560/apple-macbook-pro-proled-xdr-display-beste-laptopscherm-met-touch-als-bonus.html#reacties</comments>
+  </item>
   <item>
     <title>Nintendo verkoopt 41 procent minder Switch 2-consoles na prijsverhoging door ram</title>
     <link>https://tweakers.net/nieuws/254194/nintendo-verkoopt-41-procent-minder-switch-2-consoles-na-prijsverhoging-door-ram.html</link>

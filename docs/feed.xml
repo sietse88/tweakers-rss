@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 12:38:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 12:53:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -26,14 +26,14 @@
     <comments>https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html#reacties</comments>
   </item>
   <item>
-    <title>DigiCert laat klantdata uitlekken na per ongeluk openzetten intern systeem</title>
-    <link>https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html</link>
+    <title>DigiCert maakte intern systeem per ongeluk openbaar, data van klanten lekt uit</title>
+    <link>https://tweakers.net/nieuws/254246/digicert-maakte-intern-systeem-per-ongeluk-openbaar-data-van-klanten-lekt-uit.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254246</guid>
     <pubDate>Fri, 06 Nov 2026 13:14:35 +0100</pubDate>
     <description>Certificaatuitgever DigiCert maakte per ongeluk een intern systeem openbaar toegankelijk. Daardoor konden onbevoegden bij klantgegevens komen. Het zou voornamelijk gaan om zakelijke contactgegevens, maar in sommige gevallen ook om gevoelige data, zoals persoonsgegevens en kopieën van rijbewijzen en paspoorten.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254246/digicert-maakte-intern-systeem-per-ongeluk-openbaar-data-van-klanten-lekt-uit.html#reacties</comments>
   </item>
   <item>
     <title>Sony ziet verkoop PlayStation 5 teruglopen, gaat in volgende console investeren</title>
@@ -5364,16 +5364,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html#reacties</comments>
-  </item>
-  <item>
-    <title>GMK TriggerKey maakt travel en hoek van mechanische toetsen instelbaar</title>
-    <link>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253050</guid>
-    <pubDate>Wed, 07 Oct 2026 14:51:50 +0200</pubDate>
-    <description>GMK heeft de TriggerKey aangekondigd. Bij deze keycap voor mechanische switches kunnen gebruikers de hoek en aanslag zelf instellen zonder de switches te vervangen. GMK verkoopt de keycaps in veertien verschillende kleuren. Een set van vier keycaps, vooral bedoeld voor de WASD-toetsen, kost 49,82 euro.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Overige randapparatuur</category>
-    <comments>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html#reacties</comments>
   </item>
 </channel>
 </rss>

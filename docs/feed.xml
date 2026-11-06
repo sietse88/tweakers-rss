@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 18:37:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 18:52:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers loggen in op wachtwoordloze accounts door kritieke OpenSSH-kwetsbaarheid</title>
+    <link>https://tweakers.net/nieuws/254268/hackers-loggen-in-op-wachtwoordloze-accounts-door-kritieke-openssh-kwetsbaarheid.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254268</guid>
+    <pubDate>Fri, 06 Nov 2026 19:37:02 +0100</pubDate>
+    <description>Hackers hebben volgens beveiligingsonderzoekers een kritieke kwetsbaarheid in OpenSSH uitgebuit. Daardoor kunnen ze inloggen op bepaalde wachtwoordloze accounts. Er is al een patch beschikbaar voor de kwetsbaarheid.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254268/hackers-loggen-in-op-wachtwoordloze-accounts-door-kritieke-openssh-kwetsbaarheid.html#reacties</comments>
+  </item>
   <item>
     <title>Insomniac stopt al voor volledige release met mobiele Ratchet &amp; Clank-game</title>
     <link>https://tweakers.net/nieuws/254264/insomniac-stopt-al-voor-volledige-release-met-mobiele-ratchet-en-clank-game.html</link>

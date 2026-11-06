@@ -5144,6 +5144,17 @@
   "pubDate": "Fri, 06 Nov 2026 18:26:26 +0100",
   "title": "Insomniac stopt al voor volledige release met mobiele Ratchet & Clank-game"
  },
+ "https://tweakers.net/nieuws/254268": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254268/hackers-loggen-in-op-wachtwoordloze-accounts-door-kritieke-openssh-kwetsbaarheid.html#reacties",
+  "description": "Hackers hebben volgens beveiligingsonderzoekers een kritieke kwetsbaarheid in OpenSSH uitgebuit. Daardoor kunnen ze inloggen op bepaalde wachtwoordloze accounts. Er is al een patch beschikbaar voor de kwetsbaarheid.",
+  "first": "Fri, 06 Nov 2026 18:52:37 +0000",
+  "guid": "https://tweakers.net/nieuws/254268",
+  "link": "https://tweakers.net/nieuws/254268/hackers-loggen-in-op-wachtwoordloze-accounts-door-kritieke-openssh-kwetsbaarheid.html",
+  "pubDate": "Fri, 06 Nov 2026 19:37:02 +0100",
+  "title": "Hackers loggen in op wachtwoordloze accounts door kritieke OpenSSH-kwetsbaarheid"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

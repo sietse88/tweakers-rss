@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 12:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 12:38:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5374,16 +5374,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Overige randapparatuur</category>
     <comments>https://tweakers.net/nieuws/253050/gmk-triggerkey-maakt-travel-en-hoek-van-mechanische-toetsen-instelbaar.html#reacties</comments>
-  </item>
-  <item>
-    <title>AIVD en MIVD verwachten forse toename Chinese aanvallen op edgeapparaten</title>
-    <link>https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253046</guid>
-    <pubDate>Wed, 07 Oct 2026 14:28:00 +0200</pubDate>
-    <description>De Nederlandse inlichtingen- en veiligheidsdiensten AIVD en MIVD waarschuwen voor een aanzienlijke toename van hackaanvallen door Chinese daders. De aanvallers richten zich op edgeapparaten, zoals firewalls, vpn-servers en routers. Deze waarschuwing is gebaseerd op niet nader genoemde inlichtingen.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/253046/aivd-en-mivd-verwachten-forse-toename-chinese-aanvallen-op-edgeapparaten.html#reacties</comments>
   </item>
 </channel>
 </rss>

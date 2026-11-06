@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:07:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 10:22:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,16 +16,6 @@
     <height>192</height>
   </image>
   <item>
-    <title>Achtergrond - Google mogelijk op juridisch glad ijs als het AI-leerhulp aan Zoeken koppelt</title>
-    <link>https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-leerhulp-aan-zoeken-koppelt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15576</guid>
-    <pubDate>Fri, 06 Nov 2026 11:00:00 +0100</pubDate>
-    <description>Scholen die geen AI-diensten van Google willen, krijgen mogelijk ook geen toegang meer tot Google Zoeken. Die koppeling staat op gespannen voet met de mededingingswetgeving.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Achtergrond / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-leerhulp-aan-zoeken-koppelt.html#reacties</comments>
-  </item>
-  <item>
     <title>Preview - Motorola Signature 27 - Motorola trekt alles uit de kast</title>
     <link>https://tweakers.net/reviews/15570/motorola-signature-27-motorola-trekt-alles-uit-de-kast.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15570</guid>
@@ -34,6 +24,16 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Preview / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15570/motorola-signature-27-motorola-trekt-alles-uit-de-kast.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Google mogelijk op juridisch glad ijs als het AI-functies aan Zoeken koppelt</title>
+    <link>https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-functies-aan-zoeken-koppelt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15576</guid>
+    <pubDate>Fri, 06 Nov 2026 11:00:00 +0100</pubDate>
+    <description>Scholen die geen AI-diensten van Google willen, krijgen mogelijk ook geen toegang meer tot Google Zoeken. Die koppeling staat op gespannen voet met de mededingingswetgeving.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Achtergrond / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15576/google-mogelijk-op-juridisch-glad-ijs-als-het-ai-functies-aan-zoeken-koppelt.html#reacties</comments>
   </item>
   <item>
     <title>Gerucht: EA-kopers willen ook Unity overnemen voor 25 miljard dollar</title>

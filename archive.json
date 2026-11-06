@@ -5159,13 +5159,13 @@
  "https://tweakers.net/nieuws/254240": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
-  "comments": "https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html#reacties",
-  "description": "OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. Alleen gebruikers van het Daybreak Red-programma hebben nu toegang tot het nieuwe model.",
+  "comments": "https://tweakers.net/nieuws/254240/gpt-6-cyber-vindt-948-kwetsbaarheden-in-linux.html#reacties",
+  "description": "OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. In een test van OpenAI vond GPT 6-Cyber 948 kwetsbaarheden in Linux.",
   "first": "Fri, 06 Nov 2026 12:23:07 +0000",
   "guid": "https://tweakers.net/nieuws/254240",
-  "link": "https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html",
+  "link": "https://tweakers.net/nieuws/254240/gpt-6-cyber-vindt-948-kwetsbaarheden-in-linux.html",
   "pubDate": "Fri, 06 Nov 2026 13:19:12 +0100",
-  "title": "OpenAI brengt GPT 6-Cyber uit, vindt 948 kwetsbaarheden in Linux"
+  "title": "GPT 6-Cyber vindt 948 kwetsbaarheden in Linux"
  },
  "https://tweakers.net/nieuws/254246": {
   "author": "Yannick Spinner",

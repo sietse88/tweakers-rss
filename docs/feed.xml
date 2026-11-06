@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 18:52:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 19:22:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Review / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15182/jolla-phone-2026-losbreken-van-big-tech-vraagt-wat-offers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft wil AI meer lokaal laten draaien en agents afkaderen in containers</title>
-    <link>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253078</guid>
-    <pubDate>Wed, 07 Oct 2026 21:16:12 +0200</pubDate>
-    <description>Microsoft kondigt tijdens het Surface-evenement verschillende nieuwe functies voor 'hybride' AI aan, waarbij AI-toepassingen gedeeltelijk lokaal draaien in plaats van in de cloud. Daarnaast breidt het bedrijf de beveiliging en afkadering van agents uit.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Business software</category>
-    <comments>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html#reacties</comments>
   </item>
 </channel>
 </rss>

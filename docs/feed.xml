@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 16:52:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 17:37:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Insomniac stopt al voor volledige release met mobiele Ratchet &amp; Clank-game</title>
+    <link>https://tweakers.net/nieuws/254264/insomniac-stopt-al-voor-volledige-release-met-mobiele-ratchet-en-clank-game.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254264</guid>
+    <pubDate>Fri, 06 Nov 2026 18:26:26 +0100</pubDate>
+    <description>Insomniac stopt met de mobiele free-to-playgame Ratchet &amp; Clank: Ranger Rumble, nog voordat de game volledig is uitgebracht. De game krijgt vanaf nu geen updates meer en wordt later deze maand uit de appwinkels gehaald. Ranger Rumble blijft nog tot mei speelbaar.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254264/insomniac-stopt-al-voor-volledige-release-met-mobiele-ratchet-en-clank-game.html#reacties</comments>
+  </item>
   <item>
     <title>NCTV: Nederland is niet bestand tegen toename van cyberdreiging door AI</title>
     <link>https://tweakers.net/nieuws/254260/nctv-nederland-is-niet-bestand-tegen-toename-van-cyberdreiging-door-ai.html</link>

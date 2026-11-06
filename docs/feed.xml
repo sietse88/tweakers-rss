@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:52:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 09:07:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Processors</category>
     <comments>https://tweakers.net/nieuws/253044/amd-gaat-chipproductie-aanzienlijk-verhogen-in-2027.html#reacties</comments>
-  </item>
-  <item>
-    <title>Anthropic verruimt toegang tot Claude-modellen met minder blokkades</title>
-    <link>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253038</guid>
-    <pubDate>Wed, 07 Oct 2026 11:03:20 +0200</pubDate>
-    <description>Anthropic gaat Project Glasswing en het Cyber Verification Program samenvoegen. Daardoor krijgen meer organisaties toegang tot de geavanceerdste modellen van het bedrijf, waaronder Mythos 5.1 en minder streng beveiligde versies van Claude Opus 5.5 en Sonnet 5.5.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 04:05:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 06:05:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Apple en LG ontwikkelen samen deurbel, deurslot en thermostaat'</title>
-    <link>https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253032</guid>
-    <pubDate>Wed, 07 Oct 2026 08:03:37 +0200</pubDate>
-    <description>Apple en LG zouden samenwerken aan nieuwe smarthomeproducten, meldt Bloomberg. Het gaat onder meer om een slimme deurbel, een slim deurslot en een slimme thermostaat. De producten zouden over een paar maanden moeten uitkomen. De exacte releasedata en prijzen zijn niet bekend.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Smarthome</category>
-    <comments>https://tweakers.net/nieuws/253032/apple-en-lg-ontwikkelen-samen-deurbel-deurslot-en-thermostaat.html#reacties</comments>
   </item>
 </channel>
 </rss>

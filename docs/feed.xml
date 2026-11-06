@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 16:07:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 16:52:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>NCTV: Nederland is niet bestand tegen toename van cyberdreiging door AI</title>
+    <link>https://tweakers.net/nieuws/254260/nctv-nederland-is-niet-bestand-tegen-toename-van-cyberdreiging-door-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254260</guid>
+    <pubDate>Fri, 06 Nov 2026 17:41:43 +0100</pubDate>
+    <description>De capaciteiten en activiteiten van cybercriminelen nemen mede door AI toe, terwijl de cyberweerbaarheid van Nederlandse organisaties achterblijft. Dat schrijft de NCTV in het Cybersecuritybeeld Nederland 2026. De NCTV noemt dit 'een ernstig risico voor de nationale veiligheid'.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254260/nctv-nederland-is-niet-bestand-tegen-toename-van-cyberdreiging-door-ai.html#reacties</comments>
+  </item>
   <item>
     <title>Google Find Hub kan melding geven bij buitenshuis achterlaten tracker</title>
     <link>https://tweakers.net/nieuws/254254/google-find-hub-kan-melding-geven-bij-buitenshuis-achterlaten-tracker.html</link>

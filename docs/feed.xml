@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 13:08:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 15:52:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google Find Hub kan melding geven bij buitenshuis achterlaten tracker</title>
+    <link>https://tweakers.net/nieuws/254254/google-find-hub-kan-melding-geven-bij-buitenshuis-achterlaten-tracker.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254254</guid>
+    <pubDate>Fri, 06 Nov 2026 15:32:43 +0100</pubDate>
+    <description>Google Find Hub krijgt een nieuwe functie waarmee gebruikers een melding kunnen ontvangen als een tracker zich te ver van hun smartphone bevindt. Dit kan voorkomen dat gebruikers een object kwijtraken. De concurrerende diensten van Apple en Samsung hebben deze functie al langer.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Bluetooth trackers</category>
+    <comments>https://tweakers.net/nieuws/254254/google-find-hub-kan-melding-geven-bij-buitenshuis-achterlaten-tracker.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hostingprovider Neostrada wordt deel van Yourhosting in plaats van Versio</title>
+    <link>https://tweakers.net/nieuws/254252/hostingprovider-neostrada-wordt-deel-van-yourhosting-in-plaats-van-versio.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254252</guid>
+    <pubDate>Fri, 06 Nov 2026 15:01:52 +0100</pubDate>
+    <description>Het plan om Neostrada op termijn onder te brengen bij Versio is gewijzigd. Het is nu de bedoeling dat de hostingprovider onderdeel wordt van Yourhosting. Alle drie de partijen vallen onder hetzelfde moederbedrijf.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254252/hostingprovider-neostrada-wordt-deel-van-yourhosting-in-plaats-van-versio.html#reacties</comments>
+  </item>
+  <item>
+    <title>EU: TikTok schendt DSA met schadelijke 'rabbit holes'</title>
+    <link>https://tweakers.net/nieuws/254248/eu-tiktok-schendt-dsa-met-schadelijke-rabbit-holes.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254248</guid>
+    <pubDate>Fri, 06 Nov 2026 14:39:50 +0100</pubDate>
+    <description>TikTok schendt volgens onderzoek van de Europese Commissie de Digital Services Act (DSA). Het sociale medium zou met de For You-feed het rabbithole-effect versterken. Hierbij krijgen gebruikers steeds vaker content te zien waarin zij geïnteresseerd zijn, ook als die schadelijk is. TikTok kan nog in beroep gaan en riskeert een miljardenboete.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254248/eu-tiktok-schendt-dsa-met-schadelijke-rabbit-holes.html#reacties</comments>
+  </item>
+  <item>
+    <title>'New York Times wil filmreviewsite Letterboxd voor 330 miljoen dollar overnemen'</title>
+    <link>https://tweakers.net/nieuws/254250/new-york-times-wil-filmreviewsite-letterboxd-voor-330-miljoen-dollar-overnemen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254250</guid>
+    <pubDate>Fri, 06 Nov 2026 14:11:13 +0100</pubDate>
+    <description>The New York Times Company wil naar verluidt voor ongeveer 330 miljoen dollar Letterboxd overnemen. Gebruikers kunnen via die site kijklijsten voor films bijhouden en filmrecensies delen. De deal is nog niet volledig rond.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254250/new-york-times-wil-filmreviewsite-letterboxd-voor-330-miljoen-dollar-overnemen.html#reacties</comments>
+  </item>
   <item>
     <title>GPT 6-Cyber vindt 948 kwetsbaarheden in Linux</title>
     <link>https://tweakers.net/nieuws/254240/gpt-6-cyber-vindt-948-kwetsbaarheden-in-linux.html</link>
@@ -5284,86 +5324,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Beeld en geluid / Bewakingscamera's</category>
     <comments>https://tweakers.net/nieuws/253070/ring-verhoogt-resolutie-van-plus-serie-met-4k-buitencameras.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google maakt tool voor checken op AI-watermerk wereldwijd beschikbaar</title>
-    <link>https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253068</guid>
-    <pubDate>Wed, 07 Oct 2026 17:28:43 +0200</pubDate>
-    <description>Google maakt SynthID Detector wereldwijd beschikbaar. Met de tool kunnen gebruikers media uploaden en controleren of die door AI gegenereerd zijn. Dat gebeurt aan de hand van een onzichtbaar watermerk dat Google, OpenAI, Nvidia, Kakao en binnenkort ook Apple toevoegen aan hun gegenereerde content.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Wetenschap</category>
-    <comments>https://tweakers.net/nieuws/253068/google-maakt-tool-voor-checken-op-ai-watermerk-wereldwijd-beschikbaar.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google zet ondersteuning voor JPEG XL aan in Chrome 155</title>
-    <link>https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253066</guid>
-    <pubDate>Wed, 07 Oct 2026 17:15:17 +0200</pubDate>
-    <description>Google zet de ondersteuning voor het beeldformaat JPEG XL aan in versie 155 van zijn Chrome-browser. Deze functionaliteit was al sinds versie 145 aanwezig, maar gebruikers moesten die zelf activeren in de instellingen. JPEG XL biedt 30 tot 50 procent betere compressie dan JPEG, meldt Google.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Browsers</category>
-    <comments>https://tweakers.net/nieuws/253066/google-zet-ondersteuning-voor-jpeg-xl-aan-in-chrome-155.html#reacties</comments>
-  </item>
-  <item>
-    <title>PostNL en gaslicht.com stoppen met identificatiedienst iDIN vanwege adresfraude</title>
-    <link>https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253052</guid>
-    <pubDate>Wed, 07 Oct 2026 17:15:00 +0200</pubDate>
-    <description>PostNL en energievergelijkingssites als gaslicht.com stoppen met het gebruik van iDIN om adresgegevens van gebruikers te verifiëren. Uit onderzoek blijkt dat de verificatiedienst kan worden misbruikt voor adresspoofing, wat tot privacyrisico's kan leiden. Ook andere diensten die iDIN gebruiken, kunnen kwetsbaar zijn.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253052/postnl-en-gaslicht-punt-com-stoppen-met-identificatiedienst-idin-vanwege-adresfraude.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Ongecontroleerde bankadressen maken misbruik van iDIN-koppelingen mogelijk</title>
-    <link>https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15420</guid>
-    <pubDate>Wed, 07 Oct 2026 17:15:00 +0200</pubDate>
-    <description>Veel instellingen zoals PostNL hebben de implementatie van verificatiedienst Itsme niet goed ingesteld. Daardoor kan mogelijk privacygevoelige informatie lekken, blijkt uit onderzoek van Tweakers.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Achtergrond / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/reviews/15420/ongecontroleerde-bankadressen-maken-misbruik-van-idin-koppelingen-mogelijk.html#reacties</comments>
-  </item>
-  <item>
-    <title>NCSC waarschuwt Exchange-gebruikers voor risico van mailboxinzage via servergat</title>
-    <link>https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253064</guid>
-    <pubDate>Wed, 07 Oct 2026 16:44:18 +0200</pubDate>
-    <description>Het Nationaal Cyber Security Centrum (NCSC) waarschuwt voor een ernstige kwetsbaarheid in de Exchange Server-software van Microsoft. De kans op misbruik is volgens het NCSC middelgroot en de mogelijke schade kan groot zijn. Een update voor de e-mail- en agendasoftware is beschikbaar.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/253064/ncsc-waarschuwt-exchange-gebruikers-voor-risico-van-mailboxinzage-via-servergat.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kabinet Jetten wil huiseigenaren verplichten tot hybride warmtepomp vanaf 2029</title>
-    <link>https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253060</guid>
-    <pubDate>Wed, 07 Oct 2026 16:00:23 +0200</pubDate>
-    <description>Het Nederlandse kabinet wil vanaf 2029 hybride warmtepompen verplichten voor huiseigenaren. Deze verplichting geldt dan bij vervanging van cv-ketels. Voor appartementen en monumenten geldt een uitzondering op deze verplichting. De overstap moet 'eenvoudig, betaalbaar en uitvoerbaar' zijn.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/253060/kabinet-jetten-wil-huiseigenaren-verplichten-tot-hybride-warmtepomp-vanaf-2029.html#reacties</comments>
-  </item>
-  <item>
-    <title>Until Dawn-maker brengt 13 oktober The Conjuring-horrorgame uit op Netflix</title>
-    <link>https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253056</guid>
-    <pubDate>Wed, 07 Oct 2026 15:51:01 +0200</pubDate>
-    <description>Netflix en Supermassive Games hebben de horrorgame The Conjuring: Unspoken aangekondigd. Het spel komt op 13 oktober uit op Netflix in onder meer Nederland en België. Er is op dit moment niets bekend over een release op pc of consoles.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253056/until-dawn-maker-brengt-13-oktober-the-conjuring-horrorgame-uit-op-netflix.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Europa wil bigtechbedrijven belasten door heffing op zeer grote bedrijven'</title>
-    <link>https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253054</guid>
-    <pubDate>Wed, 07 Oct 2026 15:24:04 +0200</pubDate>
-    <description>De Europese Commissie overweegt een heffing voor zeer grote bedrijven in te voeren, meldt de Financial Times. Op die manier wil de Commissie naar verluidt meer inkomsten genereren door grote techbedrijven te belasten, zonder een tegenreactie van de regering-Trump uit te lokken.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253054/europa-wil-bigtechbedrijven-belasten-door-heffing-op-zeer-grote-bedrijven.html#reacties</comments>
   </item>
 </channel>
 </rss>

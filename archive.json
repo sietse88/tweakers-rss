@@ -10,16 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/nieuws/253036": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Websites en community's",
-  "comments": "https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html#reacties",
-  "description": "Anthropic maakt zijn AI-assistent Claude via een extensie beschikbaar in Google Workspace. Daarmee kunnen gebruikers rechtstreeks met Claude werken aan geopende bestanden in Google Docs, Sheets en Slides. De functie is in bèta beschikbaar voor alle betaalde Claude-abonnementen.",
-  "guid": "https://tweakers.net/nieuws/253036",
-  "link": "https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html",
-  "pubDate": "Wed, 07 Oct 2026 09:37:59 +0200",
-  "title": "Claude komt via extensie beschikbaar in Google Docs, Sheets en Slides"
- },
  "https://tweakers.net/nieuws/253038": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Internet",
@@ -5161,6 +5151,17 @@
   "link": "https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html",
   "pubDate": "Fri, 06 Nov 2026 07:40:49 +0100",
   "title": "Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan"
+ },
+ "https://tweakers.net/nieuws/254232": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Software",
+  "comments": "https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html#reacties",
+  "description": "Dropbox voegt verschillende AI-functies toe aan zijn opslagdienst, waarmee gebruikers hun opgeslagen gegevens via prompts kunnen doorzoeken en bewerken. De functies zijn in eerste instantie gericht op zakelijke klanten en worden voorlopig alleen buiten Europa uitgerold. Of en wanneer ze in de Benelux beschikbaar komen, is nog niet bekend. Daarnaast neemt Dropbox een AI-bedrijf over.",
+  "first": "Fri, 06 Nov 2026 07:52:39 +0000",
+  "guid": "https://tweakers.net/nieuws/254232",
+  "link": "https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html",
+  "pubDate": "Fri, 06 Nov 2026 08:50:48 +0100",
+  "title": "Dropbox voegt AI-tools voor zoeken en bewerken toe aan opslagdienst"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

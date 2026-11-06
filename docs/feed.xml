@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 06:50:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:52:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Dropbox voegt AI-tools voor zoeken en bewerken toe aan opslagdienst</title>
+    <link>https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254232</guid>
+    <pubDate>Fri, 06 Nov 2026 08:50:48 +0100</pubDate>
+    <description>Dropbox voegt verschillende AI-functies toe aan zijn opslagdienst, waarmee gebruikers hun opgeslagen gegevens via prompts kunnen doorzoeken en bewerken. De functies zijn in eerste instantie gericht op zakelijke klanten en worden voorlopig alleen buiten Europa uitgerold. Of en wanneer ze in de Benelux beschikbaar komen, is nog niet bekend. Daarnaast neemt Dropbox een AI-bedrijf over.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html#reacties</comments>
+  </item>
   <item>
     <title>Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan</title>
     <link>https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html</link>
@@ -5324,16 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
     <comments>https://tweakers.net/nieuws/253038/anthropic-verruimt-toegang-tot-claude-modellen-met-minder-blokkades.html#reacties</comments>
-  </item>
-  <item>
-    <title>Claude komt via extensie beschikbaar in Google Docs, Sheets en Slides</title>
-    <link>https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253036</guid>
-    <pubDate>Wed, 07 Oct 2026 09:37:59 +0200</pubDate>
-    <description>Anthropic maakt zijn AI-assistent Claude via een extensie beschikbaar in Google Workspace. Daarmee kunnen gebruikers rechtstreeks met Claude werken aan geopende bestanden in Google Docs, Sheets en Slides. De functie is in bèta beschikbaar voor alle betaalde Claude-abonnementen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 19:22:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 19:37:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple laat iPhone-toetsenbord woorden als 'Dictator Trump' niet voorspellen</title>
+    <link>https://tweakers.net/nieuws/254270/apple-laat-iphone-toetsenbord-woorden-als-dictator-trump-niet-voorspellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254270</guid>
+    <pubDate>Fri, 06 Nov 2026 20:24:24 +0100</pubDate>
+    <description>Apple heeft een lijst met woorden die het iPhone-toetsenbord niet zal voorspellen, ontdekte een onderzoeker. Het gaat onder meer om 'Dictator Trump' en 'Sleepy Joe'. Een groot deel van de verboden woorden wordt ook niet getoond als gebruikers vegen om te typen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254270/apple-laat-iphone-toetsenbord-woorden-als-dictator-trump-niet-voorspellen.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers loggen in op wachtwoordloze accounts door kritieke OpenSSH-kwetsbaarheid</title>
     <link>https://tweakers.net/nieuws/254268/hackers-loggen-in-op-wachtwoordloze-accounts-door-kritieke-openssh-kwetsbaarheid.html</link>

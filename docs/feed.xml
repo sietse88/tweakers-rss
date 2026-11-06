@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 17:52:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 18:37:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,26 +5314,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Business software</category>
     <comments>https://tweakers.net/nieuws/253078/microsoft-wil-ai-meer-lokaal-laten-draaien-en-agents-afkaderen-in-containers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Instapversie Microsoft Surface-laptop met Nvidia RTX Spark-cpu kost 2600 dollar</title>
-    <link>https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253072</guid>
-    <pubDate>Wed, 07 Oct 2026 20:36:24 +0200</pubDate>
-    <description>Microsoft en Nvidia deelden op woensdagavond meer details over de aanstaande Nvidia RTX Spark-processor. Laptops met deze chip zijn vanaf nu vooruit te bestellen en worden vanaf volgende week vrijdag geleverd. Microsofts goedkoopste variant kost 2600 dollar.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253072/instapversie-microsoft-surface-laptop-met-nvidia-rtx-spark-cpu-kost-2600-dollar.html#reacties</comments>
-  </item>
-  <item>
-    <title>Discord is weer indirect getroffen door datalek: 28 miljoen accounts slachtoffer</title>
-    <link>https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253074</guid>
-    <pubDate>Wed, 07 Oct 2026 20:26:10 +0200</pubDate>
-    <description>Chatdienst Discord is opnieuw getroffen door een cyberaanval via een derde partij. De beveiligingsdienst Double Counter meldt dat er daarbij tot 28 miljoen Discord-gebruikersnamen en IP-adressen zijn gestolen. Ook zijn er een miljoen e-mailadressen buitgemaakt. Voor zover bekend zijn er geen gevoeligere gebruikersgegevens gestolen.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253074/discord-is-weer-indirect-getroffen-door-datalek-28-miljoen-accounts-slachtoffer.html#reacties</comments>
   </item>
 </channel>
 </rss>

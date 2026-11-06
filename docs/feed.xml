@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 06:05:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 06:50:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan</title>
+    <link>https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254228</guid>
+    <pubDate>Fri, 06 Nov 2026 07:40:49 +0100</pubDate>
+    <description>Google, TikTok en Meta verzetten zich in afzonderlijke rechtszaken tegen een Californische wet die verslavende elementen voor tieners tot 16 jaar verbiedt. Volgens de bedrijven achter de grootste sociale media is de wet te breed en maakt die inbreuk op het Eerste Amendement.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html#reacties</comments>
+  </item>
   <item>
     <title>Bluetooth krijgt volgend jaar snelheidsboost van 2Mbit/s naar 7,5Mbit/s</title>
     <link>https://tweakers.net/nieuws/254208/bluetooth-krijgt-volgend-jaar-snelheidsboost-van-2mbit-s-naar-7-komma-5mbit-s.html</link>
@@ -5324,16 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253036/claude-komt-via-extensie-beschikbaar-in-google-docs-sheets-en-slides.html#reacties</comments>
-  </item>
-  <item>
-    <title>XBOX ontkent dat het exclusieve streamingrechten voor GTA VI heeft - update</title>
-    <link>https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253034</guid>
-    <pubDate>Wed, 07 Oct 2026 08:47:40 +0200</pubDate>
-    <description>Matthew Ball, de chief strategy officer van XBOX, ontkent dat het bedrijf de exclusieve streamingrechten voor Grand Theft Auto VI in handen heeft. Daarmee spreekt hij eerdere berichtgeving van The Verge tegen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253034/xbox-ontkent-dat-het-exclusieve-streamingrechten-voor-gta-vi-heeft.html#reacties</comments>
   </item>
 </channel>
 </rss>

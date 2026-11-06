@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 07:52:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 08:22:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft test snellere en simpelere XBOX-app voor pc</title>
+    <link>https://tweakers.net/nieuws/254236/microsoft-test-snellere-en-simpelere-xbox-app-voor-pc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254236</guid>
+    <pubDate>Fri, 06 Nov 2026 09:06:36 +0100</pubDate>
+    <description>Microsoft brengt voor Insiders een versimpelde versie van de XBOX-app voor pc uit. De app heeft minder kopjes op de landingspagina en haalt ook verschillende opties uit de keuzebalk. Daarnaast moet de app tot 60 procent sneller opstarten, maar dit hangt af van verschillende factoren.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254236/microsoft-test-snellere-en-simpelere-xbox-app-voor-pc.html#reacties</comments>
+  </item>
   <item>
     <title>Dropbox voegt AI-tools voor zoeken en bewerken toe aan opslagdienst</title>
     <link>https://tweakers.net/nieuws/254232/dropbox-voegt-ai-tools-voor-zoeken-en-bewerken-toe-aan-opslagdienst.html</link>

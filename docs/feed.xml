@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:22:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 10:37:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Sony ziet verkoop PlayStation 5 teruglopen, gaat in volgende console investeren</title>
+    <link>https://tweakers.net/nieuws/254234/sony-ziet-verkoop-playstation-5-teruglopen-gaat-in-volgende-console-investeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254234</guid>
+    <pubDate>Fri, 06 Nov 2026 11:26:50 +0100</pubDate>
+    <description>Sony verkocht in het afgelopen kwartaal aanzienlijk minder PlayStation 5-consoles dan vorig jaar. Het aantal actieve gebruikers en de verkoop van games blijven wel groeien. Vanaf het volgende boekjaar gaat Sony 'investeren in het nieuwe platform'.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254234/sony-ziet-verkoop-playstation-5-teruglopen-gaat-in-volgende-console-investeren.html#reacties</comments>
+  </item>
   <item>
     <title>Preview - Motorola Signature 27 - Motorola trekt alles uit de kast</title>
     <link>https://tweakers.net/reviews/15570/motorola-signature-27-motorola-trekt-alles-uit-de-kast.html</link>

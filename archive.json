@@ -5176,6 +5176,28 @@
   "pubDate": "Fri, 06 Nov 2026 09:42:29 +0100",
   "title": "Gerucht: EA-kopers willen ook Unity overnemen voor 25 miljard dollar"
  },
+ "https://tweakers.net/nieuws/254240": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html#reacties",
+  "description": "OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. Alleen gebruikers van het Daybreak Red-programma hebben nu toegang tot het nieuwe model.",
+  "first": "Fri, 06 Nov 2026 12:23:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254240",
+  "link": "https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html",
+  "pubDate": "Fri, 06 Nov 2026 13:19:12 +0100",
+  "title": "OpenAI brengt GPT 6-Cyber uit, vindt 948 kwetsbaarheden in Linux"
+ },
+ "https://tweakers.net/nieuws/254246": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html#reacties",
+  "description": "Certificaatuitgever DigiCert maakte per ongeluk een intern systeem openbaar toegankelijk. Daardoor konden onbevoegden bij klantgegevens komen. Het zou voornamelijk gaan om zakelijke contactgegevens, maar in sommige gevallen ook om gevoelige data, zoals persoonsgegevens en kopieën van rijbewijzen en paspoorten.",
+  "first": "Fri, 06 Nov 2026 12:23:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254246",
+  "link": "https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html",
+  "pubDate": "Fri, 06 Nov 2026 13:14:35 +0100",
+  "title": "DigiCert laat klantdata uitlekken na per ongeluk openzetten intern systeem"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

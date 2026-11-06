@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:53:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 12:23:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI brengt GPT 6-Cyber uit, vindt 948 kwetsbaarheden in Linux</title>
+    <link>https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254240</guid>
+    <pubDate>Fri, 06 Nov 2026 13:19:12 +0100</pubDate>
+    <description>OpenAI brengt GPT 6-Cyber uit, een cybersecurityvariant van GPT 6-Astra. Gebruikers kunnen met het nieuwe model kwetsbaarheden in software vinden en patches ontwikkelen. Alleen gebruikers van het Daybreak Red-programma hebben nu toegang tot het nieuwe model.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254240/openai-brengt-gpt-6-cyber-uit-vindt-948-kwetsbaarheden-in-linux.html#reacties</comments>
+  </item>
+  <item>
+    <title>DigiCert laat klantdata uitlekken na per ongeluk openzetten intern systeem</title>
+    <link>https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254246</guid>
+    <pubDate>Fri, 06 Nov 2026 13:14:35 +0100</pubDate>
+    <description>Certificaatuitgever DigiCert maakte per ongeluk een intern systeem openbaar toegankelijk. Daardoor konden onbevoegden bij klantgegevens komen. Het zou voornamelijk gaan om zakelijke contactgegevens, maar in sommige gevallen ook om gevoelige data, zoals persoonsgegevens en kopieën van rijbewijzen en paspoorten.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254246/digicert-laat-klantdata-uitlekken-na-per-ongeluk-openzetten-intern-systeem.html#reacties</comments>
+  </item>
   <item>
     <title>Sony ziet verkoop PlayStation 5 teruglopen, gaat in volgende console investeren</title>
     <link>https://tweakers.net/nieuws/254234/sony-ziet-verkoop-playstation-5-teruglopen-gaat-in-volgende-console-investeren.html</link>

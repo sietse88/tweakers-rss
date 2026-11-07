@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 06:57:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 07:12:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/nieuws/253080/klm-stapt-over-op-starlink-voor-gratis-internetverbindingen-op-verre-vluchten.html#reacties</comments>
-  </item>
-  <item>
-    <title>Storing met DigiD-app op Android verhindert inloggen voor sommige gebruikers</title>
-    <link>https://tweakers.net/nieuws/253086/storing-met-digid-app-op-android-verhindert-inloggen-voor-sommige-gebruikers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253086</guid>
-    <pubDate>Thu, 08 Oct 2026 09:06:56 +0200</pubDate>
-    <description>De DigiD-app blijkt op Android bij sommige gebruikers niet te werken. De oorzaak is een browserupdate, bijvoorbeeld van Google Chrome of de Samsung Browser. DigiD bevestigt dit op zijn website en geeft tips om het probleem mogelijk op te lossen.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Overige software</category>
-    <comments>https://tweakers.net/nieuws/253086/storing-met-digid-app-op-android-verhindert-inloggen-voor-sommige-gebruikers.html#reacties</comments>
   </item>
 </channel>
 </rss>

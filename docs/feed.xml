@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 11:28:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 11:58:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
     <comments>https://tweakers.net/nieuws/253096/nederlands-om-had-geen-monitoring-van-kwetsbare-citrix-systemen-rond-hack-2025.html#reacties</comments>
-  </item>
-  <item>
-    <title>Proximus verhoogt snelheden van glasvezelabonnementen en maakt ze symmetrisch</title>
-    <link>https://tweakers.net/nieuws/253098/proximus-verhoogt-snelheden-van-glasvezelabonnementen-en-maakt-ze-symmetrisch.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253098</guid>
-    <pubDate>Thu, 08 Oct 2026 13:54:02 +0200</pubDate>
-    <description>Het Belgische Proximus verhoogt vanaf 1 november de internetsnelheden van een aantal van zijn glasvezelabonnementen. De download- en uploadsnelheden stijgen en worden symmetrisch. De aanpassing geldt voor zowel bestaande als nieuwe klanten.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253098/proximus-verhoogt-snelheden-van-glasvezelabonnementen-en-maakt-ze-symmetrisch.html#reacties</comments>
   </item>
 </channel>
 </rss>

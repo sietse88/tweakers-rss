@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 02:42:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 04:12:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Jolla Phone (2026) - Losbreken van big tech vraagt wat offers</title>
-    <link>https://tweakers.net/reviews/15182/jolla-phone-2026-losbreken-van-big-tech-vraagt-wat-offers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15182</guid>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
-    <description>De Finse Jolla Phone is door en door Europees en werkt zonder Android of iOS. Hoe goed is deze soevereine Europese smartphone?</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Review / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15182/jolla-phone-2026-losbreken-van-big-tech-vraagt-wat-offers.html#reacties</comments>
   </item>
 </channel>
 </rss>

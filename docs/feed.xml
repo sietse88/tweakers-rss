@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 09:58:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 10:43:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Reuters: Democraten VS willen AI met 'vloedgolf' aan wetten aan banden leggen</title>
+    <link>https://tweakers.net/nieuws/254276/reuters-democraten-vs-willen-ai-met-vloedgolf-aan-wetten-aan-banden-leggen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254276</guid>
+    <pubDate>Sat, 07 Nov 2026 11:38:40 +0100</pubDate>
+    <description>De Amerikaanse Democraten willen AI-bedrijven in de volgende Congrestermijn, die op 3 januari 2027 begint, aan banden leggen. Tot dusver was het Amerikaanse parlement in handen van de Republikeinen, die de toonaangevende techbedrijven juist de vrije loop lieten. Mogelijk kan president Donald Trump de nieuwe wetsvoorstellen wel blokkeren.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254276/reuters-democraten-vs-willen-ai-met-vloedgolf-aan-wetten-aan-banden-leggen.html#reacties</comments>
+  </item>
   <item>
     <title>Gameplatform GOG is 18 jaar: krijgt forumfunctie en wordt retro-uitgever</title>
     <link>https://tweakers.net/nieuws/254274/gameplatform-gog-is-18-jaar-krijgt-forumfunctie-en-wordt-retro-uitgever.html</link>

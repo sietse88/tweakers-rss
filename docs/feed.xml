@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 07:57:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:43:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5304,16 +5304,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253088/meta-koopt-419-patenten-voor-xr-vr-en-mr-van-sony.html#reacties</comments>
-  </item>
-  <item>
-    <title>KLM stapt over op Starlink voor gratis internetverbindingen op verre vluchten</title>
-    <link>https://tweakers.net/nieuws/253080/klm-stapt-over-op-starlink-voor-gratis-internetverbindingen-op-verre-vluchten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253080</guid>
-    <pubDate>Thu, 08 Oct 2026 10:31:56 +0200</pubDate>
-    <description>KLM gaat de satellietdienst van Starlink gebruiken om passagiers op intercontinentale vluchten snelle internetverbindingen te bieden. De luchtvaartmaatschappij voert dit gratis aanbod vanaf half 2027 geleidelijk in. Het geldt in alle reisklassen. KLM noemt nog geen internetsnelheden.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253080/klm-stapt-over-op-starlink-voor-gratis-internetverbindingen-op-verre-vluchten.html#reacties</comments>
   </item>
 </channel>
 </rss>

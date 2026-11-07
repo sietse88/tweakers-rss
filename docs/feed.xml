@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 10:43:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 11:28:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlands kabinet wil nationale dronedatabase om illegale vluchten te stoppen</title>
+    <link>https://tweakers.net/nieuws/254278/nederlands-kabinet-wil-nationale-dronedatabase-om-illegale-vluchten-te-stoppen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254278</guid>
+    <pubDate>Sat, 07 Nov 2026 12:15:20 +0100</pubDate>
+    <description>Het Nederlandse kabinet werkt aan een proef voor een nationale dronedatabase. Op die manier wil het ongeautoriseerde dronevluchten aanpakken. De database moet de dronevluchtinformatie van private databases en overheidsdatabases bundelen. Daarnaast komt er in de haven van Rotterdam een praktijkproef voor het opsporen van drones.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254278/nederlands-kabinet-wil-nationale-dronedatabase-om-illegale-vluchten-te-stoppen.html#reacties</comments>
+  </item>
   <item>
     <title>Reuters: Democraten VS willen AI met 'vloedgolf' aan wetten aan banden leggen</title>
     <link>https://tweakers.net/nieuws/254276/reuters-democraten-vs-willen-ai-met-vloedgolf-aan-wetten-aan-banden-leggen.html</link>

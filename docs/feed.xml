@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 04:12:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 05:12:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Benchmark - Welke hardware is het snelst voor lokale AI? Apple, Nvidia en AMD getest</title>
+    <link>https://tweakers.net/reviews/15458/welke-hardware-is-het-snelst-voor-lokale-ai-apple-nvidia-en-amd-getest.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15458</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Voor het draaien van lokale AI-modellen zoals Qwen 3.8 en GLM 5.3 komen steeds meer systemen met heel veel ram op de markt. Maar zijn ze ook een beetje snel?</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Benchmark / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/reviews/15458/welke-hardware-is-het-snelst-voor-lokale-ai-apple-nvidia-en-amd-getest.html#reacties</comments>
+  </item>
   <item>
     <title>Amerikaanse mediagigant Fox rondt miljardenovername van streamingreus Roku af</title>
     <link>https://tweakers.net/nieuws/254272/amerikaanse-mediagigant-fox-rondt-miljardenovername-van-streamingreus-roku-af.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 17:30:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 18:30:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5244,16 +5244,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Officesoftware en suites</category>
     <comments>https://tweakers.net/nieuws/253114/microsoft-365-verlaagt-gedeelde-opslag-van-1tb-per-persoon-naar-2tb-in-totaal.html#reacties</comments>
-  </item>
-  <item>
-    <title>Atari brengt remake van 8bit-thuiscomputer 800XL uit die werkt met cartridges</title>
-    <link>https://tweakers.net/nieuws/253112/atari-brengt-remake-van-8bit-thuiscomputer-800xl-uit-die-werkt-met-cartridges.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253112</guid>
-    <pubDate>Thu, 08 Oct 2026 20:16:18 +0200</pubDate>
-    <description>Atari en Plaion brengen een nieuwe versie van de 800XL uit, een van de eerste thuiscomputers van Atari. De remake heeft 25 ingebouwde games en moderne toevoegingen als HDMI, maar werkt ook met originele cartridges. De nieuwe 800XL kost inclusief verzendkosten 233,34 euro.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/253112/atari-brengt-remake-van-8bit-thuiscomputer-800xl-uit-die-werkt-met-cartridges.html#reacties</comments>
   </item>
 </channel>
 </rss>

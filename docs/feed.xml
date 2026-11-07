@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 14:15:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 14:45:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5284,16 +5284,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>AMD brengt upscalingtechniek FSR 4 dit jaar uit voor gamelaptops en -handhelds</title>
-    <link>https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253102</guid>
-    <pubDate>Thu, 08 Oct 2026 16:34:13 +0200</pubDate>
-    <description>AMD brengt voor het eind van het jaar een lichtere variant van FSR 4 uit die is bedoeld voor apu's. Daarmee kan de upscalingtechniek worden gebruikt voor gaminglaptops en -handhelds. Op dit moment werkt FSR 4 alleen op bepaalde Radeon-videokaarten.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html#reacties</comments>
   </item>
 </channel>
 </rss>

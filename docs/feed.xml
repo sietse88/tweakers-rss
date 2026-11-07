@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 13:13:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 14:15:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5294,26 +5294,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/253102/amd-brengt-upscalingtechniek-fsr-4-dit-jaar-uit-voor-gamelaptops-en-handhelds.html#reacties</comments>
-  </item>
-  <item>
-    <title>ACM stelt voor om stroomnettarief vanaf 2029 tijdens piekuren te verhogen</title>
-    <link>https://tweakers.net/nieuws/253104/acm-stelt-voor-om-stroomnettarief-vanaf-2029-tijdens-piekuren-te-verhogen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253104</guid>
-    <pubDate>Thu, 08 Oct 2026 15:41:13 +0200</pubDate>
-    <description>De ACM wil dat Nederlandse huishoudens vanaf 2029 een hoger nettarief betalen tijdens piekuren en een lager tarief tijdens daluren. Dat schrijft de toezichthouder in zijn voorstel voor een nieuwe nettariefstructuur voor netbeheerders.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253104/acm-stelt-voor-om-stroomnettarief-vanaf-2029-tijdens-piekuren-te-verhogen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nieuwe uitgelekte GTA VI-beelden tonen hoofdpersoon naakt</title>
-    <link>https://tweakers.net/nieuws/253100/nieuwe-uitgelekte-gta-vi-beelden-tonen-hoofdpersoon-naakt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253100</guid>
-    <pubDate>Thu, 08 Oct 2026 15:27:55 +0200</pubDate>
-    <description>CyberLeek heeft opnieuw vermoedelijke gameplaybeelden van Grand Theft Auto VI laten uitlekken. Donderdagmiddag verscheen er 25 minuten aan nieuwe gameplaybeelden en cutscenes van het komende spel. De game komt op 19 november uit.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253100/nieuwe-uitgelekte-gta-vi-beelden-tonen-hoofdpersoon-naakt.html#reacties</comments>
   </item>
 </channel>
 </rss>

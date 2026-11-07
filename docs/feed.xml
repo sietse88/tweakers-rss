@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 09:13:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:58:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5304,16 +5304,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/nieuws/253098/proximus-verhoogt-snelheden-van-glasvezelabonnementen-en-maakt-ze-symmetrisch.html#reacties</comments>
-  </item>
-  <item>
-    <title>Meta koopt 419 patenten voor XR, VR, en MR van Sony</title>
-    <link>https://tweakers.net/nieuws/253088/meta-koopt-419-patenten-voor-xr-vr-en-mr-van-sony.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253088</guid>
-    <pubDate>Thu, 08 Oct 2026 11:53:59 +0200</pubDate>
-    <description>Meta gaat 419 patenten van Sony overnemen, waaronder patenten op technologie voor extended reality (XR), virtual reality (VR) en mixed reality (MR). De twee sloten eind vorig jaar een overeenkomst. Dit jaar droeg Sony 43 Amerikaanse patenten over, meldt ZDNet Korea. Dit zou erop wijzen dat Sony zijn ambities voor XR-headsets inperkt.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253088/meta-koopt-419-patenten-voor-xr-vr-en-mr-van-sony.html#reacties</comments>
   </item>
 </channel>
 </rss>

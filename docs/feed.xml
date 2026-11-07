@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 08:43:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 09:13:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gameplatform GOG is 18 jaar: krijgt forumfunctie en wordt retro-uitgever</title>
+    <link>https://tweakers.net/nieuws/254274/gameplatform-gog-is-18-jaar-krijgt-forumfunctie-en-wordt-retro-uitgever.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254274</guid>
+    <pubDate>Sat, 07 Nov 2026 10:01:34 +0100</pubDate>
+    <description>Het Poolse gameplatform GOG bestaat deze week 18 jaar. In de eerste showcase van de digitale gamewinkel kondigt eigenaar Michał Kiciński verschillende nieuwe functies en ontwikkelingen aan, waaronder een sociale forumfunctie, een samenwerking met een retrogame-uitgever en een verbeterde Galaxy-launcher, die ook voor Linux uitkomt.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254274/gameplatform-gog-is-18-jaar-krijgt-forumfunctie-en-wordt-retro-uitgever.html#reacties</comments>
+  </item>
   <item>
     <title>Benchmark - Welke hardware is het snelst voor lokale AI? Apple, Nvidia en AMD getest</title>
     <link>https://tweakers.net/reviews/15458/welke-hardware-is-het-snelst-voor-lokale-ai-apple-nvidia-en-amd-getest.html</link>

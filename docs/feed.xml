@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 05:12:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 06:57:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Overige software</category>
     <comments>https://tweakers.net/nieuws/253086/storing-met-digid-app-op-android-verhindert-inloggen-voor-sommige-gebruikers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Programmeur van Apollo-maanlander overlijdt op 90-jarige leeftijd</title>
-    <link>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253084</guid>
-    <pubDate>Thu, 08 Oct 2026 08:45:21 +0200</pubDate>
-    <description>De Amerikaanse computerwetenschapper Margaret Hamilton overleed op 30 september op 90-jarige leeftijd. Zij was een softwarepionier die onder meer baanbrekend werk verrichtte voor de computersystemen waarmee de Apollo-ruimtevaartmissie de maan bereikte.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253084/programmeur-van-apollo-maanlander-overlijdt-op-90-jarige-leeftijd.html#reacties</comments>
   </item>
 </channel>
 </rss>

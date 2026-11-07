@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 11:58:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 12:13:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Canadezen willen gesloten gamestudio BioWare met officiële petitie redden</title>
+    <link>https://tweakers.net/nieuws/254280/canadezen-willen-gesloten-gamestudio-bioware-met-officiele-petitie-redden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254280</guid>
+    <pubDate>Sat, 07 Nov 2026 12:59:53 +0100</pubDate>
+    <description>Canadese inwoners proberen via een officiële petitie BioWare te redden. De Canadese gamestudio achter de Mass Effect-serie werd onlangs door eigenaar Electronic Arts gesloten. Met het huidige aantal handtekeningen is de Canadese overheid verplicht om te reageren op de petitie, maar het is onwaarschijnlijk dat de overheid daadwerkelijk helpt om de studio open te houden.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254280/canadezen-willen-gesloten-gamestudio-bioware-met-officiele-petitie-redden.html#reacties</comments>
+  </item>
   <item>
     <title>Nederlands kabinet wil nationale dronedatabase om illegale vluchten te stoppen</title>
     <link>https://tweakers.net/nieuws/254278/nederlands-kabinet-wil-nationale-dronedatabase-om-illegale-vluchten-te-stoppen.html</link>

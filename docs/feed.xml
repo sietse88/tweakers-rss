@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 18:30:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 19:00:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,16 +5234,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253118/playground-stelt-playstation-5-versie-van-forza-horizon-6-uit-tot-26-januari.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft 365 verlaagt gedeelde opslag van 1TB per persoon naar 2TB in totaal</title>
-    <link>https://tweakers.net/nieuws/253114/microsoft-365-verlaagt-gedeelde-opslag-van-1tb-per-persoon-naar-2tb-in-totaal.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253114</guid>
-    <pubDate>Thu, 08 Oct 2026 20:47:06 +0200</pubDate>
-    <description>Microsoft verlaagt de cloudopslag van gebruikers in een gezamenlijk Family- en Premium-abonnement. Eerst had ieder account 1TB opslag tot zijn beschikking, maar nu krijgen abonnees nog maar 2TB opslag in totaal.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Officesoftware en suites</category>
-    <comments>https://tweakers.net/nieuws/253114/microsoft-365-verlaagt-gedeelde-opslag-van-1tb-per-persoon-naar-2tb-in-totaal.html#reacties</comments>
   </item>
 </channel>
 </rss>

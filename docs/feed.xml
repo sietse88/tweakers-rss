@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 07 Nov 2026 14:45:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 15:30:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5274,16 +5274,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253108/microsoft-opent-xbox-studio-voor-videoproducties-en-pretparkattracties.html#reacties</comments>
-  </item>
-  <item>
-    <title>Laptops met Nvidia RTX Spark-processor kosten in Nederland minstens 2999 euro</title>
-    <link>https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253106</guid>
-    <pubDate>Thu, 08 Oct 2026 17:28:52 +0200</pubDate>
-    <description>Laptops met Nvidia RTX Spark-processors zijn in Nederland te koop vanaf 2999 euro. Dat blijkt uit listings van Megekko en Coolblue. De versies met het meeste geheugen en de krachtigste chip kosten meer dan 6000 euro. Ze worden later deze maand geleverd.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253106/laptops-met-nvidia-rtx-spark-processor-kosten-in-nederland-minstens-2999-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

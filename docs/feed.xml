@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 12:47:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 13:02:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5194,16 +5194,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Singleboardcomputers</category>
     <comments>https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Let's Encrypt-certificaten van 64 dagen zijn vanaf oktober te testen</title>
-    <link>https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253140</guid>
-    <pubDate>Fri, 09 Oct 2026 14:58:53 +0200</pubDate>
-    <description>Let's Encrypt begint volgende week met de eerste tests van SSL-certificaten die geen 90, maar 64 dagen geldig zijn. Site- en serverbeheerders kunnen vanaf 14 oktober proefdraaien met die korter geldende certificaten.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 13:47:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:02:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5174,16 +5174,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Firefly Studios' kasteelsim Stronghold 4 komt 7 december uit en breidt demo uit</title>
-    <link>https://tweakers.net/nieuws/253148/firefly-studios-kasteelsim-stronghold-4-komt-7-december-uit-en-breidt-demo-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253148</guid>
-    <pubDate>Fri, 09 Oct 2026 15:56:34 +0200</pubDate>
-    <description>Firefly Studios brengt kasteelsim Stronghold 4 op 7 december uit in early access. Het bedrijf heeft ook een nieuwe trailer uitgebracht met gameplaybeelden. De al bestaande demo wordt verder uitgebreid.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253148/firefly-studios-kasteelsim-stronghold-4-komt-7-december-uit-en-breidt-demo-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:02:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:17:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5124,16 +5124,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253160/fbi-arresteert-vermeend-sleutelfiguur-van-ransomwarebende-shinyhunters.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenAI's omzet ligt 20 miljard dollar lager dan voorspeld</title>
-    <link>https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253158</guid>
-    <pubDate>Fri, 09 Oct 2026 18:03:06 +0200</pubDate>
-    <description>OpenAI's omzet blijkt zo'n 20 miljard dollar lager te zijn dan het bedrijf eerder liet weten. OpenAI zou geen 70 miljard, maar 50 miljard dollar per jaar omzetten, blijkt uit cijfers die het bedrijf aan investeerders liet zien. Het verschil lijkt te zitten in de manier waarop OpenAI en concurrent Anthropic hun omzet berekenen. Dat illustreert deels hoe onduidelijk de verdienmodellen van AI-bedrijven zijn.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html#reacties</comments>
   </item>
 </channel>
 </rss>

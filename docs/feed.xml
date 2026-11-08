@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:33:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:48:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5114,16 +5114,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/253162/emulator-ps5sx2-kan-via-frame-generation-ps2-games-met-120fps-tonen-op-ps5-pro.html#reacties</comments>
-  </item>
-  <item>
-    <title>FBI arresteert vermeend sleutelfiguur van ransomwarebende Shinyhunters</title>
-    <link>https://tweakers.net/nieuws/253160/fbi-arresteert-vermeend-sleutelfiguur-van-ransomwarebende-shinyhunters.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253160</guid>
-    <pubDate>Fri, 09 Oct 2026 18:41:56 +0200</pubDate>
-    <description>De Amerikaanse FBI heeft een vermeend lid van de ransomwarebende Shinyhunters gearresteerd. De verdachte is een Canadees en zou een van de hoogstgeplaatste leden van de bende zijn. Shinyhunters hackte onlangs nog de FBI, maar de bende zit ook achter de hack op Odido.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253160/fbi-arresteert-vermeend-sleutelfiguur-van-ransomwarebende-shinyhunters.html#reacties</comments>
   </item>
 </channel>
 </rss>

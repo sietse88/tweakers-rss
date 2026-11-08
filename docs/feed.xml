@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 14:17:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:47:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5164,16 +5164,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html#reacties</comments>
-  </item>
-  <item>
-    <title>'OpenAI-medewerkers zijn ontslagen omdat ze veiligheid vooropstelden'</title>
-    <link>https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253134</guid>
-    <pubDate>Fri, 09 Oct 2026 16:34:38 +0200</pubDate>
-    <description>Drie voormalige veiligheidsmedewerkers bij OpenAI zeggen dat ze onder 'verdachte omstandigheden' zijn ontslagen door het bedrijf. De medewerkers stellen dat ze intern zorgen uitten over de veiligheid van AI-modellen. OpenAI zegt de werknemers te hebben ontslagen omdat ze onzorgvuldig omgingen met gevoelige informatie.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253134/openai-medewerkers-zijn-ontslagen-omdat-ze-veiligheid-vooropstelden.html#reacties</comments>
   </item>
 </channel>
 </rss>

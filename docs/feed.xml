@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 17:48:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 18:03:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5094,16 +5094,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253150/ai-bedrijven-bereiden-zich-voor-op-negatieve-publieke-opinie-na-groot-incident.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Apple verlaagt productie van iPhone 18 Pro-serie vanwege tegenvallende vraag'</title>
-    <link>https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253164</guid>
-    <pubDate>Fri, 09 Oct 2026 20:00:26 +0200</pubDate>
-    <description>Apple zou de productie van de iPhone 18 Pro en Pro Max terugschroeven vanwege een lage vraag. Apple zou zeker 15 tot 20 procent minder apparaten verkopen dan gedacht, zeggen bronnen tegen Nikkei. Dat heeft deels te maken met de hoge prijzen, maar ook met het feit dat het standaardmodel van de iPhone later uitkomt.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 13:02:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 13:47:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5184,16 +5184,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253148/firefly-studios-kasteelsim-stronghold-4-komt-7-december-uit-en-breidt-demo-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Raspberry Pi OS is voortaan ook op pc's en Macs te installeren</title>
-    <link>https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253142</guid>
-    <pubDate>Fri, 09 Oct 2026 15:37:00 +0200</pubDate>
-    <description>Raspberry Pi heeft zijn besturingssysteem voor de singleboardcomputer uitgebracht voor pc's en Mac-computers. Raspberry Pi OS is gebaseerd op Debian 13 Trixie en bevat in de desktopversie ook tools zoals Raspberry Pi Connect, waarmee gebruikers pc's op afstand kunnen besturen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Singleboardcomputers</category>
-    <comments>https://tweakers.net/nieuws/253142/raspberry-pi-os-is-voortaan-ook-op-pcs-en-macs-te-installeren.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 11:47:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 12:32:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,16 +5214,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html#reacties</comments>
-  </item>
-  <item>
-    <title>Wereldwijde pc-leveringen kelderen 20,1 procent, mede door geheugencrisis</title>
-    <link>https://tweakers.net/nieuws/253132/wereldwijde-pc-leveringen-kelderen-20-komma-1-procent-mede-door-geheugencrisis.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253132</guid>
-    <pubDate>Fri, 09 Oct 2026 14:27:00 +0200</pubDate>
-    <description>Het aantal wereldwijd geleverde pc's is in het derde kwartaal van 2026 ten opzichte van een jaar eerder met 20,1 procent gedaald tot 62,7 miljoen pc's. De daling komt onder andere door de aanhoudende werkgeheugencrisis, waardoor hardware veel duurder is dan voorheen. Het analistenbureau verwacht wel een tijdelijke prijsdaling.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/253132/wereldwijde-pc-leveringen-kelderen-20-komma-1-procent-mede-door-geheugencrisis.html#reacties</comments>
   </item>
 </channel>
 </rss>

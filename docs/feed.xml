@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 10:02:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 10:47:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
     <comments>https://tweakers.net/nieuws/253132/wereldwijde-pc-leveringen-kelderen-20-komma-1-procent-mede-door-geheugencrisis.html#reacties</comments>
-  </item>
-  <item>
-    <title>Citrix waarschuwt: patch direct vanwege kritieke kwetsbaarheid in NetScaler ADC</title>
-    <link>https://tweakers.net/nieuws/253136/citrix-waarschuwt-patch-direct-vanwege-kritieke-kwetsbaarheid-in-netscaler-adc.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253136</guid>
-    <pubDate>Fri, 09 Oct 2026 12:40:27 +0200</pubDate>
-    <description>Citrix meldt een nieuwe kritieke kwetsbaarheid in NetScaler. Hierdoor lopen gebruikers mogelijk risico op ddos-aanvallen en aanvallen waarbij op afstand code uit te voeren is. Het bedrijf roept gebruikers op om zo snel mogelijk de nieuwste versie van de webmanagement- en beveiligingstool te installeren. Voor zover bekend wordt de kwetsbaarheid niet actief uitgebuit.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253136/citrix-waarschuwt-patch-direct-vanwege-kritieke-kwetsbaarheid-in-netscaler-adc.html#reacties</comments>
   </item>
 </channel>
 </rss>

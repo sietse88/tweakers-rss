@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:48:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 17:48:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5104,16 +5104,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253164/apple-verlaagt-productie-van-iphone-18-pro-serie-vanwege-tegenvallende-vraag.html#reacties</comments>
-  </item>
-  <item>
-    <title>Emulator PS5SX2 kan via frame generation PS2-games met 120fps tonen op PS5 Pro</title>
-    <link>https://tweakers.net/nieuws/253162/emulator-ps5sx2-kan-via-frame-generation-ps2-games-met-120fps-tonen-op-ps5-pro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253162</guid>
-    <pubDate>Fri, 09 Oct 2026 19:43:14 +0200</pubDate>
-    <description>De makers van PlayStation 2-emulator PS5SX2 hebben versie 2.00 van hun software uitgebracht. Die heeft ingebouwde frame generation, zodat het mogelijk is PS2-games in 60 of zelfs 120fps te draaien op een gejailbreakte PlayStation 5. Ook kan de emulator via een aangepaste versie van de Vulkan-driver beelden renderen in een acht keer zo hoge resolutie.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/253162/emulator-ps5sx2-kan-via-frame-generation-ps2-games-met-120fps-tonen-op-ps5-pro.html#reacties</comments>
   </item>
 </channel>
 </rss>

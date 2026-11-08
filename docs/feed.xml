@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 04:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 05:01:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>How-to - Hdd's worden duurder, dus het loont weer om externe schijven te 'shucken'</title>
+    <link>https://tweakers.net/reviews/15550/hdds-worden-duurder-dus-het-loont-weer-om-externe-schijven-te-shucken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15550</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Harde schijven zijn flink duurder geworden … Met deze truc kun je meer dan 100 euro per schijf besparen!</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>How-to / Computers / Externe harde schijven</category>
+    <comments>https://tweakers.net/reviews/15550/hdds-worden-duurder-dus-het-loont-weer-om-externe-schijven-te-shucken.html#reacties</comments>
+  </item>
   <item>
     <title>Canadezen willen gesloten gamestudio BioWare met officiële petitie redden</title>
     <link>https://tweakers.net/nieuws/254280/canadezen-willen-gesloten-gamestudio-bioware-met-officiele-petitie-redden.html</link>

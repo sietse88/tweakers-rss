@@ -5042,6 +5042,17 @@
   "pubDate": "Sun, 08 Nov 2026 10:10:20 +0100",
   "title": "Nvidia-ceo moet zich verantwoorden voor 'liefdesrelatie' met Chinese spion"
  },
+ "https://tweakers.net/nieuws/254286": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Computers / Besturingssystemen",
+  "comments": "https://tweakers.net/nieuws/254286/microsoft-brengt-patch-uit-voor-rce-lek-in-paint-na-eerdere-mislukte-uitrol.html#reacties",
+  "description": "Microsoft heeft nu wél de nieuwe versie van Paint uitgebracht, die een remote-code-executionbug verhelpt. Het bedrijf zei dat het de update vorige maand al had uitgebracht, maar veel gebruikers kregen deze niet binnen.",
+  "first": "Sun, 08 Nov 2026 10:02:12 +0000",
+  "guid": "https://tweakers.net/nieuws/254286",
+  "link": "https://tweakers.net/nieuws/254286/microsoft-brengt-patch-uit-voor-rce-lek-in-paint-na-eerdere-mislukte-uitrol.html",
+  "pubDate": "Sun, 08 Nov 2026 11:00:07 +0100",
+  "title": "Microsoft brengt patch uit voor rce-lek in Paint na eerdere mislukte uitrol"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",

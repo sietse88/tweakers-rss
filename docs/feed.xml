@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 09:47:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 10:02:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft brengt patch uit voor rce-lek in Paint na eerdere mislukte uitrol</title>
+    <link>https://tweakers.net/nieuws/254286/microsoft-brengt-patch-uit-voor-rce-lek-in-paint-na-eerdere-mislukte-uitrol.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254286</guid>
+    <pubDate>Sun, 08 Nov 2026 11:00:07 +0100</pubDate>
+    <description>Microsoft heeft nu wél de nieuwe versie van Paint uitgebracht, die een remote-code-executionbug verhelpt. Het bedrijf zei dat het de update vorige maand al had uitgebracht, maar veel gebruikers kregen deze niet binnen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254286/microsoft-brengt-patch-uit-voor-rce-lek-in-paint-na-eerdere-mislukte-uitrol.html#reacties</comments>
+  </item>
   <item>
     <title>Nvidia-ceo moet zich verantwoorden voor 'liefdesrelatie' met Chinese spion</title>
     <link>https://tweakers.net/nieuws/254284/nvidia-ceo-moet-zich-verantwoorden-voor-liefdesrelatie-met-chinese-spion.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:02:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 15:47:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5134,16 +5134,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253158/openais-omzet-ligt-20-miljard-dollar-lager-dan-voorspeld.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft waarschuwt: oude Windows-versies kunnen toegang tot Update verliezen</title>
-    <link>https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253156</guid>
-    <pubDate>Fri, 09 Oct 2026 17:33:09 +0200</pubDate>
-    <description>Microsoft waarschuwt systeembeheerders dat oude Windows-versies vanaf volgend voorjaar mogelijk niet meer kunnen worden bijgewerkt, tenzij zij daarop actie ondernemen. Windows 11 24H2, Windows Server 2025 en oudere versies van Windows 10 en 11 kunnen door een verlopen certificaat geen verbinding meer maken met Windows Update. Voor versies die officieel nog worden ondersteund, moeten beheerders handmatig een recente update installeren.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html#reacties</comments>
   </item>
 </channel>
 </rss>

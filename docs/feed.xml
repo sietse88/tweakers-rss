@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 14:47:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 15:02:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5144,26 +5144,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/253156/microsoft-waarschuwt-oude-windows-versies-kunnen-toegang-tot-update-verliezen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gigabyte bevestigt dat Intel volgend jaar DDR4-compatibele cpu's uitbrengt</title>
-    <link>https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253146</guid>
-    <pubDate>Fri, 09 Oct 2026 17:00:06 +0200</pubDate>
-    <description>Intel lijkt inderdaad opnieuw oude processors uit te brengen. Gigabyte schrijft op zijn website dat moederborden een bios-update krijgen, zodat ze compatibel worden met 'komende LGA1700-processors'. Eerder gingen er al geruchten dat Intel nieuwe versies van Raptor Lake-socs zou willen uitbrengen vanwege de gestegen geheugenprijzen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/253146/gigabyte-bevestigt-dat-intel-volgend-jaar-ddr4-compatibele-cpus-uitbrengt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Battlefield 6 krijgt eind dit jaar langverwachte guilds en serverbrowser</title>
-    <link>https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253144</guid>
-    <pubDate>Fri, 09 Oct 2026 17:00:00 +0200</pubDate>
-    <description>DICE geeft Battlefield 6 in het komende contentseizoen verschillende langverwachte functies. Zo komen er in december een serverbrowser en guilds, die Platoons heten in de game. Daarnaast brengt de ontwikkelaar de komende maanden meermaals nieuwe maps, wapens en andere content uit.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253144/battlefield-6-krijgt-eind-dit-jaar-langverwachte-guilds-en-serverbrowser.html#reacties</comments>
   </item>
 </channel>
 </rss>

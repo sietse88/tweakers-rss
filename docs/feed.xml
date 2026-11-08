@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 08:47:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 09:17:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia-ceo moet zich verantwoorden voor 'liefdesrelatie' met Chinese spion</title>
+    <link>https://tweakers.net/nieuws/254284/nvidia-ceo-moet-zich-verantwoorden-voor-liefdesrelatie-met-chinese-spion.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254284</guid>
+    <pubDate>Sun, 08 Nov 2026 10:10:20 +0100</pubDate>
+    <description>Nvidia-ceo Jensen Huang moet zich verantwoorden tegenover het Amerikaanse Congres over zijn vermeende band met Alice Huang. Volgens de Financial Times had de directeur van Nvidia een liefdesrelatie met haar. Alice zou informatie hebben doorgespeeld aan de Chinese overheid.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254284/nvidia-ceo-moet-zich-verantwoorden-voor-liefdesrelatie-met-chinese-spion.html#reacties</comments>
+  </item>
   <item>
     <title>How-to - Hdd's worden duurder, dus het loont weer om externe schijven te 'shucken'</title>
     <link>https://tweakers.net/reviews/15550/hdds-worden-duurder-dus-het-loont-weer-om-externe-schijven-te-shucken.html</link>

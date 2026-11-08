@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 12:32:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 12:47:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253140/lets-encrypt-certificaten-van-64-dagen-zijn-vanaf-oktober-te-testen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Wees aardig tegen Claude: Anthropic scherpt regels tegen misbruik van AI aan</title>
-    <link>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253138</guid>
-    <pubDate>Fri, 09 Oct 2026 14:33:37 +0200</pubDate>
-    <description>Anthropic past het gebruikersbeleid voor AI-tool Claude aan. Hierdoor mogen bepaalde toepassingen waarmee gebruikers misleidende content maken niet meer. Ook treedt Anthropic op tegen gebruikers die zonder duidelijke reden zeer onaardig of wreed omgaan met Claude. Het nieuwe beleid geldt vanaf 12 november.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253138/wees-aardig-tegen-claude-anthropic-scherpt-regels-tegen-misbruik-van-ai-aan.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 08 Nov 2026 07:16:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 08:47:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Muizen</category>
     <comments>https://tweakers.net/nieuws/253130/razer-maakt-basilisk-v4-pro-muis-12-gram-lichter-en-geeft-hem-extra-knoppen.html#reacties</comments>
-  </item>
-  <item>
-    <title>SpaceX koopt licenties om telecomprovider te worden – update</title>
-    <link>https://tweakers.net/nieuws/253124/spacex-koopt-licenties-om-telecomprovider-te-worden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253124</guid>
-    <pubDate>Fri, 09 Oct 2026 10:39:10 +0200</pubDate>
-    <description>SpaceX heeft opnieuw spectrumlicenties gekocht om cellulair internet aan te bieden. Daarmee wil het bedrijf van Elon Musk zelf als mobiele telecomprovider opereren. Naar verluidt heeft het bedrijf 8 miljard dollar voor de licenties betaald.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253124/spacex-koopt-licenties-om-telecomprovider-te-worden.html#reacties</comments>
   </item>
 </channel>
 </rss>

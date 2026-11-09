@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 06:49:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 07:04:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
+    <title>Belgisch PC Helpforum blijft toch bestaan</title>
+    <link>https://tweakers.net/nieuws/254296/belgisch-pc-helpforum-blijft-toch-bestaan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254296</guid>
+    <pubDate>Mon, 09 Nov 2026 08:01:00 +0100</pubDate>
+    <description>Het Belgische PC Helpforum blijft tóch bestaan. Het leek er een paar weken op dat de kosten te hoog waren om het forum online te houden, maar er is nu een oplossing gevonden. Daardoor kan het blijven bestaan.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254296/belgisch-pc-helpforum-blijft-toch-bestaan.html#reacties</comments>
+  </item>
+  <item>
     <title>Nvidia start onderzoek ceo Jensen Huang vanwege contact met spion</title>
     <link>https://tweakers.net/nieuws/254294/nvidia-start-onderzoek-ceo-jensen-huang-vanwege-contact-met-spion.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254294</guid>
     <pubDate>Mon, 09 Nov 2026 07:30:44 +0100</pubDate>
-    <description>Het bestuur van Nvidia onderzoekt zijn eigen ceo Jensen Huang. Het bedrijf wil uitzoeken of Huang vertrouwelijke informatie heeft doorgespeeld aan een vermoedelijke spion. Met haar zou hij een liefdesrelatie hebben of hebben gehad.</description>
+    <description>Het bestuur van Nvidia onderzoekt zijn eigen ceo Jensen Huang. Het bedrijf wil uitzoeken of Huang vertrouwelijke informatie heeft doorgespeeld aan een vermoedelijke spion. Met haar heeft hij een liefdesrelatie gehad.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/254294/nvidia-start-onderzoek-ceo-jensen-huang-vanwege-contact-met-spion.html#reacties</comments>

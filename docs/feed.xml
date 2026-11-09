@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 17:39:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 18:24:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Japanse PlayStation Portal krijgt meer opslag 'voor nieuwe functies'</title>
+    <link>https://tweakers.net/nieuws/254334/japanse-playstation-portal-krijgt-meer-opslag-voor-nieuwe-functies.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254334</guid>
+    <pubDate>Mon, 09 Nov 2026 19:12:17 +0100</pubDate>
+    <description>Sony brengt op 10 december een nieuwe versie van de PlayStation Portal uit. Deze krijgt 'met het oog op toekomstige functies' meer opslag. Sony geeft hier geen details over en zegt ook niet of deze functies straks naar Europa komen. Het bedrijf benadrukt wel dat de handheld alleen in Japan werkt.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Gaming / Gamecontrollers</category>
+    <comments>https://tweakers.net/nieuws/254334/japanse-playstation-portal-krijgt-meer-opslag-voor-nieuwe-functies.html#reacties</comments>
+  </item>
   <item>
     <title>Google kondigt twee AI-chipsystemen aan met betere beveiliging of efficiëntie</title>
     <link>https://tweakers.net/nieuws/254330/google-kondigt-twee-ai-chipsystemen-aan-met-betere-beveiliging-of-efficientie.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 16:38:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 17:08:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Frankrijk: Iran zat achter hacks op koelsystemen van Franse supermarkten</title>
+    <link>https://tweakers.net/nieuws/254332/frankrijk-iran-zat-achter-hacks-op-koelsystemen-van-franse-supermarkten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254332</guid>
+    <pubDate>Mon, 09 Nov 2026 17:51:12 +0100</pubDate>
+    <description>De Franse overheid zegt dat Iraanse staatshackers achter de Franse supermarkthacks van oktober zaten. Bij de aanval verhoogden hackers de temperaturen van koelers en vriezers. Dit leidde tot lege schappen en financiële schade voor supermarkten. Het is niet bekend of Frankrijk een link ziet met de latere hacks op Europese supermarktketens.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254332/frankrijk-iran-zat-achter-hacks-op-koelsystemen-van-franse-supermarkten.html#reacties</comments>
+  </item>
   <item>
     <title>AMD erkent dat driverbug veel onnodige ssd-schrijfacties oplevert</title>
     <link>https://tweakers.net/nieuws/254324/amd-erkent-dat-driverbug-veel-onnodige-ssd-schrijfacties-oplevert.html</link>

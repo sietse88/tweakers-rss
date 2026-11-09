@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 17:08:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 17:39:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google kondigt twee AI-chipsystemen aan met betere beveiliging of efficiëntie</title>
+    <link>https://tweakers.net/nieuws/254330/google-kondigt-twee-ai-chipsystemen-aan-met-betere-beveiliging-of-efficientie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254330</guid>
+    <pubDate>Mon, 09 Nov 2026 18:26:07 +0100</pubDate>
+    <description>Google heeft twee varianten van zijn achtste generatie tpu-AI-chipsystemen aangekondigd. De 8tx-versie is beter beveiligd, terwijl de 8i Max minder ruimte inneemt en meer geheugenbandbreedte biedt. Het is voor het eerst dat Google vier tpu-versies in één jaar aankondigt.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Servers</category>
+    <comments>https://tweakers.net/nieuws/254330/google-kondigt-twee-ai-chipsystemen-aan-met-betere-beveiliging-of-efficientie.html#reacties</comments>
+  </item>
   <item>
     <title>Frankrijk: Iran zat achter hacks op koelsystemen van Franse supermarkten</title>
     <link>https://tweakers.net/nieuws/254332/frankrijk-iran-zat-achter-hacks-op-koelsystemen-van-franse-supermarkten.html</link>

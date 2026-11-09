@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 03:04:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 04:04:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5074,16 +5074,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Gears of War: E-Day - Knallen op niveau</title>
-    <link>https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15436</guid>
-    <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
-    <description>Gears of War E-Day vertelt het verhaal van hoe de oorlog tegen de Locust Horde ooit begon en dat brengt natuurlijk herkenbare en spectaculaire actie met zich mee.</description>
-    <dc:creator>Ron Vorstermans</dc:creator>
-    <category>Review / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15436/gears-of-war-e-day-knallen-op-niveau.html#reacties</comments>
   </item>
 </channel>
 </rss>

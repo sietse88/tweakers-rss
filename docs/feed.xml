@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 10:04:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 10:49:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Topgeschenken haalt websites offline vanwege 'incident'</title>
+    <link>https://tweakers.net/nieuws/254310/topgeschenken-haalt-websites-offline-vanwege-incident.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254310</guid>
+    <pubDate>Mon, 09 Nov 2026 11:37:10 +0100</pubDate>
+    <description>Topgeschenken, het bedrijf achter onder meer Topbloemen.nl, heeft alle websites offline gehaald na een 'cybersecurityincident'. Ook de klantenservice is onbereikbaar. Het bedrijf zegt dat het de lopende bestellingen wel kan leveren.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254310/topgeschenken-haalt-websites-offline-vanwege-incident.html#reacties</comments>
+  </item>
   <item>
     <title>Anthropic geeft drie miljard euro uit aan generatoren voor stroom in datacenters</title>
     <link>https://tweakers.net/nieuws/254308/anthropic-geeft-drie-miljard-euro-uit-aan-generatoren-voor-stroom-in-datacenters.html</link>

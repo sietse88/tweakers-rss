@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 11:34:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:35:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>NYT: Chinese bedrijven krijgen ondanks verbod via omwegen toch Nvidia H200-chips</title>
+    <link>https://tweakers.net/nieuws/254312/nyt-chinese-bedrijven-krijgen-ondanks-verbod-via-omwegen-toch-nvidia-h200-chips.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254312</guid>
+    <pubDate>Mon, 09 Nov 2026 13:19:59 +0100</pubDate>
+    <description>Chinese bedrijven die op een sanctielijst staan, kunnen via een omweg toch aan H200-chips van Nvidia komen. Uit onderzoek van The New York Times blijkt dat zij bijvoorbeeld het verbod omzeilen door de AI-chips via nepbedrijven in te kopen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254312/nyt-chinese-bedrijven-krijgen-ondanks-verbod-via-omwegen-toch-nvidia-h200-chips.html#reacties</comments>
+  </item>
   <item>
     <title>DroidDeck werkt nu ook op recente Samsung- en Pixel-telefoons</title>
     <link>https://tweakers.net/nieuws/254306/droiddeck-werkt-nu-ook-op-recente-samsung-en-pixel-telefoons.html</link>

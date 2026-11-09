@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 04:04:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 05:04:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Interview - Nederland streamt vaker illegaal: Stichting Brein over haar strijd tegen IPTV</title>
+    <link>https://tweakers.net/reviews/15574/nederland-streamt-vaker-illegaal-stichting-brein-over-haar-strijd-tegen-iptv.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15574</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Steeds meer Nederlanders maken gebruik van illegale IPTV-diensten. Stichting Brein probeert hiertegen op te treden, maar dat wil volgens de directeur nog niet echt lukken.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Interview / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15574/nederland-streamt-vaker-illegaal-stichting-brein-over-haar-strijd-tegen-iptv.html#reacties</comments>
+  </item>
   <item>
     <title>Odido-klanten in buitenland ervaren door storing problemen met roaming - Update</title>
     <link>https://tweakers.net/nieuws/254290/odido-klanten-in-buitenland-ervaren-door-storing-problemen-met-roaming.html</link>

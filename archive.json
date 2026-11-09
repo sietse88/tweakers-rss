@@ -21,16 +21,6 @@
   "pubDate": "Tue, 13 Oct 2026 14:45:28 +0200",
   "title": "Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model"
  },
- "https://tweakers.net/nieuws/253174": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / IT Pro / Internettoegang",
-  "comments": "https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html#reacties",
-  "description": "KPN heeft een storing opgelost waardoor meerdere Nederlandse ziekenhuizen slecht bereikbaar waren. De storing kwam door een probleem in het koelsysteem van een van de datacenters. De provider onderzoekt nog hoe het probleem kon ontstaan en welke maatregelen nodig zijn om herhaling te voorkomen.",
-  "guid": "https://tweakers.net/nieuws/253174",
-  "link": "https://tweakers.net/nieuws/253174/kpn-lost-storing-op-waardoor-nl-ziekenhuizen-slecht-bereikbaar-waren.html",
-  "pubDate": "Sat, 10 Oct 2026 10:53:39 +0200",
-  "title": "KPN lost storing op waardoor NL ziekenhuizen slecht bereikbaar waren - update 2"
- },
  "https://tweakers.net/nieuws/253178": {
   "author": "Jasper Bakker",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -4926,6 +4916,17 @@
   "link": "https://tweakers.net/nieuws/254296/belgisch-pc-helpforum-blijft-toch-bestaan.html",
   "pubDate": "Mon, 09 Nov 2026 08:01:00 +0100",
   "title": "Belgisch PC Helpforum blijft toch bestaan"
+ },
+ "https://tweakers.net/nieuws/254300": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254300/cadeaubonnendienst-bongo-is-slachtoffer-van-hack.html#reacties",
+  "description": "Cadeaubonnendienst Bongo meldt dat hij gehackt is. Het bedrijf, ook actief onder de naam Smartbox, heeft dat onder meer aan klanten laten weten. Er zouden geen gevoelige gegevens zijn buitgemaakt.",
+  "first": "Mon, 09 Nov 2026 09:04:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254300",
+  "link": "https://tweakers.net/nieuws/254300/cadeaubonnendienst-bongo-is-slachtoffer-van-hack.html",
+  "pubDate": "Mon, 09 Nov 2026 09:54:23 +0100",
+  "title": "Cadeaubonnendienst Bongo is slachtoffer van hack"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

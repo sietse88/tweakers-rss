@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 05:04:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 06:49:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia start onderzoek ceo Jensen Huang vanwege contact met spion</title>
+    <link>https://tweakers.net/nieuws/254294/nvidia-start-onderzoek-ceo-jensen-huang-vanwege-contact-met-spion.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254294</guid>
+    <pubDate>Mon, 09 Nov 2026 07:30:44 +0100</pubDate>
+    <description>Het bestuur van Nvidia onderzoekt zijn eigen ceo Jensen Huang. Het bedrijf wil uitzoeken of Huang vertrouwelijke informatie heeft doorgespeeld aan een vermoedelijke spion. Met haar zou hij een liefdesrelatie hebben of hebben gehad.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254294/nvidia-start-onderzoek-ceo-jensen-huang-vanwege-contact-met-spion.html#reacties</comments>
+  </item>
   <item>
     <title>Interview - Nederland streamt vaker illegaal: Stichting Brein over haar strijd tegen IPTV</title>
     <link>https://tweakers.net/reviews/15574/nederland-streamt-vaker-illegaal-stichting-brein-over-haar-strijd-tegen-iptv.html</link>

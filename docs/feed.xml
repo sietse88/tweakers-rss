@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 12:35:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:50:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -36,7 +36,7 @@
     <comments>https://tweakers.net/nieuws/254306/droiddeck-werkt-nu-ook-op-recente-samsung-en-pixel-telefoons.html#reacties</comments>
   </item>
   <item>
-    <title>Topgeschenken haalt websites offline vanwege 'incident'</title>
+    <title>Topgeschenken haalt websites offline vanwege 'incident' - update</title>
     <link>https://tweakers.net/nieuws/254310/topgeschenken-haalt-websites-offline-vanwege-incident.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254310</guid>
     <pubDate>Mon, 09 Nov 2026 11:37:10 +0100</pubDate>

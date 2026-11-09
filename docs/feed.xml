@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 07:04:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 07:19:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5094,16 +5094,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Laptops en systemen</category>
     <comments>https://tweakers.net/nieuws/253172/google-bevestigt-dat-googlebooks-zakelijk-niet-op-afstand-kunnen-worden-beheerd.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bestuurscrisis bij WordPress-bedrijf zet door: ook cfo is weg</title>
-    <link>https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253170</guid>
-    <pubDate>Sat, 10 Oct 2026 09:16:45 +0200</pubDate>
-    <description>Ook de nieuwe chief financial officer van Automattic is opgestapt. TechCrunch schrijft dat Jeremy Klaperman de functie al na een maand heeft verlaten. Dat gebeurde kort nadat het hele bestuur van het moederbedrijf van WordPress.com was opgestapt en daarmee een bestuurscrisis had veroorzaakt.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253170/bestuurscrisis-bij-wordpress-bedrijf-zet-door-ook-cfo-is-weg.html#reacties</comments>
   </item>
 </channel>
 </rss>

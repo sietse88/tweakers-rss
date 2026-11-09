@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 19:24:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 20:39:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>EU klaagt IBM, Atos en Leonardo aan om vertraagd grenssysteem</title>
+    <link>https://tweakers.net/nieuws/254336/eu-klaagt-ibm-atos-en-leonardo-aan-om-vertraagd-grenssysteem.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254336</guid>
+    <pubDate>Mon, 09 Nov 2026 21:21:16 +0100</pubDate>
+    <description>De Europese Unie heeft IBM en de twee Europese bedrijven Atos en Leonardo aangeklaagd. De drie bedrijven moesten in 2022 een nieuw grenssysteem invoeren om de vingerafdrukken en gezichtsscans van reizigers van buiten het Schengengebied te kunnen bewaren. Uiteindelijk werd het systeem pas dit jaar ingevoerd.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254336/eu-klaagt-ibm-atos-en-leonardo-aan-om-vertraagd-grenssysteem.html#reacties</comments>
+  </item>
   <item>
     <title>Enexis stuurt door storing geen meterstanden naar energieleveranciers</title>
     <link>https://tweakers.net/nieuws/254328/enexis-stuurt-door-storing-geen-meterstanden-naar-energieleveranciers.html</link>

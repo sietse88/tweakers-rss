@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 13:35:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 16:38:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>AMD erkent dat driverbug veel onnodige ssd-schrijfacties oplevert</title>
+    <link>https://tweakers.net/nieuws/254324/amd-erkent-dat-driverbug-veel-onnodige-ssd-schrijfacties-oplevert.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254324</guid>
+    <pubDate>Mon, 09 Nov 2026 17:00:52 +0100</pubDate>
+    <description>AMD bevestigt dat een bug in zijn drivers ervoor kan zorgen dat er veel onnodige schrijfacties op de ssd plaatsvinden. Dit kan de levensduur van de ssd verkorten. De bug zit al zeker een jaar in de driver en wordt deze maand opgelost.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254324/amd-erkent-dat-driverbug-veel-onnodige-ssd-schrijfacties-oplevert.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlandse kabinet wil snellere bouw grote accu’s om netcongestie te verlichten</title>
+    <link>https://tweakers.net/nieuws/254318/nederlandse-kabinet-wil-snellere-bouw-grote-accus-om-netcongestie-te-verlichten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254318</guid>
+    <pubDate>Mon, 09 Nov 2026 16:13:05 +0100</pubDate>
+    <description>Het Nederlandse kabinet, de energieopslagsector, netbeheerders en de Autoriteit Consument &amp; Markt delen plannen om langdurige energieopslag in grote accu's te stimuleren. Dit moet de netcongestie verhelpen en zou tot vier miljard euro aan investeringen in het stroomnet kunnen besparen. De partijen presenteren uiteenlopende actiepunten om dit mogelijk te maken.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254318/nederlandse-kabinet-wil-snellere-bouw-grote-accus-om-netcongestie-te-verlichten.html#reacties</comments>
+  </item>
+  <item>
+    <title>‘Marechausseemedewerker stal 6000 euro crypto met code uit politiesysteem’</title>
+    <link>https://tweakers.net/nieuws/254320/marechausseemedewerker-stal-6000-euro-crypto-met-code-uit-politiesysteem.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254320</guid>
+    <pubDate>Mon, 09 Nov 2026 15:50:36 +0100</pubDate>
+    <description>Een voormalig opsporingsambtenaar van de Koninklijke Marechaussee heeft volgens het OM ruim 6000 euro aan cryptovaluta gestolen van een Schiphol-reiziger. Dit was mogelijk doordat de herstelcode van de cryptowallet van het slachtoffer in de politiesystemen stond. Het OM eist zes maanden celstraf.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254320/marechausseemedewerker-stal-6000-euro-crypto-met-code-uit-politiesysteem.html#reacties</comments>
+  </item>
+  <item>
+    <title>EU praat met zes Balkanlanden over roaming zonder extra kosten</title>
+    <link>https://tweakers.net/nieuws/254316/eu-praat-met-zes-balkanlanden-over-roaming-zonder-extra-kosten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254316</guid>
+    <pubDate>Mon, 09 Nov 2026 15:04:00 +0100</pubDate>
+    <description>De Europese Commissie praat met zes Balkanlanden over 'roaming tegen thuistarief'. EU-inwoners kunnen daarbij naar de landen reizen en daar hun mobiele abonnement tegen dezelfde voorwaarden als in hun thuisland gebruiken. Roamen tegen thuistarief kan behalve in de EU ook in IJsland, Liechtenstein, Noorwegen, Moldavië en Oekraïne.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+    <comments>https://tweakers.net/nieuws/254316/eu-praat-met-zes-balkanlanden-over-roaming-zonder-extra-kosten.html#reacties</comments>
+  </item>
+  <item>
+    <title>Mensenrechtencollege is kritisch: Nederlandse overheid monitort demonstraties</title>
+    <link>https://tweakers.net/nieuws/254314/mensenrechtencollege-is-kritisch-nederlandse-overheid-monitort-demonstraties.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254314</guid>
+    <pubDate>Mon, 09 Nov 2026 14:38:54 +0100</pubDate>
+    <description>De Nederlandse overheid verzamelt volgens het College voor de Rechten van de Mens steeds meer informatie over demonstraties en demonstranten. Volgens de organisatie zet dit mensenrechten onder druk, omdat het mensen ervan kan weerhouden een demonstratie bij te wonen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/254314/mensenrechtencollege-is-kritisch-nederlandse-overheid-monitort-demonstraties.html#reacties</comments>
+  </item>
   <item>
     <title>NYT: Chinese bedrijven krijgen ondanks verbod via omwegen toch Nvidia H200-chips</title>
     <link>https://tweakers.net/nieuws/254312/nyt-chinese-bedrijven-krijgen-ondanks-verbod-via-omwegen-toch-nvidia-h200-chips.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 19:35:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 20:35:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Sony stopt met PlayStation Plus-app voor pc, geen streaming meer op pc</title>
+    <link>https://tweakers.net/nieuws/254376/sony-stopt-met-playstation-plus-app-voor-pc-geen-streaming-meer-op-pc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254376</guid>
+    <pubDate>Tue, 10 Nov 2026 21:24:41 +0100</pubDate>
+    <description>Sony stopt met het aanbieden van de PlayStation Plus-app voor de pc. Hierdoor is het vanaf 10 december niet meer mogelijk om PlayStation-games op de pc te spelen via de streamingdienst. Sony kadert zijn console-ecosysteem de laatste tijd steeds verder af.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254376/sony-stopt-met-playstation-plus-app-voor-pc-geen-streaming-meer-op-pc.html#reacties</comments>
+  </item>
   <item>
     <title>Google maakt Gemini 4 Carbon beschikbaar: betere begrenzing, maar ook duurder</title>
     <link>https://tweakers.net/nieuws/254374/google-maakt-gemini-4-carbon-beschikbaar-betere-begrenzing-maar-ook-duurder.html</link>

@@ -122,7 +122,7 @@ Valve gaat in de Steam Store de gemiddelde framerates van games weergeven. Daard
 
 ## Achtergrond - Vijf vragen over de affaire en spionagekwestie rond Nvidia-ceo Jensen Huang
 
-Nvidia-ceo Jensen Huang ligt onder vuur. Hij had een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?
+Nvidia-ceo Jensen Huang ligt onder vuur vanwege een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?
 
 [Lees het hele artikel](https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html)
 

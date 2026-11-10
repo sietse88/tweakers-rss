@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 16:35:13 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 16:50:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -70,7 +70,7 @@
     <link>https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html</link>
     <guid isPermaLink="false">https://tweakers.net/reviews/15586</guid>
     <pubDate>Tue, 10 Nov 2026 15:45:00 +0100</pubDate>
-    <description>Nvidia-ceo Jensen Huang ligt onder vuur. Hij had een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?</description>
+    <description>Nvidia-ceo Jensen Huang ligt onder vuur vanwege een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?</description>
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html#reacties</comments>

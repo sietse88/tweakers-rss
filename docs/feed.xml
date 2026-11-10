@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 09 Nov 2026 21:54:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 04:12:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,16 +5214,6 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Quicktest / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/reviews/15426/samsung-galaxy-s26-fe-prima-toestel-in-rampzalig-jaar.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - AV Access iDock B23 - Thuiswerken én gamen met één kvm-dock</title>
-    <link>https://tweakers.net/reviews/15358/av-access-idock-b23-thuiswerken-en-gamen-met-een-kvm-dock.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15358</guid>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
-    <description>Met één druk op de knop schakelen tussen je laptop en je game-pc? Dat kan met een kvm-dock zoals deze AV Access iDock B23.</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Review / Computers / Kvm-switches</category>
-    <comments>https://tweakers.net/reviews/15358/av-access-idock-b23-thuiswerken-en-gamen-met-een-kvm-dock.html#reacties</comments>
   </item>
 </channel>
 </rss>

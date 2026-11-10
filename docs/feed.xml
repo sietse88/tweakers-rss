@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 19:20:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 19:35:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google maakt Gemini 4 Carbon beschikbaar: betere begrenzing, maar ook duurder</title>
+    <link>https://tweakers.net/nieuws/254374/google-maakt-gemini-4-carbon-beschikbaar-betere-begrenzing-maar-ook-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254374</guid>
+    <pubDate>Tue, 10 Nov 2026 20:24:50 +0100</pubDate>
+    <description>Google maakt Gemini 4 Carbon beschikbaar voor abonnees. Het nieuwe model moet aanzienlijk betere begrenzingen hebben om misbruik te voorkomen. Vooralsnog kost het model net zoveel als de voorganger, maar na 30 november verdubbelen de prijzen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254374/google-maakt-gemini-4-carbon-beschikbaar-betere-begrenzing-maar-ook-duurder.html#reacties</comments>
+  </item>
   <item>
     <title>Medewerkers Logitech krijgen een vrije gamedag per jaar, net op tijd voor GTA VI</title>
     <link>https://tweakers.net/nieuws/254370/medewerkers-logitech-krijgen-een-vrije-gamedag-per-jaar-net-op-tijd-voor-gta-vi.html</link>

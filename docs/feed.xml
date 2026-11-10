@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 12:57:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 15:50:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>VanMoof voegt navigatie zonder tracking en advertenties toe aan app</title>
+    <link>https://tweakers.net/nieuws/254362/vanmoof-voegt-navigatie-zonder-tracking-en-advertenties-toe-aan-app.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254362</guid>
+    <pubDate>Tue, 10 Nov 2026 16:23:39 +0100</pubDate>
+    <description>Fietsenmerk VanMoof heeft Rider Nav toegevoegd, een navigatiefunctie in de app die werkt op basis van opensourcetool Magic Lane. De navigatiefunctie kan onder meer de accustatus van de fiets uitlezen en meewegen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Gadgets</category>
+    <comments>https://tweakers.net/nieuws/254362/vanmoof-voegt-navigatie-zonder-tracking-en-advertenties-toe-aan-app.html#reacties</comments>
+  </item>
+  <item>
+    <title>Orange België verhoogt prijzen van veel abonnementen</title>
+    <link>https://tweakers.net/nieuws/254360/orange-belgie-verhoogt-prijzen-van-veel-abonnementen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254360</guid>
+    <pubDate>Tue, 10 Nov 2026 15:59:50 +0100</pubDate>
+    <description>Orange België verhoogt de prijzen van veel abonnementen vanaf 10 januari volgend jaar. Het Child-abonnement wordt relatief veel duurder, maar krijgt ook een grotere databundel. Andere abonnementen stijgen met ongeveer 4 procent.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
+    <comments>https://tweakers.net/nieuws/254360/orange-belgie-verhoogt-prijzen-van-veel-abonnementen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Vijf vragen over de affaire en spionagekwestie rond Nvidia-ceo Jensen Huang</title>
+    <link>https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15586</guid>
+    <pubDate>Tue, 10 Nov 2026 15:45:00 +0100</pubDate>
+    <description>Nvidia-ceo Jensen Huang ligt onder vuur. Hij had een buitenechtelijke relatie met een vermeende Chinese spion. Wat weten we inmiddels over deze affaire?</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/reviews/15586/vijf-vragen-over-de-affaire-en-spionagekwestie-rond-nvidia-ceo-jensen-huang.html#reacties</comments>
+  </item>
+  <item>
+    <title>Steam Store toont gemiddelde framerates van games, eerst voor Steam Deck</title>
+    <link>https://tweakers.net/nieuws/254348/steam-store-toont-gemiddelde-framerates-van-games-eerst-voor-steam-deck.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254348</guid>
+    <pubDate>Tue, 10 Nov 2026 14:56:12 +0100</pubDate>
+    <description>Valve gaat in de Steam Store de gemiddelde framerates van games weergeven. Daardoor krijgen gamers een beeld uit de praktijk van hoe een game presteert. Deze telemetriedata verschijnt eerst voor gebruikers met een Steam Deck. Later wil Valve die gegevens aan alle gebruikers van zijn gamewinkel tonen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254348/steam-store-toont-gemiddelde-framerates-van-games-eerst-voor-steam-deck.html#reacties</comments>
+  </item>
+  <item>
+    <title>DPG Media test Nederlands AI-model GPT-NL voor nieuwskoppen en tekstcontrole</title>
+    <link>https://tweakers.net/nieuws/254356/dpg-media-test-nederlands-ai-model-gpt-nl-voor-nieuwskoppen-en-tekstcontrole.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254356</guid>
+    <pubDate>Tue, 10 Nov 2026 14:21:37 +0100</pubDate>
+    <description>Het Belgische mediabedrijf DPG Media test het Nederlandse AI-model GPT-NL. Het model moet inspiratie bieden voor koppen en teksten nakijken op onder meer zinsbouw, zo laat het bedrijf weten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254356/dpg-media-test-nederlands-ai-model-gpt-nl-voor-nieuwskoppen-en-tekstcontrole.html#reacties</comments>
+  </item>
   <item>
     <title>Samsung zet nieuwe AI-functies vermoedelijk achter betaalmuur</title>
     <link>https://tweakers.net/nieuws/254350/samsung-zet-nieuwe-ai-functies-vermoedelijk-achter-betaalmuur.html</link>

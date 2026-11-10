@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 09:12:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 10:12:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5204,16 +5204,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253186/nvidia-zou-rtx-5090-schrappen-om-gb202-chip-alleen-voor-rtx-pro-en-ai-te-bieden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Global Foundries wil in Duitse fabriek chips met 7nm-prestaties maken voor AI</title>
-    <link>https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253184</guid>
-    <pubDate>Sun, 11 Oct 2026 12:04:20 +0200</pubDate>
-    <description>Global Foundries' uitbreiding van zijn chipfabriek in Dresden bereikt het hoogste punt van de bouw en kondigt de volgende generatie aan van zijn technologie voor geavanceerde chipproductie. De FDX Fusion-technologie moet energiezuinige en krachtige chips maken op niveau van 7 nanometer.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html#reacties</comments>
   </item>
 </channel>
 </rss>

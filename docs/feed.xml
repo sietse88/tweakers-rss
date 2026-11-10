@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 04:12:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 05:13:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Ubuntu 26.10 Stonking Stingray - Myna dicteert Ubuntu's nieuwe koers</title>
+    <link>https://tweakers.net/reviews/15494/ubuntu-2610-stonking-stingray-myna-dicteert-ubuntus-nieuwe-koers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15494</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Ubuntu 26.10 is uit. Deze tussentijdse release bevat vooral kleine wijzigingen, met als hoogtepunt dicteerfunctie Myna op basis van lokale llm's.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Review / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/reviews/15494/ubuntu-2610-stonking-stingray-myna-dicteert-ubuntus-nieuwe-koers.html#reacties</comments>
+  </item>
   <item>
     <title>EU klaagt IBM, Atos en Leonardo aan om vertraagd grenssysteem</title>
     <link>https://tweakers.net/nieuws/254336/eu-klaagt-ibm-atos-en-leonardo-aan-om-vertraagd-grenssysteem.html</link>

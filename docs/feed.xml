@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 16:50:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:05:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>AMD zet AI in om serverram deels te vervangen door goedkoper flashgeheugen</title>
+    <link>https://tweakers.net/nieuws/254226/amd-zet-ai-in-om-serverram-deels-te-vervangen-door-goedkoper-flashgeheugen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254226</guid>
+    <pubDate>Tue, 10 Nov 2026 18:00:00 +0100</pubDate>
+    <description>AMD wil het werkgeheugen van servers voor een deel gaan vervangen door goedkoper flashgeheugen. Dat zei het bedrijf tijdens een presentatie in Las Vegas. Door de gestegen geheugenprijzen maakt ram inmiddels driekwart van de kostprijs van een server uit. De nieuwe techniek moet dat terugdringen.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254226/amd-zet-ai-in-om-serverram-deels-te-vervangen-door-goedkoper-flashgeheugen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Preview - AMD Zen 6-processors - Eindelijk meer cores per chiplet</title>
+    <link>https://tweakers.net/reviews/15572/amd-zen-6-processors-eindelijk-meer-cores-per-chiplet.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15572</guid>
+    <pubDate>Tue, 10 Nov 2026 18:00:00 +0100</pubDate>
+    <description>AMD gaat met zijn nieuwe Zen 6-architectuur de grootste stap in jaren zetten. De cores worden niet alleen sneller, maar ook de aantallen gaan omhoog.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Preview / Computers / Processors</category>
+    <comments>https://tweakers.net/reviews/15572/amd-zen-6-processors-eindelijk-meer-cores-per-chiplet.html#reacties</comments>
+  </item>
   <item>
     <title>Rockstar mikt met GTA VI op 30fps op consoles, alleen PS5 Pro krijgt raytracing</title>
     <link>https://tweakers.net/nieuws/254366/rockstar-mikt-met-gta-vi-op-30fps-op-consoles-alleen-ps5-pro-krijgt-raytracing.html</link>

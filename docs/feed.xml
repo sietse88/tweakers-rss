@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 16:05:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 16:35:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rockstar mikt met GTA VI op 30fps op consoles, alleen PS5 Pro krijgt raytracing</title>
+    <link>https://tweakers.net/nieuws/254366/rockstar-mikt-met-gta-vi-op-30fps-op-consoles-alleen-ps5-pro-krijgt-raytracing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254366</guid>
+    <pubDate>Tue, 10 Nov 2026 17:29:05 +0100</pubDate>
+    <description>Rockstar Games heeft de consoleversie van GTA VI ontworpen om op 30 frames per seconde te draaien. Rockstar noemt 30fps als doel. Het is niet duidelijk of de framerate daadwerkelijk op 30fps is begrensd. Alleen de PlayStation 5 Pro-versie krijgt daarnaast enkele exclusieve grafische functies, zoals PlayStation Spectral Super Resolution-upscaling en raytracing van schaduwen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254366/rockstar-mikt-met-gta-vi-op-30fps-op-consoles-alleen-ps5-pro-krijgt-raytracing.html#reacties</comments>
+  </item>
   <item>
     <title>NZXT voorziet H5- en H7-behuizingen van gebogen glas vanaf 89,90 euro</title>
     <link>https://tweakers.net/nieuws/254354/nzxt-voorziet-h5-en-h7-behuizingen-van-gebogen-glas-vanaf-89-komma-90-euro.html</link>

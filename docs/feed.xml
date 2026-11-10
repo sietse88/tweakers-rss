@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 11:42:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 12:42:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Roblox krijgt Nederlandse realtimevertalingen en scheldwoordfilters in chat</title>
+    <link>https://tweakers.net/nieuws/254352/roblox-krijgt-nederlandse-realtimevertalingen-en-scheldwoordfilters-in-chat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254352</guid>
+    <pubDate>Tue, 10 Nov 2026 13:26:39 +0100</pubDate>
+    <description>Roblox krijgt vanaf dinsdag voor de Nederlandse taal realtimevertalingen en filters voor scheldwoorden. Ook ouderlijk toezicht en voorwaarden zoals het privacybeleid zijn nu in het Nederlands. Hetzelfde geldt voor ontwikkeltool Roblox Studio.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254352/roblox-krijgt-nederlandse-realtimevertalingen-en-scheldwoordfilters-in-chat.html#reacties</comments>
+  </item>
   <item>
     <title>Beveiligingsbedrijf N-able haalt cloud offline om zerodays en waarschuwt klanten</title>
     <link>https://tweakers.net/nieuws/254342/beveiligingsbedrijf-n-able-haalt-cloud-offline-om-zerodays-en-waarschuwt-klanten.html</link>

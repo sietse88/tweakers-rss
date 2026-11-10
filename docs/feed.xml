@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:12:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 10:57:27 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Growatt: gebruik AURA 5000-thuisbatterij niet omdat aansluitingen kunnen smelten</title>
+    <link>https://tweakers.net/nieuws/254322/growatt-gebruik-aura-5000-thuisbatterij-niet-omdat-aansluitingen-kunnen-smelten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254322</guid>
+    <pubDate>Tue, 10 Nov 2026 11:41:39 +0100</pubDate>
+    <description>Growatt zegt dat klanten met een AURA 5000 de plug-inthuisbatterij voorlopig niet moeten gebruiken. Volgens het bedrijf kunnen de wisselstroomaansluitingen oververhit raken en gedeeltelijk smelten. Het bedrijf spreekt van een 'beperkt aantal gevallen'. Growatt verwacht uiterlijk 13 november meer te weten over de oorzaak en de vervolgstappen.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/nieuws/254322/growatt-gebruik-aura-5000-thuisbatterij-niet-omdat-aansluitingen-kunnen-smelten.html#reacties</comments>
+  </item>
   <item>
     <title>Apple rekent 50 dollar voor extra AI-gebruik in Logic Pro, meer apps volgen</title>
     <link>https://tweakers.net/nieuws/254346/apple-rekent-50-dollar-voor-extra-ai-gebruik-in-logic-pro-meer-apps-volgen.html</link>

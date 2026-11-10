@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 08:42:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:12:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple rekent 50 dollar voor extra AI-gebruik in Logic Pro, meer apps volgen</title>
+    <link>https://tweakers.net/nieuws/254346/apple-rekent-50-dollar-voor-extra-ai-gebruik-in-logic-pro-meer-apps-volgen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254346</guid>
+    <pubDate>Tue, 10 Nov 2026 10:00:43 +0100</pubDate>
+    <description>Apple introduceert de optie om te betalen voor extra gebruik van de AI-mogelijkheden in zijn software. Het eerste zogeheten Intelligence Usage Pack is voor muziekproductieapp Logic Pro en kost 50 dollar. Dit aanbod geldt nog niet in Nederland en België. Tot op heden waren AI-functies van Apple gratis beschikbaar voor gebruikers van zijn software en hardware.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254346/apple-rekent-50-dollar-voor-extra-ai-gebruik-in-logic-pro-meer-apps-volgen.html#reacties</comments>
+  </item>
   <item>
     <title>GTA VI neemt op XBOX geen 212 maar 225GB opslagruimte in beslag</title>
     <link>https://tweakers.net/nieuws/254344/gta-vi-neemt-op-xbox-geen-212-maar-225gb-opslagruimte-in-beslag.html</link>
@@ -5204,16 +5214,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253184/global-foundries-wil-in-duitse-fabriek-chips-met-7nm-prestaties-maken-voor-ai.html#reacties</comments>
-  </item>
-  <item>
-    <title>GTA VI-leaker dreigt build van game vrij te geven</title>
-    <link>https://tweakers.net/nieuws/253180/gta-vi-leaker-dreigt-build-van-game-vrij-te-geven.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253180</guid>
-    <pubDate>Sun, 11 Oct 2026 11:05:41 +0200</pubDate>
-    <description>GTA VI-leaker Cyberleek dreigt een build van de langverwachte game vrij te geven. Hij claimt de gameplaybeelden te lekken uit protest tegen het feit dat GTA-maker Rockstar de game niet op fysieke media uitbrengt. Cyberleek ondermijnt die geclaimde reden door een eigen memecoin aan te prijzen.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / E-commerce</category>
-    <comments>https://tweakers.net/nieuws/253180/gta-vi-leaker-dreigt-build-van-game-vrij-te-geven.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:43:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 07:42:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>‘Onderzoek VS naar AI-chipsmokkel Megaspeed ging op pauze na mail Nvidia-jurist’</title>
+    <link>https://tweakers.net/nieuws/254338/onderzoek-vs-naar-ai-chipsmokkel-megaspeed-ging-op-pauze-na-mail-nvidia-jurist.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254338</guid>
+    <pubDate>Tue, 10 Nov 2026 08:20:46 +0100</pubDate>
+    <description>Het Amerikaanse ministerie van Handel zette volgens The New York Times een al maanden lopend smokkelonderzoek naar Nvidia-klant Megaspeed stop. Dit gebeurde nadat de hoofdjurist van Nvidia direct contact opnam. Op verzoek van het ministerie van Justitie werd het onderzoek daarna stilgelegd.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254338/onderzoek-vs-naar-ai-chipsmokkel-megaspeed-ging-op-pauze-na-mail-nvidia-jurist.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Ubuntu 26.10 Stonking Stingray - Myna dicteert Ubuntu's nieuwe koers</title>
     <link>https://tweakers.net/reviews/15494/ubuntu-2610-stonking-stingray-myna-dicteert-ubuntus-nieuwe-koers.html</link>
@@ -5204,26 +5214,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253182/tui-onderzoekt-datalek-waarbij-mogelijk-reisinformatie-is-gestolen.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenClaw claimt nieuw topleveldomein .claw voor internetadressen bij ICANN</title>
-    <link>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253178</guid>
-    <pubDate>Sun, 11 Oct 2026 09:35:09 +0200</pubDate>
-    <description>De OpenClaw Foundation wil de eigenaar worden van het nieuwe topleveldomein .claw in de uitbreiding van internetadresnamen die beheerorganisatie ICANN doorvoert. De stichting achter de lokaal draaiende AI-assistent is de enige partij die aanspraak maakt op .claw. De ICANN-procedure loopt tot in 2027.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253178/openclaw-claimt-nieuw-topleveldomein-claw-voor-internetadressen-bij-icann.html#reacties</comments>
-  </item>
-  <item>
-    <title>Quicktest - Samsung Galaxy S26 FE - Prima toestel in rampzalig jaar</title>
-    <link>https://tweakers.net/reviews/15426/samsung-galaxy-s26-fe-prima-toestel-in-rampzalig-jaar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15426</guid>
-    <pubDate>Sun, 11 Oct 2026 09:00:00 +0200</pubDate>
-    <description>Samsung brengt met de S26 FE zijn nieuwste subtopmodel op de markt. Deze is fors goedkoper dan de topmodellen, maar biedt deels dezelfde ervaring.</description>
-    <dc:creator>Dennis de Vries</dc:creator>
-    <category>Quicktest / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15426/samsung-galaxy-s26-fe-prima-toestel-in-rampzalig-jaar.html#reacties</comments>
   </item>
 </channel>
 </rss>

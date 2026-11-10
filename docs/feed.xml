@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 11:12:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 11:42:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Beveiligingsbedrijf N-able haalt cloud offline om zerodays en waarschuwt klanten</title>
+    <link>https://tweakers.net/nieuws/254342/beveiligingsbedrijf-n-able-haalt-cloud-offline-om-zerodays-en-waarschuwt-klanten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254342</guid>
+    <pubDate>Tue, 10 Nov 2026 12:40:05 +0100</pubDate>
+    <description>N-able heeft zijn cloudplatform offline gehaald en waarschuwt klanten die zijn software zelf draaien dat ze hun servers moeten uitschakelen. Dit nadat er 33 beveiligingsgaten bekend werden, inclusief zerodays waarmee aanvallers installaties van N-able kunnen overnemen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254342/beveiligingsbedrijf-n-able-haalt-cloud-offline-om-zerodays-en-waarschuwt-klanten.html#reacties</comments>
+  </item>
   <item>
     <title>Growatt: gebruik AURA 5000-thuisbatterij niet omdat aansluitingen kunnen smelten</title>
     <link>https://tweakers.net/nieuws/254322/growatt-gebruik-aura-5000-thuisbatterij-niet-omdat-aansluitingen-kunnen-smelten.html</link>

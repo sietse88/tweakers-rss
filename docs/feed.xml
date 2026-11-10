@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 10 Nov 2026 07:42:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 07:57:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GTA VI neemt op XBOX geen 212 maar 225GB opslagruimte in beslag</title>
+    <link>https://tweakers.net/nieuws/254344/gta-vi-neemt-op-xbox-geen-212-maar-225gb-opslagruimte-in-beslag.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254344</guid>
+    <pubDate>Tue, 10 Nov 2026 08:50:42 +0100</pubDate>
+    <description>Nu de preloads van GTA VI zijn begonnen, blijkt dat de installatiegrootte van de langverwachte game op XBOX-consoles nog wat groter is. De download van net geen 210GB geeft op de PlayStation 5 een installatie van 212GB, maar op de XBOX Series X en S gebruikt GTA VI ruim 225GB.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254344/gta-vi-neemt-op-xbox-geen-212-maar-225gb-opslagruimte-in-beslag.html#reacties</comments>
+  </item>
   <item>
     <title>‘Onderzoek VS naar AI-chipsmokkel Megaspeed ging op pauze na mail Nvidia-jurist’</title>
     <link>https://tweakers.net/nieuws/254338/onderzoek-vs-naar-ai-chipsmokkel-megaspeed-ging-op-pauze-na-mail-nvidia-jurist.html</link>

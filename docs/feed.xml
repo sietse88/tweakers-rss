@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 06:02:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 06:47:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Wetenschap</category>
     <comments>https://tweakers.net/nieuws/253192/microsoft-ceo-nadella-pleit-voor-noodrem-op-ai-modellen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hacker zegt met wachtwoord 123456 Deens persoonsregister te zijn binnengedrongen</title>
-    <link>https://tweakers.net/nieuws/253188/hacker-zegt-met-wachtwoord-123456-deens-persoonsregister-te-zijn-binnengedrongen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253188</guid>
-    <pubDate>Mon, 12 Oct 2026 08:43:28 +0200</pubDate>
-    <description>De cybercrimineel die gegevens van 8,8 miljoen Denen buitmaakte, kon via een beheerdersaccount binnendringen in het persoonsregister. Dat stelt de Deense krant Politiken op basis van claims van de verantwoordelijke hacker. De aanvaller claimt dat dit account '123456' als wachtwoord gebruikte.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253188/hacker-zegt-met-wachtwoord-123456-deens-persoonsregister-te-zijn-binnengedrongen.html#reacties</comments>
   </item>
 </channel>
 </rss>

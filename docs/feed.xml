@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:20:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:35:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Waarom Switch 2-games zo snel op pc konden draaien</title>
+    <link>https://tweakers.net/reviews/15588/waarom-switch-2-games-zo-snel-op-pc-konden-draaien.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15588</guid>
+    <pubDate>Wed, 11 Nov 2026 10:30:00 +0100</pubDate>
+    <description>In een paar weken tijd is het hackers gelukt om de Switch 2 te kraken en games op de pc speelbaar te maken. Hoe deden ze dat en wat zijn de gevolgen voor Nintendo?</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / Gaming / Consoles</category>
+    <comments>https://tweakers.net/reviews/15588/waarom-switch-2-games-zo-snel-op-pc-konden-draaien.html#reacties</comments>
+  </item>
   <item>
     <title>Reddit Reviews moet zoeken naar productervaringen makkelijker maken</title>
     <link>https://tweakers.net/nieuws/254384/reddit-reviews-moet-zoeken-naar-productervaringen-makkelijker-maken.html</link>

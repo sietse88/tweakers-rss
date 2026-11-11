@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 18:25:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:10:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,24 @@
     <height>192</height>
   </image>
   <item>
-    <title>Offline gehaalde Topgeschenken-sites komen deels weer online na hack</title>
-    <link>https://tweakers.net/nieuws/254424/offline-gehaalde-topgeschenken-sites-komen-deels-weer-online-na-hack.html</link>
+    <title>Hackers stelen bsn's en financiële details bij beleggingssite Lynx</title>
+    <link>https://tweakers.net/nieuws/254426/hackers-stelen-bsns-en-financiele-details-bij-beleggingssite-lynx.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254426</guid>
+    <pubDate>Wed, 11 Nov 2026 19:56:30 +0100</pubDate>
+    <description>Gebruikers van beleggingssite Lynx zijn slachtoffer van een hackaanval waarbij uitgebreide persoons- en financiële gegevens zijn gestolen. Naast namen, adressen en telefoonnummers gaat het ook om de waarde van beleggingsportefeuilles, werkgeversnamen, nummers van identiteitsbewijzen en bsn's.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254426/hackers-stelen-bsns-en-financiele-details-bij-beleggingssite-lynx.html#reacties</comments>
+  </item>
+  <item>
+    <title>Na hack offline gehaalde Topgeschenken-sites komen deels weer online</title>
+    <link>https://tweakers.net/nieuws/254424/na-hack-offline-gehaalde-topgeschenken-sites-komen-deels-weer-online.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254424</guid>
     <pubDate>Wed, 11 Nov 2026 19:06:52 +0100</pubDate>
     <description>De na een hack offline gehaalde winkelsites van Topgeschenken, waaronder Topbloemen.nl, zijn weer online, maar nog niet volledig hersteld. Wachtwoorden zijn uit voorzorg gereset. Het is nog niet duidelijk welke klanten en organisaties zijn geraakt door de hack waarbij persoonsgegevens zijn gestolen.</description>
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / E-commerce</category>
-    <comments>https://tweakers.net/nieuws/254424/offline-gehaalde-topgeschenken-sites-komen-deels-weer-online-na-hack.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254424/na-hack-offline-gehaalde-topgeschenken-sites-komen-deels-weer-online.html#reacties</comments>
   </item>
   <item>
     <title>Nederlandse onderzoekers waarschuwen voor gaten in bijgewerkte koelsystemen</title>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 16:25:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 16:40:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Gerucht: Nvidia stelt 24GB-variant van RTX 5080 voor onbepaalde tijd uit</title>
+    <link>https://tweakers.net/nieuws/254418/gerucht-nvidia-stelt-24gb-variant-van-rtx-5080-voor-onbepaalde-tijd-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254418</guid>
+    <pubDate>Wed, 11 Nov 2026 17:25:44 +0100</pubDate>
+    <description>Nvidia zou de release van een 24GB-uitvoering van zijn RTX 5080-videokaart alsnog schrappen. Dat zou komen door de hoge kosten van 3GB-GDDR7-chips, waardoor een 24GB-model te duur zou zijn. De 16GB-uitvoering die Nvidia zou uitfaseren, lijkt toch te blijven.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254418/gerucht-nvidia-stelt-24gb-variant-van-rtx-5080-voor-onbepaalde-tijd-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Modder brengt tool uit om ssd-bug in AMD-drivers op te lossen</title>
     <link>https://tweakers.net/nieuws/254408/modder-brengt-tool-uit-om-ssd-bug-in-amd-drivers-op-te-lossen.html</link>

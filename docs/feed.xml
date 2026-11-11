@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 13:35:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 16:25:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,86 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Modder brengt tool uit om ssd-bug in AMD-drivers op te lossen</title>
+    <link>https://tweakers.net/nieuws/254408/modder-brengt-tool-uit-om-ssd-bug-in-amd-drivers-op-te-lossen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254408</guid>
+    <pubDate>Wed, 11 Nov 2026 17:02:00 +0100</pubDate>
+    <description>Een modder heeft een opensourcetool uitgebracht die voorkomt dat AMD-drivers onnodig vaak naar een ssd schrijven. De bug kan de levensduur van ssd's verkorten. AMD erkent de bug en gaat het probleem deze maand oplossen.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/254408/modder-brengt-tool-uit-om-ssd-bug-in-amd-drivers-op-te-lossen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Meer Windows 11-gebruikers krijgen geheugenbescherming die games kan vertragen</title>
+    <link>https://tweakers.net/nieuws/254412/meer-windows-11-gebruikers-krijgen-geheugenbescherming-die-games-kan-vertragen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254412</guid>
+    <pubDate>Wed, 11 Nov 2026 16:54:37 +0100</pubDate>
+    <description>Microsoft schakelt zijn geheugenbescherming in Windows 11 standaard in voor meer pc's. Deze functie voor geheugenintegriteit moet beschermen tegen schadelijke drivers. Die bescherming kan de gameprestaties verminderen. Gebruikers kunnen de functie wel handmatig uitschakelen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254412/meer-windows-11-gebruikers-krijgen-geheugenbescherming-die-games-kan-vertragen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Combinatie van ssd en hdd keert terug met Seagate FireCuda Forge van 8TB</title>
+    <link>https://tweakers.net/nieuws/254372/combinatie-van-ssd-en-hdd-keert-terug-met-seagate-firecuda-forge-van-8tb.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254372</guid>
+    <pubDate>Wed, 11 Nov 2026 16:49:48 +0100</pubDate>
+    <description>Seagate kondigt de FireCuda Forge aan, een externe harde schijf met ruimte voor een M.2-ssd. Hij kost ten minste 856 euro exclusief ssd. Het apparaat werkt niet zonder een door de gebruiker geïnstalleerde ssd. Rond 2015 was de combinatie van een ssd en een hdd ook eventjes populair, maar sindsdien daalde de interesse hierin aanzienlijk.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Interne harde schijven</category>
+    <comments>https://tweakers.net/nieuws/254372/combinatie-van-ssd-en-hdd-keert-terug-met-seagate-firecuda-forge-van-8tb.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Dit wil de EU veranderen aan lootboxes, dark patterns en proefabonnementen</title>
+    <link>https://tweakers.net/reviews/15596/dit-wil-de-eu-veranderen-aan-lootboxes-dark-patterns-en-proefabonnementen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15596</guid>
+    <pubDate>Wed, 11 Nov 2026 16:45:00 +0100</pubDate>
+    <description>Europa heeft de Digital Fairness Act gepresenteerd. Deze wet moet consumenten online beter beschermen, bijvoorbeeld door misleidende designkeuzes te verbieden. Wat staat erin?</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / IT Pro / Internet</category>
+    <comments>https://tweakers.net/reviews/15596/dit-wil-de-eu-veranderen-aan-lootboxes-dark-patterns-en-proefabonnementen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - PlayStation zette vol in op liveservicegames, maar schrapt nu spel op spel</title>
+    <link>https://tweakers.net/reviews/15594/playstation-zette-vol-in-op-liveservicegames-maar-schrapt-nu-spel-op-spel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15594</guid>
+    <pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
+    <description>PlayStation zette vol in op liveservicegames in de hoop zo meer geld te verdienen, maar schrapt nu spel op spel. Het is maar de vraag wat er nu over is van die strategie.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Achtergrond / Gaming / Consoles</category>
+    <comments>https://tweakers.net/reviews/15594/playstation-zette-vol-in-op-liveservicegames-maar-schrapt-nu-spel-op-spel.html#reacties</comments>
+  </item>
+  <item>
+    <title>Overheid werkt aan NL Wallet zonder afhankelijkheid van Apple of Google</title>
+    <link>https://tweakers.net/nieuws/254404/overheid-werkt-aan-nl-wallet-zonder-afhankelijkheid-van-apple-of-google.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254404</guid>
+    <pubDate>Wed, 11 Nov 2026 15:24:26 +0100</pubDate>
+    <description>De Nederlandse overheid werkt aan een optie om NL Wallet op smartphones zonder Apple- of Google-diensten te gebruiken. Dat zeggen de ontwikkelaars van de app. Op dit moment is de app niet bruikbaar op onder andere Linux-telefoons en telefoons met alternatieve Android-roms.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254404/overheid-werkt-aan-nl-wallet-zonder-afhankelijkheid-van-apple-of-google.html#reacties</comments>
+  </item>
+  <item>
+    <title>Cyanogen-maker wil Linux-distro met vrij te kiezen AI in 2027 uitbrengen</title>
+    <link>https://tweakers.net/nieuws/254030/cyanogen-maker-wil-linux-distro-met-vrij-te-kiezen-ai-in-2027-uitbrengen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254030</guid>
+    <pubDate>Wed, 11 Nov 2026 15:11:02 +0100</pubDate>
+    <description>Een van de oprichters van Android-alternatief Cyanogen onthult een Linux-distributie met AI-modellen en -agents als onderdeel van het besturingssysteem. Gebruikers kunnen AI zelf instellen en lokaal draaien. Chipmaker Qualcomm en AI-bedrijf Humain werken mee en KORA moet in 2027 uitkomen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254030/cyanogen-maker-wil-linux-distro-met-vrij-te-kiezen-ai-in-2027-uitbrengen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ocarina of Time-remake verkoopt in vier dagen meer dan 5 miljoen stuks</title>
+    <link>https://tweakers.net/nieuws/254402/ocarina-of-time-remake-verkoopt-in-vier-dagen-meer-dan-5-miljoen-stuks.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254402</guid>
+    <pubDate>Wed, 11 Nov 2026 14:37:41 +0100</pubDate>
+    <description>Nintendo heeft in de eerste vier dagen na de release meer dan 5,2 miljoen exemplaren verkocht van de remake van The Legend of Zelda: Ocarina of Time voor de Nintendo Switch 2. Volgens het bedrijf is het de snelst verkopende Switch 2-game van Nintendo tot nu toe.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254402/ocarina-of-time-remake-verkoopt-in-vier-dagen-meer-dan-5-miljoen-stuks.html#reacties</comments>
+  </item>
   <item>
     <title>Europese Commissie wil pay-to-win bij kinderen verbieden in Digital Fairness Act</title>
     <link>https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html</link>
@@ -5274,66 +5354,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253236/hackers-stalen-102-miljoen-dollar-aan-crypto-van-ledger-hardwarewallets.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google geeft Fitbit Edge groter scherm en vervangbare accu voor 180 euro</title>
-    <link>https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253232</guid>
-    <pubDate>Mon, 12 Oct 2026 18:18:33 +0200</pubDate>
-    <description>Google heeft zijn Fitbit Edge aangekondigd. De fitnesstracker heeft een scherm en volgt daarmee de Charge-modellen op, waarvan het laatste in 2023 verscheen. Hierdoor heeft het apparaat meer functies dan de schermloze Fitbit Air die Google onlangs uitbracht, maar minder dan een volwaardige smartwatch.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
-    <comments>https://tweakers.net/nieuws/253232/google-geeft-fitbit-edge-groter-scherm-en-vervangbare-accu-voor-180-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>'VS geeft Britse overheid weer vroegtijdige toegang tot Amerikaanse AI-modellen'</title>
-    <link>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253212</guid>
-    <pubDate>Mon, 12 Oct 2026 17:20:11 +0200</pubDate>
-    <description>De Amerikaanse regering heeft de Britse testinstantie AI Security Institute (AISI) weer vroegtijdig toegang gegeven tot de nieuwste Amerikaanse AI-modellen. Dat meldt The Telegraph. Het Witte Huis stond dat een tijdje niet toe, omdat de regering eerst zelf nieuwe modellen wilde uitproberen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253212/vs-geeft-britse-overheid-weer-vroegtijdige-toegang-tot-amerikaanse-ai-modellen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Intel, AMD en Qualcomm maken processors naar verluidt tot 20 procent duurder</title>
-    <link>https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253228</guid>
-    <pubDate>Mon, 12 Oct 2026 16:52:57 +0200</pubDate>
-    <description>Intel heeft de prijzen van zijn cpu's in september verhoogd, melden bronnen binnen de toeleveringsketen aan de Taiwanese Commercial Times. Qualcomm zou zijn prijzen in oktober hebben verhoogd en ook AMD-processors worden naar verluidt duurder.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/253228/intel-amd-en-qualcomm-maken-processors-naar-verluidt-tot-20-procent-duurder.html#reacties</comments>
-  </item>
-  <item>
-    <title>AI-agent van Anthropic dient valse tip in over moordzaak</title>
-    <link>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253226</guid>
-    <pubDate>Mon, 12 Oct 2026 16:47:36 +0200</pubDate>
-    <description>Een AI-agent van Anthropic heeft in juli een valse tip ingediend over een onopgeloste moordzaak bij de politie in de Amerikaanse stad Philadelphia. De politie zegt dat er geen signalen zijn dat er politiesystemen zijn gehackt. Anthropic heeft het incident gemeld aan het Witte Huis.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253226/ai-agent-van-anthropic-dient-valse-tip-in-over-moordzaak.html#reacties</comments>
-  </item>
-  <item>
-    <title>Proton-ceo Andy Yen noemt komst van Proton-telefoon 'onvermijdelijk'</title>
-    <link>https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253224</guid>
-    <pubDate>Mon, 12 Oct 2026 16:11:44 +0200</pubDate>
-    <description>De komst van een Proton-telefoon is onvermijdelijk, zegt ceo Andy Yen in gesprek met het Franse Clubic. Ook wil Yen een instantmessagingapp en mogelijk een browser introduceren. Wanneer dat precies gaat gebeuren, is nog niet duidelijk.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253224/proton-ceo-andy-yen-noemt-komst-van-proton-telefoon-onvermijdelijk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Storing bij Versio kan nog twee weken duren en kwam door onbekende kwetsbaarheid</title>
-    <link>https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253222</guid>
-    <pubDate>Mon, 12 Oct 2026 15:49:09 +0200</pubDate>
-    <description>De storing bij Versio komt door 'een kwetsbaarheid', zegt de hostingprovider. Inmiddels concludeert het bedrijf dat die niet is uitgebuit en er dus geen klantgegevens zijn gestolen, maar de beheerdersomgeving is voor klanten nog steeds niet bruikbaar. De storing duurt al tweeënhalve week. Versio zegt klanten over twee weken verder te informeren.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Serversoftware</category>
-    <comments>https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html#reacties</comments>
   </item>
 </channel>
 </rss>

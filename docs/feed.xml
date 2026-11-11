@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:35:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:05:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Synology waarschuwt voor lekken die hackers toegang geven tot bestanden op nas</title>
+    <link>https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254392</guid>
+    <pubDate>Wed, 11 Nov 2026 11:56:50 +0100</pubDate>
+    <description>Synology waarschuwt voor twee lekken in zijn DiskStation Manager-software. Dat is het besturingssysteem dat op nassystemen van Synology draait. Door de kwetsbaarheden kunnen hackers op afstand toegang krijgen tot bestanden op nassen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Nas</category>
+    <comments>https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html#reacties</comments>
+  </item>
   <item>
     <title>IOS-appmelding blokkeert Reddit-gebruik op desktop</title>
     <link>https://tweakers.net/nieuws/254394/ios-appmelding-blokkeert-reddit-gebruik-op-desktop.html</link>

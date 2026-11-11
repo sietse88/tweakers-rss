@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 07:32:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:17:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253200/squadron-42-nadert-na-12-jaar-vertraging-release-volgens-nieuwe-steam-pagina.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ontwikkelaar maakt met AI open source alternatieven voor Adobe- en Office-apps</title>
-    <link>https://tweakers.net/nieuws/253196/ontwikkelaar-maakt-met-ai-open-source-alternatieven-voor-adobe-en-office-apps.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253196</guid>
-    <pubDate>Mon, 12 Oct 2026 10:05:15 +0200</pubDate>
-    <description>Ontwikkelaar Brandon Thomas heeft gratis te gebruiken, open source varianten van Adobe- en Microsoft Office-software gemaakt. Thomas maakte de apps met AI Claude van Anthropic. In totaal zijn er nu twaalf apps beschikbaar, die draaien op Windows, macOS, Linux en in de browser.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Software</category>
-    <comments>https://tweakers.net/nieuws/253196/ontwikkelaar-maakt-met-ai-open-source-alternatieven-voor-adobe-en-office-apps.html#reacties</comments>
   </item>
 </channel>
 </rss>

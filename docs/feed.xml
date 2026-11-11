@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:05:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:20:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Sony schrapt online schietspel Fairgames nog voor release</title>
+    <link>https://tweakers.net/nieuws/254390/sony-schrapt-online-schietspel-fairgames-nog-voor-release.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254390</guid>
+    <pubDate>Wed, 11 Nov 2026 11:03:45 +0100</pubDate>
+    <description>Sony heeft het online schietspel Fairgames geschrapt, meldt Bloomberg. Het bedrijf kondigde de game in 2023 aan, maar bracht hem nooit volledig uit. Het in 2022 door Sony overgenomen Haven Studios ontwikkelde het spel.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Gameontwikkeling</category>
+    <comments>https://tweakers.net/nieuws/254390/sony-schrapt-online-schietspel-fairgames-nog-voor-release.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Waarom Switch 2-games zo snel op pc konden draaien</title>
     <link>https://tweakers.net/reviews/15588/waarom-switch-2-games-zo-snel-op-pc-konden-draaien.html</link>

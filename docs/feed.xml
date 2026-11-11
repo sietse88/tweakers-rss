@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:50:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:05:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
     <comments>https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bitwarden maakt apps minder open source en sluit zo bepaalde nieuwe functies af</title>
-    <link>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253202</guid>
-    <pubDate>Mon, 12 Oct 2026 12:02:44 +0200</pubDate>
-    <description>Wachtwoordmanager Bitwarden past zijn licentie deels aan, waardoor apps in appwinkels alleen nog commercieel zijn. De broncode zelf blijft wel open source beschikbaar, maar nieuwe functies komen alleen in de officiële apps. Daardoor gaan die geleidelijk verschillen van afgeleide apps. Gebruikers klagen daarover, onder andere omdat Bitwarden altijd een publiekslieveling was vanwege het opensourcekarakter.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html#reacties</comments>
   </item>
 </channel>
 </rss>

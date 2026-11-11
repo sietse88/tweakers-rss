@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:35:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:50:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/253202/bitwarden-maakt-apps-minder-open-source-en-sluit-zo-bepaalde-nieuwe-functies-af.html#reacties</comments>
-  </item>
-  <item>
-    <title>Yandex-diensten zijn onbereikbaar na droneaanvallen op datacenters</title>
-    <link>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253204</guid>
-    <pubDate>Mon, 12 Oct 2026 11:37:59 +0200</pubDate>
-    <description>Veel diensten van Yandex, dat ook wel het Google van Rusland wordt genoemd, zijn onbereikbaar als gevolg van aanvallen door Oekraïne. Vorige week werden twee van zijn vijf datacenters al geraakt bij aanvallen door Oekraïne. Zondag was er een aanval op een derde datacenter.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html#reacties</comments>
   </item>
 </channel>
 </rss>

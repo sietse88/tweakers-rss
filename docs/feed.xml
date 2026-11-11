@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 11:05:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:20:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -26,14 +26,14 @@
     <comments>https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html#reacties</comments>
   </item>
   <item>
-    <title>IOS-appmelding blokkeert Reddit-gebruik op desktop</title>
-    <link>https://tweakers.net/nieuws/254394/ios-appmelding-blokkeert-reddit-gebruik-op-desktop.html</link>
+    <title>Reddit verhelpt bug die desktopsite blokkeerde met iOS-appmelding - update</title>
+    <link>https://tweakers.net/nieuws/254394/reddit-verhelpt-bug-die-desktopsite-blokkeerde-met-ios-appmelding.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254394</guid>
     <pubDate>Wed, 11 Nov 2026 11:19:01 +0100</pubDate>
-    <description>Reddit pusht de iOS-app naar desktopgebruikers via een melding die niet weg te klikken is, waardoor de site onbruikbaar wordt. De link in de melding verwijst naar de App Store-pagina voor de Reddit-app. Reddit werkt aan een oplossing.</description>
+    <description>Reddit zegt de bug te hebben opgelost waardoor desktopgebruikers een melding te zien kregen die de iOS-app promootte. De melding was niet weg te klikken, waardoor de site onbruikbaar werd. De link in de melding verwees naar de App Store-pagina voor de Reddit-app.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/254394/ios-appmelding-blokkeert-reddit-gebruik-op-desktop.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254394/reddit-verhelpt-bug-die-desktopsite-blokkeerde-met-ios-appmelding.html#reacties</comments>
   </item>
   <item>
     <title>Sony schrapt online schietspel Fairgames nog voor release</title>

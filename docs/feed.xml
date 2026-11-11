@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 19:25:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 20:40:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Home Assistant Connect AUX-2 - Veel meer dan een audiostreamer</title>
+    <link>https://tweakers.net/reviews/15582/home-assistant-connect-aux-2-veel-meer-dan-een-audiostreamer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15582</guid>
+    <pubDate>Wed, 11 Nov 2026 21:30:00 +0100</pubDate>
+    <description>Nabu Casa komt met een audiostreamer voor Music Assistant. Sommigen zullen hem niet eens daarvoor, maar voor andere doelen kopen. Wij bekijken alle functies.</description>
+    <dc:creator>Olaf Weijers</dc:creator>
+    <category>Review / Beeld en geluid / Smarthome-accessoires</category>
+    <comments>https://tweakers.net/reviews/15582/home-assistant-connect-aux-2-veel-meer-dan-een-audiostreamer.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers stelen bsn's en financiële details bij beleggingssite Lynx</title>
     <link>https://tweakers.net/nieuws/254426/hackers-stelen-bsns-en-financiele-details-bij-beleggingssite-lynx.html</link>

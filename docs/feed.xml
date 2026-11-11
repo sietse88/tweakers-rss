@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 19:10:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:25:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Review / Computers / Monitors</category>
     <comments>https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html#reacties</comments>
-  </item>
-  <item>
-    <title>CMF brengt draagbare speakers uit in de vorm van melkpakken</title>
-    <link>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253234</guid>
-    <pubDate>Mon, 12 Oct 2026 21:12:28 +0200</pubDate>
-    <description>CMF, tot voor kort Nothings budgetmerk, brengt zijn eerste draagbare speakers uit: de CMF Speaker S en Speaker M. Ze hebben een opvallend ontwerp dat doet denken aan melkpakken. De speakers kosten minstens 59 euro.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Speakers</category>
-    <comments>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html#reacties</comments>
   </item>
 </channel>
 </rss>

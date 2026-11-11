@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 12:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 12:35:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253216/nctv-70-procent-van-de-inwoners-heeft-zorgen-over-online-ronselen-van-jongeren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bloomberg: Smarthomehub van Apple heet HomeView en krijgt twee versies</title>
-    <link>https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253210</guid>
-    <pubDate>Mon, 12 Oct 2026 14:33:46 +0200</pubDate>
-    <description>De smarthomehub die Apple op 13 oktober zou onthullen, heet de HomeView. Dat meldt de doorgaans goed ingelichte analist Mark Gurman van Bloomberg. De hub krijgt een scherm en een A18-chip en dient als het commandocentrum van Siri.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Smarthome</category>
-    <comments>https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html#reacties</comments>
   </item>
 </channel>
 </rss>

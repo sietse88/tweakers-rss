@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 17:40:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 18:25:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Offline gehaalde Topgeschenken-sites komen deels weer online na hack</title>
+    <link>https://tweakers.net/nieuws/254424/offline-gehaalde-topgeschenken-sites-komen-deels-weer-online-na-hack.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254424</guid>
+    <pubDate>Wed, 11 Nov 2026 19:06:52 +0100</pubDate>
+    <description>De na een hack offline gehaalde winkelsites van Topgeschenken, waaronder Topbloemen.nl, zijn weer online, maar nog niet volledig hersteld. Wachtwoorden zijn uit voorzorg gereset. Het is nog niet duidelijk welke klanten en organisaties zijn geraakt door de hack waarbij persoonsgegevens zijn gestolen.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254424/offline-gehaalde-topgeschenken-sites-komen-deels-weer-online-na-hack.html#reacties</comments>
+  </item>
   <item>
     <title>Nederlandse onderzoekers waarschuwen voor gaten in bijgewerkte koelsystemen</title>
     <link>https://tweakers.net/nieuws/254420/nederlandse-onderzoekers-waarschuwen-voor-gaten-in-bijgewerkte-koelsystemen.html</link>
@@ -5354,16 +5364,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/253234/cmf-brengt-draagbare-speakers-uit-in-de-vorm-van-melkpakken.html#reacties</comments>
-  </item>
-  <item>
-    <title>No Man's Sky komt op 28 oktober uit voor iPhone en iPad</title>
-    <link>https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253238</guid>
-    <pubDate>Mon, 12 Oct 2026 20:15:33 +0200</pubDate>
-    <description>Hello Games brengt op 28 oktober een port van No Man's Sky uit voor iPhones en iPads. Het gaat om de volledige game, inclusief alle uitbreidingen. Wel ontbreekt de multiplayermodus.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253238/no-mans-sky-komt-op-28-oktober-uit-voor-iphone-en-ipad.html#reacties</comments>
   </item>
 </channel>
 </rss>

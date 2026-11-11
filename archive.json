@@ -32,17 +32,6 @@
   "pubDate": "Mon, 12 Oct 2026 15:32:42 +0200",
   "title": "'Gamebibliotheek laadt bijna direct in nieuwe pc-app van XBOX'"
  },
- "https://tweakers.net/nieuws/253208": {
-  "author": "Eveline Meijer",
-  "category": "Nieuws / Tablets en telefoons / Mobiele abonnementen",
-  "comments": "https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html#reacties",
-  "description": "Vodafone laat gebruikers met een Unlimited Plus- of Unlimited Max-abonnement data delen met andere Vodafone-gebruikers. De gedeelde data blijft de hele maand geldig, maar klanten kunnen die niet  terugnemen.",
-  "first": "Mon, 12 Oct 2026 13:27:06 +0200",
-  "guid": "https://tweakers.net/nieuws/253208",
-  "link": "https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html",
-  "pubDate": "Mon, 12 Oct 2026 13:27:06 +0200",
-  "title": "Vodafone laat Unlimited-gebruikers data delen met anderen"
- },
  "https://tweakers.net/nieuws/253210": {
   "author": "Eveline Meijer",
   "category": "Nieuws / Beeld en geluid / Smarthome",
@@ -5217,7 +5206,7 @@
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Computers / Nas",
   "comments": "https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html#reacties",
-  "description": "Synology waarschuwt voor twee lekken in zijn DiskStation Manager-software. Dat is het besturingssysteem dat op nassystemen van Synology draait. Door de kwetsbaarheden kunnen hackers op afstand toegang krijgen tot bestanden op nassen.",
+  "description": "Synology waarschuwt voor twee lekken in zijn DiskStation Manager-software. Dat is het besturingssysteem dat op nassystemen van Synology draait. Door de kwetsbaarheden kunnen hackers op afstand toegang krijgen tot bestanden op nassen als deze via het internet bereikbaar zijn.",
   "first": "Wed, 11 Nov 2026 11:05:32 +0000",
   "guid": "https://tweakers.net/nieuws/254392",
   "link": "https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html",

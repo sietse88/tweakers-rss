@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 11:20:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:35:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -20,7 +20,7 @@
     <link>https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254392</guid>
     <pubDate>Wed, 11 Nov 2026 11:56:50 +0100</pubDate>
-    <description>Synology waarschuwt voor twee lekken in zijn DiskStation Manager-software. Dat is het besturingssysteem dat op nassystemen van Synology draait. Door de kwetsbaarheden kunnen hackers op afstand toegang krijgen tot bestanden op nassen.</description>
+    <description>Synology waarschuwt voor twee lekken in zijn DiskStation Manager-software. Dat is het besturingssysteem dat op nassystemen van Synology draait. Door de kwetsbaarheden kunnen hackers op afstand toegang krijgen tot bestanden op nassen als deze via het internet bereikbaar zijn.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Nas</category>
     <comments>https://tweakers.net/nieuws/254392/synology-waarschuwt-voor-lekken-die-hackers-toegang-geven-tot-bestanden-op-nas.html#reacties</comments>
@@ -5364,16 +5364,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html#reacties</comments>
-  </item>
-  <item>
-    <title>Vodafone laat Unlimited-gebruikers data delen met anderen</title>
-    <link>https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253208</guid>
-    <pubDate>Mon, 12 Oct 2026 13:27:06 +0200</pubDate>
-    <description>Vodafone laat gebruikers met een Unlimited Plus- of Unlimited Max-abonnement data delen met andere Vodafone-gebruikers. De gedeelde data blijft de hele maand geldig, maar klanten kunnen die niet  terugnemen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
-    <comments>https://tweakers.net/nieuws/253208/vodafone-laat-unlimited-gebruikers-data-delen-met-anderen.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 11:50:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 12:20:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Beeld en geluid / Smarthome</category>
     <comments>https://tweakers.net/nieuws/253210/bloomberg-smarthomehub-van-apple-heet-homeview-en-krijgt-twee-versies.html#reacties</comments>
-  </item>
-  <item>
-    <title>Defecte opslag brengt servers van mijn.host urenlang offline</title>
-    <link>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253214</guid>
-    <pubDate>Mon, 12 Oct 2026 14:19:34 +0200</pubDate>
-    <description>Hoster mijn.host heeft sinds vannacht te maken met een storing, waardoor enkele servers offline zijn. Het bedrijf meldt dat dit komt door defecte opslag binnen het platform. De getroffen diensten komen inmiddels weer deels online.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253214/defecte-opslag-brengt-servers-van-mijn-punt-host-urenlang-offline.html#reacties</comments>
   </item>
 </channel>
 </rss>

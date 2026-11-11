@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:17:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:35:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft brengt Auto SR naar XBOX Ally X en X20, ook in handheldmodus</title>
+    <link>https://tweakers.net/nieuws/254382/microsoft-brengt-auto-sr-naar-xbox-ally-x-en-x20-ook-in-handheldmodus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254382</guid>
+    <pubDate>Wed, 11 Nov 2026 09:26:34 +0100</pubDate>
+    <description>Microsoft heeft Automatic Super Resolution (Auto SR) officieel beschikbaar gesteld. De upscalingtechnologie werkt op de ROG XBOX Ally X, Ally X20 en bepaalde Windows Copilot+-systemen met een AMD Ryzen-chip.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Gameontwikkeling</category>
+    <comments>https://tweakers.net/nieuws/254382/microsoft-brengt-auto-sr-naar-xbox-ally-x-en-x20-ook-in-handheldmodus.html#reacties</comments>
+  </item>
   <item>
     <title>Apple sluit op 20 november Support Community-forum</title>
     <link>https://tweakers.net/nieuws/254380/apple-sluit-op-20-november-support-community-forum.html</link>

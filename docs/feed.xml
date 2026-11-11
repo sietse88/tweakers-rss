@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:35:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:50:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253204/yandex-diensten-zijn-onbereikbaar-na-droneaanvallen-op-datacenters.html#reacties</comments>
-  </item>
-  <item>
-    <title>Squadron 42 nadert na 12 jaar vertraging release volgens nieuwe Steam-pagina</title>
-    <link>https://tweakers.net/nieuws/253200/squadron-42-nadert-na-12-jaar-vertraging-release-volgens-nieuwe-steam-pagina.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253200</guid>
-    <pubDate>Mon, 12 Oct 2026 10:49:38 +0200</pubDate>
-    <description>De langverwachte game Squadron 42 heeft een Steam-pagina gekregen, waar spelers hem nu ook aan hun verlanglijst kunnen toevoegen. Squadron 42 is een spin-off van Star Citizen, waarin de speler shooter- en ruimtemissies moet volbrengen. Het spel moet in het tweede kwartaal van 2027 verschijnen, valt op de nieuwe Steam-pagina te lezen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253200/squadron-42-nadert-na-12-jaar-vertraging-release-volgens-nieuwe-steam-pagina.html#reacties</comments>
   </item>
 </channel>
 </rss>

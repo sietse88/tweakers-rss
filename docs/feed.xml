@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 13:20:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 13:35:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Europese Commissie wil pay-to-win bij kinderen verbieden in Digital Fairness Act</title>
+    <link>https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254400</guid>
+    <pubDate>Wed, 11 Nov 2026 14:26:00 +0100</pubDate>
+    <description>De Europese Commissie heeft een voorstel voor de Digital Fairness Act (DFA) gepresenteerd. Daarin staan maatregelen die consumenten online beter moeten beschermen. De EC verwacht dat inwoners van de EU jaarlijks 13,7 miljard euro besparen door de nieuwe regels.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html#reacties</comments>
+  </item>
   <item>
     <title>Belastingdienst overtreedt AVG tien jaar na invoering nog steeds</title>
     <link>https://tweakers.net/nieuws/254398/belastingdienst-overtreedt-avg-tien-jaar-na-invoering-nog-steeds.html</link>
@@ -5324,26 +5334,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Serversoftware</category>
     <comments>https://tweakers.net/nieuws/253222/storing-bij-versio-kan-nog-twee-weken-duren-en-kwam-door-onbekende-kwetsbaarheid.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Gamebibliotheek laadt bijna direct in nieuwe pc-app van XBOX'</title>
-    <link>https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253206</guid>
-    <pubDate>Mon, 12 Oct 2026 15:32:42 +0200</pubDate>
-    <description>De pc-app van XBOX krijgt een nieuw uiterlijk. Deze nieuwe app, die nu de codenaam Garrison draagt, is een stuk sneller dan de huidige variant. Dat stelt Windows Central, dat een vroege versie van de app kon uitproberen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253206/gamebibliotheek-laadt-bijna-direct-in-nieuwe-pc-app-van-xbox.html#reacties</comments>
-  </item>
-  <item>
-    <title>Koelingen van Franse supermarkten ontdooien door cyberaanval - update</title>
-    <link>https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253220</guid>
-    <pubDate>Mon, 12 Oct 2026 15:27:29 +0200</pubDate>
-    <description>Honderden filialen van de Franse supermarkten Intermarché en Coopérative U zijn getroffen door een cyberaanval. Daardoor ontdooien de koelingen, meldt persbureau AFP. De aanval zou 150 tot 200 Intermarché-winkels en bijna 100 Coopérative U-filialen treffen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253220/koelingen-van-franse-supermarkten-ontdooien-door-cyberaanval.html#reacties</comments>
   </item>
 </channel>
 </rss>

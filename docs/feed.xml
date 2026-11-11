@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 03:01:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 04:02:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/nieuws/253190/albert-heijn-etos-en-gall-en-gall-schakelen-systemen-uit-na-securityincident.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Kan AI een nucleaire ramp veroorzaken? 'AI heeft mogelijk al mensen gedood'</title>
-    <link>https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15440</guid>
-    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
-    <description>AI-bedrijven én vooraanstaande wetenschappers waarschuwen dat AI-modellen een existentiële dreiging kunnen vormen. Is dat realistisch? Welke risico's vormen AI-modellen nu al?</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Achtergrond / IT Pro / Wetenschap</category>
-    <comments>https://tweakers.net/reviews/15440/kan-ai-een-nucleaire-ramp-veroorzaken-ai-heeft-mogelijk-al-mensen-gedood.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 16:40:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 17:10:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederlandse onderzoekers waarschuwen voor gaten in bijgewerkte koelsystemen</title>
+    <link>https://tweakers.net/nieuws/254420/nederlandse-onderzoekers-waarschuwen-voor-gaten-in-bijgewerkte-koelsystemen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254420</guid>
+    <pubDate>Wed, 11 Nov 2026 17:55:45 +0100</pubDate>
+    <description>Koelsystemen van Danfoss, die recent op grote schaal werden gehackt, zijn volgens Nederlandse onderzoekers ook met de nieuwste updates nog onveilig. Ze adviseren gebruikers om die apparaten los te koppelen van internet. Aanvallers kunnen de controle overnemen en apparaten zelfs bricken.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254420/nederlandse-onderzoekers-waarschuwen-voor-gaten-in-bijgewerkte-koelsystemen.html#reacties</comments>
+  </item>
   <item>
     <title>Gerucht: Nvidia stelt 24GB-variant van RTX 5080 voor onbepaalde tijd uit</title>
     <link>https://tweakers.net/nieuws/254418/gerucht-nvidia-stelt-24gb-variant-van-rtx-5080-voor-onbepaalde-tijd-uit.html</link>

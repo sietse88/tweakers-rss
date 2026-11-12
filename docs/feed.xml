@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 08:15:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 08:45:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / 3D-printers</category>
     <comments>https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Politie Keulen verdenkt twee tieners van aanranding met Unitree-robot</title>
-    <link>https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253252</guid>
-    <pubDate>Tue, 13 Oct 2026 10:37:04 +0200</pubDate>
-    <description>Twee Duitse tieners worden ervan verdacht met een robot een 16-jarig meisje te hebben aangerand en de aanranding via sociale media te hebben gelivestreamd. Dat heeft de politie in Keulen bekendgemaakt.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html#reacties</comments>
   </item>
 </channel>
 </rss>

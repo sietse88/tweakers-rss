@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 17:10:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 19:50:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Outlook, OneDrive en Microsoft 365 hebben last van storing</title>
+    <link>https://tweakers.net/nieuws/254484/outlook-onedrive-en-microsoft-365-hebben-last-van-storing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254484</guid>
+    <pubDate>Thu, 12 Nov 2026 20:45:03 +0100</pubDate>
+    <description>Microsoft 365 heeft last van een storing. Dat bevestigt Microsoft op sociale media. Daardoor kunnen gebruikers mogelijk niet bij Outlook, OneDrive, de zakelijke versie van Microsoft Teams en andere software. Het bedrijf werkt aan een oplossing.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254484/outlook-onedrive-en-microsoft-365-hebben-last-van-storing.html#reacties</comments>
+  </item>
+  <item>
+    <title>AMD lost gpu-driverbug op die veel onnodige ssd-schrijfacties opleverde</title>
+    <link>https://tweakers.net/nieuws/254480/amd-lost-gpu-driverbug-op-die-veel-onnodige-ssd-schrijfacties-opleverde.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254480</guid>
+    <pubDate>Thu, 12 Nov 2026 20:08:03 +0100</pubDate>
+    <description>AMD heeft een bug in zijn gpu-drivers opgelost die ervoor zorgde dat continu data naar ssd's werd geschreven. De oplossing zit in de Adrenalin 26.11.1-driver, die per direct beschikbaar is. Het gaat om een 'optionele' update.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254480/amd-lost-gpu-driverbug-op-die-veel-onnodige-ssd-schrijfacties-opleverde.html#reacties</comments>
+  </item>
+  <item>
+    <title>Valve rolt achievementsets met eigen voortgangsbalk uit op Steam</title>
+    <link>https://tweakers.net/nieuws/254448/valve-rolt-achievementsets-met-eigen-voortgangsbalk-uit-op-steam.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254448</guid>
+    <pubDate>Thu, 12 Nov 2026 19:36:15 +0100</pubDate>
+    <description>Valve heeft zijn 'achievementsets'-functie voor Steam uitgebracht. Daarmee kunnen ontwikkelaars de achievements voor hun games opsplitsen in groepen, ieder met een eigen voortgangsbalk. De functie was al beschikbaar als bèta.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254448/valve-rolt-achievementsets-met-eigen-voortgangsbalk-uit-op-steam.html#reacties</comments>
+  </item>
+  <item>
+    <title>Voormalig Nvidia-ceo Jensen Huang legt binnenkort verantwoording af voor Congres</title>
+    <link>https://tweakers.net/nieuws/254478/voormalig-nvidia-ceo-jensen-huang-legt-binnenkort-verantwoording-af-voor-congres.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254478</guid>
+    <pubDate>Thu, 12 Nov 2026 18:50:07 +0100</pubDate>
+    <description>Voormalig Nvidia-baas Jensen Huang gaat verantwoording afleggen tegenover het Amerikaanse Congres. Congresleden hadden daarom gevraagd, na berichtgeving dat de topman een affaire had met een vermeende Chinese spion.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254478/voormalig-nvidia-ceo-jensen-huang-legt-binnenkort-verantwoording-af-voor-congres.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft brengt gratis XBOX Cloud Gaming-versie met advertenties uit</title>
+    <link>https://tweakers.net/nieuws/254476/microsoft-brengt-gratis-xbox-cloud-gaming-versie-met-advertenties-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254476</guid>
+    <pubDate>Thu, 12 Nov 2026 18:25:56 +0100</pubDate>
+    <description>Microsoft heeft een gratis versie van XBOX Cloud Gaming uitgebracht. Daarmee kunnen gamers games streamen via de cloud, zonder daarvoor een abonnement af te sluiten. De gratis dienst wordt gefinancierd met advertenties.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254476/microsoft-brengt-gratis-xbox-cloud-gaming-versie-met-advertenties-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Chinese retailer JD.com voltooit overname MediaMarkt-eigenaar</title>
     <link>https://tweakers.net/nieuws/254472/chinese-retailer-jd-punt-com-voltooit-overname-mediamarkt-eigenaar.html</link>
@@ -5304,36 +5354,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253292/xbox-richt-labs-team-op-voor-browserports-na-golf-ai-decompilaties.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ziggo-storing trof 20.000 aansluitingen in Utrecht</title>
-    <link>https://tweakers.net/nieuws/253290/ziggo-storing-trof-20000-aansluitingen-in-utrecht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253290</guid>
-    <pubDate>Tue, 13 Oct 2026 21:04:43 +0200</pubDate>
-    <description>Ziggo had dinsdagavond last van een storing in meerdere wijken in Utrecht. Daardoor kunnen mensen niet internetten, bellen of tv-kijken. Een woordvoerder van de provider zegt dat de storing zo'n 20.000 aansluitingen trof.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253290/ziggo-storing-trof-20000-aansluitingen-in-utrecht.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Sharma wil dat XBOX meer nieuwe franchises gaat creëren'</title>
-    <link>https://tweakers.net/nieuws/253288/sharma-wil-dat-xbox-meer-nieuwe-franchises-gaat-creeren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253288</guid>
-    <pubDate>Tue, 13 Oct 2026 20:36:51 +0200</pubDate>
-    <description>XBOX-ceo Asha Sharma wil naar verluidt dat het bedrijf meer nieuwe franchises gaat creëren. De topvrouw zou hebben gezegd dat XBOX niet kan overleven door zich alleen te concentreren op bestaande gameseries.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Gameontwikkeling</category>
-    <comments>https://tweakers.net/nieuws/253288/sharma-wil-dat-xbox-meer-nieuwe-franchises-gaat-creeren.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google brengt Gemini 4 Argon na uitstel om cyberzorgen alsnog uit</title>
-    <link>https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253284</guid>
-    <pubDate>Tue, 13 Oct 2026 20:05:05 +0200</pubDate>
-    <description>Google heeft zijn Gemini 4 Argon-model uitgebracht. Het model is beschikbaar voor Pro- en Ultra-abonnees in de Gemini-app en de AI-modus in Google Zoeken. Google Ultra-gebruikers kunnen Argon ook gebruiken in Googles softwareontwikkelingsprogramma Antigravity.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

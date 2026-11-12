@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:25:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:10:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253280/gitlab-waarschuwt-voor-kritiek-beveiligingslek-met-cvss-score-van-100.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple HomePod mini 2 is 60 euro duurder dan voorganger</title>
-    <link>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253276</guid>
-    <pubDate>Tue, 13 Oct 2026 17:56:22 +0200</pubDate>
-    <description>Apple heeft de HomePod mini 2 onthuld. De speaker heeft een S10-chip, die volgens Apple muziek in real time analyseert en optimaliseert. Het apparaat kost 169 euro, 60 euro meer dan de eerste HomePod mini bij de introductie kostte. De speaker is beschikbaar in groen, blauw, roze, wit en zwart.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Speakers</category>
-    <comments>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html#reacties</comments>
   </item>
 </channel>
 </rss>

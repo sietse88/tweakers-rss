@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 14:25:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:40:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Mediaspelers</category>
     <comments>https://tweakers.net/nieuws/253274/nieuwe-apple-tv-4k-heeft-ingebouwde-microfoons.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gerucht: Grand Theft Auto VI komt begin 2027 al uit op Windows-pc's</title>
-    <link>https://tweakers.net/nieuws/253272/gerucht-grand-theft-auto-vi-komt-begin-2027-al-uit-op-windows-pcs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253272</guid>
-    <pubDate>Tue, 13 Oct 2026 16:38:07 +0200</pubDate>
-    <description>Grand Theft Auto VI zou na de aanstaande release op Microsoft- en Sony-consoles al in het begin van komend jaar uitkomen voor Windows. Pc-gamers zouden dus niet zo lang hoeven te wachten op de nieuwste game van Rockstar als bij GTA V en Red Dead Redemption 2.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253272/gerucht-grand-theft-auto-vi-komt-begin-2027-al-uit-op-windows-pcs.html#reacties</comments>
   </item>
 </channel>
 </rss>

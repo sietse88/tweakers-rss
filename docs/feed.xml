@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 14:10:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:25:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,11 +16,21 @@
     <height>192</height>
   </image>
   <item>
+    <title>Internetknooppunt NL-ix ziet recordverkeer van ruim 14Tb/s door GTA VI</title>
+    <link>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tb-s-door-gta-vi.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254466</guid>
+    <pubDate>Thu, 12 Nov 2026 15:11:37 +0100</pubDate>
+    <description>Het Nederlandse internetknooppunt NL-ix zag in de nacht van dinsdag op woensdag een recordhoeveelheid dataverkeer. Dat is waarschijnlijk een gevolg van GTA VI, dat nu alvast te downloaden is. Het knooppunt zegt tegen Tweakers dat het een piek van 14,15 terabit per seconde zag. De piek is zo'n vijf procent hoger dan een eerder record.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tb-s-door-gta-vi.html#reacties</comments>
+  </item>
+  <item>
     <title>Jensen Huang treedt af als ceo van Nvidia na affaires</title>
     <link>https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254470</guid>
     <pubDate>Thu, 12 Nov 2026 15:05:06 +0100</pubDate>
-    <description>Jensen Huang treedt af als ceo van Nvidia. Huang kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Hij wordt opgevolgd door Colette Kress, de huidige cfo van het bedrijf.</description>
+    <description>Jensen Huang treedt af als ceo van Nvidia. Hij kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Colette Kress, de huidige cfo van het bedrijf, volgt hem tijdelijk op.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html#reacties</comments>

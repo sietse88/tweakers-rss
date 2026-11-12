@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 09:30:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 11:54:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nintendo richt zijn pijlen ook op modchipfirmware en laat repo’s offline halen</title>
+    <link>https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254454</guid>
+    <pubDate>Thu, 12 Nov 2026 12:12:20 +0100</pubDate>
+    <description>GitHub heeft 144 repository's verwijderd die firmware voor Nintendo Switch-modchips hostten. Dat deed het platform na een verzoek van Nintendo. Dat bedrijf treedt altijd hard op tegen piraterij en specifiek tegen de verkoop van fysieke modchips, maar tot nu toe deed Nintendo weinig tegen modchipfirmware.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Braziliaanse rechter beboet Meta, maar ziet geen opzet in Bolsonaro-voorkeur</title>
+    <link>https://tweakers.net/nieuws/254446/braziliaanse-rechter-beboet-meta-maar-ziet-geen-opzet-in-bolsonaro-voorkeur.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254446</guid>
+    <pubDate>Thu, 12 Nov 2026 11:11:40 +0100</pubDate>
+    <description>Meta heeft een boete gekregen in Brazilië omdat het bedrijf niet voldeed aan bevelen. De rechtbank zag geen opzet in de voorkeur die posts van kandidaat Flávio Bolsonaro leken te krijgen op platforms van het bedrijf.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254446/braziliaanse-rechter-beboet-meta-maar-ziet-geen-opzet-in-bolsonaro-voorkeur.html#reacties</comments>
+  </item>
+  <item>
+    <title>Apache dicht HTTP/2-lek waarmee aanvallers op afstand code kunnen uitvoeren</title>
+    <link>https://tweakers.net/nieuws/254440/apache-dicht-http-2-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254440</guid>
+    <pubDate>Thu, 12 Nov 2026 10:35:09 +0100</pubDate>
+    <description>Apache heeft een ernstige kwetsbaarheid gerepareerd in zijn webserver. Het gaat om een bug in de HTTP/2-module, waardoor aanvallers op afstand code konden uitvoeren op servers. Volgens de ontdekkers zou 64 procent van alle cloudomgevingen kwetsbaar zijn.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254440/apache-dicht-http-2-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Acer Googlebook 14 - Premiumprijs, smartphonesoftware</title>
     <link>https://tweakers.net/reviews/15506/acer-googlebook-14-premiumprijs-smartphonesoftware.html</link>
@@ -5334,26 +5364,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/253258/microsoft-patcht-bug-die-installatie-windows-11-mogelijk-maakte-zonder-account.html#reacties</comments>
-  </item>
-  <item>
-    <title>Epic Games stelt Disney-game uit en vraagt ontwikkelaars meer AI te gebruiken</title>
-    <link>https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253250</guid>
-    <pubDate>Tue, 13 Oct 2026 13:13:40 +0200</pubDate>
-    <description>Gameontwikkelaar Epic Games heeft een gameproject in samenwerking met Disney uitgesteld. Daarnaast vraagt het bedrijf ontwikkelaars om meer AI-tools te gebruiken om de game af te krijgen. Er is nog geen releasedatum bekend. Dat meldt Bloomberg op basis van anonieme bronnen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bambu Lab brengt in november 3d-scanner uit</title>
-    <link>https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253254</guid>
-    <pubDate>Tue, 13 Oct 2026 12:34:01 +0200</pubDate>
-    <description>Bambu Lab werkt aan een 3d-scanner, de S1 3D Scanner. Er zijn nog geen technische specificaties van het nieuwe product bekend, maar de 3d-printermaker brengt hem ergens in november van dit jaar uit.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / 3D-printers</category>
-    <comments>https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

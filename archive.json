@@ -32,28 +32,6 @@
   "pubDate": "Wed, 14 Oct 2026 12:15:00 +0200",
   "title": "Provider Onze.nl neemt voortaan ook gesprekspartners op voor AI-transcripties"
  },
- "https://tweakers.net/nieuws/253250": {
-  "author": "Lumen Heijdendael",
-  "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html#reacties",
-  "description": "Gameontwikkelaar Epic Games heeft een gameproject in samenwerking met Disney uitgesteld. Daarnaast vraagt het bedrijf ontwikkelaars om meer AI-tools te gebruiken om de game af te krijgen. Er is nog geen releasedatum bekend. Dat meldt Bloomberg op basis van anonieme bronnen.",
-  "first": "Tue, 13 Oct 2026 13:13:40 +0200",
-  "guid": "https://tweakers.net/nieuws/253250",
-  "link": "https://tweakers.net/nieuws/253250/epic-games-stelt-disney-game-uit-en-vraagt-ontwikkelaars-meer-ai-te-gebruiken.html",
-  "pubDate": "Tue, 13 Oct 2026 13:13:40 +0200",
-  "title": "Epic Games stelt Disney-game uit en vraagt ontwikkelaars meer AI te gebruiken"
- },
- "https://tweakers.net/nieuws/253254": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Computers / 3D-printers",
-  "comments": "https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html#reacties",
-  "description": "Bambu Lab werkt aan een 3d-scanner, de S1 3D Scanner. Er zijn nog geen technische specificaties van het nieuwe product bekend, maar de 3d-printermaker brengt hem ergens in november van dit jaar uit.",
-  "first": "Tue, 13 Oct 2026 12:34:01 +0200",
-  "guid": "https://tweakers.net/nieuws/253254",
-  "link": "https://tweakers.net/nieuws/253254/bambu-lab-brengt-in-november-3d-scanner-uit.html",
-  "pubDate": "Tue, 13 Oct 2026 12:34:01 +0200",
-  "title": "Bambu Lab brengt in november 3d-scanner uit"
- },
  "https://tweakers.net/nieuws/253256": {
   "author": "Yannick Spinner",
   "category": "Nieuws / Tablets en telefoons / Smartphones",
@@ -5180,6 +5158,17 @@
   "pubDate": "Thu, 12 Nov 2026 09:56:19 +0100",
   "title": "PS5 wordt vierde PlayStation met 100 miljoen geleverde consoles"
  },
+ "https://tweakers.net/nieuws/254440": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254440/apache-dicht-http-2-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html#reacties",
+  "description": "Apache heeft een ernstige kwetsbaarheid gerepareerd in zijn webserver. Het gaat om een bug in de HTTP/2-module, waardoor aanvallers op afstand code konden uitvoeren op servers. Volgens de ontdekkers zou 64 procent van alle cloudomgevingen kwetsbaar zijn.",
+  "first": "Thu, 12 Nov 2026 11:54:55 +0000",
+  "guid": "https://tweakers.net/nieuws/254440",
+  "link": "https://tweakers.net/nieuws/254440/apache-dicht-http-2-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html",
+  "pubDate": "Thu, 12 Nov 2026 10:35:09 +0100",
+  "title": "Apache dicht HTTP/2-lek waarmee aanvallers op afstand code kunnen uitvoeren"
+ },
  "https://tweakers.net/nieuws/254442": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / Tablets en telefoons / Smartwatches",
@@ -5190,6 +5179,28 @@
   "link": "https://tweakers.net/nieuws/254442/huawei-introduceert-volgende-week-nieuw-merk-en-vermoedelijk-brede-telefoons.html",
   "pubDate": "Thu, 12 Nov 2026 09:58:06 +0100",
   "title": "Huawei introduceert volgende week nieuw merk en vermoedelijk brede telefoons"
+ },
+ "https://tweakers.net/nieuws/254446": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/254446/braziliaanse-rechter-beboet-meta-maar-ziet-geen-opzet-in-bolsonaro-voorkeur.html#reacties",
+  "description": "Meta heeft een boete gekregen in Brazilië omdat het bedrijf niet voldeed aan bevelen. De rechtbank zag geen opzet in de voorkeur die posts van kandidaat Flávio Bolsonaro leken te krijgen op platforms van het bedrijf.",
+  "first": "Thu, 12 Nov 2026 11:54:55 +0000",
+  "guid": "https://tweakers.net/nieuws/254446",
+  "link": "https://tweakers.net/nieuws/254446/braziliaanse-rechter-beboet-meta-maar-ziet-geen-opzet-in-bolsonaro-voorkeur.html",
+  "pubDate": "Thu, 12 Nov 2026 11:11:40 +0100",
+  "title": "Braziliaanse rechter beboet Meta, maar ziet geen opzet in Bolsonaro-voorkeur"
+ },
+ "https://tweakers.net/nieuws/254454": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Gaming / Consoles",
+  "comments": "https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html#reacties",
+  "description": "GitHub heeft 144 repository's verwijderd die firmware voor Nintendo Switch-modchips hostten. Dat deed het platform na een verzoek van Nintendo. Dat bedrijf treedt altijd hard op tegen piraterij en specifiek tegen de verkoop van fysieke modchips, maar tot nu toe deed Nintendo weinig tegen modchipfirmware.",
+  "first": "Thu, 12 Nov 2026 11:54:55 +0000",
+  "guid": "https://tweakers.net/nieuws/254454",
+  "link": "https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html",
+  "pubDate": "Thu, 12 Nov 2026 12:12:20 +0100",
+  "title": "Nintendo richt zijn pijlen ook op modchipfirmware en laat repo’s offline halen"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

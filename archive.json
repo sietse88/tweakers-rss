@@ -21,17 +21,6 @@
   "pubDate": "Wed, 14 Oct 2026 12:15:00 +0200",
   "title": "Provider Onze.nl neemt voortaan ook gesprekspartners op voor AI-transcripties"
  },
- "https://tweakers.net/nieuws/253266": {
-  "author": "Lumen Heijdendael",
-  "category": "Nieuws / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html#reacties",
-  "description": "Ahold Delhaize zegt dat er op dit moment geen aanwijzingen zijn dat er klantgegevens zijn gestolen bij een securityincident op zondagmiddag. Daarom gaat het moederbedrijf van Albert Heijn 'bepaalde' systemen van de supermarktketen gecontroleerd herstarten. Het is nog niet mogelijk om online boodschappen te bestellen. Ook de klantenservice is vooralsnog offline.",
-  "first": "Tue, 13 Oct 2026 15:10:27 +0200",
-  "guid": "https://tweakers.net/nieuws/253266",
-  "link": "https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html",
-  "pubDate": "Tue, 13 Oct 2026 15:10:27 +0200",
-  "title": "Albert Heijn ziet geen aanwijzingen gestolen klantgegevens en start systemen op"
- },
  "https://tweakers.net/nieuws/253268": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Economie en maatschappij",
@@ -5135,6 +5124,17 @@
   "link": "https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html",
   "pubDate": "Thu, 12 Nov 2026 12:12:20 +0100",
   "title": "Nintendo richt zijn pijlen ook op modchipfirmware en laat repo’s offline halen"
+ },
+ "https://tweakers.net/nieuws/254460": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Beeld en geluid / Smarthome",
+  "comments": "https://tweakers.net/nieuws/254460/hackers-maken-vacuula-firmware-voor-supportloze-neato-stofzuigers.html#reacties",
+  "description": "Hackers hebben eigen firmware uitgebracht voor Neato-robotstofzuigers die niet meer via internet aan te sturen zijn. De software heet Vacuula en is inmiddels in een stabiele eerste release vrijgegeven. Gebruikers hoeven op het apparaat alleen de firmware te installeren, maar moeten wel een eigen server opzetten.",
+  "first": "Thu, 12 Nov 2026 13:25:11 +0000",
+  "guid": "https://tweakers.net/nieuws/254460",
+  "link": "https://tweakers.net/nieuws/254460/hackers-maken-vacuula-firmware-voor-supportloze-neato-stofzuigers.html",
+  "pubDate": "Thu, 12 Nov 2026 14:06:41 +0100",
+  "title": "Hackers maken Vacuula-firmware voor supportloze Neato-stofzuigers"
  },
  "https://tweakers.net/nieuws/254462": {
   "author": "Tijs Hofmans",

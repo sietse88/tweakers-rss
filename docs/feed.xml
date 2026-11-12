@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:10:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:25:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers maken Vacuula-firmware voor supportloze Neato-stofzuigers</title>
+    <link>https://tweakers.net/nieuws/254460/hackers-maken-vacuula-firmware-voor-supportloze-neato-stofzuigers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254460</guid>
+    <pubDate>Thu, 12 Nov 2026 14:06:41 +0100</pubDate>
+    <description>Hackers hebben eigen firmware uitgebracht voor Neato-robotstofzuigers die niet meer via internet aan te sturen zijn. De software heet Vacuula en is inmiddels in een stabiele eerste release vrijgegeven. Gebruikers hoeven op het apparaat alleen de firmware te installeren, maar moeten wel een eigen server opzetten.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/254460/hackers-maken-vacuula-firmware-voor-supportloze-neato-stofzuigers.html#reacties</comments>
+  </item>
   <item>
     <title>TransIP verhoogt vrijwel alle prijzen voor domeinen, vps'en en Stack</title>
     <link>https://tweakers.net/nieuws/254462/transip-verhoogt-vrijwel-alle-prijzen-voor-domeinen-vpsen-en-stack.html</link>
@@ -5324,16 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
     <comments>https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html#reacties</comments>
-  </item>
-  <item>
-    <title>Albert Heijn ziet geen aanwijzingen gestolen klantgegevens en start systemen op</title>
-    <link>https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253266</guid>
-    <pubDate>Tue, 13 Oct 2026 15:10:27 +0200</pubDate>
-    <description>Ahold Delhaize zegt dat er op dit moment geen aanwijzingen zijn dat er klantgegevens zijn gestolen bij een securityincident op zondagmiddag. Daarom gaat het moederbedrijf van Albert Heijn 'bepaalde' systemen van de supermarktketen gecontroleerd herstarten. Het is nog niet mogelijk om online boodschappen te bestellen. Ook de klantenservice is vooralsnog offline.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html#reacties</comments>
   </item>
 </channel>
 </rss>

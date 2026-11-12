@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 14:40:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:10:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Internetknooppunt NL-ix ziet recordverkeer van ruim 14Tb/s door GTA VI</title>
-    <link>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tb-s-door-gta-vi.html</link>
+    <title>Internetknooppunt NL-ix ziet recordverkeer van ruim 14Tbit/s door GTA VI</title>
+    <link>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tbit-s-door-gta-vi.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254466</guid>
     <pubDate>Thu, 12 Nov 2026 15:11:37 +0100</pubDate>
     <description>Het Nederlandse internetknooppunt NL-ix zag in de nacht van dinsdag op woensdag een recordhoeveelheid dataverkeer. Dat is waarschijnlijk een gevolg van GTA VI, dat nu alvast te downloaden is. Het knooppunt zegt tegen Tweakers dat het een piek van 14,15 terabit per seconde zag. De piek is zo'n vijf procent hoger dan een eerder record.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tb-s-door-gta-vi.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tbit-s-door-gta-vi.html#reacties</comments>
   </item>
   <item>
     <title>Jensen Huang treedt af als ceo van Nvidia na affaires</title>
@@ -5334,26 +5334,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/253276/apple-homepod-mini-2-is-60-euro-duurder-dan-voorganger.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Framework Laptop 12 - Modulariteit steeds beter uitgewerkt</title>
-    <link>https://tweakers.net/reviews/15428/framework-laptop-12-modulariteit-steeds-beter-uitgewerkt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15428</guid>
-    <pubDate>Tue, 13 Oct 2026 17:00:00 +0200</pubDate>
-    <description>De Laptop 12 is Frameworks kleinste modulaire computer. Hoe bevalt deze tweede generatie?</description>
-    <dc:creator>Jelle Stuip</dc:creator>
-    <category>Review / Computers / Laptops</category>
-    <comments>https://tweakers.net/reviews/15428/framework-laptop-12-modulariteit-steeds-beter-uitgewerkt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nieuwe Apple TV 4K heeft ingebouwde microfoons</title>
-    <link>https://tweakers.net/nieuws/253274/nieuwe-apple-tv-4k-heeft-ingebouwde-microfoons.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253274</guid>
-    <pubDate>Tue, 13 Oct 2026 16:57:52 +0200</pubDate>
-    <description>De nieuwe Apple TV 4K heeft drie far-fieldmicrofoons waarmee gebruikers Siri kunnen aansturen. Het apparaat gebruikt echo-onderdrukking om de stem van de gebruiker ook in luide omgevingen te herkennen, zegt de fabrikant. De mediaspeler kost 350 euro.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/253274/nieuwe-apple-tv-4k-heeft-ingebouwde-microfoons.html#reacties</comments>
   </item>
 </channel>
 </rss>

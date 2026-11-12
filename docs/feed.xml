@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 12:09:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:25:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,26 +5354,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html#reacties</comments>
-  </item>
-  <item>
-    <title>OnePlus brengt eerste vlaggenschipserie uit sinds vertrek uit Europa</title>
-    <link>https://tweakers.net/nieuws/253256/oneplus-brengt-eerste-vlaggenschipserie-uit-sinds-vertrek-uit-europa.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253256</guid>
-    <pubDate>Tue, 13 Oct 2026 14:19:35 +0200</pubDate>
-    <description>OnePlus brengt in zijn thuisland China de OnePlus 16 uit. Het is het eerste vlaggenschip van de fabrikant sinds het vertrek uit Europa en de Verenigde Staten. De OnePlus 16 heeft een nieuwe Snapdragon 8 Elite Extreme Gen 6-chip en een veel grotere accu. De smartphone kost omgerekend rond de 800 euro.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253256/oneplus-brengt-eerste-vlaggenschipserie-uit-sinds-vertrek-uit-europa.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft patcht bug die installatie Windows 11 mogelijk maakte zonder account</title>
-    <link>https://tweakers.net/nieuws/253258/microsoft-patcht-bug-die-installatie-windows-11-mogelijk-maakte-zonder-account.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253258</guid>
-    <pubDate>Tue, 13 Oct 2026 14:14:25 +0200</pubDate>
-    <description>Microsoft heeft een bug gepatcht die gebruikers makkelijk Windows 11 liet installeren zonder een Microsoft-account. Zij konden bij het toevoegen van hun account klikken op 'Meer informatie'. Daarna sloeg het besturingssysteem de Out-Of-Box Experience (OOBE) over en hoefden gebruikers alleen een naam en wachtwoord in te voeren.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253258/microsoft-patcht-bug-die-installatie-windows-11-mogelijk-maakte-zonder-account.html#reacties</comments>
   </item>
 </channel>
 </rss>

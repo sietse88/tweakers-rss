@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 07:45:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 08:00:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Character.AI vraagt faillissement aan en zoekt koper</title>
-    <link>https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253248</guid>
-    <pubDate>Tue, 13 Oct 2026 09:45:41 +0200</pubDate>
-    <description>Character.AI wil zichzelf verkopen onder toezicht van een rechtbank. Daarvoor heeft het bedrijf in de VS een Chapter 11-faillissementsaanvraag ingediend. De dienst blijft de komende maanden in elk geval nog online.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html#reacties</comments>
   </item>
 </channel>
 </rss>

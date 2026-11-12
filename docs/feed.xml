@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 11 Nov 2026 21:40:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 04:14:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Laptops</category>
     <comments>https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Samsung Odyssey G8 G80HF en G80HS - Gamen in superhoge resolutie</title>
-    <link>https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15408</guid>
-    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
-    <description>Met de Odyssey G8 G80HF en G80HS introduceert Samsung dit jaar een 5k- en een 6k-gamingmonitor. Behalve de superhoge resolutie zijn andere eigenschappen niet zo vooruitstrevend.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Review / Computers / Monitors</category>
-    <comments>https://tweakers.net/reviews/15408/samsung-odyssey-g8-g80hf-en-g80hs-gamen-in-superhoge-resolutie.html#reacties</comments>
   </item>
 </channel>
 </rss>

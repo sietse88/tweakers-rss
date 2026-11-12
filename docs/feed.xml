@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 08:00:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 08:15:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,26 +5334,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253252/politie-keulen-verdenkt-twee-tieners-van-aanranding-met-unitree-robot.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Zoek de verschillen: gekloonde Adobe- en Microsoft-apps kunnen legaal zijn</title>
-    <link>https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15454</guid>
-    <pubDate>Tue, 13 Oct 2026 10:15:00 +0200</pubDate>
-    <description>Vibecoding levert gratis opensourceklonen op van Adobe- en Microsoft-apps als Photoshop en Word. Veel gebruikers van Creative Cloud en Office zijn enthousiast. Maar mag dit wel?</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Achtergrond / Computers / Design en multimedia</category>
-    <comments>https://tweakers.net/reviews/15454/zoek-de-verschillen-gekloonde-adobe-en-microsoft-apps-kunnen-legaal-zijn.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple en Samsung winnen marktaandeel terwijl smartphonemarkt 20 procent krimpt</title>
-    <link>https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253246</guid>
-    <pubDate>Tue, 13 Oct 2026 10:07:13 +0200</pubDate>
-    <description>Apple en Samsung hebben fors marktaandeel gewonnen op de wereldwijde smartphonemarkt. Beide kregen er 4 procentpunt bij, zo heeft analistenbureau Counterpoint Research berekend. De leveringen van smartphones daalden 20 procent ten opzichte van een jaar geleden.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253246/apple-en-samsung-winnen-marktaandeel-terwijl-smartphonemarkt-20-procent-krimpt.html#reacties</comments>
   </item>
 </channel>
 </rss>

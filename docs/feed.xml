@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:10:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:25:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling uitdelen</title>
+    <link>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254468</guid>
+    <pubDate>Thu, 12 Nov 2026 16:15:56 +0100</pubDate>
+    <description>De Nederlandse overheid gaat de zendfrequenties voor 4G en 5G niet automatisch verlengen als de vergunningen daarvan aflopen. Dat gebeurt in 2030. In het jaar daarvoor wil de overheid een nieuwe frequentieveiling voor de 800-, 900-, 1800- en 2600MHz-banden houden.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Netwerk</category>
+    <comments>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html#reacties</comments>
+  </item>
   <item>
     <title>Internetknooppunt NL-ix ziet recordverkeer van ruim 14Tbit/s door GTA VI</title>
     <link>https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tbit-s-door-gta-vi.html</link>

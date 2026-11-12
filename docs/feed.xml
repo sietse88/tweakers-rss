@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 07:00:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 07:30:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GrapheneOS zal toch uitkomen voor Google Pixel 11</title>
+    <link>https://tweakers.net/nieuws/254430/grapheneos-zal-toch-uitkomen-voor-google-pixel-11.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254430</guid>
+    <pubDate>Thu, 12 Nov 2026 08:14:31 +0100</pubDate>
+    <description>GrapheneOS zal toch uitkomen voor de Google Pixel 11-telefoons. Dat heeft de organisatie achter de custom rom bekendgemaakt. Het leek er lang op dat GrapheneOS, dat doorgaans voor Pixels verschijnt, niet zou uitkomen voor de nieuwste Google-telefoon.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254430/grapheneos-zal-toch-uitkomen-voor-google-pixel-11.html#reacties</comments>
+  </item>
   <item>
     <title>Analistenbureau: preorders GTA VI leverden Rockstar 1 miljard dollar omzet op</title>
     <link>https://tweakers.net/nieuws/254432/analistenbureau-preorders-gta-vi-leverden-rockstar-1-miljard-dollar-omzet-op.html</link>

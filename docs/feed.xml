@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 06:45:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 07:00:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Analistenbureau: preorders GTA VI leverden Rockstar 1 miljard dollar omzet op</title>
+    <link>https://tweakers.net/nieuws/254432/analistenbureau-preorders-gta-vi-leverden-rockstar-1-miljard-dollar-omzet-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254432</guid>
+    <pubDate>Thu, 12 Nov 2026 07:49:57 +0100</pubDate>
+    <description>Rockstar zou in de preorders tot nu toe een omzet van een miljard dollar hebben binnengehaald met GTA VI, zo meldt analistenbureau Sensor Tower. Het aantal preorders zou 10,3 miljoen bedragen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254432/analistenbureau-preorders-gta-vi-leverden-rockstar-1-miljard-dollar-omzet-op.html#reacties</comments>
+  </item>
   <item>
     <title>Nvidia-bestuur zou ontslag van Jensen Huang overwegen na tweede affaire</title>
     <link>https://tweakers.net/nieuws/254428/nvidia-bestuur-zou-ontslag-van-jensen-huang-overwegen-na-tweede-affaire.html</link>

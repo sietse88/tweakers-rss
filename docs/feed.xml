@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 11:54:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:09:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - GMKtec EVO-X5 Pro - 192GB ram voor gigantische AI-modellen</title>
+    <link>https://tweakers.net/reviews/15548/gmktec-evo-x5-pro-192gb-ram-voor-gigantische-ai-modellen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15548</guid>
+    <pubDate>Thu, 12 Nov 2026 13:00:00 +0100</pubDate>
+    <description>De GMKtec EVO-X5 Pro is de eerste mini-pc die we testen met AMD's Ryzen AI Max+ Pro 495. De processor is iets sneller dan zijn voorganger en stuurt 50 procent meer geheugen aan.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Pc's</category>
+    <comments>https://tweakers.net/reviews/15548/gmktec-evo-x5-pro-192gb-ram-voor-gigantische-ai-modellen.html#reacties</comments>
+  </item>
   <item>
     <title>Nintendo richt zijn pijlen ook op modchipfirmware en laat repo’s offline halen</title>
     <link>https://tweakers.net/nieuws/254454/nintendo-richt-zijn-pijlen-ook-op-modchipfirmware-en-laat-repos-offline-halen.html</link>

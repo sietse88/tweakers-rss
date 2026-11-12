@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 16:40:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 17:10:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Chinese retailer JD.com voltooit overname MediaMarkt-eigenaar</title>
+    <link>https://tweakers.net/nieuws/254472/chinese-retailer-jd-punt-com-voltooit-overname-mediamarkt-eigenaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254472</guid>
+    <pubDate>Thu, 12 Nov 2026 17:56:35 +0100</pubDate>
+    <description>Chinese retailer JD.com heeft zijn overname van MediaMarkt-eigenaar Ceconomy voltooid. Dat liet Ceconomy op donderdag weten. Eerder deze maand gaf Europa onder voorwaarden groen licht voor de overname.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254472/chinese-retailer-jd-punt-com-voltooit-overname-mediamarkt-eigenaar.html#reacties</comments>
+  </item>
   <item>
     <title>Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling uitdelen</title>
     <link>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html</link>

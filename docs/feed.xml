@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 04:14:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 05:14:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253242/sites-en-apps-van-albert-heijn-blijven-offline-na-securityincident-van-zondag.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ontwikkelaar maakt AirDrop mogelijk op Linux-systemen van Framework en Dell</title>
-    <link>https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253240</guid>
-    <pubDate>Tue, 13 Oct 2026 07:13:45 +0200</pubDate>
-    <description>Een ontwikkelaar heeft een variant op Apple AirDrop gemaakt die werkt op Linux-systemen zonder wifichip van Apple of Broadcom. Daardoor werkt AirDrop op laptops van bijvoorbeeld Framework en Dell.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253240/ontwikkelaar-maakt-airdrop-mogelijk-op-linux-systemen-van-framework-en-dell.html#reacties</comments>
   </item>
 </channel>
 </rss>

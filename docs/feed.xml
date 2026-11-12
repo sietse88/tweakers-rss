@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 08:45:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 09:15:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Acer Googlebook 14 - Premiumprijs, smartphonesoftware</title>
+    <link>https://tweakers.net/reviews/15506/acer-googlebook-14-premiumprijs-smartphonesoftware.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15506</guid>
+    <pubDate>Thu, 12 Nov 2026 10:00:00 +0100</pubDate>
+    <description>Wat is een Googlebook en hoe onderscheidt het zich van een Chromebook? Je leest het in dit artikel.</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Review / Computers / Laptops</category>
+    <comments>https://tweakers.net/reviews/15506/acer-googlebook-14-premiumprijs-smartphonesoftware.html#reacties</comments>
+  </item>
+  <item>
+    <title>Huawei introduceert volgende week nieuw merk en vermoedelijk brede telefoons</title>
+    <link>https://tweakers.net/nieuws/254442/huawei-introduceert-volgende-week-nieuw-merk-en-vermoedelijk-brede-telefoons.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254442</guid>
+    <pubDate>Thu, 12 Nov 2026 09:58:06 +0100</pubDate>
+    <description>Huawei kondigt volgende week een nieuw merk voor onder andere smartphones en wearables aan: OSTA. Huawei had jarenlang Honor, maar verkocht dat merk enkele jaren geleden. Het nieuwe merk zou onder meer smartphones met brede schermen in het assortiment hebben.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartwatches</category>
+    <comments>https://tweakers.net/nieuws/254442/huawei-introduceert-volgende-week-nieuw-merk-en-vermoedelijk-brede-telefoons.html#reacties</comments>
+  </item>
+  <item>
+    <title>PS5 wordt vierde PlayStation met 100 miljoen geleverde consoles</title>
+    <link>https://tweakers.net/nieuws/254434/ps5-wordt-vierde-playstation-met-100-miljoen-geleverde-consoles.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254434</guid>
+    <pubDate>Thu, 12 Nov 2026 09:56:19 +0100</pubDate>
+    <description>Sony heeft meer dan honderd miljoen exemplaren geleverd van de PlayStation 5. Dat heeft het bedrijf bevestigd. Er zijn enkele PlayStation-generaties waarvan de totale leveringen nog hoger liggen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254434/ps5-wordt-vierde-playstation-met-100-miljoen-geleverde-consoles.html#reacties</comments>
+  </item>
   <item>
     <title>GrapheneOS zal toch uitkomen voor Google Pixel 11</title>
     <link>https://tweakers.net/nieuws/254430/grapheneos-zal-toch-uitkomen-voor-google-pixel-11.html</link>

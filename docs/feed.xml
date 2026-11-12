@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:55:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:10:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Jensen Huang treedt af als ceo van Nvidia na affaires</title>
+    <link>https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254470</guid>
+    <pubDate>Thu, 12 Nov 2026 15:05:06 +0100</pubDate>
+    <description>Jensen Huang treedt af als ceo van Nvidia. Huang kwam onder vuur te liggen na meerdere affaires, waardoor zijn positie niet meer houdbaar was. Hij wordt opgevolgd door Colette Kress, de huidige cfo van het bedrijf.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254470/jensen-huang-treedt-af-als-ceo-van-nvidia-na-affaires.html#reacties</comments>
+  </item>
+  <item>
+    <title>Fairphone komt in de VS voor het eerst te koop samen met mobiel abonnement</title>
+    <link>https://tweakers.net/nieuws/254450/fairphone-komt-in-de-vs-voor-het-eerst-te-koop-samen-met-mobiel-abonnement.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254450</guid>
+    <pubDate>Thu, 12 Nov 2026 15:00:00 +0100</pubDate>
+    <description>Het van oorsprong Nederlandse Fairphone gaat in de Verenigde Staten voor het eerst samenwerken met een provider. De telefoon komt te koop in combinatie met een abonnement van Boost Mobile. De stap is belangrijk, omdat Amerikanen hun telefoons doorgaans samen met hun abonnement kopen. SpaceX is op dit moment in gesprek om die provider over te nemen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254450/fairphone-komt-in-de-vs-voor-het-eerst-te-koop-samen-met-mobiel-abonnement.html#reacties</comments>
+  </item>
+  <item>
+    <title>Noctua brengt thermalpad van koolstofnanotubes uit voor 24,95 euro</title>
+    <link>https://tweakers.net/nieuws/254464/noctua-brengt-thermalpad-van-koolstofnanotubes-uit-voor-24-komma-95-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254464</guid>
+    <pubDate>Thu, 12 Nov 2026 14:59:30 +0100</pubDate>
+    <description>Noctua heeft donderdag de thermalpads van koolstofnanotubes van Carbice officieel uitgebracht. De pads zijn een vervanger voor koelpasta en kosten 24,95 euro per pad.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Processorkoeling</category>
+    <comments>https://tweakers.net/nieuws/254464/noctua-brengt-thermalpad-van-koolstofnanotubes-uit-voor-24-komma-95-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Hackers maken firmware voor onlinebediening supportloze Neato-stofzuigers</title>
     <link>https://tweakers.net/nieuws/254460/hackers-maken-firmware-voor-onlinebediening-supportloze-neato-stofzuigers.html</link>
@@ -5324,16 +5354,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253272/gerucht-grand-theft-auto-vi-komt-begin-2027-al-uit-op-windows-pcs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple introduceert HomeView-smarthometablet, maar verkoopt hem niet in de EU</title>
-    <link>https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253270</guid>
-    <pubDate>Tue, 13 Oct 2026 16:08:38 +0200</pubDate>
-    <description>Apple heeft zijn smarthometablet HomeView aangekondigd. Het apparaat werkt als een smarthomedashboard waarop gebruikers hun slimme apparaten kunnen aansturen. Het apparaat kost 299 dollar. De fabrikant brengt het product voorlopig niet uit in de Europese Unie, omdat Siri AI in iOS nog niet in de EU beschikbaar is.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
-    <comments>https://tweakers.net/nieuws/253270/apple-introduceert-homeview-smarthometablet-maar-verkoopt-hem-niet-in-de-eu.html#reacties</comments>
   </item>
 </channel>
 </rss>

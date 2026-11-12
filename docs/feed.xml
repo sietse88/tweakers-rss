@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 16:10:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:40:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5324,16 +5324,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/253284/google-brengt-gemini-4-argon-na-uitstel-om-cyberzorgen-alsnog-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>GitLab waarschuwt voor kritiek beveiligingslek met CVSS-score van 10.0</title>
-    <link>https://tweakers.net/nieuws/253280/gitlab-waarschuwt-voor-kritiek-beveiligingslek-met-cvss-score-van-100.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253280</guid>
-    <pubDate>Tue, 13 Oct 2026 18:37:21 +0200</pubDate>
-    <description>GitLab waarschuwt voor een kritieke kwetsbaarheid in GitLab Community Edition en Enterprise Edition. De kwetsbaarheid is aanwezig in versies ouder dan 19.2.8, 19.3.5 en 19.4.2. Het lek heeft de hoogste CVSS3.1-score van 10.0 gekregen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253280/gitlab-waarschuwt-voor-kritiek-beveiligingslek-met-cvss-score-van-100.html#reacties</comments>
   </item>
 </channel>
 </rss>

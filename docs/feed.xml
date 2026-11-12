@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 12:25:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:40:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gebruikers kunnen AI-muziek vóór eind 2026 volledig uit Deezer weren</title>
-    <link>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253262</guid>
-    <pubDate>Tue, 13 Oct 2026 14:28:25 +0200</pubDate>
-    <description>Deezer introduceert een nieuwe optie waarmee gebruikers AI-gegenereerde muziek volledig kunnen weren. Die optie komt vóór eind 2026 beschikbaar, meldt de streamingdienst. Daarmee wil het bedrijf gebruikers een betere ervaring bieden.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253262/gebruikers-kunnen-ai-muziek-voor-eind-2026-volledig-uit-deezer-weren.html#reacties</comments>
   </item>
 </channel>
 </rss>

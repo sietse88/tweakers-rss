@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 12:55:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:10:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,26 +5334,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253266/albert-heijn-ziet-geen-aanwijzingen-gestolen-klantgegevens-en-start-systemen-op.html#reacties</comments>
-  </item>
-  <item>
-    <title>RimWorld draait '2 tot 4 keer beter' op zelfontwikkelde Waylith-engine - update</title>
-    <link>https://tweakers.net/nieuws/253264/rimworld-draait-2-tot-4-keer-beter-op-zelfontwikkelde-waylith-engine.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253264</guid>
-    <pubDate>Tue, 13 Oct 2026 15:06:32 +0200</pubDate>
-    <description>De scifikoloniemanagementgame RimWorld krijgt in versie 1.7 een andere engine. Het spel gebruikt nu de Unity-engine, maar vanaf versie 1.7 stapt Ludeon Studios over naar de eigen Waylith Engine. Daardoor gaat de game 'twee tot vier keer' soepeler draaien, belooft de ontwikkelaar.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253264/rimworld-draait-2-tot-4-keer-beter-op-zelfontwikkelde-waylith-engine.html#reacties</comments>
-  </item>
-  <item>
-    <title>Cooler Master brengt antismeltalarm voor gpu uit voor 30 euro</title>
-    <link>https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253260</guid>
-    <pubDate>Tue, 13 Oct 2026 15:00:27 +0200</pubDate>
-    <description>Cooler Master brengt de Shield Adapter volgende week in Europa uit voor een adviesprijs van 30 euro. Het apparaat komt tussen de voeding en gpu en meet hoeveel stroom er door de kabel gaat. Als er te veel stroom door het kastje loopt, klinkt er een alarm en zou het apparaat de stroomtoevoer moeten beperken.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

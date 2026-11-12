@@ -10,17 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/nieuws/253116": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Videokaarten",
-  "comments": "https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html#reacties",
-  "description": "Nvidia komt met een verbeterd AI-model voor DLSS 5. Volgens het bedrijf is dat model tot twee keer sneller en neemt het minder vram in beslag. Dat moet vooral voor hogere framerates zorgen. Het model komt op 16 oktober naar NBA 2K27; later volgen andere games.",
-  "first": "Tue, 13 Oct 2026 14:45:28 +0200",
-  "guid": "https://tweakers.net/nieuws/253116",
-  "link": "https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html",
-  "pubDate": "Tue, 13 Oct 2026 14:45:28 +0200",
-  "title": "Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model"
- },
  "https://tweakers.net/nieuws/253230": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / Tablets en telefoons / Mobiele abonnementen",
@@ -5169,6 +5158,17 @@
   "pubDate": "Thu, 12 Nov 2026 12:12:20 +0100",
   "title": "Nintendo richt zijn pijlen ook op modchipfirmware en laat repo’s offline halen"
  },
+ "https://tweakers.net/nieuws/254462": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/254462/transip-verhoogt-vrijwel-alle-prijzen-voor-domeinen-vpsen-en-stack.html#reacties",
+  "description": "TransIP verhoogt per direct de meeste prijzen. Dat geldt voor nieuwe klanten, maar ook voor bestaande. De prijzen van .nl-domeinen en vps- en opslagdiensten stijgen met 10 tot 25 procent. Bij veel andere diensten is de verhoging aanzienlijk hoger. TransIP noemt geen oorzaak voor de prijsstijgingen.",
+  "first": "Thu, 12 Nov 2026 12:55:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254462",
+  "link": "https://tweakers.net/nieuws/254462/transip-verhoogt-vrijwel-alle-prijzen-voor-domeinen-vpsen-en-stack.html",
+  "pubDate": "Thu, 12 Nov 2026 13:45:08 +0100",
+  "title": "TransIP verhoogt vrijwel alle prijzen voor domeinen, vps'en en Stack"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",
@@ -5839,6 +5839,17 @@
   "link": "https://tweakers.net/reviews/15588/waarom-switch-2-games-zo-snel-op-pc-konden-draaien.html",
   "pubDate": "Wed, 11 Nov 2026 10:30:00 +0100",
   "title": "Achtergrond - Waarom Switch 2-games zo snel op pc konden draaien"
+ },
+ "https://tweakers.net/reviews/15590": {
+  "author": "Tijs Hofmans",
+  "category": ".Community / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/reviews/15590/lijden-onder-succes-in-oktober-braken-tipgevers-maar-liefst-vier-records.html#reacties",
+  "description": "In oktober braken jullie op maar liefst vier vlakken records rond nieuwstips.",
+  "first": "Thu, 12 Nov 2026 12:55:07 +0000",
+  "guid": "https://tweakers.net/reviews/15590",
+  "link": "https://tweakers.net/reviews/15590/lijden-onder-succes-in-oktober-braken-tipgevers-maar-liefst-vier-records.html",
+  "pubDate": "Thu, 12 Nov 2026 13:37:00 +0100",
+  "title": ".Community - Lijden onder succes: in oktober braken tipgevers maar liefst vier records"
  },
  "https://tweakers.net/reviews/15594": {
   "author": "Hayte Hugo",

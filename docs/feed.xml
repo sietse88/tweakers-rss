@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 12:40:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 12:55:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>TransIP verhoogt vrijwel alle prijzen voor domeinen, vps'en en Stack</title>
+    <link>https://tweakers.net/nieuws/254462/transip-verhoogt-vrijwel-alle-prijzen-voor-domeinen-vpsen-en-stack.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254462</guid>
+    <pubDate>Thu, 12 Nov 2026 13:45:08 +0100</pubDate>
+    <description>TransIP verhoogt per direct de meeste prijzen. Dat geldt voor nieuwe klanten, maar ook voor bestaande. De prijzen van .nl-domeinen en vps- en opslagdiensten stijgen met 10 tot 25 procent. Bij veel andere diensten is de verhoging aanzienlijk hoger. TransIP noemt geen oorzaak voor de prijsstijgingen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254462/transip-verhoogt-vrijwel-alle-prijzen-voor-domeinen-vpsen-en-stack.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Lijden onder succes: in oktober braken tipgevers maar liefst vier records</title>
+    <link>https://tweakers.net/reviews/15590/lijden-onder-succes-in-oktober-braken-tipgevers-maar-liefst-vier-records.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15590</guid>
+    <pubDate>Thu, 12 Nov 2026 13:37:00 +0100</pubDate>
+    <description>In oktober braken jullie op maar liefst vier vlakken records rond nieuwstips.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>.Community / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15590/lijden-onder-succes-in-oktober-braken-tipgevers-maar-liefst-vier-records.html#reacties</comments>
+  </item>
   <item>
     <title>Review - GMKtec EVO-X5 Pro - 192GB ram voor gigantische AI-modellen</title>
     <link>https://tweakers.net/reviews/15548/gmktec-evo-x5-pro-192gb-ram-voor-gigantische-ai-modellen.html</link>
@@ -5334,16 +5354,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253260/cooler-master-brengt-antismeltalarm-voor-gpu-uit-voor-30-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nvidia maakt DLSS 5 tot twee keer sneller met kleiner AI-model</title>
-    <link>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253116</guid>
-    <pubDate>Tue, 13 Oct 2026 14:45:28 +0200</pubDate>
-    <description>Nvidia komt met een verbeterd AI-model voor DLSS 5. Volgens het bedrijf is dat model tot twee keer sneller en neemt het minder vram in beslag. Dat moet vooral voor hogere framerates zorgen. Het model komt op 16 oktober naar NBA 2K27; later volgen andere games.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/253116/nvidia-maakt-dlss-5-tot-twee-keer-sneller-met-kleiner-ai-model.html#reacties</comments>
   </item>
 </channel>
 </rss>

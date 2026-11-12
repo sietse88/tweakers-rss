@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 12 Nov 2026 05:45:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 06:45:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia-bestuur zou ontslag van Jensen Huang overwegen na tweede affaire</title>
+    <link>https://tweakers.net/nieuws/254428/nvidia-bestuur-zou-ontslag-van-jensen-huang-overwegen-na-tweede-affaire.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254428</guid>
+    <pubDate>Thu, 12 Nov 2026 07:33:40 +0100</pubDate>
+    <description>Het bestuur van Nvidia zou overwegen om oprichter en directeur Jensen Huang te ontslaan na de onthulling van een tweede affaire. De medewerker met wie hij die buitenechtelijke relatie heeft of had, valt direct onder hem.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254428/nvidia-bestuur-zou-ontslag-van-jensen-huang-overwegen-na-tweede-affaire.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Home Assistant Connect AUX-2 - Veel meer dan een audiostreamer</title>
     <link>https://tweakers.net/reviews/15582/home-assistant-connect-aux-2-veel-meer-dan-een-audiostreamer.html</link>
@@ -5334,16 +5344,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253248/character-punt-ai-vraagt-faillissement-aan-en-zoekt-koper.html#reacties</comments>
-  </item>
-  <item>
-    <title>X voegt abonnementen voor X, Grok en Cursor samen</title>
-    <link>https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253244</guid>
-    <pubDate>Tue, 13 Oct 2026 08:31:29 +0200</pubDate>
-    <description>Het bedrijf SpaceXSI van Elon Musk voegt de abonnementen van zijn socialemediaplatform X, codegenerator Cursor en AI-model Grok samen. Alle diensten vallen nu onder één abonnementsdienst, met varianten van 8 tot 200 dollar per maand.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253244/x-voegt-abonnementen-voor-x-grok-en-cursor-samen.html#reacties</comments>
   </item>
 </channel>
 </rss>

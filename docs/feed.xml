@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 11:50:38 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:05:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>CNN: geen doorslaggevend bewijs dat Alice Huang Chinese spion is</title>
+    <link>https://tweakers.net/nieuws/254498/cnn-geen-doorslaggevend-bewijs-dat-alice-huang-chinese-spion-is.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254498</guid>
+    <pubDate>Fri, 13 Nov 2026 12:54:53 +0100</pubDate>
+    <description>Er is nog geen doorslaggevend bewijs gevonden dat Alice Huang een spion was voor de Chinese overheid. Dat melden bronnen van Amerikaanse veiligheidsdiensten aan CNN. Mede door de affaire met Alice Huang besloot Jensen Huang (geen familie) af te treden als ceo van Nvidia.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254498/cnn-geen-doorslaggevend-bewijs-dat-alice-huang-chinese-spion-is.html#reacties</comments>
+  </item>
   <item>
     <title>Claude heeft storing: gebruikers hebben moeite met inloggen - update</title>
     <link>https://tweakers.net/nieuws/254500/claude-heeft-storing-gebruikers-hebben-moeite-met-inloggen.html</link>
@@ -5354,16 +5364,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Privacy</category>
     <comments>https://tweakers.net/nieuws/253306/edpb-wil-camerabrillen-met-fel-licht-en-geluid-laten-waarschuwen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Preview - The Legend of Zelda: Ocarina of Time - Eerste indruk van een prachtige remake</title>
-    <link>https://tweakers.net/reviews/15456/the-legend-of-zelda-ocarina-of-time-eerste-indruk-van-een-prachtige-remake.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15456</guid>
-    <pubDate>Wed, 14 Oct 2026 14:00:00 +0200</pubDate>
-    <description>The Legend of Zelda: Ocarina of Time is misschien wel de beste game ooit. Tweakers kon onlangs alvast twee uur spelen met de remake, die begin november verschijnt.</description>
-    <dc:creator>Jurian Ubachs</dc:creator>
-    <category>Preview / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15456/the-legend-of-zelda-ocarina-of-time-eerste-indruk-van-een-prachtige-remake.html#reacties</comments>
   </item>
 </channel>
 </rss>

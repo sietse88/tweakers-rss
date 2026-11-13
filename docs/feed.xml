@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 18:35:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 18:50:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Axelera's Titania-chip werkt met Lpddr-geheugen en past in bestaande datacenters</title>
+    <link>https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254518</guid>
+    <pubDate>Fri, 13 Nov 2026 19:37:49 +0100</pubDate>
+    <description>De Nederlandse AI-start-up Axelera heeft de specificaties bekendgemaakt van zijn AI-chiplet Titania. Die chip is gemaakt zodat gpu's in bestaande datacenterracks met luchtkoeling kunnen worden gezet, zonder dat speciale vloeistofkoeling nodig is. De chip gebruikt verder Lpddr6-geheugen in plaats van HBM, terwijl dat laatste juist gangbaarder is voor AI-systemen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html#reacties</comments>
+  </item>
   <item>
     <title>Google geeft bedrijven korter de tijd om bugs te fixen vanwege AI</title>
     <link>https://tweakers.net/nieuws/254520/google-geeft-bedrijven-korter-de-tijd-om-bugs-te-fixen-vanwege-ai.html</link>

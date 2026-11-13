@@ -5125,6 +5125,17 @@
   "pubDate": "Fri, 13 Nov 2026 17:36:35 +0100",
   "title": "Humble Bundle zet vorm van 2fa weer terug na kritiek op 'gevibecode nieuwe UI'"
  },
+ "https://tweakers.net/nieuws/254518": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Videokaarten",
+  "comments": "https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html#reacties",
+  "description": "De Nederlandse AI-start-up Axelera heeft de specificaties bekendgemaakt van zijn AI-chiplet Titania. Die chip is gemaakt zodat gpu's in bestaande datacenterracks met luchtkoeling kunnen worden gezet, zonder dat speciale vloeistofkoeling nodig is. De chip gebruikt verder Lpddr6-geheugen in plaats van HBM, terwijl dat laatste juist gangbaarder is voor AI-systemen.",
+  "first": "Fri, 13 Nov 2026 18:50:26 +0000",
+  "guid": "https://tweakers.net/nieuws/254518",
+  "link": "https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html",
+  "pubDate": "Fri, 13 Nov 2026 19:37:49 +0100",
+  "title": "Axelera's Titania-chip werkt met Lpddr-geheugen en past in bestaande datacenters"
+ },
  "https://tweakers.net/nieuws/254520": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",

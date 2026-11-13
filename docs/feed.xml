@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 01:05:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 05:06:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Call of Duty: Modern Warfare 4 - Doet denken aan vervlogen tijden</title>
+    <link>https://tweakers.net/reviews/15598/call-of-duty-modern-warfare-4-doet-denken-aan-vervlogen-tijden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15598</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Modern Warfare 4 is de beste Call of Duty-game van de laatste jaren. De oude gloriedagen zijn voorgoed voorbij, maar Modern Warfare 4 doet er zeker aan denken.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15598/call-of-duty-modern-warfare-4-doet-denken-aan-vervlogen-tijden.html#reacties</comments>
+  </item>
   <item>
     <title>'Jensen Huang had nog een affaire met tweede Nvidia-medewerker'</title>
     <link>https://tweakers.net/nieuws/254486/jensen-huang-had-nog-een-affaire-met-tweede-nvidia-medewerker.html</link>

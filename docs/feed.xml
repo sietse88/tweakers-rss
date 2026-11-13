@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 08:50:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 09:05:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft heeft nog steeds last van storing, geen aanwijzingen voor cyberaanval</title>
+    <link>https://tweakers.net/nieuws/254492/microsoft-heeft-nog-steeds-last-van-storing-geen-aanwijzingen-voor-cyberaanval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254492</guid>
+    <pubDate>Fri, 13 Nov 2026 09:46:25 +0100</pubDate>
+    <description>Microsoft heeft nog steeds last van een storing. Daardoor zijn verschillende diensten van het bedrijf onbereikbaar. Het gaat onder meer om diverse versies van Microsoft 365, Outlook en Microsoft Teams. Volgens Microsoft is er waarschijnlijk geen sprake van een cyberaanval.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254492/microsoft-heeft-nog-steeds-last-van-storing-geen-aanwijzingen-voor-cyberaanval.html#reacties</comments>
+  </item>
   <item>
     <title>AI laat Poolse Geralt na beroerte stemacteur weer klinken als in Witcher 3</title>
     <link>https://tweakers.net/nieuws/254490/ai-laat-poolse-geralt-na-beroerte-stemacteur-weer-klinken-als-in-witcher-3.html</link>

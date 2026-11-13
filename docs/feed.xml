@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:20:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 11:20:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Claude heeft storing: gebruikers hebben moeite met inloggen</title>
+    <link>https://tweakers.net/nieuws/254500/claude-heeft-storing-gebruikers-hebben-moeite-met-inloggen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254500</guid>
+    <pubDate>Fri, 13 Nov 2026 12:07:10 +0100</pubDate>
+    <description>Sommige diensten van AI-chatbot Claude zijn vrijdagochtend deels of helemaal niet beschikbaar. Gebruikers hebben problemen met het inloggen bij Claude.ai en Claude Code. Hoe de problemen zijn ontstaan, is niet bekend.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254500/claude-heeft-storing-gebruikers-hebben-moeite-met-inloggen.html#reacties</comments>
+  </item>
   <item>
     <title>Ontwikkelaar MachineGames werkt aan Wolfenstein 3</title>
     <link>https://tweakers.net/nieuws/254494/ontwikkelaar-machinegames-werkt-aan-wolfenstein-3.html</link>

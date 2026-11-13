@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:04:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:19:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Belgen krijgen langere garantie op gerepareerde producten</title>
+    <link>https://tweakers.net/nieuws/254514/belgen-krijgen-langere-garantie-op-gerepareerde-producten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254514</guid>
+    <pubDate>Fri, 13 Nov 2026 17:06:51 +0100</pubDate>
+    <description>Belgen krijgen vanaf volgend jaar meer rechten bij reparatie en garantie. Het Belgische parlement heeft een wet goedgekeurd die de Europese Right to Repair-richtlijn implementeert. Dat moest eigenlijk al deze zomer gebeuren. In Nederland is die richtlijn nog steeds niet doorgevoerd.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254514/belgen-krijgen-langere-garantie-op-gerepareerde-producten.html#reacties</comments>
+  </item>
   <item>
     <title>Versio-klanten kunnen sites al weken niet beheren, nog geen oplossing in zicht</title>
     <link>https://tweakers.net/nieuws/254506/versio-klanten-kunnen-sites-al-weken-niet-beheren-nog-geen-oplossing-in-zicht.html</link>

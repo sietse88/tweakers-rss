@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 09:50:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 10:20:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5364,16 +5364,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253300/eu-keurt-verkoop-van-vodafoneziggos-zendmasten-voor-669-miljoen-euro-goed.html#reacties</comments>
-  </item>
-  <item>
-    <title>Provider Onze.nl neemt voortaan ook gesprekspartners op voor AI-transcripties</title>
-    <link>https://tweakers.net/nieuws/253230/provider-onze-punt-nl-neemt-voortaan-ook-gesprekspartners-op-voor-ai-transcripties.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253230</guid>
-    <pubDate>Wed, 14 Oct 2026 12:15:00 +0200</pubDate>
-    <description>De Nederlandse provider Onze.nl neemt voortaan audio van gesprekspartners op. Eerst verwerkte de provider alleen de stem van de beller. De geïntegreerde AI-assistent maakt hier vervolgens samenvattingen en transcripties van.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
-    <comments>https://tweakers.net/nieuws/253230/provider-onze-punt-nl-neemt-voortaan-ook-gesprekspartners-op-voor-ai-transcripties.html#reacties</comments>
   </item>
 </channel>
 </rss>

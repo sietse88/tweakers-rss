@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 07:50:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 08:20:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Google start voorverkoop van Gemini-bril, maar nog niet in Europa</title>
-    <link>https://tweakers.net/nieuws/254488/google-start-voorverkoop-van-gemini-bril-maar-nog-niet-in-europa.html</link>
+    <title>Google brengt Gemini-bril met Samsung-hardware uit vanaf 395 dollar</title>
+    <link>https://tweakers.net/nieuws/254488/google-brengt-gemini-bril-met-samsung-hardware-uit-vanaf-395-dollar.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254488</guid>
     <pubDate>Fri, 13 Nov 2026 08:31:29 +0100</pubDate>
     <description>Google heeft zijn nieuwe slimme brillen aangekondigd. De fabrikant gebruikt designs van Warby Parker en Gentle Monster en hardware van Samsung. De brillen zijn nu voor te bestellen en kosten minimaal 395 dollar. De levering begint op 10 december. Het is niet bekend wanneer de apparaten naar Europa komen.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartglasses</category>
-    <comments>https://tweakers.net/nieuws/254488/google-start-voorverkoop-van-gemini-bril-maar-nog-niet-in-europa.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254488/google-brengt-gemini-bril-met-samsung-hardware-uit-vanaf-395-dollar.html#reacties</comments>
   </item>
   <item>
     <title>Review - Call of Duty: Modern Warfare 4 - Doet denken aan vervlogen tijden</title>
@@ -5354,16 +5354,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253268/groep-nederlandse-bedrijven-werkt-samen-aan-identificatiewallet-mycheck.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google AI Plus-abonnees verliezen op 13 november toegang tot Pro-modellen Gemini</title>
-    <link>https://tweakers.net/nieuws/253296/google-ai-plus-abonnees-verliezen-op-13-november-toegang-tot-pro-modellen-gemini.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253296</guid>
-    <pubDate>Wed, 14 Oct 2026 10:06:04 +0200</pubDate>
-    <description>Google AI Plus-abonnees hebben vanaf 13 november geen toegang meer tot de Pro-modellen van Gemini. Ze kunnen dan alleen nog de Flash-Lite- en Flash-modellen gebruiken. Om Pro te kunnen blijven gebruiken moeten abonnees overstappen op het AI Pro-abonnement.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Software</category>
-    <comments>https://tweakers.net/nieuws/253296/google-ai-plus-abonnees-verliezen-op-13-november-toegang-tot-pro-modellen-gemini.html#reacties</comments>
   </item>
 </channel>
 </rss>

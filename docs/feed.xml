@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 12:05:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:20:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5354,16 +5354,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Gaming / VR-brillen</category>
     <comments>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html#reacties</comments>
-  </item>
-  <item>
-    <title>EDPB wil camerabrillen met fel licht en geluid laten waarschuwen</title>
-    <link>https://tweakers.net/nieuws/253306/edpb-wil-camerabrillen-met-fel-licht-en-geluid-laten-waarschuwen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253306</guid>
-    <pubDate>Wed, 14 Oct 2026 14:08:34 +0200</pubDate>
-    <description>De European Data Protection Board, waarin Europese privacytoezichthouders zijn verenigd, wil dat camerabrillen duidelijker aangeven dat ze filmen. In een rapport raadt de EDPB aan om ze te voorzien van felle ledlampjes en om ze een duidelijk audiosignaal te geven.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Privacy</category>
-    <comments>https://tweakers.net/nieuws/253306/edpb-wil-camerabrillen-met-fel-licht-en-geluid-laten-waarschuwen.html#reacties</comments>
   </item>
 </channel>
 </rss>

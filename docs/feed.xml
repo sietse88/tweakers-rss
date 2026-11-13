@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 08:35:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 08:50:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>AI laat Poolse Geralt na beroerte stemacteur weer klinken als in Witcher 3</title>
+    <link>https://tweakers.net/nieuws/254490/ai-laat-poolse-geralt-na-beroerte-stemacteur-weer-klinken-als-in-witcher-3.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254490</guid>
+    <pubDate>Fri, 13 Nov 2026 09:31:14 +0100</pubDate>
+    <description>Ontwikkelaar CD Projekt RED past de Poolse stem van Geralt met AI aan in de Songs of the Past-uitbreiding van The Witcher 3, meldt Game File. Dat doet de studio omdat stemacteur Jacek Rozenek in 2019 een beroerte had gehad. Daardoor was zijn stem veranderd.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254490/ai-laat-poolse-geralt-na-beroerte-stemacteur-weer-klinken-als-in-witcher-3.html#reacties</comments>
+  </item>
   <item>
     <title>Google brengt Gemini-bril met Samsung-hardware uit vanaf 395 dollar</title>
     <link>https://tweakers.net/nieuws/254488/google-brengt-gemini-bril-met-samsung-hardware-uit-vanaf-395-dollar.html</link>

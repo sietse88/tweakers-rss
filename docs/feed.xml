@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 19:20:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 19:50:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Corsairs Shift Crystal-voeding met doorzichtige zijpanelen kost 290 euro</title>
+    <link>https://tweakers.net/nieuws/254526/corsairs-shift-crystal-voeding-met-doorzichtige-zijpanelen-kost-290-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254526</guid>
+    <pubDate>Fri, 13 Nov 2026 20:37:00 +0100</pubDate>
+    <description>Corsair brengt de transparante HX1000i-voeding uit voor 290 euro. De HX1000i Shift Crystal is een modulaire voeding met aansluitingen aan de zijkant en een aansluiting die overbelasting van de 12V-2x6-kabels kan detecteren. Maar de voeding valt vooral op vanwege de drie doorzichtige plastic zijpanelen waardoor gebruikers de binnenkant van de psu kunnen zien.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Voedingen</category>
+    <comments>https://tweakers.net/nieuws/254526/corsairs-shift-crystal-voeding-met-doorzichtige-zijpanelen-kost-290-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Axelera's Titania-chip werkt met Lpddr-geheugen en past in bestaande datacenters</title>
     <link>https://tweakers.net/nieuws/254518/axeleras-titania-chip-werkt-met-lpddr-geheugen-en-past-in-bestaande-datacenters.html</link>

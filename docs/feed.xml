@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:35:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:50:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Humble Bundle zet vorm van 2fa weer terug na kritiek op 'gevibecode nieuwe UI'</title>
+    <link>https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecode-nieuwe-ui.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254516</guid>
+    <pubDate>Fri, 13 Nov 2026 17:36:35 +0100</pubDate>
+    <description>De digitale winkel Humble Bundle heeft na kritiek toch weer een vorm van tweetrapsauthenticatie toegevoegd. Eerder deze week ging de winkel volledig op de schop, wat volgens critici geen verbetering was. Daarbij werd tweetrapsauthenticatie juist verwijderd. Inmiddels vraagt Humble Bundle om e-mailverificatie, maar inloggen met authenticatieapps of sleutels is niet mogelijk.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecode-nieuwe-ui.html#reacties</comments>
+  </item>
   <item>
     <title>Belgen krijgen langere garantie op gerepareerde producten</title>
     <link>https://tweakers.net/nieuws/254514/belgen-krijgen-langere-garantie-op-gerepareerde-producten.html</link>

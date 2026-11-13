@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 13:05:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 15:49:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Versio-klanten kunnen sites al weken niet beheren, nog geen oplossing in zicht</title>
+    <link>https://tweakers.net/nieuws/254506/versio-klanten-kunnen-sites-al-weken-niet-beheren-nog-geen-oplossing-in-zicht.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254506</guid>
+    <pubDate>Fri, 13 Nov 2026 16:27:01 +0100</pubDate>
+    <description>Klanten van Versio kunnen na bijna twee maanden in veel gevallen nog steeds hun domeinen niet zelf beheren. De hostingprovider is bezig met het upgraden van de beheerdersomgeving, maar dat duurt al weken. Klanten moeten hun beheer regelen via de klantenservice, maar krijgen daar regelmatig pas na dagen antwoord.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Servers</category>
+    <comments>https://tweakers.net/nieuws/254506/versio-klanten-kunnen-sites-al-weken-niet-beheren-nog-geen-oplossing-in-zicht.html#reacties</comments>
+  </item>
+  <item>
+    <title>Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomewareaanval</title>
+    <link>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254512</guid>
+    <pubDate>Fri, 13 Nov 2026 16:02:57 +0100</pubDate>
+    <description>Transportgigant Maersk is getroffen door een ransomwareaanval. Hackers zijn de systemen van het bedrijf binnengedrongen en hebben gegevens gestolen, al lijken daar vooralsnog geen gevoelige gegevens bij te zitten. Ook heeft de aanval geen impact op de logistiek, zegt het bedrijf. Maersk was in 2017 ook een van de grootste slachtoffers van NotPetya. Dat was een van de eerste grote, notoir destructieve ransomwarevarianten.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html#reacties</comments>
+  </item>
+  <item>
+    <title>'SpaceX kondigt mogelijk in december fusie met Tesla aan'</title>
+    <link>https://tweakers.net/nieuws/254510/spacex-kondigt-mogelijk-in-december-fusie-met-tesla-aan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254510</guid>
+    <pubDate>Fri, 13 Nov 2026 15:21:44 +0100</pubDate>
+    <description>SpaceX en Tesla Inc. boeken vooruitgang in de onderhandelingen over een fusie, meldt Bloomberg. Volgens bronnen van het persbureau kondigen de twee bedrijven mogelijk al in december een overeenkomst aan.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254510/spacex-kondigt-mogelijk-in-december-fusie-met-tesla-aan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Purism werkt aan nieuwe versie van PureOS-telefoon Librem 5 met RISC-V-soc</title>
+    <link>https://tweakers.net/nieuws/254502/purism-werkt-aan-nieuwe-versie-van-pureos-telefoon-librem-5-met-risc-v-soc.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254502</guid>
+    <pubDate>Fri, 13 Nov 2026 15:11:06 +0100</pubDate>
+    <description>Purism is van plan om een nieuwe telefoon te maken. Het gaat om een nieuwe versie van de Librem 5, die op een RISC-V-processor moet draaien. Op de Librem 5 v2 moet net als op het eerdere model PureOS draaien. Purisms eerdere crowdfundingcampagne was geen succes. Het bedrijf leverde toen veel later dan het beloofde.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254502/purism-werkt-aan-nieuwe-versie-van-pureos-telefoon-librem-5-met-risc-v-soc.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackers stelen sleutels uit 1835 GitHub-repo's met gestolen inloggegevens</title>
+    <link>https://tweakers.net/nieuws/254452/hackers-stelen-sleutels-uit-1835-github-repos-met-gestolen-inloggegevens.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254452</guid>
+    <pubDate>Fri, 13 Nov 2026 15:01:33 +0100</pubDate>
+    <description>Hackers hebben met gestolen inloggegevens van GitHub-accounts van ontwikkelaars ingebroken op repository's om wachtwoorden en api-sleutels te stelen uit GitHub-projecten. Ze stalen gegevens van minimaal 1835 GitHub-repository's.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254452/hackers-stelen-sleutels-uit-1835-github-repos-met-gestolen-inloggegevens.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Jensen Huang weg bij Nvidia: hoe kwam het zover en wie kan hem opvolgen?</title>
+    <link>https://tweakers.net/reviews/15604/jensen-huang-weg-bij-nvidia-hoe-kwam-het-zover-en-wie-kan-hem-opvolgen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15604</guid>
+    <pubDate>Fri, 13 Nov 2026 15:00:00 +0100</pubDate>
+    <description>Jensen Huang stapt op als Nvidia-ceo, nadat meerdere schandalen aan het licht kwamen. Hoe moet het verder met het grootste chipbedrijf ter wereld?</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/reviews/15604/jensen-huang-weg-bij-nvidia-hoe-kwam-het-zover-en-wie-kan-hem-opvolgen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google introduceert goedkoper AI-model Gemini 4 Hydrogen als vervanger van Flash</title>
+    <link>https://tweakers.net/nieuws/254496/google-introduceert-goedkoper-ai-model-gemini-4-hydrogen-als-vervanger-van-flash.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254496</guid>
+    <pubDate>Fri, 13 Nov 2026 14:15:27 +0100</pubDate>
+    <description>Google heeft het AI-model Gemini 4 Hydrogen uitgebracht. Dat is goedkoper dan de eerder uitgebrachte Carbon- en Argon-modellen. Hydrogen vervangt Gemini 3.8 Flash. Het AI-model is beschikbaar voor alle betalende gebruikers in onder meer de Gemini-app en Google AI Studio.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254496/google-introduceert-goedkoper-ai-model-gemini-4-hydrogen-als-vervanger-van-flash.html#reacties</comments>
+  </item>
   <item>
     <title>CNN: geen doorslaggevend bewijs dat Alice Huang Chinese spion is</title>
     <link>https://tweakers.net/nieuws/254498/cnn-geen-doorslaggevend-bewijs-dat-alice-huang-chinese-spion-is.html</link>
@@ -5254,96 +5324,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253330/john-porter-stopt-als-ceo-van-telenet.html#reacties</comments>
-  </item>
-  <item>
-    <title>NRC: Amsterdamse politie geeft data Italiaanse hostingprovider aan Amerikanen</title>
-    <link>https://tweakers.net/nieuws/253328/nrc-amsterdamse-politie-geeft-data-italiaanse-hostingprovider-aan-amerikanen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253328</guid>
-    <pubDate>Wed, 14 Oct 2026 17:36:25 +0200</pubDate>
-    <description>De Amsterdamse politie heeft naar aanleiding van een Amerikaans rechtshulpverzoek servers van de opgeheven activistische Italiaanse hostingprovider Autistici/Inventati (A/I) in beslag genomen. Nadat de gegevens op de servers gedeeld zijn met de Amerikanen, krijgen de oorspronkelijke eigenaars hun bezittingen weer terug.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253328/nrc-amsterdamse-politie-geeft-data-italiaanse-hostingprovider-aan-amerikanen.html#reacties</comments>
-  </item>
-  <item>
-    <title>UWV trekt na vijf jaar stekker uit ict-project van 55 miljoen euro</title>
-    <link>https://tweakers.net/nieuws/253324/uwv-trekt-na-vijf-jaar-stekker-uit-ict-project-van-55-miljoen-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253324</guid>
-    <pubDate>Wed, 14 Oct 2026 17:15:59 +0200</pubDate>
-    <description>Het UWV stopt met het ict-project Bemiddelingsservice (BMS). Het project heeft tot dusver 55 miljoen euro gekost. Het digitale systeem moest werkgevers en werknemers aan elkaar koppelen, maar voldeed niet aan de verwachtingen van de uitkeringsinstantie.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253324/uwv-trekt-na-vijf-jaar-stekker-uit-ict-project-van-55-miljoen-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft breekt opnieuw patchrecord met fixes voor 1413 kwetsbaarheden</title>
-    <link>https://tweakers.net/nieuws/253298/microsoft-breekt-opnieuw-patchrecord-met-fixes-voor-1413-kwetsbaarheden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253298</guid>
-    <pubDate>Wed, 14 Oct 2026 16:45:05 +0200</pubDate>
-    <description>Microsoft verbreekt opnieuw zijn record voor het aantal kwetsbaarheden dat het fixt op Patch Tuesday. In oktober 2026 bracht de softwaremaker updates uit waarmee het 1413 kwetsbaarheden aanpakt. Het overgrote deel, 1102 stuks, zit in Windows. Aanvallers misbruiken er al een van.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/253298/microsoft-breekt-opnieuw-patchrecord-met-fixes-voor-1413-kwetsbaarheden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlandse regering gaat niet mee in bezwaar van Solvinity over overname DigiD</title>
-    <link>https://tweakers.net/nieuws/253322/nederlandse-regering-gaat-niet-mee-in-bezwaar-van-solvinity-over-overname-digid.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253322</guid>
-    <pubDate>Wed, 14 Oct 2026 16:44:01 +0200</pubDate>
-    <description>De Nederlandse regering wijst het bezwaar van Solvinity af. Dat bedrijf is de cloudleverancier van DigiD en wil het verbod op de overname door het Amerikaanse Kyndryl laten opheffen. Het ministerie van Economische Zaken blijft bij het besluit om de overname te blokkeren. Solvinity kan in beroep gaan.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253322/nederlandse-regering-gaat-niet-mee-in-bezwaar-van-solvinity-over-overname-digid.html#reacties</comments>
-  </item>
-  <item>
-    <title>MediaMarkt stopt verkoop van Ledger-cryptowallets na diefstal valuta</title>
-    <link>https://tweakers.net/nieuws/253320/mediamarkt-stopt-verkoop-van-ledger-cryptowallets-na-diefstal-valuta.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253320</guid>
-    <pubDate>Wed, 14 Oct 2026 16:20:48 +0200</pubDate>
-    <description>MediaMarkt verkoopt geen cryptowallets van het merk Ledger meer. De winkelketen neemt die beslissing omdat criminelen met gemanipuleerde apparaten ruim 100 miljoen dollar aan cryptovaluta hebben gestolen. De keten stopt de verkoop in zowel Nederland als België. In die landen zijn geen meldingen binnengekomen van een soortgelijk incident.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253320/mediamarkt-stopt-verkoop-van-ledger-cryptowallets-na-diefstal-valuta.html#reacties</comments>
-  </item>
-  <item>
-    <title>Arm verstoorde Qualcomms relatie met Meta, schadevergoeding is slechts 2 dollar</title>
-    <link>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253316</guid>
-    <pubDate>Wed, 14 Oct 2026 15:45:34 +0200</pubDate>
-    <description>Arm verstoorde Qualcomms relatie met Meta. Dat heeft een Amerikaanse rechter bepaald. Ook brak het bedrijf een contract met Qualcomm. Arm hoeft voor de overtredingen bij elkaar slechts een schadevergoeding van 2 dollar te betalen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253316/arm-verstoorde-qualcomms-relatie-met-meta-schadevergoeding-is-slechts-2-dollar.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fans willen New World vastleggen en zelf namaken voordat mmo offline gaat</title>
-    <link>https://tweakers.net/nieuws/253314/fans-willen-new-world-vastleggen-en-zelf-namaken-voordat-mmo-offline-gaat.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253314</guid>
-    <pubDate>Wed, 14 Oct 2026 15:44:03 +0200</pubDate>
-    <description>Fans van de mmo New World: Aeternum roepen de community op om het spel vast te leggen voordat het op 31 januari 2027 offline gaat. Het fanproject heet Azoth: Aeternum en moet een private communityserver voor New World worden. Het is onduidelijk of ontwikkelaar en uitgever Amazon Games het fanproject gedoogt.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253314/fans-willen-new-world-vastleggen-en-zelf-namaken-voordat-mmo-offline-gaat.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fairphone geeft Fairbuds 2 acht uur accuduur voor 119 euro</title>
-    <link>https://tweakers.net/nieuws/253308/fairphone-geeft-fairbuds-2-acht-uur-accuduur-voor-119-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253308</guid>
-    <pubDate>Wed, 14 Oct 2026 15:35:44 +0200</pubDate>
-    <description>De Nederlandse fabrikant Fairphone heeft zijn Fairbuds 2 aangekondigd. Deze draadloze oordopjes zijn kleiner en lichter dan het vorige model. Ook zou de accuduur langer zijn. De prijs van 119 euro is lager dan de introductieprijs van de eerste Fairbuds.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Oordopjes</category>
-    <comments>https://tweakers.net/nieuws/253308/fairphone-geeft-fairbuds-2-acht-uur-accuduur-voor-119-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Rockstar denkt volgende games sneller af te hebben dankzij Grand Theft Auto VI</title>
-    <link>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253312</guid>
-    <pubDate>Wed, 14 Oct 2026 15:13:12 +0200</pubDate>
-    <description>Rockstar Games noemt GTA VI een fundament voor volgende projecten. Daarom zouden toekomstige games van de ontwikkelaar minder ontwikkeltijd vergen. Daarnaast laat de studio weten dat een gebrek aan non-player characters (npc's) een van de redenen voor het uitstellen van de release was.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html#reacties</comments>
   </item>
 </channel>
 </rss>

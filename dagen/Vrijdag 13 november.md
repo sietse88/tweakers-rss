@@ -114,11 +114,11 @@ SpaceX en Tesla Inc. boeken vooruitgang in de onderhandelingen over een fusie, m
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254510/spacex-kondigt-mogelijk-in-december-fusie-met-tesla-aan.html)
 
-## Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomewareaanval
+## Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomwareaanval
 
 Transportgigant Maersk is getroffen door een ransomwareaanval. Hackers zijn de systemen van het bedrijf binnengedrongen en hebben gegevens gestolen, al lijken daar vooralsnog geen gevoelige gegevens bij te zitten. Ook heeft de aanval geen impact op de logistiek, zegt het bedrijf. Maersk was in 2017 ook een van de grootste slachtoffers van NotPetya. Dat was een van de eerste grote, notoir destructieve ransomwarevarianten.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomwareaanval.html)
 
 ## Versio-klanten kunnen sites al weken niet beheren, nog geen oplossing in zicht
 

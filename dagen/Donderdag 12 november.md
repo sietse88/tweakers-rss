@@ -180,8 +180,8 @@ Het Nederlandse internetknooppunt NL-ix zag in de nacht van dinsdag op woensdag 
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254466/internetknooppunt-nl-ix-ziet-recordverkeer-van-ruim-14tbit-s-door-gta-vi.html)
 
-## Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling uitdelen
+## Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling verdelen
 
 De Nederlandse overheid gaat de zendfrequenties voor 4G en 5G niet automatisch verlengen als de vergunningen daarvan aflopen. Dat gebeurt in 2030. In het jaar daarvoor wil de overheid een nieuwe frequentieveiling voor de 800-, 900-, 1800- en 2600MHz-banden houden.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-verdelen.html)

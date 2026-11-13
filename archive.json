@@ -4886,13 +4886,13 @@
  "https://tweakers.net/nieuws/254468": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Netwerk",
-  "comments": "https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-verdelen.html#reacties",
   "description": "De Nederlandse overheid gaat de zendfrequenties voor 4G en 5G niet automatisch verlengen als de vergunningen daarvan aflopen. Dat gebeurt in 2030. In het jaar daarvoor wil de overheid een nieuwe frequentieveiling voor de 800-, 900-, 1800- en 2600MHz-banden houden.",
   "first": "Thu, 12 Nov 2026 15:25:26 +0000",
   "guid": "https://tweakers.net/nieuws/254468",
-  "link": "https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html",
+  "link": "https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-verdelen.html",
   "pubDate": "Thu, 12 Nov 2026 16:15:56 +0100",
-  "title": "Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling uitdelen"
+  "title": "Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling verdelen"
  },
  "https://tweakers.net/nieuws/254470": {
   "author": "Tijs Hofmans",
@@ -5084,13 +5084,13 @@
  "https://tweakers.net/nieuws/254512": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomwareaanval.html#reacties",
   "description": "Transportgigant Maersk is getroffen door een ransomwareaanval. Hackers zijn de systemen van het bedrijf binnengedrongen en hebben gegevens gestolen, al lijken daar vooralsnog geen gevoelige gegevens bij te zitten. Ook heeft de aanval geen impact op de logistiek, zegt het bedrijf. Maersk was in 2017 ook een van de grootste slachtoffers van NotPetya. Dat was een van de eerste grote, notoir destructieve ransomwarevarianten.",
   "first": "Fri, 13 Nov 2026 15:49:46 +0000",
   "guid": "https://tweakers.net/nieuws/254512",
-  "link": "https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html",
+  "link": "https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomwareaanval.html",
   "pubDate": "Fri, 13 Nov 2026 16:02:57 +0100",
-  "title": "Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomewareaanval"
+  "title": "Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomwareaanval"
  },
  "https://tweakers.net/nieuws/254514": {
   "author": "Tijs Hofmans",
@@ -5146,6 +5146,17 @@
   "link": "https://tweakers.net/nieuws/254526/corsairs-shift-crystal-voeding-met-doorzichtige-zijpanelen-kost-290-euro.html",
   "pubDate": "Fri, 13 Nov 2026 20:37:00 +0100",
   "title": "Corsairs Shift Crystal-voeding met doorzichtige zijpanelen kost 290 euro"
+ },
+ "https://tweakers.net/nieuws/254528": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html#reacties",
+  "description": "Een van 's werelds grootste pokerwebsites, GGPoker, waarschuwt klanten voor een datalek. Daarbij zijn onder andere e-mailadressen en statistieken van spelers uitgelekt. Het platform zegt dat echte namen, identiteitsdocumenten of bankgegevens vooralsnog niet lijken te zijn gestolen. Desondanks gaat het om gevoelige informatie, omdat het een goksite betreft.",
+  "first": "Fri, 13 Nov 2026 20:05:39 +0000",
+  "guid": "https://tweakers.net/nieuws/254528",
+  "link": "https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html",
+  "pubDate": "Fri, 13 Nov 2026 20:56:49 +0100",
+  "title": "Grote pokersite GGPoker meldt datalek, maar ID-bewijzen en tegoeden zijn veilig"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

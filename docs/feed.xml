@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 19:50:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 20:05:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Grote pokersite GGPoker meldt datalek, maar ID-bewijzen en tegoeden zijn veilig</title>
+    <link>https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254528</guid>
+    <pubDate>Fri, 13 Nov 2026 20:56:49 +0100</pubDate>
+    <description>Een van 's werelds grootste pokerwebsites, GGPoker, waarschuwt klanten voor een datalek. Daarbij zijn onder andere e-mailadressen en statistieken van spelers uitgelekt. Het platform zegt dat echte namen, identiteitsdocumenten of bankgegevens vooralsnog niet lijken te zijn gestolen. Desondanks gaat het om gevoelige informatie, omdat het een goksite betreft.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html#reacties</comments>
+  </item>
   <item>
     <title>Corsairs Shift Crystal-voeding met doorzichtige zijpanelen kost 290 euro</title>
     <link>https://tweakers.net/nieuws/254526/corsairs-shift-crystal-voeding-met-doorzichtige-zijpanelen-kost-290-euro.html</link>
@@ -76,14 +86,14 @@
     <comments>https://tweakers.net/nieuws/254506/versio-klanten-kunnen-sites-al-weken-niet-beheren-nog-geen-oplossing-in-zicht.html#reacties</comments>
   </item>
   <item>
-    <title>Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomewareaanval</title>
-    <link>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html</link>
+    <title>Tien jaar na NotPetya is Maersk opnieuw slachtoffer van ransomwareaanval</title>
+    <link>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomwareaanval.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254512</guid>
     <pubDate>Fri, 13 Nov 2026 16:02:57 +0100</pubDate>
     <description>Transportgigant Maersk is getroffen door een ransomwareaanval. Hackers zijn de systemen van het bedrijf binnengedrongen en hebben gegevens gestolen, al lijken daar vooralsnog geen gevoelige gegevens bij te zitten. Ook heeft de aanval geen impact op de logistiek, zegt het bedrijf. Maersk was in 2017 ook een van de grootste slachtoffers van NotPetya. Dat was een van de eerste grote, notoir destructieve ransomwarevarianten.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomewareaanval.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254512/tien-jaar-na-notpetya-is-maersk-opnieuw-slachtoffer-van-ransomwareaanval.html#reacties</comments>
   </item>
   <item>
     <title>'SpaceX kondigt mogelijk in december fusie met Tesla aan'</title>
@@ -276,14 +286,14 @@
     <comments>https://tweakers.net/nieuws/254472/chinese-retailer-jd-punt-com-voltooit-overname-mediamarkt-eigenaar.html#reacties</comments>
   </item>
   <item>
-    <title>Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling uitdelen</title>
-    <link>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html</link>
+    <title>Nederland gaat 4G- en 5G-banden ook na 2030 weer via veiling verdelen</title>
+    <link>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-verdelen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254468</guid>
     <pubDate>Thu, 12 Nov 2026 16:15:56 +0100</pubDate>
     <description>De Nederlandse overheid gaat de zendfrequenties voor 4G en 5G niet automatisch verlengen als de vergunningen daarvan aflopen. Dat gebeurt in 2030. In het jaar daarvoor wil de overheid een nieuwe frequentieveiling voor de 800-, 900-, 1800- en 2600MHz-banden houden.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Netwerk</category>
-    <comments>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-uitdelen.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254468/nederland-gaat-4g-en-5g-banden-ook-na-2030-weer-via-veiling-verdelen.html#reacties</comments>
   </item>
   <item>
     <title>Internetknooppunt NL-ix ziet recordverkeer van ruim 14Tbit/s door GTA VI</title>

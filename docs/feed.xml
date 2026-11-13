@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 08:20:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 08:35:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -362,7 +362,7 @@
     <pubDate>Wed, 11 Nov 2026 16:49:48 +0100</pubDate>
     <description>Seagate kondigt de FireCuda Forge aan, een externe harde schijf met ruimte voor een M.2-ssd. Hij kost ten minste 856 euro exclusief ssd. Het apparaat werkt niet zonder een door de gebruiker geïnstalleerde ssd. Rond 2015 was de combinatie van een ssd en een hdd ook eventjes populair, maar sindsdien daalde de interesse hierin aanzienlijk.</description>
     <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Interne harde schijven</category>
+    <category>Nieuws / Computers / Externe harde schijven</category>
     <comments>https://tweakers.net/nieuws/254372/combinatie-van-ssd-en-hdd-keert-terug-met-seagate-firecuda-forge-van-8tb.html#reacties</comments>
   </item>
   <item>

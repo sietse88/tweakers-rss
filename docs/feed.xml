@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 17:35:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 17:50:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google geeft bedrijven korter de tijd om bugs te fixen vanwege AI</title>
+    <link>https://tweakers.net/nieuws/254520/google-geeft-bedrijven-korter-de-tijd-om-bugs-te-fixen-vanwege-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254520</guid>
+    <pubDate>Fri, 13 Nov 2026 18:45:41 +0100</pubDate>
+    <description>Google gaat de termijn verkorten waarbinnen bedrijven aangedragen bugs mogen repareren. Googles responsibledisclosurebeleid gaat nu uit van maximaal 120 dagen, maar dat gaat in stappen naar 30 dagen. Het gaat dan om bugs die Google vindt in diensten van andere bedrijven en via responsible disclosure bij hen onder de aandacht brengt. Google noemt AI en llm's als belangrijkste reden om de termijn te verkleinen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254520/google-geeft-bedrijven-korter-de-tijd-om-bugs-te-fixen-vanwege-ai.html#reacties</comments>
+  </item>
   <item>
     <title>Humble Bundle zet vorm van 2fa weer terug na kritiek op 'gevibecode nieuwe UI'</title>
     <link>https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecode-nieuwe-ui.html</link>

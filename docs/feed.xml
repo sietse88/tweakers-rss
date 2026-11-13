@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 13 Nov 2026 12:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 12:35:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253312/rockstar-denkt-volgende-games-sneller-af-te-hebben-dankzij-grand-theft-auto-vi.html#reacties</comments>
-  </item>
-  <item>
-    <title>Valve stopt Index-productie en verkoopt voorraad met 20 procent korting</title>
-    <link>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253304</guid>
-    <pubDate>Wed, 14 Oct 2026 14:23:43 +0200</pubDate>
-    <description>Valve stopt met de productie van de Index-VR-headset. Dit doet het bedrijf waarschijnlijk omdat het onlangs een nieuwe headset uitbracht, de Frame. De huidige voorraad Index-sets wordt met 20 procent korting verkocht. De basisstations voor tracking zijn al niet meer verkrijgbaar. De overige hardware blijft beschikbaar zolang de voorraad strekt.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Gaming / VR-brillen</category>
-    <comments>https://tweakers.net/nieuws/253304/valve-stopt-index-productie-en-verkoopt-voorraad-met-20-procent-korting.html#reacties</comments>
   </item>
 </channel>
 </rss>

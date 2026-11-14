@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 09:39:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 10:09:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Manjaro Linux krijgt een stichting die de code moet beheren na bestuurschaos</title>
+    <link>https://tweakers.net/nieuws/254530/manjaro-linux-krijgt-een-stichting-die-de-code-moet-beheren-na-bestuurschaos.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254530</guid>
+    <pubDate>Sat, 14 Nov 2026 10:55:49 +0100</pubDate>
+    <description>Manjaro Linux krijgt een stichting zonder winstoogmerk: het Manjaro Project e.V. De stichting wordt verantwoordelijk voor het verder ontwikkelen van de distro, terwijl de huidige commerciële tak van Manjaro blijft bestaan. Daarmee lijkt er eindelijk structuur te komen in de bestuurlijke chaos die het project de afgelopen maanden plaagde.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254530/manjaro-linux-krijgt-een-stichting-die-de-code-moet-beheren-na-bestuurschaos.html#reacties</comments>
+  </item>
   <item>
     <title>FT: Nvidia zou Rene Haas van Arm hebben benaderd om Jensen Huang op te volgen</title>
     <link>https://tweakers.net/nieuws/254538/ft-nvidia-zou-rene-haas-van-arm-hebben-benaderd-om-jensen-huang-op-te-volgen.html</link>

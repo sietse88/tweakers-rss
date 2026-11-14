@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 16:14:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 16:29:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5244,16 +5244,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253378/omzet-tsmc-stijgt-50-procent-naar-record-door-ai-vraag.html#reacties</comments>
-  </item>
-  <item>
-    <title>'YouTube wil audioboeken gaan aanbieden, mogelijk onderdeel van Premium'</title>
-    <link>https://tweakers.net/nieuws/253372/youtube-wil-audioboeken-gaan-aanbieden-mogelijk-onderdeel-van-premium.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253372</guid>
-    <pubDate>Thu, 15 Oct 2026 18:23:00 +0200</pubDate>
-    <description>YouTube zou in gesprek zijn met uitgevers om audioboeken aan te gaan bieden. Dat zou dan mogelijk onderdeel van YouTube Premium worden. Andere diensten, zoals Spotify, hebben audioboeken al veel langer.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Audio</category>
-    <comments>https://tweakers.net/nieuws/253372/youtube-wil-audioboeken-gaan-aanbieden-mogelijk-onderdeel-van-premium.html#reacties</comments>
   </item>
 </channel>
 </rss>

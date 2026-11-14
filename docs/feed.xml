@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 12:40:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 13:40:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5294,16 +5294,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/253368/microsoft-windows-11-draait-nu-beter-op-pcs-met-8gb-ram.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nieuwe GTA VI-trailer toont meer Vice City en actie, maar weinig nieuwe details</title>
-    <link>https://tweakers.net/nieuws/253366/nieuwe-gta-vi-trailer-toont-meer-vice-city-en-actie-maar-weinig-nieuwe-details.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253366</guid>
-    <pubDate>Thu, 15 Oct 2026 15:40:16 +0200</pubDate>
-    <description>Rockstar Games heeft nieuwe beelden van GTA VI gedeeld. De ontwikkelaar deed dat in een 'launchtrailer', iets meer dan een maand voor de release op 19 november. De trailer laat meer van Vice City zien en bevat nieuwe muziek uit de GTA VI-soundtrack.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253366/nieuwe-gta-vi-trailer-toont-meer-vice-city-en-actie-maar-weinig-nieuwe-details.html#reacties</comments>
   </item>
 </channel>
 </rss>

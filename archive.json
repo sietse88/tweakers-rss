@@ -10,17 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/nieuws/253354": {
-  "author": "Lumen Heijdendael",
-  "category": "Nieuws / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html#reacties",
-  "description": "Volgens Anthropic zijn kleine AI-modellen mogelijk binnen enkele maanden in staat om zichzelf te kopiëren naar apparaten die deel uitmaken van het internet of things (iot), zoals slimme ovens en Android TV-boxes. Het bedrijf zegt dat het dan moeilijk zou zijn om de modellen uit te schakelen, omdat ze onafhankelijk van een datacenter werken.",
-  "first": "Thu, 15 Oct 2026 12:17:25 +0000",
-  "guid": "https://tweakers.net/nieuws/253354",
-  "link": "https://tweakers.net/nieuws/253354/anthropic-waarschuwt-dat-kleine-ai-zich-binnen-maanden-naar-iot-kan-kopieren.html",
-  "pubDate": "Thu, 15 Oct 2026 14:05:05 +0200",
-  "title": "Anthropic waarschuwt dat kleine AI zich binnen maanden naar iot kan kopiëren"
- },
  "https://tweakers.net/nieuws/253358": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
@@ -31,17 +20,6 @@
   "link": "https://tweakers.net/nieuws/253358/webwinkel-nbb-waarschuwt-klanten-voor-hack-nederlandse-website-offline.html",
   "pubDate": "Thu, 15 Oct 2026 17:06:33 +0200",
   "title": "Webwinkel NBB waarschuwt klanten voor hack, Nederlandse website offline - update"
- },
- "https://tweakers.net/nieuws/253362": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-en-website-blijven-offline.html#reacties",
-  "description": "Albert Heijn heeft zijn IT-systemen voor de distributie van producten naar zijn supermarkten hersteld na de hackaanval. De app en website van het bedrijf zijn echter nog offline. Ook klantgerichte zaken als persoonlijke kortingen, spaaracties en Koopzegels zijn nog altijd niet beschikbaar.",
-  "first": "Thu, 15 Oct 2026 12:17:25 +0000",
-  "guid": "https://tweakers.net/nieuws/253362",
-  "link": "https://tweakers.net/nieuws/253362/albert-heijn-herstelt-distributie-maar-app-en-website-blijven-offline.html",
-  "pubDate": "Thu, 15 Oct 2026 14:08:22 +0200",
-  "title": "Albert Heijn herstelt distributie, maar app en website blijven offline"
  },
  "https://tweakers.net/nieuws/253364": {
   "author": "Daan van Monsjou",
@@ -5040,13 +5018,13 @@
  "https://tweakers.net/nieuws/254516": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecode-nieuwe-ui.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecodede-nieuwe-ui.html#reacties",
   "description": "De digitale winkel Humble Bundle heeft na kritiek toch weer een vorm van tweetrapsauthenticatie toegevoegd. Eerder deze week ging de winkel volledig op de schop, wat volgens critici geen verbetering was. Daarbij werd tweetrapsauthenticatie juist verwijderd. Inmiddels vraagt Humble Bundle om e-mailverificatie, maar inloggen met authenticatieapps of sleutels is niet mogelijk.",
   "first": "Fri, 13 Nov 2026 16:50:06 +0000",
   "guid": "https://tweakers.net/nieuws/254516",
-  "link": "https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecode-nieuwe-ui.html",
+  "link": "https://tweakers.net/nieuws/254516/humble-bundle-zet-vorm-van-2fa-weer-terug-na-kritiek-op-gevibecodede-nieuwe-ui.html",
   "pubDate": "Fri, 13 Nov 2026 17:36:35 +0100",
-  "title": "Humble Bundle zet vorm van 2fa weer terug na kritiek op 'gevibecode nieuwe UI'"
+  "title": "Humble Bundle zet vorm van 2fa weer terug na kritiek op 'gevibecodede nieuwe UI'"
  },
  "https://tweakers.net/nieuws/254518": {
   "author": "Tijs Hofmans",
@@ -5289,17 +5267,6 @@
   "link": "https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html",
   "pubDate": "Fri, 16 Oct 2026 15:00:00 +0200",
   "title": "Review - ASUS ROG XBOX Ally X20 Anniversary Edition - Het beste scherm voor de hoofdprijs"
- },
- "https://tweakers.net/reviews/15448": {
-  "author": "Jelle Stuip",
-  "category": "Review / Computers / Laptops",
-  "comments": "https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html#reacties",
-  "description": "Nvidia debuteert als fabrikant van laptop-cpu's met zijn RTX Spark. We testen de ASUS ProArt P16, een van de eerste laptops met Nvidia's eerste laptopprocessor.",
-  "first": "Thu, 15 Oct 2026 12:02:22 +0000",
-  "guid": "https://tweakers.net/reviews/15448",
-  "link": "https://tweakers.net/reviews/15448/asus-proart-p16-met-nvidia-rtx-spark-cpu-nvidias-eerste-cpu-smaakt-naar-meer.html",
-  "pubDate": "Thu, 15 Oct 2026 14:00:00 +0200",
-  "title": "Review - ASUS ProArt P16 met Nvidia RTX Spark-cpu - Nvidia's eerste cpu smaakt naar meer"
  },
  "https://tweakers.net/reviews/15450": {
   "author": "Yannick Spinner",

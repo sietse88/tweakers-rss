@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 14:10:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 15:44:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5254,36 +5254,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Audio</category>
     <comments>https://tweakers.net/nieuws/253372/youtube-wil-audioboeken-gaan-aanbieden-mogelijk-onderdeel-van-premium.html#reacties</comments>
-  </item>
-  <item>
-    <title>Branchevereniging hosters stuurt politie brandbrief over kopiëren server voor VS</title>
-    <link>https://tweakers.net/nieuws/253376/branchevereniging-hosters-stuurt-politie-brandbrief-over-kopieren-server-voor-vs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253376</guid>
-    <pubDate>Thu, 15 Oct 2026 17:23:25 +0200</pubDate>
-    <description>De Nederlandse branchevereniging voor hosting- en cloudbedrijven heeft een brandbrief naar de politie gestuurd over het in beslag nemen en kopiëren van de server van een Italiaanse dienstenaanbieder voor een Amerikaanse overheidsdienst.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253376/branchevereniging-hosters-stuurt-politie-brandbrief-over-kopieren-server-voor-vs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Webwinkel NBB waarschuwt klanten voor hack, Nederlandse website offline - update</title>
-    <link>https://tweakers.net/nieuws/253358/webwinkel-nbb-waarschuwt-klanten-voor-hack-nederlandse-website-offline.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253358</guid>
-    <pubDate>Thu, 15 Oct 2026 17:06:33 +0200</pubDate>
-    <description>Duitse webwinkel NBB is slachtoffer geworden van een hack. Daarbij zijn e-mailadressen buitgemaakt, en mogelijk ook andere gegevens zoals IBAN-nummers. Ook de Nederlandse webwinkel van NBB is momenteel offline.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253358/webwinkel-nbb-waarschuwt-klanten-voor-hack-nederlandse-website-offline.html#reacties</comments>
-  </item>
-  <item>
-    <title>Canonical brengt Ubuntu 26.10 uit met Gnome 51, betere windowsnapping en meer</title>
-    <link>https://tweakers.net/nieuws/253370/canonical-brengt-ubuntu-2610-uit-met-gnome-51-betere-windowsnapping-en-meer.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253370</guid>
-    <pubDate>Thu, 15 Oct 2026 16:56:16 +0200</pubDate>
-    <description>Canonical heeft Ubuntu-versie 26.10 uitgebracht. Deze Linux-distro draagt de codenaam 'Stonking Stingray' en krijgt onder meer een upgrade naar Gnome 51. Het OS is vanaf nu te downloaden.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/253370/canonical-brengt-ubuntu-2610-uit-met-gnome-51-betere-windowsnapping-en-meer.html#reacties</comments>
   </item>
 </channel>
 </rss>

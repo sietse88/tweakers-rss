@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 17:14:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 18:44:56 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5214,16 +5214,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
     <comments>https://tweakers.net/nieuws/253386/google-geeft-links-prominentere-plaats-in-ai-antwoorden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Directeur Apple wil nog steeds Chinese geheugenchips gebruiken ondanks weerstand</title>
-    <link>https://tweakers.net/nieuws/253384/directeur-apple-wil-nog-steeds-chinese-geheugenchips-gebruiken-ondanks-weerstand.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253384</guid>
-    <pubDate>Thu, 15 Oct 2026 20:36:10 +0200</pubDate>
-    <description>De nieuwe ceo van Apple, John Ternus, wil nog steeds de mogelijkheid hebben om geheugen van Chinese fabrikanten te gebruiken. Amerikaanse politici zijn daartegen, maar volgens Ternus moet de optie op tafel blijven liggen.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Geheugen intern</category>
-    <comments>https://tweakers.net/nieuws/253384/directeur-apple-wil-nog-steeds-chinese-geheugenchips-gebruiken-ondanks-weerstand.html#reacties</comments>
   </item>
 </channel>
 </rss>

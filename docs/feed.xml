@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 04:14:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 05:15:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Philips OLED911-tv – Een titaan, ondanks Titan</title>
+    <link>https://tweakers.net/reviews/15540/philips-oled911-tv-een-titaan-ondanks-titan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15540</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0100</pubDate>
+    <description>De Philips OLED911 is een geduchte concurrent voor de LG G6 en Samsung S99H. In deze review lees je waarom.</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Review / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15540/philips-oled911-tv-een-titaan-ondanks-titan.html#reacties</comments>
+  </item>
   <item>
     <title>Grote pokersite GGPoker meldt datalek, maar ID-bewijzen en tegoeden zijn veilig</title>
     <link>https://tweakers.net/nieuws/254528/grote-pokersite-ggpoker-meldt-datalek-maar-id-bewijzen-en-tegoeden-zijn-veilig.html</link>

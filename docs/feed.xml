@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 10:24:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 10:54:54 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>In 2026 werden al meer dan twee keer zoveel CVE-bugs geregistreerd als in 2025</title>
+    <link>https://tweakers.net/nieuws/254534/in-2026-werden-al-meer-dan-twee-keer-zoveel-cve-bugs-geregistreerd-als-in-2025.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254534</guid>
+    <pubDate>Sat, 14 Nov 2026 11:43:29 +0100</pubDate>
+    <description>Er zijn in 2026 al meer dan 100.000 bugs geregistreerd met een CVE-nummer, stelt securitybedrijf VulnCheck. Dat zijn er meer dan twee keer zoveel als in heel 2025. Dat komt voornamelijk door kunstmatige intelligentie, die in rap tempo nieuwe kwetsbaarheden vindt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254534/in-2026-werden-al-meer-dan-twee-keer-zoveel-cve-bugs-geregistreerd-als-in-2025.html#reacties</comments>
+  </item>
   <item>
     <title>Manjaro Linux krijgt een stichting die de code moet beheren na bestuurschaos</title>
     <link>https://tweakers.net/nieuws/254530/manjaro-linux-krijgt-een-stichting-die-de-code-moet-beheren-na-bestuurschaos.html</link>

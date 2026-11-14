@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 14 Nov 2026 11:40:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 11:55:09 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rocket Lab haalt in 9 jaar belangrijke mijlpaal van 100 Electron-lanceringen</title>
+    <link>https://tweakers.net/nieuws/254536/rocket-lab-haalt-in-9-jaar-belangrijke-mijlpaal-van-100-electron-lanceringen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254536</guid>
+    <pubDate>Sat, 14 Nov 2026 12:41:59 +0100</pubDate>
+    <description>Rocket Lab heeft voor de honderdste keer een Electron-raket gelanceerd. Het bedrijf lanceerde op zaterdagochtend een raket vanaf zijn eigen lanceerplatform in Nieuw-Zeeland, waarmee het het record behaalde. De eerste Electron ging in 2017 omhoog.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254536/rocket-lab-haalt-in-9-jaar-belangrijke-mijlpaal-van-100-electron-lanceringen.html#reacties</comments>
+  </item>
   <item>
     <title>Astro Bot is de eerste PlayStation-exclusive die een modder naar de pc brengt</title>
     <link>https://tweakers.net/nieuws/254542/astro-bot-is-de-eerste-playstation-exclusive-die-een-modder-naar-de-pc-brengt.html</link>

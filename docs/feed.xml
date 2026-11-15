@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:53:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 19:23:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5044,16 +5044,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Review / Gaming / Games</category>
     <comments>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html#reacties</comments>
-  </item>
-  <item>
-    <title>DayZ-ontwikkelaar komt met eigen open source framework om game-engines te maken</title>
-    <link>https://tweakers.net/nieuws/253438/dayz-ontwikkelaar-komt-met-eigen-open-source-framework-om-game-engines-te-maken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253438</guid>
-    <pubDate>Fri, 16 Oct 2026 21:17:24 +0200</pubDate>
-    <description>Gameontwikkelaar Dean Hall, bekend van onder andere DayZ, heeft zijn framework voor game-engines Brutal vrijgegeven aan iedereen. Dat gebeurt kort nadat RimWorld overstapte op een nieuwe engine die met Brutal is gemaakt. Brutal is een C#-framework dat onder een zelfgeschreven licentie beschikbaar is, wat betekent dat de tool ook commercieel gebruikt mag worden zolang daar maar naar verwezen wordt.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253438/dayz-ontwikkelaar-komt-met-eigen-open-source-framework-om-game-engines-te-maken.html#reacties</comments>
   </item>
 </channel>
 </rss>

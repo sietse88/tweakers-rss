@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 09:01:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 10:01:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5164,16 +5164,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
     <comments>https://tweakers.net/nieuws/253398/twee-mac-studios-met-m5-ultra-kunnen-metas-muse-spark-open-model-draaien.html#reacties</comments>
-  </item>
-  <item>
-    <title>Investeringsbedrijf Apax neemt Odido volledig over</title>
-    <link>https://tweakers.net/nieuws/253400/investeringsbedrijf-apax-neemt-odido-volledig-over.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253400</guid>
-    <pubDate>Fri, 16 Oct 2026 11:47:22 +0200</pubDate>
-    <description>Apax Partners neemt Nederlandse telecomprovider Odido volledig over. Het investeringsbedrijf was al voor de helft eigenaar van Odido, maar koopt nu mede-eigenaar Warburg Pincus uit. Het bedrijf deelt weinig details over de overname, die nog moet worden goedgekeurd.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253400/investeringsbedrijf-apax-neemt-odido-volledig-over.html#reacties</comments>
   </item>
 </channel>
 </rss>

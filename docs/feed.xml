@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 04:00:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 05:15:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - 25 jaar XBOX: van geliefde underdog naar wankelend zorgenkind</title>
+    <link>https://tweakers.net/reviews/15566/25-jaar-xbox-van-geliefde-underdog-naar-wankelend-zorgenkind.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15566</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0100</pubDate>
+    <description>XBOX is 25 jaar oud. Het consolemerk deed het bij vlagen goed, maar kon nooit écht Sony naar de kroon steken. De toekomst van XBOX is bovendien onzeker.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Achtergrond / Gaming / Consoles</category>
+    <comments>https://tweakers.net/reviews/15566/25-jaar-xbox-van-geliefde-underdog-naar-wankelend-zorgenkind.html#reacties</comments>
+  </item>
   <item>
     <title>Rocket Lab haalt in 9 jaar belangrijke mijlpaal van 100 Electron-lanceringen</title>
     <link>https://tweakers.net/nieuws/254536/rocket-lab-haalt-in-9-jaar-belangrijke-mijlpaal-van-100-electron-lanceringen.html</link>

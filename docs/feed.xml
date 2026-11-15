@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 14:07:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 14:52:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5124,16 +5124,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253422/china-wil-exportbeperking-voor-ai-modellen-en-zonnepanelen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple vermeldt onbekend modelnummer van iPad mini-hoes op eigen site</title>
-    <link>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253408</guid>
-    <pubDate>Fri, 16 Oct 2026 16:41:35 +0200</pubDate>
-    <description>Op Apples website is een modelnummer van een iPad mini-hoesje verschenen dat nog niet is aangekondigd. Op de site verwijst de fabrikant naar het modelnummer A3632. Er gaan al een tijd geruchten dat Apple op 27 oktober een iPad mini met een oledscherm zal onthullen.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Tablets</category>
-    <comments>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html#reacties</comments>
   </item>
 </channel>
 </rss>

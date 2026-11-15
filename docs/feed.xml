@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 08:46:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 09:01:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bright.nl, VI.nl en andere websites verspreidden iPhone-malware via advertenties</title>
+    <link>https://tweakers.net/nieuws/254546/bright-punt-nl-vi-punt-nl-en-andere-websites-verspreidden-iphone-malware-via-advertenties.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254546</guid>
+    <pubDate>Sun, 15 Nov 2026 09:54:17 +0100</pubDate>
+    <description>Bright.nl, VI.nl en andere websites waarschuwen dat ze begin november onbewust kwaadaardige code verspreidden via advertenties. De sites melden dat het advertentiesysteem dat ze gebruikten werd gehackt om bezoekersgegevens te vergaren en iPhones met verouderde iOS-versies te hacken.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254546/bright-punt-nl-vi-punt-nl-en-andere-websites-verspreidden-iphone-malware-via-advertenties.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - 25 jaar XBOX: van geliefde underdog naar wankelend zorgenkind</title>
     <link>https://tweakers.net/reviews/15566/25-jaar-xbox-van-geliefde-underdog-naar-wankelend-zorgenkind.html</link>

@@ -10,17 +10,6 @@
   "pubDate": "Wed, 21 Oct 2026 11:30:00 +0200",
   "title": "Best Buy Guide - Beste gamingmonitoren"
  },
- "https://tweakers.net/nieuws/253404": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html#reacties",
-  "description": "Microsoft maakt het beveiligingspakket Defender in zakelijke omgevingen ook beschikbaar voor Linux-desktops. Defender for Endpoint op Linux-servers kan met een nieuwe publieke preview ook eindapparaten van gebruikers beschermen als die op Linux draaien. Het gaat dus niet om een Linux-port van Defender voor Windows.",
-  "first": "Fri, 16 Oct 2026 13:05:42 +0000",
-  "guid": "https://tweakers.net/nieuws/253404",
-  "link": "https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html",
-  "pubDate": "Fri, 16 Oct 2026 14:51:47 +0200",
-  "title": "Defender voor Linux-servers beschermt voortaan ook zakelijke workstations"
- },
  "https://tweakers.net/nieuws/253408": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / Tablets en telefoons / Tablets",
@@ -31,39 +20,6 @@
   "link": "https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html",
   "pubDate": "Fri, 16 Oct 2026 16:41:35 +0200",
   "title": "Apple vermeldt onbekend modelnummer van iPad mini-hoes op eigen site"
- },
- "https://tweakers.net/nieuws/253410": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Besturingssystemen",
-  "comments": "https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html#reacties",
-  "description": "De Steam-client voor Linux wordt 64bit. Dat bevestigt Valve in de patchnotes van zijn nieuwste Steam-bèta-update. Vorig jaar maakte Valve de overstap naar 64bit al op Windows. Wanneer de 64bit-versie voor Linux algemeen beschikbaar komt, is nog niet bekend.",
-  "first": "Fri, 16 Oct 2026 13:50:49 +0000",
-  "guid": "https://tweakers.net/nieuws/253410",
-  "link": "https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html",
-  "pubDate": "Fri, 16 Oct 2026 15:41:42 +0200",
-  "title": "Valve maakt Steam-client voor Linux 64bit in nieuwste bèta"
- },
- "https://tweakers.net/nieuws/253418": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / IT Pro / Internettoegang",
-  "comments": "https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html#reacties",
-  "description": "Het Nederlandse internetknooppunt NL-ix neemt een Zweedse concurrent over. De Netherlands Internet Exchange wil met de overname van de Stockholm Internet eXchange (Sthix) uitbreiden naar de rest van Europa. Sthix is nu onderdeel van de Noorse Glesys.",
-  "first": "Fri, 16 Oct 2026 13:35:46 +0000",
-  "guid": "https://tweakers.net/nieuws/253418",
-  "link": "https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html",
-  "pubDate": "Fri, 16 Oct 2026 15:24:33 +0200",
-  "title": "Internetknooppunt NL-ix neemt Zweeds knooppunt Sthix over"
- },
- "https://tweakers.net/nieuws/253420": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Videokaarten",
-  "comments": "https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html#reacties",
-  "description": "De RTX 5090 staat niet meer in Nvidia's eigen Marketplace-webshop in de VS. Het bedrijf geeft geen reden voor de verdwijning van dat topmodel. Er gaan al langer geruchten rond dat Nvidia de RTX 5090 gaat uitfaseren, maar het bedrijf wil daarop niet reageren.",
-  "first": "Fri, 16 Oct 2026 13:35:46 +0000",
-  "guid": "https://tweakers.net/nieuws/253420",
-  "link": "https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html",
-  "pubDate": "Fri, 16 Oct 2026 15:18:13 +0200",
-  "title": "Nvidia haalt RTX 5090 uit Amerikaanse webshop na geruchten over productiestop"
  },
  "https://tweakers.net/nieuws/253422": {
   "author": "Tijs Hofmans",
@@ -4971,6 +4927,17 @@
   "pubDate": "Sun, 15 Nov 2026 10:59:30 +0100",
   "title": "Meta had toegang tot ongedeelde foto's en video's, krijgt grote boete in Italië"
  },
+ "https://tweakers.net/nieuws/254550": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html#reacties",
+  "description": "Een routerupgrade door een lokale aannemer op een afgelegen locatie zou de oorzaak zijn voor het landelijke lamleggen van Amerikaans vliegverkeer dit weekend. De verstoring zou dus niet door een cyberaanval of een mislukte implementatie van een gepland AI-systeem zijn veroorzaakt.",
+  "first": "Sun, 15 Nov 2026 14:07:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254550",
+  "link": "https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html",
+  "pubDate": "Sun, 15 Nov 2026 13:49:22 +0100",
+  "title": "Transportminister VS wijt nationale vliegstoring aan routerupgrade door aannemer"
+ },
  "https://tweakers.net/nieuws/254552": {
   "author": "Jasper Bakker",
   "category": "Nieuws / Computers / Videokaarten",
@@ -5102,17 +5069,6 @@
   "link": "https://tweakers.net/reviews/15432/philips-oled951-tv-luxe-en-veelzijdig-maar-minder-smart.html",
   "pubDate": "Fri, 23 Oct 2026 06:00:00 +0200",
   "title": "Review - Philips OLED951-tv – Luxe en veelzijdig, maar minder smart"
- },
- "https://tweakers.net/reviews/15446": {
-  "author": "Jelle Stuip",
-  "category": "Review / Gaming / Consoles",
-  "comments": "https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html#reacties",
-  "description": "De X20 is de verjaardagseditie van de XBOX Ally. Welke slingers heeft ASUS aan dit nieuwe model gehangen?",
-  "first": "Fri, 16 Oct 2026 13:05:42 +0000",
-  "guid": "https://tweakers.net/reviews/15446",
-  "link": "https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html",
-  "pubDate": "Fri, 16 Oct 2026 15:00:00 +0200",
-  "title": "Review - ASUS ROG XBOX Ally X20 Anniversary Edition - Het beste scherm voor de hoofdprijs"
  },
  "https://tweakers.net/reviews/15450": {
   "author": "Yannick Spinner",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 15 Nov 2026 12:46:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 14:07:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Transportminister VS wijt nationale vliegstoring aan routerupgrade door aannemer</title>
+    <link>https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254550</guid>
+    <pubDate>Sun, 15 Nov 2026 13:49:22 +0100</pubDate>
+    <description>Een routerupgrade door een lokale aannemer op een afgelegen locatie zou de oorzaak zijn voor het landelijke lamleggen van Amerikaans vliegverkeer dit weekend. De verstoring zou dus niet door een cyberaanval of een mislukte implementatie van een gepland AI-systeem zijn veroorzaakt.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html#reacties</comments>
+  </item>
   <item>
     <title>Musk, Sweeney en andere belanghebbenden willen terugkeer van Nvidia-ceo Huang</title>
     <link>https://tweakers.net/nieuws/254552/musk-sweeney-en-andere-belanghebbenden-willen-terugkeer-van-nvidia-ceo-huang.html</link>
@@ -5124,56 +5134,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / Tablets en telefoons / Tablets</category>
     <comments>https://tweakers.net/nieuws/253408/apple-vermeldt-onbekend-modelnummer-van-ipad-mini-hoes-op-eigen-site.html#reacties</comments>
-  </item>
-  <item>
-    <title>Valve maakt Steam-client voor Linux 64bit in nieuwste bèta</title>
-    <link>https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253410</guid>
-    <pubDate>Fri, 16 Oct 2026 15:41:42 +0200</pubDate>
-    <description>De Steam-client voor Linux wordt 64bit. Dat bevestigt Valve in de patchnotes van zijn nieuwste Steam-bèta-update. Vorig jaar maakte Valve de overstap naar 64bit al op Windows. Wanneer de 64bit-versie voor Linux algemeen beschikbaar komt, is nog niet bekend.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/253410/valve-maakt-steam-client-voor-linux-64bit-in-nieuwste-beta.html#reacties</comments>
-  </item>
-  <item>
-    <title>Internetknooppunt NL-ix neemt Zweeds knooppunt Sthix over</title>
-    <link>https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253418</guid>
-    <pubDate>Fri, 16 Oct 2026 15:24:33 +0200</pubDate>
-    <description>Het Nederlandse internetknooppunt NL-ix neemt een Zweedse concurrent over. De Netherlands Internet Exchange wil met de overname van de Stockholm Internet eXchange (Sthix) uitbreiden naar de rest van Europa. Sthix is nu onderdeel van de Noorse Glesys.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Internettoegang</category>
-    <comments>https://tweakers.net/nieuws/253418/internetknooppunt-nl-ix-neemt-zweeds-knooppunt-sthix-over.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nvidia haalt RTX 5090 uit Amerikaanse webshop na geruchten over productiestop</title>
-    <link>https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253420</guid>
-    <pubDate>Fri, 16 Oct 2026 15:18:13 +0200</pubDate>
-    <description>De RTX 5090 staat niet meer in Nvidia's eigen Marketplace-webshop in de VS. Het bedrijf geeft geen reden voor de verdwijning van dat topmodel. Er gaan al langer geruchten rond dat Nvidia de RTX 5090 gaat uitfaseren, maar het bedrijf wil daarop niet reageren.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/253420/nvidia-haalt-rtx-5090-uit-amerikaanse-webshop-na-geruchten-over-productiestop.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - ASUS ROG XBOX Ally X20 Anniversary Edition - Het beste scherm voor de hoofdprijs</title>
-    <link>https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15446</guid>
-    <pubDate>Fri, 16 Oct 2026 15:00:00 +0200</pubDate>
-    <description>De X20 is de verjaardagseditie van de XBOX Ally. Welke slingers heeft ASUS aan dit nieuwe model gehangen?</description>
-    <dc:creator>Jelle Stuip</dc:creator>
-    <category>Review / Gaming / Consoles</category>
-    <comments>https://tweakers.net/reviews/15446/asus-rog-xbox-ally-x20-anniversary-edition-het-beste-scherm-voor-de-hoofdprijs.html#reacties</comments>
-  </item>
-  <item>
-    <title>Defender voor Linux-servers beschermt voortaan ook zakelijke workstations</title>
-    <link>https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253404</guid>
-    <pubDate>Fri, 16 Oct 2026 14:51:47 +0200</pubDate>
-    <description>Microsoft maakt het beveiligingspakket Defender in zakelijke omgevingen ook beschikbaar voor Linux-desktops. Defender for Endpoint op Linux-servers kan met een nieuwe publieke preview ook eindapparaten van gebruikers beschermen als die op Linux draaien. Het gaat dus niet om een Linux-port van Defender voor Windows.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253404/defender-voor-linux-servers-beschermt-voortaan-ook-zakelijke-workstations.html#reacties</comments>
   </item>
 </channel>
 </rss>

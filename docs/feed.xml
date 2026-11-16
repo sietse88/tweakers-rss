@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 05:06:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 06:06:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Zonnestroomboiler Nymo krijgt app om te sturen op dynamische energieprijzen</title>
+    <link>https://tweakers.net/nieuws/254416/zonnestroomboiler-nymo-krijgt-app-om-te-sturen-op-dynamische-energieprijzen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254416</guid>
+    <pubDate>Mon, 16 Nov 2026 07:00:00 +0100</pubDate>
+    <description>Solyx Energy heeft een app uitgebracht voor de Nymo. Dat is een aparte vermogensregelaar die te koppelen is aan een elektrische boiler om die slim te maken. De boiler verwarmt dan kraanwater als de zonnepanelen van een huis meer stroom produceren dan het huis verbruikt. Met de app kan de Nymo straks de boiler aansturen op basis van dynamische energieprijzen.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254416/zonnestroomboiler-nymo-krijgt-app-om-te-sturen-op-dynamische-energieprijzen.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Samduo Nex E6000-thuisbatterij - Goede prestaties in extreem platte kast</title>
     <link>https://tweakers.net/reviews/15530/samduo-nex-e6000-thuisbatterij-goede-prestaties-in-extreem-platte-kast.html</link>

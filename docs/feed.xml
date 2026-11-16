@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 10:22:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 11:22:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft: volgende XBOX draait niet om 8k of 240fps, maar om nieuwe gameplay</title>
+    <link>https://tweakers.net/nieuws/254564/microsoft-volgende-xbox-draait-niet-om-8k-of-240fps-maar-om-nieuwe-gameplay.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254564</guid>
+    <pubDate>Mon, 16 Nov 2026 12:16:14 +0100</pubDate>
+    <description>De volgende XBOX-console, nu bekend onder de naam Project Helix, draait niet om hogere resoluties of framerates, maar om innovatieve vormen van gameplay die nu nog niet mogelijk zijn. Dat zegt een Microsoft-topman in een interview.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254564/microsoft-volgende-xbox-draait-niet-om-8k-of-240fps-maar-om-nieuwe-gameplay.html#reacties</comments>
+  </item>
   <item>
     <title>Mislukte lancering van Vulcan-raket kost Amazon veertig internetsatellieten</title>
     <link>https://tweakers.net/nieuws/254562/mislukte-lancering-van-vulcan-raket-kost-amazon-veertig-internetsatellieten.html</link>
@@ -5054,16 +5064,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>.Community / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/reviews/15472/nooit-eerder-kregen-we-zoveel-tips-van-lezers-binnen-als-in-september.html#reacties</comments>
-  </item>
-  <item>
-    <title>Fanatec toont Project Obsidian-simracingstuur met 5"-lcd en SimHub-ondersteuning</title>
-    <link>https://tweakers.net/nieuws/253448/fanatec-toont-project-obsidian-simracingstuur-met-5-inch-lcd-en-simhub-ondersteuning.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253448</guid>
-    <pubDate>Sat, 17 Oct 2026 13:17:51 +0200</pubDate>
-    <description>Fanatec heeft een nieuw simracestuur getoond. Project Obsidian heeft een 5"-lcd en kan live telemetriedata tonen via SimHub. Het racestuur is geschikt voor de pc en PS5 en wordt volgend jaar uitgebracht.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Gamecontrollers</category>
-    <comments>https://tweakers.net/nieuws/253448/fanatec-toont-project-obsidian-simracingstuur-met-5-inch-lcd-en-simhub-ondersteuning.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 18:36:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 19:36:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia onthult Rubin HPC-gpu met meer dan 50.000 CUDA-cores voor wetenschap</title>
+    <link>https://tweakers.net/nieuws/254594/nvidia-onthult-rubin-hpc-gpu-met-meer-dan-50000-cuda-cores-voor-wetenschap.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254594</guid>
+    <pubDate>Mon, 16 Nov 2026 20:34:46 +0100</pubDate>
+    <description>Nvidia onthult tijdens een eigen evenement de Rubin HPC, een datacenter-gpu bedoeld voor wetenschappelijk onderzoek. De gpu beschikt over 'ruim 50.000' CUDA-cores, wat volgens het bedrijf een record is. Ter vergelijking: de GeForce RTX 5090 heeft nog geen 22.000 CUDA-cores. De geavanceerde gpu moet ergens in 2028 op de markt komen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254594/nvidia-onthult-rubin-hpc-gpu-met-meer-dan-50000-cuda-cores-voor-wetenschap.html#reacties</comments>
+  </item>
   <item>
     <title>Ook Anthropic geeft ontwikkelaars veel korter de tijd om bug te fixen vanwege AI</title>
     <link>https://tweakers.net/nieuws/254590/ook-anthropic-geeft-ontwikkelaars-veel-korter-de-tijd-om-bug-te-fixen-vanwege-ai.html</link>

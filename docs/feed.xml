@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 10:07:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 10:22:25 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5064,16 +5064,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Gamecontrollers</category>
     <comments>https://tweakers.net/nieuws/253448/fanatec-toont-project-obsidian-simracingstuur-met-5-inch-lcd-en-simhub-ondersteuning.html#reacties</comments>
-  </item>
-  <item>
-    <title>Analogue brengt consoles die Mega Drive- en SNES-games afspelen opnieuw uit</title>
-    <link>https://tweakers.net/nieuws/253444/analogue-brengt-consoles-die-mega-drive-en-snes-games-afspelen-opnieuw-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253444</guid>
-    <pubDate>Sat, 17 Oct 2026 12:20:38 +0200</pubDate>
-    <description>Analogue komt met nieuwe varianten van zijn uitverkochte Mega Sg- en Super Nt-consoles. Die spelen respectievelijk SEGA Mega Drive- en Super Nintendo-cartridges af. De nieuwe versies hebben USB-poorten en bluetoothondersteuning voor draadloze controllers.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/253444/analogue-brengt-consoles-die-mega-drive-en-snes-games-afspelen-opnieuw-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

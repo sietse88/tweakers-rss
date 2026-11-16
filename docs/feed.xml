@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 04:06:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 05:06:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Samduo Nex E6000-thuisbatterij - Goede prestaties in extreem platte kast</title>
+    <link>https://tweakers.net/reviews/15530/samduo-nex-e6000-thuisbatterij-goede-prestaties-in-extreem-platte-kast.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15530</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <description>De eerste thuisbatterij van Samduo is de Nex E6000. Hij is slechts 11 centimeter diep. Daarmee claimt de fabrikant 's werelds platste thuisbatterij op de markt te hebben.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Review / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15530/samduo-nex-e6000-thuisbatterij-goede-prestaties-in-extreem-platte-kast.html#reacties</comments>
+  </item>
   <item>
     <title>Transportminister VS wijt nationale vliegstoring aan routerupgrade door aannemer</title>
     <link>https://tweakers.net/nieuws/254550/transportminister-vs-wijt-nationale-vliegstoring-aan-routerupgrade-door-aannemer.html</link>

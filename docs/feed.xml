@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 17:51:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 18:36:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ook Anthropic geeft ontwikkelaars veel korter de tijd om bug te fixen vanwege AI</title>
+    <link>https://tweakers.net/nieuws/254590/ook-anthropic-geeft-ontwikkelaars-veel-korter-de-tijd-om-bug-te-fixen-vanwege-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254590</guid>
+    <pubDate>Mon, 16 Nov 2026 19:25:17 +0100</pubDate>
+    <description>Na Google past ook Anthropic zijn responsibledisclosurebeleid aanzienlijk aan. Ontwikkelaars krijgen bij een kritieke kwetsbaarheid voortaan nog maar 30 dagen de tijd om die te fixen. Eerst was dit nog 90 dagen. Bij alle andere kwetsbaarheden halveert de tijd naar 45 dagen. De veranderingen gaan op 1 januari 2027 in.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254590/ook-anthropic-geeft-ontwikkelaars-veel-korter-de-tijd-om-bug-te-fixen-vanwege-ai.html#reacties</comments>
+  </item>
   <item>
     <title>Twitch krijgt 'shopbare' Amazon-advertenties en reclame die je kunt overslaan</title>
     <link>https://tweakers.net/nieuws/254592/twitch-krijgt-shopbare-amazon-advertenties-en-reclame-die-je-kunt-overslaan.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 01:05:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 04:06:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5034,16 +5034,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253440/apple-verbiedt-uitkleedapps-uitdrukkelijk-in-nieuwe-app-store-regels.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - Over the Hill - Sfeervol doelloos</title>
-    <link>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15450</guid>
-    <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
-    <description>Over the Hill vertaalt het modderploetergenre naar een sfeervolle low-poly game, maar mist daardoor wat nodige diepgang.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Review / Gaming / Games</category>
-    <comments>https://tweakers.net/reviews/15450/over-the-hill-sfeervol-doelloos.html#reacties</comments>
   </item>
 </channel>
 </rss>

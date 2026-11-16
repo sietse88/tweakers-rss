@@ -4883,6 +4883,105 @@
   "pubDate": "Mon, 16 Nov 2026 12:16:14 +0100",
   "title": "Microsoft: volgende XBOX draait niet om 8k of 240fps, maar om nieuwe gameplay"
  },
+ "https://tweakers.net/nieuws/254566": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Netwerk en systeembeheer",
+  "comments": "https://tweakers.net/nieuws/254566/oorzaak-van-microsoft-storing-begon-bij-sluimerende-fout-in-update-uit-juli.html#reacties",
+  "description": "Achter de grote wereldwijde storing voor Microsofts clouddiensten vorige week zat een opeenstapeling van problemen die los van elkaar niet zo ernstig waren. De combinatie legde echter een fatale fout bloot. Die zat in een update in juli, maar had sindsdien nog geen problemen opgeleverd.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254566",
+  "link": "https://tweakers.net/nieuws/254566/oorzaak-van-microsoft-storing-begon-bij-sluimerende-fout-in-update-uit-juli.html",
+  "pubDate": "Mon, 16 Nov 2026 16:20:37 +0100",
+  "title": "Oorzaak van Microsoft-storing begon bij sluimerende fout in update uit juli"
+ },
+ "https://tweakers.net/nieuws/254568": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / IT Pro / E-commerce",
+  "comments": "https://tweakers.net/nieuws/254568/wero-betalingen-in-apps-van-asn-bank-werken-niet-op-alternatieve-android-roms.html#reacties",
+  "description": "ASN Bank heeft verscherpte Google Play Integrity-checks ingesteld wanneer de app een Wero-wallet aanmaakt. Daardoor kunnen gebruikers van alternatieve Android-roms als GrapheneOS en LineageOS geen Wero-betalingen doen met de apps van ASN Bank, RegioBank of SNS Bank.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254568",
+  "link": "https://tweakers.net/nieuws/254568/wero-betalingen-in-apps-van-asn-bank-werken-niet-op-alternatieve-android-roms.html",
+  "pubDate": "Mon, 16 Nov 2026 15:02:58 +0100",
+  "title": "Wero-betalingen in apps van ASN Bank werken niet op alternatieve Android-roms"
+ },
+ "https://tweakers.net/nieuws/254570": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/254570/aandeelhouders-slepen-intel-voor-de-rechter-na-koersval-van-140-miljard-dollar.html#reacties",
+  "description": "Aandeelhouders in de VS klagen Intel aan na een koersval die 140 miljard dollar aan beurswaarde kostte. De cpu-maker zou aandeelhouders hebben misleid over de dalende pc-verkoop door het aanhoudende geheugentekort. De aandeelhouders eisen een schadevergoeding van onbekende hoogte.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254570",
+  "link": "https://tweakers.net/nieuws/254570/aandeelhouders-slepen-intel-voor-de-rechter-na-koersval-van-140-miljard-dollar.html",
+  "pubDate": "Mon, 16 Nov 2026 13:14:00 +0100",
+  "title": "Aandeelhouders slepen Intel voor de rechter na koersval van 140 miljard dollar"
+ },
+ "https://tweakers.net/nieuws/254572": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Software",
+  "comments": "https://tweakers.net/nieuws/254572/alibaba-kondigt-qwen4-max-aan-als-krachtigste-ai-model.html#reacties",
+  "description": "Alibaba heeft Qwen4 Max aangekondigd, zijn nieuwe krachtigste AI-model. Het model heeft onder meer een contextvenster van een miljoen tokens en een backbone van 2,4 biljoen parameters. Het bedrijf noemt geen concrete prijzen, maar zegt wel dat die lager liggen dan bij voorganger Qwen3.8.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254572",
+  "link": "https://tweakers.net/nieuws/254572/alibaba-kondigt-qwen4-max-aan-als-krachtigste-ai-model.html",
+  "pubDate": "Mon, 16 Nov 2026 13:06:33 +0100",
+  "title": "Alibaba kondigt Qwen4 Max aan als krachtigste AI-model"
+ },
+ "https://tweakers.net/nieuws/254574": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Mobiele netwerken",
+  "comments": "https://tweakers.net/nieuws/254574/alle-belgische-providers-stoppen-binnen-drie-jaar-met-2g.html#reacties",
+  "description": "België heeft over drie jaar geen enkele provider met 2G meer over. Proximus, Telenet en Orange stoppen in 2028 en 2029 alle drie met hun 2G-netwerk, zo hebben ze laten weten aan toezichthouder BIPT.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254574",
+  "link": "https://tweakers.net/nieuws/254574/alle-belgische-providers-stoppen-binnen-drie-jaar-met-2g.html",
+  "pubDate": "Mon, 16 Nov 2026 14:24:41 +0100",
+  "title": "Alle Belgische providers stoppen binnen drie jaar met 2G"
+ },
+ "https://tweakers.net/nieuws/254578": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/254578/bloomberg-apple-zet-face-id-bovenaan-lijstje-voor-volgende-iphone-duo.html#reacties",
+  "description": "Apple zou werken aan Face ID voor de volgende iPhone Duo. Toch is het onbekend of dat zal lukken. De vorige maand uitgekomen vouwbare smartphone van Apple heeft een Touch ID-vingerafdrukscanner.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254578",
+  "link": "https://tweakers.net/nieuws/254578/bloomberg-apple-zet-face-id-bovenaan-lijstje-voor-volgende-iphone-duo.html",
+  "pubDate": "Mon, 16 Nov 2026 14:58:25 +0100",
+  "title": "Bloomberg: Apple zet Face ID bovenaan lijstje voor volgende iPhone Duo"
+ },
+ "https://tweakers.net/nieuws/254580": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Wearable-accessoires",
+  "comments": "https://tweakers.net/nieuws/254580/komende-apple-bril-krijgt-geen-eigen-apps-en-is-op-te-laden-tijdens-gebruik.html#reacties",
+  "description": "De komende slimme bril van Apple krijgt geen eigen apps, maar Siri AI om apps op de iPhone te bedienen. Dat claimt Mark Gurman van persbureau Bloomberg. Ook zal de bril op te laden zijn terwijl de gebruiker hem op heeft.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254580",
+  "link": "https://tweakers.net/nieuws/254580/komende-apple-bril-krijgt-geen-eigen-apps-en-is-op-te-laden-tijdens-gebruik.html",
+  "pubDate": "Mon, 16 Nov 2026 15:17:21 +0100",
+  "title": "'Komende Apple-bril krijgt geen eigen apps en is op te laden tijdens gebruik'"
+ },
+ "https://tweakers.net/nieuws/254582": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Computers / Software",
+  "comments": "https://tweakers.net/nieuws/254582/tor-rolt-derde-noodupdate-uit-tegen-ddos-aanval-die-relays-overspoelt.html#reacties",
+  "description": "Tor heeft een noodupdate uitgebracht vanwege een wekenlange ddos-aanval die relays overbelast. Versie 0.4.9.17 is al de derde update in een paar weken tijd in de strijd tegen de aanvallen.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254582",
+  "link": "https://tweakers.net/nieuws/254582/tor-rolt-derde-noodupdate-uit-tegen-ddos-aanval-die-relays-overspoelt.html",
+  "pubDate": "Mon, 16 Nov 2026 16:18:28 +0100",
+  "title": "Tor rolt derde noodupdate uit tegen ddos-aanval die relays overspoelt"
+ },
+ "https://tweakers.net/nieuws/254584": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/254584/honor-werkt-naar-verluidt-aan-midrangetelefoon-met-13500mah-accu.html#reacties",
+  "description": "Het Chinese smartphonemerk Honor zou werken aan een midrangesmartphone met een 13.500mAh-accu. Dat meldt een leaker. Honor voerde de afgelopen jaren de accucapaciteit van zijn smartphones al stap voor stap op.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254584",
+  "link": "https://tweakers.net/nieuws/254584/honor-werkt-naar-verluidt-aan-midrangetelefoon-met-13500mah-accu.html",
+  "pubDate": "Mon, 16 Nov 2026 16:41:13 +0100",
+  "title": "Honor werkt naar verluidt aan midrangetelefoon met 13.500mAh-accu"
+ },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",
   "category": "Review / Computers / Monitors",
@@ -5542,5 +5641,16 @@
   "link": "https://tweakers.net/reviews/15604/jensen-huang-weg-bij-nvidia-hoe-kwam-het-zover-en-wie-kan-hem-opvolgen.html",
   "pubDate": "Fri, 13 Nov 2026 15:00:00 +0100",
   "title": "Achtergrond - Jensen Huang weg bij Nvidia: hoe kwam het zover en wie kan hem opvolgen?"
+ },
+ "https://tweakers.net/reviews/15626": {
+  "author": "Tijs Hofmans",
+  "category": ".Community / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15626/poll-heb-jij-vrij-gevraagd-om-gta-vi-te-spelen.html#reacties",
+  "description": "In deze poll willen we graag weten of jij vrij hebt gevraagd om GTA VI te spelen als die later deze week uitkomt.",
+  "first": "Mon, 16 Nov 2026 16:06:14 +0000",
+  "guid": "https://tweakers.net/reviews/15626",
+  "link": "https://tweakers.net/reviews/15626/poll-heb-jij-vrij-gevraagd-om-gta-vi-te-spelen.html",
+  "pubDate": "Mon, 16 Nov 2026 15:30:00 +0100",
+  "title": ".Community - Poll: heb jij vrij gevraagd om GTA VI te spelen?"
  }
 }

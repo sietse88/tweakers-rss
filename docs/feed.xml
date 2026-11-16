@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 11:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 16:06:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,106 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Honor werkt naar verluidt aan midrangetelefoon met 13.500mAh-accu</title>
+    <link>https://tweakers.net/nieuws/254584/honor-werkt-naar-verluidt-aan-midrangetelefoon-met-13500mah-accu.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254584</guid>
+    <pubDate>Mon, 16 Nov 2026 16:41:13 +0100</pubDate>
+    <description>Het Chinese smartphonemerk Honor zou werken aan een midrangesmartphone met een 13.500mAh-accu. Dat meldt een leaker. Honor voerde de afgelopen jaren de accucapaciteit van zijn smartphones al stap voor stap op.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254584/honor-werkt-naar-verluidt-aan-midrangetelefoon-met-13500mah-accu.html#reacties</comments>
+  </item>
+  <item>
+    <title>Oorzaak van Microsoft-storing begon bij sluimerende fout in update uit juli</title>
+    <link>https://tweakers.net/nieuws/254566/oorzaak-van-microsoft-storing-begon-bij-sluimerende-fout-in-update-uit-juli.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254566</guid>
+    <pubDate>Mon, 16 Nov 2026 16:20:37 +0100</pubDate>
+    <description>Achter de grote wereldwijde storing voor Microsofts clouddiensten vorige week zat een opeenstapeling van problemen die los van elkaar niet zo ernstig waren. De combinatie legde echter een fatale fout bloot. Die zat in een update in juli, maar had sindsdien nog geen problemen opgeleverd.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
+    <comments>https://tweakers.net/nieuws/254566/oorzaak-van-microsoft-storing-begon-bij-sluimerende-fout-in-update-uit-juli.html#reacties</comments>
+  </item>
+  <item>
+    <title>Tor rolt derde noodupdate uit tegen ddos-aanval die relays overspoelt</title>
+    <link>https://tweakers.net/nieuws/254582/tor-rolt-derde-noodupdate-uit-tegen-ddos-aanval-die-relays-overspoelt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254582</guid>
+    <pubDate>Mon, 16 Nov 2026 16:18:28 +0100</pubDate>
+    <description>Tor heeft een noodupdate uitgebracht vanwege een wekenlange ddos-aanval die relays overbelast. Versie 0.4.9.17 is al de derde update in een paar weken tijd in de strijd tegen de aanvallen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254582/tor-rolt-derde-noodupdate-uit-tegen-ddos-aanval-die-relays-overspoelt.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Poll: heb jij vrij gevraagd om GTA VI te spelen?</title>
+    <link>https://tweakers.net/reviews/15626/poll-heb-jij-vrij-gevraagd-om-gta-vi-te-spelen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15626</guid>
+    <pubDate>Mon, 16 Nov 2026 15:30:00 +0100</pubDate>
+    <description>In deze poll willen we graag weten of jij vrij hebt gevraagd om GTA VI te spelen als die later deze week uitkomt.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>.Community / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15626/poll-heb-jij-vrij-gevraagd-om-gta-vi-te-spelen.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Komende Apple-bril krijgt geen eigen apps en is op te laden tijdens gebruik'</title>
+    <link>https://tweakers.net/nieuws/254580/komende-apple-bril-krijgt-geen-eigen-apps-en-is-op-te-laden-tijdens-gebruik.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254580</guid>
+    <pubDate>Mon, 16 Nov 2026 15:17:21 +0100</pubDate>
+    <description>De komende slimme bril van Apple krijgt geen eigen apps, maar Siri AI om apps op de iPhone te bedienen. Dat claimt Mark Gurman van persbureau Bloomberg. Ook zal de bril op te laden zijn terwijl de gebruiker hem op heeft.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Wearable-accessoires</category>
+    <comments>https://tweakers.net/nieuws/254580/komende-apple-bril-krijgt-geen-eigen-apps-en-is-op-te-laden-tijdens-gebruik.html#reacties</comments>
+  </item>
+  <item>
+    <title>Wero-betalingen in apps van ASN Bank werken niet op alternatieve Android-roms</title>
+    <link>https://tweakers.net/nieuws/254568/wero-betalingen-in-apps-van-asn-bank-werken-niet-op-alternatieve-android-roms.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254568</guid>
+    <pubDate>Mon, 16 Nov 2026 15:02:58 +0100</pubDate>
+    <description>ASN Bank heeft verscherpte Google Play Integrity-checks ingesteld wanneer de app een Wero-wallet aanmaakt. Daardoor kunnen gebruikers van alternatieve Android-roms als GrapheneOS en LineageOS geen Wero-betalingen doen met de apps van ASN Bank, RegioBank of SNS Bank.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / E-commerce</category>
+    <comments>https://tweakers.net/nieuws/254568/wero-betalingen-in-apps-van-asn-bank-werken-niet-op-alternatieve-android-roms.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bloomberg: Apple zet Face ID bovenaan lijstje voor volgende iPhone Duo</title>
+    <link>https://tweakers.net/nieuws/254578/bloomberg-apple-zet-face-id-bovenaan-lijstje-voor-volgende-iphone-duo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254578</guid>
+    <pubDate>Mon, 16 Nov 2026 14:58:25 +0100</pubDate>
+    <description>Apple zou werken aan Face ID voor de volgende iPhone Duo. Toch is het onbekend of dat zal lukken. De vorige maand uitgekomen vouwbare smartphone van Apple heeft een Touch ID-vingerafdrukscanner.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254578/bloomberg-apple-zet-face-id-bovenaan-lijstje-voor-volgende-iphone-duo.html#reacties</comments>
+  </item>
+  <item>
+    <title>Alle Belgische providers stoppen binnen drie jaar met 2G</title>
+    <link>https://tweakers.net/nieuws/254574/alle-belgische-providers-stoppen-binnen-drie-jaar-met-2g.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254574</guid>
+    <pubDate>Mon, 16 Nov 2026 14:24:41 +0100</pubDate>
+    <description>België heeft over drie jaar geen enkele provider met 2G meer over. Proximus, Telenet en Orange stoppen in 2028 en 2029 alle drie met hun 2G-netwerk, zo hebben ze laten weten aan toezichthouder BIPT.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Mobiele netwerken</category>
+    <comments>https://tweakers.net/nieuws/254574/alle-belgische-providers-stoppen-binnen-drie-jaar-met-2g.html#reacties</comments>
+  </item>
+  <item>
+    <title>Aandeelhouders slepen Intel voor de rechter na koersval van 140 miljard dollar</title>
+    <link>https://tweakers.net/nieuws/254570/aandeelhouders-slepen-intel-voor-de-rechter-na-koersval-van-140-miljard-dollar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254570</guid>
+    <pubDate>Mon, 16 Nov 2026 13:14:00 +0100</pubDate>
+    <description>Aandeelhouders in de VS klagen Intel aan na een koersval die 140 miljard dollar aan beurswaarde kostte. De cpu-maker zou aandeelhouders hebben misleid over de dalende pc-verkoop door het aanhoudende geheugentekort. De aandeelhouders eisen een schadevergoeding van onbekende hoogte.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254570/aandeelhouders-slepen-intel-voor-de-rechter-na-koersval-van-140-miljard-dollar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Alibaba kondigt Qwen4 Max aan als krachtigste AI-model</title>
+    <link>https://tweakers.net/nieuws/254572/alibaba-kondigt-qwen4-max-aan-als-krachtigste-ai-model.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254572</guid>
+    <pubDate>Mon, 16 Nov 2026 13:06:33 +0100</pubDate>
+    <description>Alibaba heeft Qwen4 Max aangekondigd, zijn nieuwe krachtigste AI-model. Het model heeft onder meer een contextvenster van een miljoen tokens en een backbone van 2,4 biljoen parameters. Het bedrijf noemt geen concrete prijzen, maar zegt wel dat die lager liggen dan bij voorganger Qwen3.8.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254572/alibaba-kondigt-qwen4-max-aan-als-krachtigste-ai-model.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft: volgende XBOX draait niet om 8k of 240fps, maar om nieuwe gameplay</title>
     <link>https://tweakers.net/nieuws/254564/microsoft-volgende-xbox-draait-niet-om-8k-of-240fps-maar-om-nieuwe-gameplay.html</link>

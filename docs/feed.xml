@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 16 Nov 2026 09:37:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 10:07:17 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Mislukte lancering van Vulcan-raket kost Amazon veertig internetsatellieten</title>
+    <link>https://tweakers.net/nieuws/254562/mislukte-lancering-van-vulcan-raket-kost-amazon-veertig-internetsatellieten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254562</guid>
+    <pubDate>Mon, 16 Nov 2026 11:04:17 +0100</pubDate>
+    <description>De lancering van een Vulcan-raket van United Launch Alliance is zondag mislukt. Daardoor zijn veertig satellieten van Amazon verloren gegaan. Die waren bedoeld voor Amazons Leo-dienst voor internettoegang via satellieten.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/254562/mislukte-lancering-van-vulcan-raket-kost-amazon-veertig-internetsatellieten.html#reacties</comments>
+  </item>
   <item>
     <title>FT: Jensen Huang overweegt terugkeer als Nvidia-ceo nog geen week na aftreden</title>
     <link>https://tweakers.net/nieuws/254560/ft-jensen-huang-overweegt-terugkeer-als-nvidia-ceo-nog-geen-week-na-aftreden.html</link>

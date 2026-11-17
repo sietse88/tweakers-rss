@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 11:58:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:13:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple laat iPhone Duo-gebruikers hun telefoon ontgrendelen met gezichtsscan</title>
+    <link>https://tweakers.net/nieuws/254612/apple-laat-iphone-duo-gebruikers-hun-telefoon-ontgrendelen-met-gezichtsscan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254612</guid>
+    <pubDate>Tue, 17 Nov 2026 12:59:20 +0100</pubDate>
+    <description>Apple werkt aan een gezichtsherkenningsfunctie voor de iPhone Duo om de telefoon te ontgrendelen. De functie is slechts gedeeltelijk een alternatief voor de vingerafdrukscanner en zit in de tweede bèta van iOS 27.3.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254612/apple-laat-iphone-duo-gebruikers-hun-telefoon-ontgrendelen-met-gezichtsscan.html#reacties</comments>
+  </item>
   <item>
     <title>‘Politie vindt lege racks bij Megaspeed in onderzoek naar Nvidia-chipsmokkel’</title>
     <link>https://tweakers.net/nieuws/254606/politie-vindt-lege-racks-bij-megaspeed-in-onderzoek-naar-nvidia-chipsmokkel.html</link>

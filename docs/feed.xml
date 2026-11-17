@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:13:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:28:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - In negen minuten bijna vol: laden met 1,22 megawatt</title>
+    <link>https://tweakers.net/reviews/15546/in-negen-minuten-bijna-vol-laden-met-1-komma-22-megawatt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15546</guid>
+    <pubDate>Tue, 17 Nov 2026 13:15:00 +0100</pubDate>
+    <description>BYD opende zijn eerste laadstation met een vermogen van 1,22 megawatt en Tweakers was erbij.</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>Achtergrond / Tablets en telefoons / Opladers</category>
+    <comments>https://tweakers.net/reviews/15546/in-negen-minuten-bijna-vol-laden-met-1-komma-22-megawatt.html#reacties</comments>
+  </item>
   <item>
     <title>Apple laat iPhone Duo-gebruikers hun telefoon ontgrendelen met gezichtsscan</title>
     <link>https://tweakers.net/nieuws/254612/apple-laat-iphone-duo-gebruikers-hun-telefoon-ontgrendelen-met-gezichtsscan.html</link>

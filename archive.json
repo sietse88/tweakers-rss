@@ -54,28 +54,6 @@
   "pubDate": "Sun, 18 Oct 2026 11:10:43 +0200",
   "title": "Gnome Project brengt previewversie van toekomstige mainstreamdistro Gnome OS uit"
  },
- "https://tweakers.net/nieuws/253452": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Videokaarten",
-  "comments": "https://tweakers.net/nieuws/253452/nvidia-ontkent-dat-het-stopt-met-rtx-5090.html#reacties",
-  "description": "Nvidia stopt niet met de RTX 5090. Eerder gingen er nog geruchten dat Nvidia de duurste consumentenvideokaart niet meer zou produceren, maar het bedrijf ontkent dat nu. De gpu is ook weer te vinden in Nvidia's webshop, al is die daar nog steeds niet te koop.",
-  "first": "Sun, 18 Oct 2026 07:25:11 +0000",
-  "guid": "https://tweakers.net/nieuws/253452",
-  "link": "https://tweakers.net/nieuws/253452/nvidia-ontkent-dat-het-stopt-met-rtx-5090.html",
-  "pubDate": "Sun, 18 Oct 2026 09:10:08 +0200",
-  "title": "Nvidia ontkent dat het stopt met RTX 5090"
- },
- "https://tweakers.net/nieuws/253456": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Tablets en telefoons / Smartphones",
-  "comments": "https://tweakers.net/nieuws/253456/levertijd-van-iphone-duo-loopt-op-naar-eind-januari-vanwege-buitengewone-vraag.html#reacties",
-  "description": "Apple noemt het aantal bestellingen voor de vouwbare iPhone Duo 'buitengewoon'. Inmiddels duurt het tot eind januari voordat de telefoons worden geleverd. De voorverkoop van de telefoon begon vrijdag. De vraag lijkt het aanbod te overtreffen, juist nadat de vraag naar de reguliere iPhone 18 Pro en Pro Max tegen blijkt te vallen.",
-  "first": "Sun, 18 Oct 2026 08:10:15 +0000",
-  "guid": "https://tweakers.net/nieuws/253456",
-  "link": "https://tweakers.net/nieuws/253456/levertijd-van-iphone-duo-loopt-op-naar-eind-januari-vanwege-buitengewone-vraag.html",
-  "pubDate": "Sun, 18 Oct 2026 09:59:16 +0200",
-  "title": "Levertijd van iPhone Duo loopt op naar eind januari vanwege 'buitengewone' vraag"
- },
  "https://tweakers.net/nieuws/253458": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Besturingssystemen",
@@ -5080,6 +5058,28 @@
   "link": "https://tweakers.net/nieuws/254596/soverin-introduceert-in-nederland-gehoste-suite-op-basis-van-nextcloud.html",
   "pubDate": "Tue, 17 Nov 2026 06:00:00 +0100",
   "title": "Soverin introduceert in Nederland gehoste Suite op basis van Nextcloud"
+ },
+ "https://tweakers.net/nieuws/254600": {
+  "author": "Hayte Hugo",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254600/californie-klaagt-openai-aan-om-hugging-face-hack-gevaar-voor-maatschappij.html#reacties",
+  "description": "De Amerikaanse staat Californië heeft OpenAI aangeklaagd vanwege de Hugging Face-hack van afgelopen juli. Volgens de staat was de hack te voorspellen en had het AI-bedrijf onvoldoende beschermingsmaatregelen getroffen. De staat eist dat OpenAI stopt met zulk gedrag.",
+  "first": "Tue, 17 Nov 2026 08:12:35 +0000",
+  "guid": "https://tweakers.net/nieuws/254600",
+  "link": "https://tweakers.net/nieuws/254600/californie-klaagt-openai-aan-om-hugging-face-hack-gevaar-voor-maatschappij.html",
+  "pubDate": "Tue, 17 Nov 2026 07:37:56 +0100",
+  "title": "Californië klaagt OpenAI aan om Hugging Face-hack: 'gevaar voor maatschappij'"
+ },
+ "https://tweakers.net/nieuws/254602": {
+  "author": "Hayte Hugo",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware-via-advertenties.html#reacties",
+  "description": "Bijna 180 grote websites serveerden op maandag malware via advertenties, zegt beveiligingsonderzoeker Scott Helme. De advertenties werden verspreid via advertentieplatform Optimizely. Dit platform bevestigt het beveiligingsincident, maar bevestigt de schaal niet. Volgens Helme is er tot dusver zo'n 7000 dollar aan crypto gestolen.",
+  "first": "Tue, 17 Nov 2026 08:12:35 +0000",
+  "guid": "https://tweakers.net/nieuws/254602",
+  "link": "https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware-via-advertenties.html",
+  "pubDate": "Tue, 17 Nov 2026 08:25:23 +0100",
+  "title": "'Grote sites als BBC, CNN, IKEA en KLM verspreidden malware via advertenties'"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

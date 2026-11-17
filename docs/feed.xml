@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 18:56:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 19:41:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Civilization- en XCOM-maker Firaxis Games ontslaat een derde van het personeel</title>
+    <link>https://tweakers.net/nieuws/254644/civilization-en-xcom-maker-firaxis-games-ontslaat-een-derde-van-het-personeel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254644</guid>
+    <pubDate>Tue, 17 Nov 2026 20:27:57 +0100</pubDate>
+    <description>Firaxis Games ontslaat grofweg een derde van zijn personeel, oftewel 60 werknemers. Ook studiohoofd Heather Hazen vertrekt bij het bedrijf. Het is de tweede ontslagronde in iets meer dan een jaar tijd. De studio valt onder 2K Games, een dochteronderneming van GTA-uitgever Take-Two.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254644/civilization-en-xcom-maker-firaxis-games-ontslaat-een-derde-van-het-personeel.html#reacties</comments>
+  </item>
   <item>
     <title>Apple App Store en Music zijn mogelijk moeilijk bereikbaar vanwege een storing</title>
     <link>https://tweakers.net/nieuws/254646/apple-app-store-en-music-zijn-mogelijk-moeilijk-bereikbaar-vanwege-een-storing.html</link>

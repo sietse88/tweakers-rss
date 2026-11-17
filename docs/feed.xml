@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:27:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 08:42:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -26,14 +26,14 @@
     <comments>https://tweakers.net/nieuws/254598/instagram-test-losse-berichtenapp-direct-om-zonder-instagram-account-te-chatten.html#reacties</comments>
   </item>
   <item>
-    <title>'Grote sites als BBC, CNN, IKEA en KLM verspreidden malware' - update</title>
-    <link>https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware.html</link>
+    <title>'Grote sites als BBC, CNN, IKEA en KLM verspreidden malware' - correctie</title>
+    <link>https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware-correctie.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254602</guid>
     <pubDate>Tue, 17 Nov 2026 08:25:23 +0100</pubDate>
-    <description>Bijna 180 grote websites serveerden op maandag malware via JavaScript, zegt beveiligingsonderzoeker Scott Helme. De malware werd verspreid via advertentieplatform Optimizely. Dit platform bevestigt het beveiligingsincident, maar bevestigt de schaal niet. Volgens Helme is er tot dusver zo'n 7000 dollar aan crypto gestolen.</description>
+    <description>Bijna 180 grote websites serveerden op maandag malware via JavaScript, zegt beveiligingsonderzoeker Scott Helme. De malware werd verspreid via websiteoptimaliseertool Optimizely. Dit platform bevestigt het beveiligingsincident, maar bevestigt de schaal niet. Volgens Helme is er tot dusver zo'n 7000 dollar aan crypto gestolen.</description>
     <dc:creator>Hayte Hugo</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254602/grote-sites-als-bbc-cnn-ikea-en-klm-verspreidden-malware-correctie.html#reacties</comments>
   </item>
   <item>
     <title>Californië klaagt OpenAI aan om Hugging Face-hack: 'gevaar voor maatschappij'</title>

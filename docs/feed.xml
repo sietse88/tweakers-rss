@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 10:27:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 11:27:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Politie vindt lege serverracks bij Nvidia-partner verdacht van chipsmokkel'</title>
+    <link>https://tweakers.net/nieuws/254606/politie-vindt-lege-serverracks-bij-nvidia-partner-verdacht-van-chipsmokkel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254606</guid>
+    <pubDate>Tue, 17 Nov 2026 12:14:50 +0100</pubDate>
+    <description>De Indonesische politie trof eerder dit jaar bij een inval in de lokale vestiging van Nvidia-partner Megaspeed lege serverracks aan. Sommige racks zaten nog in het verpakkingsmateriaal. Dat meldt The Straits Times. De inval hield verband met een Amerikaans onderzoek naar mogelijke smokkel van AI-chips naar China.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254606/politie-vindt-lege-serverracks-bij-nvidia-partner-verdacht-van-chipsmokkel.html#reacties</comments>
+  </item>
   <item>
     <title>Tesla Cybercab-robotaxi rolt vanaf 2029 van de Berlijnse band</title>
     <link>https://tweakers.net/nieuws/254610/tesla-cybercab-robotaxi-rolt-vanaf-2029-van-de-berlijnse-band.html</link>

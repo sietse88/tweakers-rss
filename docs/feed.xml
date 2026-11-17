@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 17:41:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 18:26:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Amerikaanse DOJ erkent onderzoek naar Megaspeed na ophef over affaire Nvidia-ceo</title>
+    <link>https://tweakers.net/nieuws/254642/amerikaanse-doj-erkent-onderzoek-naar-megaspeed-na-ophef-over-affaire-nvidia-ceo.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254642</guid>
+    <pubDate>Tue, 17 Nov 2026 19:11:24 +0100</pubDate>
+    <description>Het Amerikaanse ministerie van Justitie (DOJ) onderzoekt samen met het ministerie van Handel het Singaporese bedrijf Megaspeed voor het schenden van exportbeperkingen. Dat onderzoek loopt voor zover bekend al langer, maar daar doet het DOJ normaliter geen uitspraken over.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254642/amerikaanse-doj-erkent-onderzoek-naar-megaspeed-na-ophef-over-affaire-nvidia-ceo.html#reacties</comments>
+  </item>
   <item>
     <title>Prusa maakt cloudverbinding 3d-printers overbodig: software voor lokaal gebruik</title>
     <link>https://tweakers.net/nieuws/254640/prusa-maakt-cloudverbinding-3d-printers-overbodig-software-voor-lokaal-gebruik.html</link>

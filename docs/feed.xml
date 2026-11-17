@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 13:28:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 17:41:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,76 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Prusa maakt cloudverbinding 3d-printers overbodig: software voor lokaal gebruik</title>
+    <link>https://tweakers.net/nieuws/254640/prusa-maakt-cloudverbinding-3d-printers-overbodig-software-voor-lokaal-gebruik.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254640</guid>
+    <pubDate>Tue, 17 Nov 2026 17:29:42 +0100</pubDate>
+    <description>Prusa introduceert Prusa Connect Local om cloudaansturing van 3d-printers van het merk zelf te hosten. Het op afstand aansturen van de printers gebeurde tot dusver via de servers van het bedrijf, maar gebruikers kunnen met de software zelf een server hosten. Prusa Connect Local is vooralsnog in bèta en voor iedereen beschikbaar. Er is nog geen definitieve releasedatum bekend.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / 3D-printers</category>
+    <comments>https://tweakers.net/nieuws/254640/prusa-maakt-cloudverbinding-3d-printers-overbodig-software-voor-lokaal-gebruik.html#reacties</comments>
+  </item>
+  <item>
+    <title>Disney+-app krijgt tv-diensten door samenvoeging met Hulu-app</title>
+    <link>https://tweakers.net/nieuws/254638/disney+-app-krijgt-tv-diensten-door-samenvoeging-met-hulu-app.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254638</guid>
+    <pubDate>Tue, 17 Nov 2026 17:06:27 +0100</pubDate>
+    <description>Disney gaat de functionaliteit van de Hulu-app in december volledig in de Disney+-app integreren. Bepaalde 'premium'-tv-diensten van Hulu zijn daarna via Disney+ verkrijgbaar. Disney heeft sinds 2019 een meerderheidsbelang in de streamingdienst en is sinds 2025 volledige eigenaar. Sindsdien versmelten de twee streamingdiensten. Die fusie moet in december zijn afgerond.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/254638/disney+-app-krijgt-tv-diensten-door-samenvoeging-met-hulu-app.html#reacties</comments>
+  </item>
+  <item>
+    <title>Xiaomi 18 Pro en Pro Max komen uit in Nederland en België voor 1399 en 1599 euro</title>
+    <link>https://tweakers.net/nieuws/254634/xiaomi-18-pro-en-pro-max-komen-uit-in-nederland-en-belgie-voor-1399-en-1599-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254634</guid>
+    <pubDate>Tue, 17 Nov 2026 15:57:18 +0100</pubDate>
+    <description>Xiaomi heeft de 18 Pro en 18 Pro Max uitgebracht in Nederland en België. De telefoons komen uit voor 1399 en 1599 euro. De toestellen hebben de nieuwste Qualcomm Snapdragon-socs en net als hun voorgangers een scherm aan de achterkant.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254634/xiaomi-18-pro-en-pro-max-komen-uit-in-nederland-en-belgie-voor-1399-en-1599-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia-bestuur stelt toezichtcommissie voor exportregels in na vertrek ceo Huang</title>
+    <link>https://tweakers.net/nieuws/254622/nvidia-bestuur-stelt-toezichtcommissie-voor-exportregels-in-na-vertrek-ceo-huang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254622</guid>
+    <pubDate>Tue, 17 Nov 2026 15:13:36 +0100</pubDate>
+    <description>Het bestuur van Nvidia richt een commissie op die toezicht houdt op de naleving van exportregels en het bedrijfsbeleid op het gebied van nationale veiligheid. Dit kondigt de gpu-maker aan nog geen week nadat ceo Jensen Huang aftrad. De Amerikaanse overheid doet onderzoek naar smokkel van AI-chips.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254622/nvidia-bestuur-stelt-toezichtcommissie-voor-exportregels-in-na-vertrek-ceo-huang.html#reacties</comments>
+  </item>
+  <item>
+    <title>Sony wint Britse massaclaim: commissie in PlayStation Store is niet oneerlijk</title>
+    <link>https://tweakers.net/nieuws/254624/sony-wint-britse-massaclaim-commissie-in-playstation-store-is-niet-oneerlijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254624</guid>
+    <pubDate>Tue, 17 Nov 2026 15:07:24 +0100</pubDate>
+    <description>Sony heeft een Britse rechtszaak gewonnen over de commissie van 30 procent die het bedrijf vraagt in de PlayStation Store. Een Britse claimde in een massaclaimzaak dat consumenten daardoor te veel betalen voor hun aankopen. Een rechtbank noemt die claim niet gegrond.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254624/sony-wint-britse-massaclaim-commissie-in-playstation-store-is-niet-oneerlijk.html#reacties</comments>
+  </item>
+  <item>
+    <title>Japanse fabrikant toont telefoon die lichter is dan iPhone Air met 240Hz-scherm</title>
+    <link>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-die-lichter-is-dan-iphone-air-met-240hz-scherm.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254632</guid>
+    <pubDate>Tue, 17 Nov 2026 15:03:07 +0100</pubDate>
+    <description>De Japanse fabrikant Sharp heeft voor zijn thuisland de Aquos Sense 11 aangekondigd. Het is een relatief compacte smartphone met een 240Hz-oledscherm en een 5000mAh-accu. Hij is lichter dan bijvoorbeeld een iPhone Air.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-die-lichter-is-dan-iphone-air-met-240hz-scherm.html#reacties</comments>
+  </item>
+  <item>
+    <title>Klanten Apple MacBook Pro met touchscreen klagen over vermoeidheid en hoofdpijn</title>
+    <link>https://tweakers.net/nieuws/254630/klanten-apple-macbook-pro-met-touchscreen-klagen-over-vermoeidheid-en-hoofdpijn.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254630</guid>
+    <pubDate>Tue, 17 Nov 2026 14:46:02 +0100</pubDate>
+    <description>De Apple MacBook Pro met Proled-scherm lijkt bij sommige gebruikers vermoeidheid en hoofdpijn te veroorzaken. Dat kan komen door de manier waarop het scherm de helderheid verlaagt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Laptops</category>
+    <comments>https://tweakers.net/nieuws/254630/klanten-apple-macbook-pro-met-touchscreen-klagen-over-vermoeidheid-en-hoofdpijn.html#reacties</comments>
+  </item>
   <item>
     <title>Proton brengt AI-desktopapp voor Windows, macOS en Linux uit</title>
     <link>https://tweakers.net/nieuws/254618/proton-brengt-ai-desktopapp-voor-windows-macos-en-linux-uit.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 05:04:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 05:19:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,16 +15,6 @@
     <width>192</width>
     <height>192</height>
   </image>
-  <item>
-    <title>Soverin introduceert in Nederland gehoste Suite op basis van Nextcloud</title>
-    <link>https://tweakers.net/nieuws/254596/soverin-introduceert-in-nederland-gehoste-suite-op-basis-van-nextcloud.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/254596</guid>
-    <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
-    <description>Soverin introduceert de Soverin Suite, een werkplatform dat een alternatief op Microsoft 365 en Google Workspace moet zijn. De software is gebaseerd op Nextcloud en opensourceplatform Euro-Office. De softwaresuite wordt volledig in Nederland gehost. De dienst kost 10 euro per maand per gebruiker.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Business software</category>
-    <comments>https://tweakers.net/nieuws/254596/soverin-introduceert-in-nederland-gehoste-suite-op-basis-van-nextcloud.html#reacties</comments>
-  </item>
   <item>
     <title>Best Buy Guide - Beste allround monitoren</title>
     <link>https://tweakers.net/best-buy-guide/monitors/beste-allround-monitor</link>
@@ -54,6 +44,16 @@
     <dc:creator>Friso Weijers</dc:creator>
     <category>Best Buy Guide / Computers / Monitors</category>
     <comments>https://tweakers.net/best-buy-guide/monitors/beste-ultrawide-monitor#reacties</comments>
+  </item>
+  <item>
+    <title>Soverin introduceert in Nederland gehoste Suite op basis van Nextcloud</title>
+    <link>https://tweakers.net/nieuws/254596/soverin-introduceert-in-nederland-gehoste-suite-op-basis-van-nextcloud.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254596</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Soverin introduceert de Soverin Suite, een werkplatform dat een alternatief op Microsoft 365 en Google Workspace moet zijn. De software is gebaseerd op Nextcloud en opensourceplatform Euro-Office. De softwaresuite wordt volledig in Nederland gehost. De dienst kost 10 euro per maand per gebruiker.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Business software</category>
+    <comments>https://tweakers.net/nieuws/254596/soverin-introduceert-in-nederland-gehoste-suite-op-basis-van-nextcloud.html#reacties</comments>
   </item>
   <item>
     <title>Nvidia onthult Rubin HPC-gpu met meer dan 50.000 CUDA-cores voor wetenschap</title>

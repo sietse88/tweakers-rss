@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 13:13:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 13:28:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Proton brengt AI-desktopapp voor Windows, macOS en Linux uit</title>
+    <link>https://tweakers.net/nieuws/254618/proton-brengt-ai-desktopapp-voor-windows-macos-en-linux-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254618</guid>
+    <pubDate>Tue, 17 Nov 2026 14:22:53 +0100</pubDate>
+    <description>Proton heeft een desktopapp uitgebracht voor zijn AI-dienst Lumo. De app voor Windows, macOS en Linux-gebaseerde besturingssystemen kan onder meer mails en lokale bestanden als context meenemen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254618/proton-brengt-ai-desktopapp-voor-windows-macos-en-linux-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Gestrafte Temu-verkopers openen makkelijk nieuwe winkel volgens EU</title>
     <link>https://tweakers.net/nieuws/254616/gestrafte-temu-verkopers-openen-makkelijk-nieuwe-winkel-volgens-eu.html</link>

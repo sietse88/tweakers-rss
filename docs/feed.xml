@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 20:26:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 20:41:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Jensen Huang wil wel terugkeren als ceo van Nvidia, mits bestuur dat goedkeurt</title>
+    <link>https://tweakers.net/nieuws/254648/jensen-huang-wil-wel-terugkeren-als-ceo-van-nvidia-mits-bestuur-dat-goedkeurt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254648</guid>
+    <pubDate>Tue, 17 Nov 2026 21:23:14 +0100</pubDate>
+    <description>Jensen Huang wil wel terugkeren als ceo van Nvidia, mits het bestuur besluit dat dit het 'beste voor de aandeelhouders, werknemers, het bedrijf en Amerika' is. Huang moest onlangs bij het bedrijf vertrekken nadat bekend werd dat hij meerdere affaires had met werknemers en een vermeende Chinese spion.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254648/jensen-huang-wil-wel-terugkeren-als-ceo-van-nvidia-mits-bestuur-dat-goedkeurt.html#reacties</comments>
+  </item>
   <item>
     <title>Civilization- en XCOM-maker Firaxis Games ontslaat een derde van het personeel</title>
     <link>https://tweakers.net/nieuws/254644/civilization-en-xcom-maker-firaxis-games-ontslaat-een-derde-van-het-personeel.html</link>
@@ -96,14 +106,14 @@
     <comments>https://tweakers.net/nieuws/254624/sony-wint-britse-massaclaim-commissie-in-playstation-store-is-niet-oneerlijk.html#reacties</comments>
   </item>
   <item>
-    <title>Japanse fabrikant toont telefoon die lichter is dan iPhone Air met 240Hz-scherm</title>
-    <link>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-die-lichter-is-dan-iphone-air-met-240hz-scherm.html</link>
+    <title>Japanse fabrikant toont telefoon met 240Hz-scherm die lichter is dan iPhone Air</title>
+    <link>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-met-240hz-scherm-die-lichter-is-dan-iphone-air.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254632</guid>
     <pubDate>Tue, 17 Nov 2026 15:03:07 +0100</pubDate>
     <description>De Japanse fabrikant Sharp heeft voor zijn thuisland de Aquos Sense 11 aangekondigd. Het is een relatief compacte smartphone met een 240Hz-oledscherm en een 5000mAh-accu. Hij is lichter dan bijvoorbeeld een iPhone Air.</description>
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-die-lichter-is-dan-iphone-air-met-240hz-scherm.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254632/japanse-fabrikant-toont-telefoon-met-240hz-scherm-die-lichter-is-dan-iphone-air.html#reacties</comments>
   </item>
   <item>
     <title>Klanten Apple MacBook Pro met touchscreen klagen over vermoeidheid en hoofdpijn</title>

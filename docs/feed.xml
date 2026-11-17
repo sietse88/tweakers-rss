@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 09:12:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 09:27:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>EcoFlow Stream AC 5000-thuisbatterij kan voortaan zonder cloud</title>
+    <link>https://tweakers.net/nieuws/254604/ecoflow-stream-ac-5000-thuisbatterij-kan-voortaan-zonder-cloud.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254604</guid>
+    <pubDate>Tue, 17 Nov 2026 10:20:00 +0100</pubDate>
+    <description>EcoFlow geeft de Stream AC 5000-thuisbatterij op dinsdag een lokale modus en officiële ondersteuning voor Home Assistant. Met Local Mode kunnen gebruikers de thuisbatterij via de EcoFlow-app beheren zonder tussenkomst van clouddiensten.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/nieuws/254604/ecoflow-stream-ac-5000-thuisbatterij-kan-voortaan-zonder-cloud.html#reacties</comments>
+  </item>
   <item>
     <title>Instagram test losse berichtenapp Direct om zonder Instagram-account te chatten</title>
     <link>https://tweakers.net/nieuws/254598/instagram-test-losse-berichtenapp-direct-om-zonder-instagram-account-te-chatten.html</link>

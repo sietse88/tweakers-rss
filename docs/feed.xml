@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 18:26:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 18:56:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Apple App Store en Music zijn mogelijk moeilijk bereikbaar vanwege een storing</title>
+    <link>https://tweakers.net/nieuws/254646/apple-app-store-en-music-zijn-mogelijk-moeilijk-bereikbaar-vanwege-een-storing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254646</guid>
+    <pubDate>Tue, 17 Nov 2026 19:55:28 +0100</pubDate>
+    <description>Verschillende Apple-diensten, waaronder de App Store en Music, zijn mogelijk niet of slecht bereikbaar vanwege een storing. Ook inloggen met een iCloud-account werkt mogelijk niet zoals normaal. Het is niet duidelijk wat de oorzaak van de storing is en hoelang deze naar verwachting nog zal duren.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/254646/apple-app-store-en-music-zijn-mogelijk-moeilijk-bereikbaar-vanwege-een-storing.html#reacties</comments>
+  </item>
   <item>
     <title>Amerikaanse DOJ erkent onderzoek naar Megaspeed na ophef over affaire Nvidia-ceo</title>
     <link>https://tweakers.net/nieuws/254642/amerikaanse-doj-erkent-onderzoek-naar-megaspeed-na-ophef-over-affaire-nvidia-ceo.html</link>

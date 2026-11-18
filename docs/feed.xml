@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 12:31:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:33:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,66 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'SEC onderzoekt Nvidia wegens mogelijke misleiding beleggers'</title>
+    <link>https://tweakers.net/nieuws/254686/sec-onderzoekt-nvidia-wegens-mogelijke-misleiding-beleggers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254686</guid>
+    <pubDate>Wed, 18 Nov 2026 16:19:28 +0100</pubDate>
+    <description>De Amerikaanse beurstoezichthouder SEC start een civiel onderzoek naar Nvidia. Dat zeggen ingewijden tegen The Wall Street Journal. De toezichthouder gaat uitzoeken of het bedrijf investeerders heeft misleid met informatie die het verstrekte.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254686/sec-onderzoekt-nvidia-wegens-mogelijke-misleiding-beleggers.html#reacties</comments>
+  </item>
+  <item>
+    <title>IFixit: Apple HomeView is 'onnodig lastig' te repareren</title>
+    <link>https://tweakers.net/nieuws/254684/ifixit-apple-homeview-is-onnodig-lastig-te-repareren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254684</guid>
+    <pubDate>Wed, 18 Nov 2026 15:08:29 +0100</pubDate>
+    <description>De Apple HomeView is 'onnodig lastig' te repareren. Dat concludeert iFixit na een teardown van de smarthomehub. Veel onderdelen zitten vastgelijmd en het apparaat gebruikt meerdere soorten schroeven. Bij de teardown sloopte het reparatieplatform daarom een connector en een speaker.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
+    <comments>https://tweakers.net/nieuws/254684/ifixit-apple-homeview-is-onnodig-lastig-te-repareren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Review - MSI EdgeMesa N AI+ X met RTX Spark - Spark zonder scherm is 2000 euro duurder</title>
+    <link>https://tweakers.net/reviews/15608/msi-edgemesa-n-ai+-x-met-rtx-spark-spark-zonder-scherm-is-2000-euro-duurder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15608</guid>
+    <pubDate>Wed, 18 Nov 2026 15:00:00 +0100</pubDate>
+    <description>Je kunt de Nvidia RTX Spark vanaf nu niet meer alleen in laptops, maar ook in desktops kopen. Dan zou je denken dat hij zonder scherm en accu goedkoper wordt …</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>Review / Computers / Pc's</category>
+    <comments>https://tweakers.net/reviews/15608/msi-edgemesa-n-ai+-x-met-rtx-spark-spark-zonder-scherm-is-2000-euro-duurder.html#reacties</comments>
+  </item>
+  <item>
+    <title>Uber biedt als eerste fabrikant robotaxiritten aan in Duitsland</title>
+    <link>https://tweakers.net/nieuws/254680/uber-biedt-als-eerste-fabrikant-robotaxiritten-aan-in-duitsland.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254680</guid>
+    <pubDate>Wed, 18 Nov 2026 14:55:35 +0100</pubDate>
+    <description>Uber en de Chinese softwareontwikkelaar Momenta bieden als eerste robotaxidiensten aan in Duitsland. Vooralsnog rijden ze enkel in een afgebakend gebied in München. De ritten zijn voorlopig gratis.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/254680/uber-biedt-als-eerste-fabrikant-robotaxiritten-aan-in-duitsland.html#reacties</comments>
+  </item>
+  <item>
+    <title>Krachtigste supercomputer van Japan is offline na hack</title>
+    <link>https://tweakers.net/nieuws/254678/krachtigste-supercomputer-van-japan-is-offline-na-hack.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254678</guid>
+    <pubDate>Wed, 18 Nov 2026 14:18:02 +0100</pubDate>
+    <description>Fugaku, de krachtigste supercomputer van Japan, ligt stil na een hack. Hackers wisten via een statusdashboard een beheersysteem van de supercomputer binnen te dringen. Mogelijk hebben ze daarbij gegevens gestolen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254678/krachtigste-supercomputer-van-japan-is-offline-na-hack.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft gaat strijd aan met OpenAI en Anthropic met nieuw programmeermodel</title>
+    <link>https://tweakers.net/nieuws/254670/microsoft-gaat-strijd-aan-met-openai-en-anthropic-met-nieuw-programmeermodel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254670</guid>
+    <pubDate>Wed, 18 Nov 2026 14:02:55 +0100</pubDate>
+    <description>Microsoft heeft zijn tweede programmeermodel aangekondigd. MAI Code 2 zou vergelijkbaar presteren met OpenAI's GPT 6.1 Sol en Anthropics Claude Opus 5.5. De prijs van het model zou lager liggen dan bij de concurrentie.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254670/microsoft-gaat-strijd-aan-met-openai-en-anthropic-met-nieuw-programmeermodel.html#reacties</comments>
+  </item>
   <item>
     <title>Google gaat tijdelijke Gemini-gesprekken 2 maanden bewaren, was eerst 72 uur</title>
     <link>https://tweakers.net/nieuws/254672/google-gaat-tijdelijke-gemini-gesprekken-2-maanden-bewaren-was-eerst-72-uur.html</link>
@@ -5304,66 +5364,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253506/nederlandse-shinyhunters-verdachte-had-bij-arrestatie-chatapp-signal-openstaan.html#reacties</comments>
-  </item>
-  <item>
-    <title>Smarthomeplatform Loxone houdt website en webshop offline na hack</title>
-    <link>https://tweakers.net/nieuws/253502/smarthomeplatform-loxone-houdt-website-en-webshop-offline-na-hack.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253502</guid>
-    <pubDate>Mon, 19 Oct 2026 17:21:15 +0200</pubDate>
-    <description>Smarthomeplatform Loxone meldt dat de hackaanval zijn interne IT-systemen raakt en dat het zijn website plus webshop 'voorlopig offline houdt'. Het bedrijf geeft uitleg over de hackaanval in antwoord op vragen van Tweakers. Het is nog niet bekend wanneer volledig herstel mogelijk is.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/253502/smarthomeplatform-loxone-houdt-website-en-webshop-offline-na-hack.html#reacties</comments>
-  </item>
-  <item>
-    <title>Belgische provider hey komt met onbeperkt mobiel abonnement</title>
-    <link>https://tweakers.net/nieuws/253500/belgische-provider-hey-komt-met-onbeperkt-mobiel-abonnement.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253500</guid>
-    <pubDate>Mon, 19 Oct 2026 17:10:48 +0200</pubDate>
-    <description>De Belgische virtuele provider hey van Orange stopt met zijn mobile XL-abonnement en komt in plaats daarvan met mobile Unlimited. Dat kost 24 euro per maand. Dat is een euro minder dan mobile XL kostte.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Mobiele abonnementen</category>
-    <comments>https://tweakers.net/nieuws/253500/belgische-provider-hey-komt-met-onbeperkt-mobiel-abonnement.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Nvidia zegt dat de RTX 5090 leeft, maar maakt dat nog uit met deze prijzen?</title>
-    <link>https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15490</guid>
-    <pubDate>Mon, 19 Oct 2026 17:00:00 +0200</pubDate>
-    <description>Ondanks de vele geruchten zegt Nvidia dat de RTX 5090 niet end-of-life is. Tegelijkertijd is de videokaart duurder dan ooit. Waarom zou je hem nog kopen?</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Achtergrond / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/reviews/15490/nvidia-zegt-dat-de-rtx-5090-leeft-maar-maakt-dat-nog-uit-met-deze-prijzen.html#reacties</comments>
-  </item>
-  <item>
-    <title>WordPress-sites lopen risico op backdoor door hack bij plug-inmaker TeamUpdraft</title>
-    <link>https://tweakers.net/nieuws/253498/wordpress-sites-lopen-risico-op-backdoor-door-hack-bij-plug-inmaker-teamupdraft.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253498</guid>
-    <pubDate>Mon, 19 Oct 2026 16:46:09 +0200</pubDate>
-    <description>Beheerders van WordPress-sites kunnen een backdoor op hun systemen hebben doordat aanvallers klantengegevens en encryptiesleutels hebben gestolen bij TeamUpdraft. Dat bedrijf maakt plug-ins voor back-up en herstel van WordPress-installaties. Klanten moeten nu diverse maatregelen nemen.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/253498/wordpress-sites-lopen-risico-op-backdoor-door-hack-bij-plug-inmaker-teamupdraft.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hype rond beursgang Anthropic bekoelt, meldt Reuters</title>
-    <link>https://tweakers.net/nieuws/253494/hype-rond-beursgang-anthropic-bekoelt-meldt-reuters.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253494</guid>
-    <pubDate>Mon, 19 Oct 2026 15:21:49 +0200</pubDate>
-    <description>De hype rond de komende beursgang van Anthropic zou bekoelen. De verwachte beurswaarde van de AI-aanbieder daalt door zorgen over minder omzet en over de aanhoudend grote investeringen in AI. Dit meldt persbureau Reuters.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253494/hype-rond-beursgang-anthropic-bekoelt-meldt-reuters.html#reacties</comments>
-  </item>
-  <item>
-    <title>NLZiet ondersteunt nu Dolby Digital 5.1-surroundgeluid bij deel van programma's</title>
-    <link>https://tweakers.net/nieuws/253492/nlziet-ondersteunt-nu-dolby-digital-51-surroundgeluid-bij-deel-van-programmas.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253492</guid>
-    <pubDate>Mon, 19 Oct 2026 14:54:03 +0200</pubDate>
-    <description>Streamingdienst NLZiet ondersteunt nu ook Dolby Digital 5.1-surroundsound. Dat bevestigt een woordvoerder van de dienst tegenover Tweakers, na berichtgeving van Spreekbuis. Dolby Digital 5.1 is echter niet voor alle content beschikbaar.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Beeld en geluid / TV en home cinema</category>
-    <comments>https://tweakers.net/nieuws/253492/nlziet-ondersteunt-nu-dolby-digital-51-surroundgeluid-bij-deel-van-programmas.html#reacties</comments>
   </item>
 </channel>
 </rss>

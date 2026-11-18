@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:03:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:19:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>8BitDo komt met 'modern eerbetoon' aan Nintendo's WaveBird-controller</title>
+    <link>https://tweakers.net/nieuws/254692/8bitdo-komt-met-modern-eerbetoon-aan-nintendos-wavebird-controller.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254692</guid>
+    <pubDate>Wed, 18 Nov 2026 19:12:58 +0100</pubDate>
+    <description>8BitDo komt met zijn GC Bluetooth Gamepad. De controller is gebaseerd op Nintendo's WaveBird, een draadloze controller voor de GameCube. Het apparaat is bedoeld voor de Nintendo Switch, Switch 2 en pc's. Via een adapter kan het ook gebruikt worden op de originele GameCube.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Gamecontrollers</category>
+    <comments>https://tweakers.net/nieuws/254692/8bitdo-komt-met-modern-eerbetoon-aan-nintendos-wavebird-controller.html#reacties</comments>
+  </item>
   <item>
     <title>AMD houdt op 5 januari CES-keynote, hint op 'iets speciaals' maar zegt niet wat</title>
     <link>https://tweakers.net/nieuws/254688/amd-houdt-op-5-januari-ces-keynote-hint-op-iets-speciaals-maar-zegt-niet-wat.html</link>
@@ -5344,16 +5354,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253504/gerucht-samsung-wil-galaxy-s27-telefoons-in-januari-presenteren-vanwege-apple.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hackers probeerden binnen te dringen bij Albert Heijn</title>
-    <link>https://tweakers.net/nieuws/253510/hackers-probeerden-binnen-te-dringen-bij-albert-heijn.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253510</guid>
-    <pubDate>Mon, 19 Oct 2026 20:08:57 +0200</pubDate>
-    <description>De reden dat Albert Heijn in Nederland en Delhaize in België systemen offline haalden, was een hackaanval. Dat bevestigt moederbedrijf Ahold Delhaize. Het bedrijf heeft aangifte gedaan van de cyberaanval.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253510/hackers-probeerden-binnen-te-dringen-bij-albert-heijn.html#reacties</comments>
   </item>
 </channel>
 </rss>

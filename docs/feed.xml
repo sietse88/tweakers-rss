@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:33:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:48:50 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>MindsEye-ontwikkelaar wil schuld van 73 miljoen euro aflossen met rechtszaken</title>
+    <link>https://tweakers.net/nieuws/254690/mindseye-ontwikkelaar-wil-schuld-van-73-miljoen-euro-aflossen-met-rechtszaken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254690</guid>
+    <pubDate>Wed, 18 Nov 2026 17:41:51 +0100</pubDate>
+    <description>Build a Rocket Boy, de studio achter de geflopte game MindsEye, wil zijn schulden afbetalen met rechtszaken. Het bedrijf staat onder curatele en spreekt van een 'gecoördineerde haatcampagne' tegen zijn game. Met rechtszaken tegen 'sommige' betrokken partijen wil het bedrijf investeerders terugbetalen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254690/mindseye-ontwikkelaar-wil-schuld-van-73-miljoen-euro-aflossen-met-rechtszaken.html#reacties</comments>
+  </item>
   <item>
     <title>'SEC onderzoekt Nvidia wegens mogelijke misleiding beleggers'</title>
     <link>https://tweakers.net/nieuws/254686/sec-onderzoekt-nvidia-wegens-mogelijke-misleiding-beleggers.html</link>

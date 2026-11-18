@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 10:45:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 11:00:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Waymo laat robotaxi's tijdelijk niet meer op snelwegen rijden na incidenten</title>
+    <link>https://tweakers.net/nieuws/254666/waymo-laat-robotaxis-tijdelijk-niet-meer-op-snelwegen-rijden-na-incidenten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254666</guid>
+    <pubDate>Wed, 18 Nov 2026 11:53:27 +0100</pubDate>
+    <description>Googles robotaxibedrijf Waymo haalt zijn robotaxi's tijdelijk van de Amerikaanse snelweg. Dat doet het bedrijf nadat Californië zijn zelfrijdende taxi's op snelwegen verbood. De staat noemde de robotaxi's van Waymo een 'onmiddellijk gevaar' voor de openbare veiligheid.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/254666/waymo-laat-robotaxis-tijdelijk-niet-meer-op-snelwegen-rijden-na-incidenten.html#reacties</comments>
+  </item>
   <item>
     <title>GTA VI sleept nog voor release acht Game Awards-nominaties binnen</title>
     <link>https://tweakers.net/nieuws/254660/gta-vi-sleept-nog-voor-release-acht-game-awards-nominaties-binnen.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 10:15:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 10:45:55 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GTA VI sleept nog voor release acht Game Awards-nominaties binnen</title>
+    <link>https://tweakers.net/nieuws/254660/gta-vi-sleept-nog-voor-release-acht-game-awards-nominaties-binnen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254660</guid>
+    <pubDate>Wed, 18 Nov 2026 11:34:56 +0100</pubDate>
+    <description>Grand Theft Auto VI is nog niet eens uit, maar heeft al acht nominaties te pakken voor The Game Awards 2026. Het langverwachte spel maakt onder meer kans op Game of the Year. Andere kanshebbers zijn Resident Evil Requiem en Control Resonant.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254660/gta-vi-sleept-nog-voor-release-acht-game-awards-nominaties-binnen.html#reacties</comments>
+  </item>
   <item>
     <title>Datacenters verbruikten 5 procent van alle elektriciteit in Nederland in 2025</title>
     <link>https://tweakers.net/nieuws/254656/datacenters-verbruikten-5-procent-van-alle-elektriciteit-in-nederland-in-2025.html</link>
@@ -5354,16 +5364,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253486/anthropic-stopt-5-procent-van-zijn-aandelen-in-nieuw-maatschappelijk-fonds.html#reacties</comments>
-  </item>
-  <item>
-    <title>In vijf jaar kreeg Nederland 729 extra cybersecuritybedrijven</title>
-    <link>https://tweakers.net/nieuws/253484/in-vijf-jaar-kreeg-nederland-729-extra-cybersecuritybedrijven.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253484</guid>
-    <pubDate>Mon, 19 Oct 2026 12:43:38 +0200</pubDate>
-    <description>Het aantal cybersecuritybedrijven in Nederland is in vijf jaar fors gestegen. Dat blijkt uit een analyse die het ANP maakte van cijfers uit het Handelsregister. Begin oktober stonden 962 cybersecuritybedrijven ingeschreven bij de Kamer van Koophandel. In dezelfde periode in 2021 waren dat er nog 233.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253484/in-vijf-jaar-kreeg-nederland-729-extra-cybersecuritybedrijven.html#reacties</comments>
   </item>
 </channel>
 </rss>

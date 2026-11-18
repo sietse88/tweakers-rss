@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:49:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 19:04:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5344,16 +5344,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253514/launcher-odido-voor-beheer-telefoongebruik-kinderen-heeft-10000-downloads.html#reacties</comments>
-  </item>
-  <item>
-    <title>Dag Starlink: Europese providers willen eigen satellietinternet gaan aanbieden</title>
-    <link>https://tweakers.net/nieuws/253512/dag-starlink-europese-providers-willen-eigen-satellietinternet-gaan-aanbieden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253512</guid>
-    <pubDate>Mon, 19 Oct 2026 21:03:00 +0200</pubDate>
-    <description>Europese providers onderzoeken of ze samen kunnen bieden op een frequentie voor mobiele verbindingen per satelliet. De providers zouden de infrastructuur op de grond willen opzetten en samenwerken met een nog niet gekozen bedrijf met satellieten.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253512/dag-starlink-europese-providers-willen-eigen-satellietinternet-gaan-aanbieden.html#reacties</comments>
   </item>
 </channel>
 </rss>

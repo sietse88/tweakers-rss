@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 19:34:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 20:04:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Chargemap waarschuwt voor datalek waarbij gehashte wachtwoorden zijn gestolen</title>
+    <link>https://tweakers.net/nieuws/254698/chargemap-waarschuwt-voor-datalek-waarbij-gehashte-wachtwoorden-zijn-gestolen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254698</guid>
+    <pubDate>Wed, 18 Nov 2026 20:52:00 +0100</pubDate>
+    <description>Chargemap, een app voor het vinden van EV-laadpalen en het plannen van routes, waarschuwt gebruikers voor een datalek. Na een cyberaanval kon 'een externe partij' toegang krijgen tot bepaalde gebruikersgegevens, waaronder gehashte wachtwoorden.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254698/chargemap-waarschuwt-voor-datalek-waarbij-gehashte-wachtwoorden-zijn-gestolen.html#reacties</comments>
+  </item>
   <item>
     <title>Jedec deelt eerste details over DDR6: sneller, meer capaciteit en kortere DIMM's</title>
     <link>https://tweakers.net/nieuws/254694/jedec-deelt-eerste-details-over-ddr6-sneller-meer-capaciteit-en-kortere-dimms.html</link>

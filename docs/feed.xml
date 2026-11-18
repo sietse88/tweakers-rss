@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 08:00:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 09:00:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia verkoopt geen AI-chips meer aan China ondanks toestemming VS</title>
+    <link>https://tweakers.net/nieuws/254652/nvidia-verkoopt-geen-ai-chips-meer-aan-china-ondanks-toestemming-vs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254652</guid>
+    <pubDate>Wed, 18 Nov 2026 09:41:18 +0100</pubDate>
+    <description>Nvidia gaat niet langer datacenterchips aan China leveren. Het bedrijf kreeg begin dit jaar toestemming om zijn H200-AI-chips onder voorwaarden aan Chinese bedrijven te leveren, maar stapt daar nu vanaf.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254652/nvidia-verkoopt-geen-ai-chips-meer-aan-china-ondanks-toestemming-vs.html#reacties</comments>
+  </item>
   <item>
     <title>Oracle dicht Java-lek waarmee aanvallers op afstand code kunnen uitvoeren</title>
     <link>https://tweakers.net/nieuws/254650/oracle-dicht-java-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html</link>

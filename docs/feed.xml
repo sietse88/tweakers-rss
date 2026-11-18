@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 17 Nov 2026 22:56:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 04:01:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5384,16 +5384,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253464/aanval-op-connectwise-raakt-ook-honderden-klantbedrijven.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Gemeenten zien meer AI-bezwaarschriften, die vaak extra werk kosten</title>
-    <link>https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15368</guid>
-    <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
-    <description>Gemeenten krijgen vaker te maken met bezwaarschriften die door AI zijn gegenereerd. Ook experimenteren sommige gemeenten zelf met AI voor de verwerking van bezwaren.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Achtergrond / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/reviews/15368/gemeenten-zien-meer-ai-bezwaarschriften-die-vaak-extra-werk-kosten.html#reacties</comments>
   </item>
 </channel>
 </rss>

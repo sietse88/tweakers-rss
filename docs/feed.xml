@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 18:34:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 18:49:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Jedec deelt eerste details over DDR6: sneller, meer capaciteit en kortere DIMM's</title>
+    <link>https://tweakers.net/nieuws/254694/jedec-deelt-eerste-details-over-ddr6-sneller-meer-capaciteit-en-kortere-dimms.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254694</guid>
+    <pubDate>Wed, 18 Nov 2026 19:40:44 +0100</pubDate>
+    <description>Jedec deelt de eerste details over DDR6, de volgende dram-generatie. De specificatie is nog in de maak, maar de organisatie maakt zijn prioriteiten bij de ontwikkeling bekend. DDR6 moet hogere bandbreedtes en meer capaciteit bieden. De modules worden daarnaast korter dan bij DDR5.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/254694/jedec-deelt-eerste-details-over-ddr6-sneller-meer-capaciteit-en-kortere-dimms.html#reacties</comments>
+  </item>
   <item>
     <title>8BitDo komt met 'modern eerbetoon' aan Nintendo's WaveBird-controller</title>
     <link>https://tweakers.net/nieuws/254692/8bitdo-komt-met-modern-eerbetoon-aan-nintendos-wavebird-controller.html</link>

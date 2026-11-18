@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 07:30:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:45:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Oracle dicht Java-lek waarmee aanvallers op afstand code kunnen uitvoeren</title>
+    <link>https://tweakers.net/nieuws/254650/oracle-dicht-java-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254650</guid>
+    <pubDate>Wed, 18 Nov 2026 08:37:09 +0100</pubDate>
+    <description>Onderzoekers hebben een kwetsbaarheid in de programmeertaal Java gevonden waardoor aanvallers anoniem code op afstand kunnen uitvoeren. Oracle heeft patches uitgebracht die het lek moeten dichten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254650/oracle-dicht-java-lek-waarmee-aanvallers-op-afstand-code-kunnen-uitvoeren.html#reacties</comments>
+  </item>
   <item>
     <title>Jensen Huang wil wel terugkeren als ceo van Nvidia, mits bestuur dat goedkeurt</title>
     <link>https://tweakers.net/nieuws/254648/jensen-huang-wil-wel-terugkeren-als-ceo-van-nvidia-mits-bestuur-dat-goedkeurt.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 11:31:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 12:01:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GTA VI stoot Ocarina of Time van de troon als best gereviewde game aller tijden</title>
+    <link>https://tweakers.net/nieuws/254668/gta-vi-stoot-ocarina-of-time-van-de-troon-als-best-gereviewde-game-aller-tijden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254668</guid>
+    <pubDate>Wed, 18 Nov 2026 12:47:07 +0100</pubDate>
+    <description>Grand Theft Auto VI komt op donderdag eindelijk uit, maar de eerste reviews staan al online. De game heeft een score van 99 op Metacritic, op basis van meer dan honderd verschillende recensies. Daarmee is het momenteel de best gereviewde game aller tijden.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254668/gta-vi-stoot-ocarina-of-time-van-de-troon-als-best-gereviewde-game-aller-tijden.html#reacties</comments>
+  </item>
   <item>
     <title>Waymo laat robotaxi's tijdelijk niet meer op snelwegen rijden na incidenten</title>
     <link>https://tweakers.net/nieuws/254666/waymo-laat-robotaxis-tijdelijk-niet-meer-op-snelwegen-rijden-na-incidenten.html</link>
@@ -5354,16 +5364,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253490/vier-op-tien-nederlanders-hebben-spijt-gehad-van-klikken-op-een-link.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft trekt stekker uit Britse datacenterdeal met Nscale</title>
-    <link>https://tweakers.net/nieuws/253488/microsoft-trekt-stekker-uit-britse-datacenterdeal-met-nscale.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253488</guid>
-    <pubDate>Mon, 19 Oct 2026 13:58:35 +0200</pubDate>
-    <description>Microsoft trekt zich terug uit een Britse datacenterdeal met Nscale. Het datacenter moest in het Britse Essex komen. Waarom Microsoft nu uit de overeenkomst stapt, is onduidelijk. Wat er nu met de locatie gaat gebeuren, is ook niet bekend.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253488/microsoft-trekt-stekker-uit-britse-datacenterdeal-met-nscale.html#reacties</comments>
   </item>
 </channel>
 </rss>

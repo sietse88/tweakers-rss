@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 08:08:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 08:38:16 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>WhatsApp verhoogt maximale grootte van groepen naar 1500 leden</title>
+    <link>https://tweakers.net/nieuws/254704/whatsapp-verhoogt-maximale-grootte-van-groepen-naar-1500-leden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254704</guid>
+    <pubDate>Thu, 19 Nov 2026 09:32:49 +0100</pubDate>
+    <description>WhatsApp verhoogt de maximale grootte van chatgroepen naar 1500 gebruikers, meldt WABetaInfo. Voorheen kon een groep maximaal 1024 leden bevatten. WhatsApp rolt de functie uit naar gebruikers op iOS en Android.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254704/whatsapp-verhoogt-maximale-grootte-van-groepen-naar-1500-leden.html#reacties</comments>
+  </item>
   <item>
     <title>'Twee jubileum-iPhones krijgen bijna onzichtbare schermranden'</title>
     <link>https://tweakers.net/nieuws/254700/twee-jubileum-iphones-krijgen-bijna-onzichtbare-schermranden.html</link>

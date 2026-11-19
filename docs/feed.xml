@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 16:02:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 16:17:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Android-apps moeten over vijf maanden vouwbare smartphones ondersteunen</title>
+    <link>https://tweakers.net/nieuws/254732/android-apps-moeten-over-vijf-maanden-vouwbare-smartphones-ondersteunen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254732</guid>
+    <pubDate>Thu, 19 Nov 2026 17:05:17 +0100</pubDate>
+    <description>Android-apps moeten over vijf maanden vouwbare smartphones ondersteunen, anders komen updates niet langer in de Google Play Store. Ook moeten ontwikkelaars screenshots uploaden die laten zien hoe hun app eruitziet op een vouwbare telefoon.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254732/android-apps-moeten-over-vijf-maanden-vouwbare-smartphones-ondersteunen.html#reacties</comments>
+  </item>
   <item>
     <title>TrendForce voorspelt vanaf 2027 prijsdaling van nandflash door overaanbod</title>
     <link>https://tweakers.net/nieuws/254714/trendforce-voorspelt-vanaf-2027-prijsdaling-van-nandflash-door-overaanbod.html</link>
@@ -5284,16 +5294,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253558/amd-brengt-fsr-41-naar-rx-6000-gpus-en-xbox-series-consoles.html#reacties</comments>
-  </item>
-  <item>
-    <title>Spotify breidt mogelijkheden voor podcastabonnementen uit</title>
-    <link>https://tweakers.net/nieuws/253556/spotify-breidt-mogelijkheden-voor-podcastabonnementen-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253556</guid>
-    <pubDate>Tue, 20 Oct 2026 18:11:21 +0200</pubDate>
-    <description>Spotify introduceert een nieuw systeem voor betaalde podcastlidmaatschappen. Het platform rolt het systeem uit in 34 landen, waaronder Nederland en België. Makers kunnen leden onder meer toegang geven tot exclusieve content en minder reclame voorschotelen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253556/spotify-breidt-mogelijkheden-voor-podcastabonnementen-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

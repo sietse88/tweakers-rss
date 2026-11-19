@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 17:47:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:02:51 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Waardering Anthropic is twee biljoen dollar bij grootste beursgang tot nu toe</title>
+    <link>https://tweakers.net/nieuws/254740/waardering-anthropic-is-twee-biljoen-dollar-bij-grootste-beursgang-tot-nu-toe.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254740</guid>
+    <pubDate>Thu, 19 Nov 2026 19:00:42 +0100</pubDate>
+    <description>Anthropic is naar de beurs gegaan. Het aandeel van het AI-bedrijf, bekend van de AI-dienst Claude, opende een derde hoger dan de introductieprijs. Daarmee is dit de grootste beursgang tot nu toe. Het vorige record stond op naam van SpaceX.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254740/waardering-anthropic-is-twee-biljoen-dollar-bij-grootste-beursgang-tot-nu-toe.html#reacties</comments>
+  </item>
   <item>
     <title>Politie: datalek Revolut leidde tot pogingen tot geweld in Den Haag en Amsterdam</title>
     <link>https://tweakers.net/nieuws/254736/politie-datalek-revolut-leidde-tot-pogingen-tot-geweld-in-den-haag-en-amsterdam.html</link>

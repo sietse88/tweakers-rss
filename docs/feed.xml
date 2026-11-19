@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 18:17:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:47:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ontwikkelaars kunnen Lens voor Snapchat bouwen met AI-tools als Codex</title>
+    <link>https://tweakers.net/nieuws/254738/ontwikkelaars-kunnen-lens-voor-snapchat-bouwen-met-ai-tools-als-codex.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254738</guid>
+    <pubDate>Thu, 19 Nov 2026 19:45:00 +0100</pubDate>
+    <description>Ontwikkelaars kunnen via tools als Claude Code, Codex of Cursor een Lens voor Snapchat maken en publiceren, zonder zelf code te schrijven. Dat heeft Snap bekendgemaakt. Daarvoor kunnen ze Easy Lens CLI gebruiken.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254738/ontwikkelaars-kunnen-lens-voor-snapchat-bouwen-met-ai-tools-als-codex.html#reacties</comments>
+  </item>
   <item>
     <title>Waardering Anthropic is twee biljoen dollar bij grootste beursgang tot nu toe</title>
     <link>https://tweakers.net/nieuws/254740/waardering-anthropic-is-twee-biljoen-dollar-bij-grootste-beursgang-tot-nu-toe.html</link>

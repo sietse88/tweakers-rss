@@ -54,28 +54,6 @@
   "pubDate": "Tue, 20 Oct 2026 16:16:35 +0200",
   "title": "Apple moet mogelijk NFC meer openstellen in VK voor andere betaalsystemen"
  },
- "https://tweakers.net/nieuws/253544": {
-  "author": "Lumen Heijdendael",
-  "category": "Nieuws / Beeld en geluid / Verbruiksmeters",
-  "comments": "https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html#reacties",
-  "description": "HomeWizard heeft een terugroepactie gestart voor het Energy Socket-model HWE-SKT-21. Volgens het bedrijf voldoet de socket niet aan de eigen veiligheidseisen. Klanten kunnen het model kosteloos laten vervangen door een nieuw en verbeterd model.",
-  "first": "Tue, 20 Oct 2026 13:46:34 +0000",
-  "guid": "https://tweakers.net/nieuws/253544",
-  "link": "https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html",
-  "pubDate": "Tue, 20 Oct 2026 15:43:39 +0200",
-  "title": "HomeWizard roept Energy Socket terug door risico op elektrische schok"
- },
- "https://tweakers.net/nieuws/253546": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html#reacties",
-  "description": "De Duitse radicaal-rechtse politieke partij Alternative für Deutschland (AfD) is getroffen door een datalek. Mogelijk zijn daarbij ruim 420.000 interne e-mails gestolen en online gepubliceerd. De aanval zou in september via een hostingprovider van de partij hebben plaatsgevonden.",
-  "first": "Tue, 20 Oct 2026 13:46:34 +0000",
-  "guid": "https://tweakers.net/nieuws/253546",
-  "link": "https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html",
-  "pubDate": "Tue, 20 Oct 2026 15:39:10 +0200",
-  "title": "AfD getroffen door datalek: mogelijk honderdduizenden gevoelige e-mails online"
- },
  "https://tweakers.net/nieuws/253552": {
   "author": "Tomas Hochstenbach",
   "category": "Nieuws / Computers / Pc's",
@@ -5139,13 +5117,35 @@
  "https://tweakers.net/nieuws/254712": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / Computers / Videokaarten",
-  "comments": "https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-buitensporig-veel-data-naar-ssds-schrijven.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-tot-30gb-per-uur-onnodig-naar-ssds-schrijven.html#reacties",
   "description": "De Nvidia GeForce-drivers zouden onnodig veel data naar ssd's schrijven. Gebruikers melden dat de drivers tot 30GB per uur naar hun ssd schrijven. AMD-drivers hadden eerder in november al een soortgelijk probleem.",
   "first": "Thu, 19 Nov 2026 13:32:16 +0000",
   "guid": "https://tweakers.net/nieuws/254712",
-  "link": "https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-buitensporig-veel-data-naar-ssds-schrijven.html",
+  "link": "https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-tot-30gb-per-uur-onnodig-naar-ssds-schrijven.html",
   "pubDate": "Thu, 19 Nov 2026 14:08:12 +0100",
-  "title": "Nvidia-drivers zouden buitensporig veel data naar ssd's schrijven"
+  "title": "Nvidia-drivers zouden tot 30GB per uur onnodig naar ssd's schrijven"
+ },
+ "https://tweakers.net/nieuws/254716": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Marktontwikkelingen",
+  "comments": "https://tweakers.net/nieuws/254716/google-mag-600-miljoen-berichten-van-failliete-spirit-airlines-kopen-voor-ai.html#reacties",
+  "description": "Een rechter in New York keurt Googles aankoop van Spirit Airlines-bedrijfsdata goed. De Amerikaanse luchtvaartmaatschappij ging failliet en sloot een datadeal met Google voor 10 miljoen dollar. De vakbond Association of Flight Attendants-CWA vocht dit aan, kreeg concessies en trok het bezwaar in.",
+  "first": "Thu, 19 Nov 2026 13:47:19 +0000",
+  "guid": "https://tweakers.net/nieuws/254716",
+  "link": "https://tweakers.net/nieuws/254716/google-mag-600-miljoen-berichten-van-failliete-spirit-airlines-kopen-voor-ai.html",
+  "pubDate": "Thu, 19 Nov 2026 14:38:00 +0100",
+  "title": "Google mag 600 miljoen berichten van failliete Spirit Airlines kopen voor AI"
+ },
+ "https://tweakers.net/nieuws/254718": {
+  "author": "Arnoud Wokke",
+  "category": "Nieuws / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/nieuws/254718/tien-jaar-na-release-krijgen-instagram-stories-eindelijk-bewerkknop.html#reacties",
+  "description": "Instagram laat gebruikers hun Stories bewerken tot een kwartier na het plaatsen. Dat voorkomt dat gebruikers na een typfout een foto of filmpje moeten verwijderen en opnieuw moeten uploaden. Het is onbekend waarom Instagram hier nu pas mee komt.",
+  "first": "Thu, 19 Nov 2026 13:47:19 +0000",
+  "guid": "https://tweakers.net/nieuws/254718",
+  "link": "https://tweakers.net/nieuws/254718/tien-jaar-na-release-krijgen-instagram-stories-eindelijk-bewerkknop.html",
+  "pubDate": "Thu, 19 Nov 2026 14:45:41 +0100",
+  "title": "Tien jaar na release krijgen Instagram Stories eindelijk bewerkknop"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

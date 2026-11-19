@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 13:32:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 13:47:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,34 @@
     <height>192</height>
   </image>
   <item>
-    <title>Nvidia-drivers zouden buitensporig veel data naar ssd's schrijven</title>
-    <link>https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-buitensporig-veel-data-naar-ssds-schrijven.html</link>
+    <title>Tien jaar na release krijgen Instagram Stories eindelijk bewerkknop</title>
+    <link>https://tweakers.net/nieuws/254718/tien-jaar-na-release-krijgen-instagram-stories-eindelijk-bewerkknop.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254718</guid>
+    <pubDate>Thu, 19 Nov 2026 14:45:41 +0100</pubDate>
+    <description>Instagram laat gebruikers hun Stories bewerken tot een kwartier na het plaatsen. Dat voorkomt dat gebruikers na een typfout een foto of filmpje moeten verwijderen en opnieuw moeten uploaden. Het is onbekend waarom Instagram hier nu pas mee komt.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/254718/tien-jaar-na-release-krijgen-instagram-stories-eindelijk-bewerkknop.html#reacties</comments>
+  </item>
+  <item>
+    <title>Google mag 600 miljoen berichten van failliete Spirit Airlines kopen voor AI</title>
+    <link>https://tweakers.net/nieuws/254716/google-mag-600-miljoen-berichten-van-failliete-spirit-airlines-kopen-voor-ai.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254716</guid>
+    <pubDate>Thu, 19 Nov 2026 14:38:00 +0100</pubDate>
+    <description>Een rechter in New York keurt Googles aankoop van Spirit Airlines-bedrijfsdata goed. De Amerikaanse luchtvaartmaatschappij ging failliet en sloot een datadeal met Google voor 10 miljoen dollar. De vakbond Association of Flight Attendants-CWA vocht dit aan, kreeg concessies en trok het bezwaar in.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/254716/google-mag-600-miljoen-berichten-van-failliete-spirit-airlines-kopen-voor-ai.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nvidia-drivers zouden tot 30GB per uur onnodig naar ssd's schrijven</title>
+    <link>https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-tot-30gb-per-uur-onnodig-naar-ssds-schrijven.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254712</guid>
     <pubDate>Thu, 19 Nov 2026 14:08:12 +0100</pubDate>
     <description>De Nvidia GeForce-drivers zouden onnodig veel data naar ssd's schrijven. Gebruikers melden dat de drivers tot 30GB per uur naar hun ssd schrijven. AMD-drivers hadden eerder in november al een soortgelijk probleem.</description>
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-buitensporig-veel-data-naar-ssds-schrijven.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254712/nvidia-drivers-zouden-tot-30gb-per-uur-onnodig-naar-ssds-schrijven.html#reacties</comments>
   </item>
   <item>
     <title>Grote cyberaanval treft Europese Commissie, datalek is niet uitgesloten</title>
@@ -5244,26 +5264,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253538/apple-moet-mogelijk-nfc-meer-openstellen-in-vk-voor-andere-betaalsystemen.html#reacties</comments>
-  </item>
-  <item>
-    <title>HomeWizard roept Energy Socket terug door risico op elektrische schok</title>
-    <link>https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253544</guid>
-    <pubDate>Tue, 20 Oct 2026 15:43:39 +0200</pubDate>
-    <description>HomeWizard heeft een terugroepactie gestart voor het Energy Socket-model HWE-SKT-21. Volgens het bedrijf voldoet de socket niet aan de eigen veiligheidseisen. Klanten kunnen het model kosteloos laten vervangen door een nieuw en verbeterd model.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Beeld en geluid / Verbruiksmeters</category>
-    <comments>https://tweakers.net/nieuws/253544/homewizard-roept-energy-socket-terug-door-risico-op-elektrische-schok.html#reacties</comments>
-  </item>
-  <item>
-    <title>AfD getroffen door datalek: mogelijk honderdduizenden gevoelige e-mails online</title>
-    <link>https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253546</guid>
-    <pubDate>Tue, 20 Oct 2026 15:39:10 +0200</pubDate>
-    <description>De Duitse radicaal-rechtse politieke partij Alternative für Deutschland (AfD) is getroffen door een datalek. Mogelijk zijn daarbij ruim 420.000 interne e-mails gestolen en online gepubliceerd. De aanval zou in september via een hostingprovider van de partij hebben plaatsgevonden.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253546/afd-getroffen-door-datalek-mogelijk-honderdduizenden-gevoelige-e-mails-online.html#reacties</comments>
   </item>
 </channel>
 </rss>

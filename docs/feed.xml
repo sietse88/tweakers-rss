@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 14:17:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 14:32:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Malware via IKEA en VI.nl: zo konden gewone sites iPhones infecteren</title>
+    <link>https://tweakers.net/reviews/15632/malware-via-ikea-en-vi-punt-nl-zo-konden-gewone-sites-iphones-infecteren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15632</guid>
+    <pubDate>Thu, 19 Nov 2026 15:30:00 +0100</pubDate>
+    <description>De afgelopen paar weken zijn er diverse incidenten geweest waarbij normale sites malware gingen verspreiden via code van derden. Hoe zit dat precies en wat vindt het NCSC ervan?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / IT Pro / Internet</category>
+    <comments>https://tweakers.net/reviews/15632/malware-via-ikea-en-vi-punt-nl-zo-konden-gewone-sites-iphones-infecteren.html#reacties</comments>
+  </item>
+  <item>
+    <title>Mistral brengt desktopapp van AI-agent Vibe uit voor macOS en Windows</title>
+    <link>https://tweakers.net/nieuws/254720/mistral-brengt-desktopapp-van-ai-agent-vibe-uit-voor-macos-en-windows.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254720</guid>
+    <pubDate>Thu, 19 Nov 2026 15:17:16 +0100</pubDate>
+    <description>Mistral heeft een desktopapp van zijn AI-agent Vibe uitgebracht voor macOS en Windows. Ondersteuning voor Linux-gebaseerde besturingssystemen volgt later, zo zegt het Franse bedrijf. De app ondersteunt werken met lokale bestanden, cloudsessies in een sandbox en parallelle sessies.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254720/mistral-brengt-desktopapp-van-ai-agent-vibe-uit-voor-macos-en-windows.html#reacties</comments>
+  </item>
   <item>
     <title>Tien jaar na release krijgen Instagram Stories eindelijk bewerkknop</title>
     <link>https://tweakers.net/nieuws/254718/tien-jaar-na-release-krijgen-instagram-stories-eindelijk-bewerkknop.html</link>

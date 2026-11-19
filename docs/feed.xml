@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 05:37:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 06:38:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Grafisch ontwerp en 3d visualisatie</category>
     <comments>https://tweakers.net/nieuws/253520/skoda-brengt-3d-printbare-bekerhouders-opbergsystemen-en-andere-accessoires-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Amerikaanse ambtenaren mogen Chinese AI-tool DeepSeek niet meer gebruiken</title>
-    <link>https://tweakers.net/nieuws/253518/amerikaanse-ambtenaren-mogen-chinese-ai-tool-deepseek-niet-meer-gebruiken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253518</guid>
-    <pubDate>Tue, 20 Oct 2026 08:29:42 +0200</pubDate>
-    <description>De Amerikaanse overheid verbiedt het gebruik van de Chinese AI-tool DeepSeek voor alle federale overheidsinstanties, met uitzondering van het ministerie van Defensie. De VS vreest dat gevoelige informatie in handen kan komen van de Chinese overheid.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253518/amerikaanse-ambtenaren-mogen-chinese-ai-tool-deepseek-niet-meer-gebruiken.html#reacties</comments>
   </item>
 </channel>
 </rss>

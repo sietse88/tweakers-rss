@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 18 Nov 2026 21:49:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 04:07:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5334,16 +5334,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/253516/google-brengt-fix-uit-voor-home-speakers-die-honderden-gb-per-dag-downloaden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - Tien jaar Pixels, de telefoons waarvan Google niet wil dat ze succesvol zijn</title>
-    <link>https://tweakers.net/reviews/15466/tien-jaar-pixels-de-telefoons-waarvan-google-niet-wil-dat-ze-succesvol-zijn.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15466</guid>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
-    <description>De Google Pixel bestaat tien jaar. Hoera! Waarom wil Google niet dat deze telefoons een groot succes worden?</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Achtergrond / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/reviews/15466/tien-jaar-pixels-de-telefoons-waarvan-google-niet-wil-dat-ze-succesvol-zijn.html#reacties</comments>
   </item>
 </channel>
 </rss>

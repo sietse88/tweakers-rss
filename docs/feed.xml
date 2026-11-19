@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 08:38:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 09:08:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers verstoppen wachtwoordstelende malware in Microsofts Agent Framework</title>
+    <link>https://tweakers.net/nieuws/254702/hackers-verstoppen-wachtwoordstelende-malware-in-microsofts-agent-framework.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254702</guid>
+    <pubDate>Thu, 19 Nov 2026 09:53:44 +0100</pubDate>
+    <description>Hackers hebben op 17 november twee versies van Microsofts Agent Framework-package verspreid met malware die wachtwoorden en andere gevoelige informatie steelt. Dat melden onderzoekers van verschillende bedrijven, waaronder OX Security en Socket.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254702/hackers-verstoppen-wachtwoordstelende-malware-in-microsofts-agent-framework.html#reacties</comments>
+  </item>
   <item>
     <title>WhatsApp verhoogt maximale grootte van groepen naar 1500 leden</title>
     <link>https://tweakers.net/nieuws/254704/whatsapp-verhoogt-maximale-grootte-van-groepen-naar-1500-leden.html</link>
@@ -5314,16 +5324,6 @@
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Economie en maatschappij</category>
     <comments>https://tweakers.net/nieuws/253528/bank-revolut-heeft-wereldwijde-storing-betalen-niet-mogelijk.html#reacties</comments>
-  </item>
-  <item>
-    <title>Amazon integreert gamestreamingdienst Luna in november in Prime Video-app</title>
-    <link>https://tweakers.net/nieuws/253526/amazon-integreert-gamestreamingdienst-luna-in-november-in-prime-video-app.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253526</guid>
-    <pubDate>Tue, 20 Oct 2026 10:56:51 +0200</pubDate>
-    <description>Amazon integreert zijn gamestreamingdienst Luna in november in de Prime Video-app voor Nederlandse en Belgische gebruikers. Tot dusver is Luna alleen beschikbaar via een aparte app. De verandering geldt vooralsnog alleen voor de Prime Video-app op Amazon Fire TV.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253526/amazon-integreert-gamestreamingdienst-luna-in-november-in-prime-video-app.html#reacties</comments>
   </item>
 </channel>
 </rss>

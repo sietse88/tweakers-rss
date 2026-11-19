@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 13:47:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 14:17:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5254,16 +5254,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Audio</category>
     <comments>https://tweakers.net/nieuws/253554/spotify-checkt-adres-family-abonnees-met-qr-code-die-elke-paar-seconden-wisselt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple moet mogelijk NFC meer openstellen in VK voor andere betaalsystemen</title>
-    <link>https://tweakers.net/nieuws/253538/apple-moet-mogelijk-nfc-meer-openstellen-in-vk-voor-andere-betaalsystemen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253538</guid>
-    <pubDate>Tue, 20 Oct 2026 16:16:35 +0200</pubDate>
-    <description>Apple moet mogelijk de NFC-chip in iPhones meer openstellen in het Verenigd Koninkrijk. Daardoor moeten andere betaaldiensten daar ook gebruik van kunnen maken. Een voorstel daarvoor ligt nu ter consultatie.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253538/apple-moet-mogelijk-nfc-meer-openstellen-in-vk-voor-andere-betaalsystemen.html#reacties</comments>
   </item>
 </channel>
 </rss>

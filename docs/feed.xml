@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 15:02:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 15:17:31 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Streamingdienst SkyShowtime stopt eind volgend jaar'</title>
+    <link>https://tweakers.net/nieuws/254730/streamingdienst-skyshowtime-stopt-eind-volgend-jaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254730</guid>
+    <pubDate>Thu, 19 Nov 2026 16:01:23 +0100</pubDate>
+    <description>Comcast en Skydance stoppen eind volgend jaar met hun gezamenlijke streamingdienst, zo meldt The Hollywood Reporter op basis van een interne memo. Ook in Nederland verdwijnt dan SkyShowtime. Het was al langer duidelijk dat de streamingdienst mogelijk zou stoppen.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Audio</category>
+    <comments>https://tweakers.net/nieuws/254730/streamingdienst-skyshowtime-stopt-eind-volgend-jaar.html#reacties</comments>
+  </item>
   <item>
     <title>Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten</title>
     <link>https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html</link>

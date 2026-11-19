@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 18:47:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 21:46:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rond 40.000 mensen bij Europese Commissie hebben op Matrix gebaseerde chatapp</title>
+    <link>https://tweakers.net/nieuws/254744/rond-40000-mensen-bij-europese-commissie-hebben-op-matrix-gebaseerde-chatapp.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254744</guid>
+    <pubDate>Thu, 19 Nov 2026 20:40:00 +0100</pubDate>
+    <description>Ongeveer 40.000 mensen die bij de Europese Commissie werken hebben de afgelopen maanden een op Matrix gebaseerde chatapp gekregen. Een versie voor smartphones volgt in de komende tijd.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254744/rond-40000-mensen-bij-europese-commissie-hebben-op-matrix-gebaseerde-chatapp.html#reacties</comments>
+  </item>
+  <item>
+    <title>NS wil storingen verminderen door software naar Microsoft-cloud te verplaatsen</title>
+    <link>https://tweakers.net/nieuws/254742/ns-wil-storingen-verminderen-door-software-naar-microsoft-cloud-te-verplaatsen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254742</guid>
+    <pubDate>Thu, 19 Nov 2026 20:15:00 +0100</pubDate>
+    <description>De Nederlandse Spoorwegen verwachten het aantal storingen vanaf volgend jaar flink te verminderen door ongeveer dertig applicaties te verplaatsen naar Microsoft Azure. Daarmee wordt de NS wel meer afhankelijk van een Amerikaanse aanbieder.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254742/ns-wil-storingen-verminderen-door-software-naar-microsoft-cloud-te-verplaatsen.html#reacties</comments>
+  </item>
   <item>
     <title>Ontwikkelaars kunnen Lens voor Snapchat bouwen met AI-tools als Codex</title>
     <link>https://tweakers.net/nieuws/254738/ontwikkelaars-kunnen-lens-voor-snapchat-bouwen-met-ai-tools-als-codex.html</link>
@@ -5304,16 +5324,6 @@
     <dc:creator>Tomas Hochstenbach</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
     <comments>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hacker krijgt Wii-game Super Mario Galaxy werkend op Game Boy Advance</title>
-    <link>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253564</guid>
-    <pubDate>Tue, 20 Oct 2026 21:13:14 +0200</pubDate>
-    <description>De ontwikkelaar Tobias Friedly, ook wel bekend als Game of Tobi, heeft een port van Super Mario Galaxy uitgebracht voor de Game Boy Advance. De game kwam in 2007 uit voor de Nintendo Wii, maar is nu dus ook te spelen op de GBA, die in 2001 op de markt kwam.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253564/hacker-krijgt-wii-game-super-mario-galaxy-werkend-op-game-boy-advance.html#reacties</comments>
   </item>
 </channel>
 </rss>

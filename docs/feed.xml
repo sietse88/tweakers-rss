@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 14:47:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 15:02:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten</title>
+    <link>https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254728</guid>
+    <pubDate>Thu, 19 Nov 2026 15:53:27 +0100</pubDate>
+    <description>Designtool Canva introduceert een knop om alle functies die gebruikmaken van generatieve AI in één keer uit te schakelen. De functie is per direct beschikbaar. Ook is er een schakelaar om minder door AI gemaakte content te zien bij het zoeken.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Malware via IKEA en VI.nl: zo konden gewone sites iPhones infecteren</title>
     <link>https://tweakers.net/reviews/15632/malware-via-ikea-en-vi-punt-nl-zo-konden-gewone-sites-iphones-infecteren.html</link>

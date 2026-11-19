@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 15:17:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 16:02:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>TrendForce voorspelt vanaf 2027 prijsdaling van nandflash door overaanbod</title>
+    <link>https://tweakers.net/nieuws/254714/trendforce-voorspelt-vanaf-2027-prijsdaling-van-nandflash-door-overaanbod.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254714</guid>
+    <pubDate>Thu, 19 Nov 2026 16:49:13 +0100</pubDate>
+    <description>TrendForce verwacht dat de prijzen van nandflashgeheugen, dat wordt gebruikt in onder meer ssd's en USB-sticks, vanaf 2027 zullen dalen. De marktonderzoeker verwacht dat het aanbod in 2027 de vraag zal overstijgen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Geheugenkaarten</category>
+    <comments>https://tweakers.net/nieuws/254714/trendforce-voorspelt-vanaf-2027-prijsdaling-van-nandflash-door-overaanbod.html#reacties</comments>
+  </item>
   <item>
     <title>'Streamingdienst SkyShowtime stopt eind volgend jaar'</title>
     <link>https://tweakers.net/nieuws/254730/streamingdienst-skyshowtime-stopt-eind-volgend-jaar.html</link>

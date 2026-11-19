@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 06:38:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 07:08:03 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Preview - Rockstar brengt grootste game ooit uit - De eerste indrukken van GTA VI</title>
+    <link>https://tweakers.net/reviews/15642/rockstar-brengt-grootste-game-ooit-uit-de-eerste-indrukken-van-gta-vi.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15642</guid>
+    <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+    <description>Het grootste entertainmentproduct is donderdag officieel uitgebracht. Tweakers dook een dagje eerder al in de eerste uurtjes van de game.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Preview / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15642/rockstar-brengt-grootste-game-ooit-uit-de-eerste-indrukken-van-gta-vi.html#reacties</comments>
+  </item>
   <item>
     <title>Chargemap waarschuwt voor datalek waarbij gehashte wachtwoorden zijn gestolen</title>
     <link>https://tweakers.net/nieuws/254698/chargemap-waarschuwt-voor-datalek-waarbij-gehashte-wachtwoorden-zijn-gestolen.html</link>

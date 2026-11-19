@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 19 Nov 2026 16:17:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 17:02:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Proton Easy Switch ondersteunt nu ook overstappen vanaf Google Drive</title>
+    <link>https://tweakers.net/nieuws/254734/proton-easy-switch-ondersteunt-nu-ook-overstappen-vanaf-google-drive.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254734</guid>
+    <pubDate>Thu, 19 Nov 2026 17:54:00 +0100</pubDate>
+    <description>Proton voegt ondersteuning voor Google Drive toe aan zijn overstaptool Easy Switch. Daardoor kunnen gebruikers overstappen van Google Drive naar Proton Drive en daarbij gelijk al hun bestanden overzetten.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Computers / Opslag</category>
+    <comments>https://tweakers.net/nieuws/254734/proton-easy-switch-ondersteunt-nu-ook-overstappen-vanaf-google-drive.html#reacties</comments>
+  </item>
   <item>
     <title>Android-apps moeten over vijf maanden vouwbare smartphones ondersteunen</title>
     <link>https://tweakers.net/nieuws/254732/android-apps-moeten-over-vijf-maanden-vouwbare-smartphones-ondersteunen.html</link>

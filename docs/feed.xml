@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 15:07:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 15:22:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Weheat-klanten konden kort data van andermans warmtepomp inzien</title>
+    <link>https://tweakers.net/nieuws/254758/weheat-klanten-konden-kort-data-van-andermans-warmtepomp-inzien.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254758</guid>
+    <pubDate>Fri, 20 Nov 2026 16:20:09 +0100</pubDate>
+    <description>Tientallen Weheat-gebruikers konden op 16 november gedurende 15 minuten de gegevens van andermans warmtepomp inzien en eventueel aanpassen. Zij kregen per ongeluk 'te ruime rechten', zo erkent Weheat-ceo Martijn van de Ven. Inmiddels heeft Weheat het probleem verholpen en het datalek gemeld bij getroffenen en de Autoriteit Persoonsgegevens.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254758/weheat-klanten-konden-kort-data-van-andermans-warmtepomp-inzien.html#reacties</comments>
+  </item>
   <item>
     <title>Ubisoft start bedrijf voor 'AI-gameplayinnovatie' en ontslaat 166 ontwikkelaars</title>
     <link>https://tweakers.net/nieuws/254768/ubisoft-start-bedrijf-voor-ai-gameplayinnovatie-en-ontslaat-166-ontwikkelaars.html</link>
@@ -5314,26 +5324,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html#reacties</comments>
-  </item>
-  <item>
-    <title>Politie arresteert twee mannen in onderzoek naar nieuw soort bankhelpdeskfraude</title>
-    <link>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253604</guid>
-    <pubDate>Wed, 21 Oct 2026 17:21:13 +0200</pubDate>
-    <description>De Nederlandse politie heeft op 6 oktober een 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html#reacties</comments>
-  </item>
-  <item>
-    <title>OpenAI, Wiz en Calif werkten voor lek al maanden aan fix voor PHP-kwetsbaarheden</title>
-    <link>https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253600</guid>
-    <pubDate>Wed, 21 Oct 2026 17:10:39 +0200</pubDate>
-    <description>Cybersecuritybedrijven Wiz, Calif en ChatGPT-aanbieder OpenAI werkten al twee maanden aan een oplossing voor de recente PHP-kwetsbaarheden. Informatie over die kwetsbaarheden lekte onlangs uit, waardoor wereldwijd talloze sites uit voorzorg offline gingen. Inmiddels is er een beveiligingsupdate voor de kwetsbaarheid.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Beeld en geluid / Bewakingscamera's</category>
-    <comments>https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

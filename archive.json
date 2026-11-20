@@ -98,28 +98,6 @@
   "pubDate": "Wed, 21 Oct 2026 17:44:00 +0200",
   "title": "Reuters: Chinese techbedrijven kopen voor 35 miljard dollar aan RTX PRO-gpu's"
  },
- "https://tweakers.net/nieuws/253600": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Beeld en geluid / Bewakingscamera's",
-  "comments": "https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html#reacties",
-  "description": "Cybersecuritybedrijven Wiz, Calif en ChatGPT-aanbieder OpenAI werkten al twee maanden aan een oplossing voor de recente PHP-kwetsbaarheden. Informatie over die kwetsbaarheden lekte onlangs uit, waardoor wereldwijd talloze sites uit voorzorg offline gingen. Inmiddels is er een beveiligingsupdate voor de kwetsbaarheid.",
-  "first": "Wed, 21 Oct 2026 15:19:47 +0000",
-  "guid": "https://tweakers.net/nieuws/253600",
-  "link": "https://tweakers.net/nieuws/253600/openai-wiz-en-calif-werkten-voor-lek-al-maanden-aan-fix-voor-php-kwetsbaarheden.html",
-  "pubDate": "Wed, 21 Oct 2026 17:10:39 +0200",
-  "title": "OpenAI, Wiz en Calif werkten voor lek al maanden aan fix voor PHP-kwetsbaarheden"
- },
- "https://tweakers.net/nieuws/253604": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html#reacties",
-  "description": "De Nederlandse politie heeft op 6 oktober een 23-jarige man uit Vaassen en een 25-jarige man uit Ede aangehouden in een onderzoek naar een nieuwe vorm van bankhelpdeskfraude. De politie verdenkt hen ervan 380.000 euro van 170 slachtoffers te hebben gestolen.",
-  "first": "Wed, 21 Oct 2026 15:34:51 +0000",
-  "guid": "https://tweakers.net/nieuws/253604",
-  "link": "https://tweakers.net/nieuws/253604/politie-arresteert-twee-mannen-in-onderzoek-naar-nieuw-soort-bankhelpdeskfraude.html",
-  "pubDate": "Wed, 21 Oct 2026 17:21:13 +0200",
-  "title": "Politie arresteert twee mannen in onderzoek naar nieuw soort bankhelpdeskfraude"
- },
  "https://tweakers.net/nieuws/253606": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -5168,6 +5146,17 @@
   "link": "https://tweakers.net/nieuws/254754/citybuilder-town-to-city-wint-dutch-game-award-voor-beste-nederlandse-game.html",
   "pubDate": "Fri, 20 Nov 2026 11:08:30 +0100",
   "title": "Citybuilder Town to City wint Dutch Game Award voor beste Nederlandse game"
+ },
+ "https://tweakers.net/nieuws/254758": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254758/weheat-klanten-konden-kort-data-van-andermans-warmtepomp-inzien.html#reacties",
+  "description": "Tientallen Weheat-gebruikers konden op 16 november gedurende 15 minuten de gegevens van andermans warmtepomp inzien en eventueel aanpassen. Zij kregen per ongeluk 'te ruime rechten', zo erkent Weheat-ceo Martijn van de Ven. Inmiddels heeft Weheat het probleem verholpen en het datalek gemeld bij getroffenen en de Autoriteit Persoonsgegevens.",
+  "first": "Fri, 20 Nov 2026 15:22:20 +0000",
+  "guid": "https://tweakers.net/nieuws/254758",
+  "link": "https://tweakers.net/nieuws/254758/weheat-klanten-konden-kort-data-van-andermans-warmtepomp-inzien.html",
+  "pubDate": "Fri, 20 Nov 2026 16:20:09 +0100",
+  "title": "Weheat-klanten konden kort data van andermans warmtepomp inzien"
  },
  "https://tweakers.net/nieuws/254760": {
   "author": "Kevin Krikhaar",

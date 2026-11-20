@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 10:36:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:36:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>.Deals - Componenten op Black Friday: hoe minder geheugen, hoe beter de deal</title>
+    <link>https://tweakers.net/reviews/15638/componenten-op-black-friday-hoe-minder-geheugen-hoe-beter-de-deal.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15638</guid>
+    <pubDate>Fri, 20 Nov 2026 13:30:00 +0100</pubDate>
+    <description>Met de gestegen geheugenprijzen hoef je geen deals op ssd's, ram en videokaarten te verwachten. Maar er zijn wel degelijk toffe deals op andere componenten.</description>
+    <dc:creator>Tomas Hochstenbach</dc:creator>
+    <category>.Deals / Computers / Basiscomponenten</category>
+    <comments>https://tweakers.net/reviews/15638/componenten-op-black-friday-hoe-minder-geheugen-hoe-beter-de-deal.html#reacties</comments>
+  </item>
   <item>
     <title>Citybuilder Town to City wint Dutch Game Award voor beste Nederlandse game</title>
     <link>https://tweakers.net/nieuws/254754/citybuilder-town-to-city-wint-dutch-game-award-voor-beste-nederlandse-game.html</link>

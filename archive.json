@@ -43,27 +43,38 @@
   "pubDate": "Tue, 17 Nov 2026 06:00:00 +0100",
   "title": "Best Buy Guide - Beste ultrawidemonitoren"
  },
- "https://tweakers.net/nieuws/253578": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253578/webshop-printerpix-laat-wachtwoorden-uitlekken.html#reacties",
-  "description": "Webwinkel Printerpix is gehackt. Bij die hack zijn niet alleen NAW-gegevens en bestelinformatie gestolen, maar ook wachtwoorden. Printerpix waarschuwt dat die wachtwoorden op andere sites kunnen worden gebruikt, wat erop wijst dat de wachtwoorden leesbaar waren.",
-  "first": "Wed, 21 Oct 2026 09:03:51 +0000",
-  "guid": "https://tweakers.net/nieuws/253578",
-  "link": "https://tweakers.net/nieuws/253578/webshop-printerpix-laat-wachtwoorden-uitlekken.html",
-  "pubDate": "Wed, 21 Oct 2026 10:46:06 +0200",
-  "title": "Webshop Printerpix laat wachtwoorden uitlekken"
+ "https://tweakers.net/best-buy-guide/televisies/beste-allround-tv": {
+  "author": "Sjef Weller",
+  "category": "Best Buy Guide / Beeld en geluid / Televisies",
+  "comments": "https://tweakers.net/best-buy-guide/televisies/beste-allround-tv#reacties",
+  "description": "In deze BBG helpen we je bij het vinden van de beste allround televisie, waarbij we onder meer letten op beeld- en geluidskwaliteit, smart-tv en aansluitingen.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/best-buy-guide/televisies/beste-allround-tv",
+  "link": "https://tweakers.net/best-buy-guide/televisies/beste-allround-tv",
+  "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
+  "title": "Best Buy Guide - Beste allround tv's"
  },
- "https://tweakers.net/nieuws/253580": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html#reacties",
-  "description": "Samsung wil zijn toekomstige mobiele modems op een 2nm-procedé maken. Het gaat om het modem in de Galaxy S28. Samsung wil zo meer productiecapaciteit voor high-bandwidth memory (HBM) vrijspelen, dat nog op 4nm-productieprocessen wordt gemaakt.",
-  "first": "Wed, 21 Oct 2026 09:18:53 +0000",
-  "guid": "https://tweakers.net/nieuws/253580",
-  "link": "https://tweakers.net/nieuws/253580/samsung-stapt-voor-modems-over-op-2nm-procede-om-hbm-capaciteit-vrij-te-spelen.html",
-  "pubDate": "Wed, 21 Oct 2026 11:12:04 +0200",
-  "title": "Samsung stapt voor modems over op 2nm-procedé om HBM-capaciteit vrij te spelen"
+ "https://tweakers.net/best-buy-guide/televisies/beste-miniled-tv": {
+  "author": "Sjef Weller",
+  "category": "Best Buy Guide / Beeld en geluid / Televisies",
+  "comments": "https://tweakers.net/best-buy-guide/televisies/beste-miniled-tv#reacties",
+  "description": "In deze BBG geven we gerichte adviezen voor de aankoop van een miniled-tv, waarbij we onder meer letten op beeld- en geluidskwaliteit, mogelijkheden en prijs.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/best-buy-guide/televisies/beste-miniled-tv",
+  "link": "https://tweakers.net/best-buy-guide/televisies/beste-miniled-tv",
+  "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
+  "title": "Best Buy Guide - Beste miniledtelevisies"
+ },
+ "https://tweakers.net/best-buy-guide/televisies/beste-oled-tv": {
+  "author": "Sjef Weller",
+  "category": "Best Buy Guide / Beeld en geluid / Televisies",
+  "comments": "https://tweakers.net/best-buy-guide/televisies/beste-oled-tv#reacties",
+  "description": "In deze BBG geven we gerichte adviezen voor de aankoop van een oled-tv, waarbij we onder meer letten op beeld- en geluidskwaliteit en mogelijkheden.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/best-buy-guide/televisies/beste-oled-tv",
+  "link": "https://tweakers.net/best-buy-guide/televisies/beste-oled-tv",
+  "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
+  "title": "Best Buy Guide - Beste oledtelevisies"
  },
  "https://tweakers.net/nieuws/253586": {
   "author": "Yannick Spinner",
@@ -5168,6 +5179,39 @@
   "link": "https://tweakers.net/nieuws/254748/cyberleek-zet-209gb-aan-vermeende-gta-vi-bestanden-online-executable-ontbreekt.html",
   "pubDate": "Fri, 20 Nov 2026 08:06:56 +0100",
   "title": "Cyberleek zet 209GB aan vermeende GTA VI-bestanden online, executable ontbreekt"
+ },
+ "https://tweakers.net/nieuws/254750": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/254750/google-verplicht-android-appmakers-vanaf-januari-tot-identificatie.html#reacties",
+  "description": "Android-ontwikkelaars moeten zich vanaf januari 2027 verplicht bij Google identificeren. Dat geldt ook voor makers van apps die buiten de Play Store om worden aangeboden.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254750",
+  "link": "https://tweakers.net/nieuws/254750/google-verplicht-android-appmakers-vanaf-januari-tot-identificatie.html",
+  "pubDate": "Fri, 20 Nov 2026 09:20:30 +0100",
+  "title": "Google verplicht Android-appmakers vanaf januari tot identificatie"
+ },
+ "https://tweakers.net/nieuws/254752": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Internet",
+  "comments": "https://tweakers.net/nieuws/254752/apple-werkt-volgens-offline-gehaalde-vacature-aan-zelfstandige-ai-agent.html#reacties",
+  "description": "Apple meldt in een vacaturetekst dat het bedrijf werkt aan een eigen AI-agent. Die zou net als de agents van onder meer OpenAI en Anthropic zelfstandig de pc van de gebruiker kunnen bedienen en kunnen programmeren.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254752",
+  "link": "https://tweakers.net/nieuws/254752/apple-werkt-volgens-offline-gehaalde-vacature-aan-zelfstandige-ai-agent.html",
+  "pubDate": "Fri, 20 Nov 2026 10:10:09 +0100",
+  "title": "Apple werkt volgens offline gehaalde vacature aan zelfstandige AI-agent"
+ },
+ "https://tweakers.net/nieuws/254754": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Gaming / Games",
+  "comments": "https://tweakers.net/nieuws/254754/citybuilder-town-to-city-wint-dutch-game-award-voor-beste-nederlandse-game.html#reacties",
+  "description": "Town to City van het Utrechtse Galaxy Grove is de beste Nederlandse game van 2026 volgens de Dutch Game Awards. De citybuilder wint ook de prijs voor de beste audio. De pc-port van Death Stranding 2 wint de prijs voor beste technologie.",
+  "first": "Fri, 20 Nov 2026 10:36:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254754",
+  "link": "https://tweakers.net/nieuws/254754/citybuilder-town-to-city-wint-dutch-game-award-voor-beste-nederlandse-game.html",
+  "pubDate": "Fri, 20 Nov 2026 11:08:30 +0100",
+  "title": "Citybuilder Town to City wint Dutch Game Award voor beste Nederlandse game"
  },
  "https://tweakers.net/reviews/11774": {
   "author": "Friso Weijers",

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:36:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 12:51:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Signal blokkeert screenshotmogelijkheid in mobiele apps om AI-agents te weren</title>
+    <link>https://tweakers.net/nieuws/254760/signal-blokkeert-screenshotmogelijkheid-in-mobiele-apps-om-ai-agents-te-weren.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254760</guid>
+    <pubDate>Fri, 20 Nov 2026 13:41:34 +0100</pubDate>
+    <description>Signal blokkeert de screenshotmogelijkheid voor iOS- en Android-gebruikers. Hiermee wil de versleuteldechatdienst voorkomen dat AI-agents met gesprekken kunnen meelezen. Op Windows-pc's blokkeert Signal screenshots al langer standaard.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/254760/signal-blokkeert-screenshotmogelijkheid-in-mobiele-apps-om-ai-agents-te-weren.html#reacties</comments>
+  </item>
   <item>
     <title>.Deals - Componenten op Black Friday: hoe minder geheugen, hoe beter de deal</title>
     <link>https://tweakers.net/reviews/15638/componenten-op-black-friday-hoe-minder-geheugen-hoe-beter-de-deal.html</link>

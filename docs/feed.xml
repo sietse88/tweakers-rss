@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 15:52:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 18:52:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Google trekt in januari definitief de stekker uit de Nest-app</title>
+    <link>https://tweakers.net/nieuws/254782/google-trekt-in-januari-definitief-de-stekker-uit-de-nest-app.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254782</guid>
+    <pubDate>Fri, 20 Nov 2026 19:32:13 +0100</pubDate>
+    <description>Google stopt definitief met de losstaande Nest-app. Die werkt vanaf 25 januari volgend jaar niet meer. Gebruikers moeten dan migreren naar Google Home. Het bedrijf zette die overstap al jaren geleden in. Zelfgemaakte, opgeslagen videoclips worden niet automatisch overgezet, maar apparaten wel.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Beeld en geluid / Smarthome</category>
+    <comments>https://tweakers.net/nieuws/254782/google-trekt-in-januari-definitief-de-stekker-uit-de-nest-app.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ernstige bugs in Nginx maken het uitvoeren van code op webservers mogelijk</title>
+    <link>https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254774</guid>
+    <pubDate>Fri, 20 Nov 2026 19:11:20 +0100</pubDate>
+    <description>Er zit een reeks ernstige kwetsbaarheden in Nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat Nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html#reacties</comments>
+  </item>
+  <item>
+    <title>Microsoft stopt met To Do, persoonlijke gebruikers raken alle taken kwijt</title>
+    <link>https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254778</guid>
+    <pubDate>Fri, 20 Nov 2026 18:12:29 +0100</pubDate>
+    <description>Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt volledig geïntegreerd in Microsoft Planner. Planner is alleen beschikbaar voor zakelijke gebruikers. Persoonlijke gebruikers hebben daarmee pech. Ook zakelijke gebruikers hebben trouwens een probleem, want Microsoft migreert bestaande to-do's niet bij de overstap.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html#reacties</comments>
+  </item>
+  <item>
+    <title>Tweede Kamer wil geen ministerie van Digitale Zaken</title>
+    <link>https://tweakers.net/nieuws/254780/tweede-kamer-wil-geen-ministerie-van-digitale-zaken.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254780</guid>
+    <pubDate>Fri, 20 Nov 2026 17:45:19 +0100</pubDate>
+    <description>Nederland krijgt ook in het volgende kabinet waarschijnlijk geen ministerie van Digitale Zaken. Althans, als het aan de huidige Tweede Kamer ligt. Die heeft een motie verworpen die opriep alvast voorbereidingen te treffen om zo'n ministerie in een volgend kabinet op te zetten.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254780/tweede-kamer-wil-geen-ministerie-van-digitale-zaken.html#reacties</comments>
+  </item>
+  <item>
+    <title>Analisten: GTA VI leverde na eerste dag al bijna 2,4 miljard dollar op</title>
+    <link>https://tweakers.net/nieuws/254772/analisten-gta-vi-leverde-na-eerste-dag-al-bijna-2-komma-4-miljard-dollar-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254772</guid>
+    <pubDate>Fri, 20 Nov 2026 17:18:47 +0100</pubDate>
+    <description>Rockstar Games zou na de release van GTA VI al bijna 24,6 miljoen kopieën van de game hebben verkocht. Dat zou goed zijn voor een omzet van bijna 2,4 miljard dollar. Voor zover bekend is het daarmee verreweg de grootste entertainmentrelease aller tijden. Rockstar en uitgever Take-Two hebben nog geen officiële cijfers bekendgemaakt.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254772/analisten-gta-vi-leverde-na-eerste-dag-al-bijna-2-komma-4-miljard-dollar-op.html#reacties</comments>
+  </item>
   <item>
     <title>Bending Spoons doet duurste aankoop: Mailchimp voor 3,35 miljard euro</title>
     <link>https://tweakers.net/nieuws/254770/bending-spoons-doet-duurste-aankoop-mailchimp-voor-3-komma-35-miljard-euro.html</link>
@@ -5264,66 +5314,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253618/xbox-cloud-gaming-zonder-game-pass-kost-3-komma-99-dollar-voor-tien-uur-speeltijd.html#reacties</comments>
-  </item>
-  <item>
-    <title>Meta moet boete van 25 miljard dollar betalen om Cambridge Analytica-zaak</title>
-    <link>https://tweakers.net/nieuws/253616/meta-moet-boete-van-25-miljard-dollar-betalen-om-cambridge-analytica-zaak.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253616</guid>
-    <pubDate>Wed, 21 Oct 2026 20:44:02 +0200</pubDate>
-    <description>Meta moet 25 miljard dollar aan de staat New Mexico betalen, omdat het bedrijf consumenten heeft misleid over hun privacy. De zaak draaide om de dataverzameling van Cambridge Analytica, dat via een app van derden data van 87 miljoen Facebook-gebruikers verzamelde.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253616/meta-moet-boete-van-25-miljard-dollar-betalen-om-cambridge-analytica-zaak.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bloomberg: EA sluit BioWare en schrapt 400 banen</title>
-    <link>https://tweakers.net/nieuws/253614/bloomberg-ea-sluit-bioware-en-schrapt-400-banen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253614</guid>
-    <pubDate>Wed, 21 Oct 2026 19:46:25 +0200</pubDate>
-    <description>Electronic Arts gaat de ontwikkelstudio BioWare sluiten, meldt Bloomberg. Het bedrijf wil naar verluidt ook 400 mensen ontslaan, onder wie de vijftig werknemers van BioWare. EA schrapt ook de komende Mass Effect-game.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253614/bloomberg-ea-sluit-bioware-en-schrapt-400-banen.html#reacties</comments>
-  </item>
-  <item>
-    <title>EU start onderzoek naar Booking.com om nepadvertenties en phishing</title>
-    <link>https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253612</guid>
-    <pubDate>Wed, 21 Oct 2026 19:18:16 +0200</pubDate>
-    <description>De Europese Commissie gaat onderzoeken of Booking.com de Digital Services Act (DSA) heeft overtreden. Het platform heeft mogelijk te weinig gedaan tegen nepadvertenties en phishing. Ook is Booking.com mogelijk niet transparant genoeg geweest over advertenties.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Websites en community's</category>
-    <comments>https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ontdekker PHP-kwetsbaarheden lekte per ongeluk zelf vroegtijdig details uit</title>
-    <link>https://tweakers.net/nieuws/253610/ontdekker-php-kwetsbaarheden-lekte-per-ongeluk-zelf-vroegtijdig-details-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253610</guid>
-    <pubDate>Wed, 21 Oct 2026 18:56:12 +0200</pubDate>
-    <description>Een van de ontdekkers van de recente PHP-kwetsbaarheden lekte zelf vroegtijdig informatie over het bestaan ervan. Daarna publiceerde een ander bedrijf vóór het verstrijken van het embargo de komende patch. Hierdoor moesten de PHP-makers vervroegd een update uitbrengen. In afwachting daarvan gingen wereldwijd talloze websites uit voorzorg offline.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
-    <comments>https://tweakers.net/nieuws/253610/ontdekker-php-kwetsbaarheden-lekte-per-ongeluk-zelf-vroegtijdig-details-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Corsair: muissoftware is geen aimbot, maar maakt gamer tot dertig procent beter</title>
-    <link>https://tweakers.net/nieuws/253586/corsair-muissoftware-is-geen-aimbot-maar-maakt-gamer-tot-dertig-procent-beter.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253586</guid>
-    <pubDate>Wed, 21 Oct 2026 18:18:26 +0200</pubDate>
-    <description>Corsair en Aimlabs komen met een nieuwe muissoftwarefunctie genaamd PureVector. Deze functie past de muisgevoeligheid aan het gedrag van de gebruiker aan. Volgens Corsair schieten gamers hierdoor tot dertig procent accurater. De functie werkt alleen met de nieuwe muizen uit de Sabre v3 Pro-serie.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Muizen</category>
-    <comments>https://tweakers.net/nieuws/253586/corsair-muissoftware-is-geen-aimbot-maar-maakt-gamer-tot-dertig-procent-beter.html#reacties</comments>
-  </item>
-  <item>
-    <title>Elon Musk zou Starshield in Oekraïne hebben laten inperken</title>
-    <link>https://tweakers.net/nieuws/253606/elon-musk-zou-starshield-in-oekraine-hebben-laten-inperken.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253606</guid>
-    <pubDate>Wed, 21 Oct 2026 18:01:49 +0200</pubDate>
-    <description>SpaceX-ceo Elon Musk zou verantwoordelijk zijn voor het inperken van het Starshield-satellietnetwerk in Oekraïne, meldden ingewijden aan The Wall Street Journal en CBS News. Door de beperkingen konden Oekraïense drones minder snel vliegen, waardoor Rusland ze makkelijker kan onderscheppen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253606/elon-musk-zou-starshield-in-oekraine-hebben-laten-inperken.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

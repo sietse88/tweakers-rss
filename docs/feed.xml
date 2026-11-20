@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 19:22:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 20:22:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Artiesten keren Etsy de rug toe nu het platform AI-modellen gaat trainen</title>
+    <link>https://tweakers.net/nieuws/254790/artiesten-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254790</guid>
+    <pubDate>Fri, 20 Nov 2026 21:07:10 +0100</pubDate>
+    <description>Veel contentmakers keren Etsy de rug toe omdat het artiestenplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/nieuws/254790/artiesten-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html#reacties</comments>
+  </item>
   <item>
     <title>Google trekt in januari definitief de stekker uit de Nest-app</title>
     <link>https://tweakers.net/nieuws/254782/google-trekt-in-januari-definitief-de-stekker-uit-de-nest-app.html</link>

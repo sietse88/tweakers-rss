@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:17:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 08:02:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5294,16 +5294,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253578/webshop-printerpix-laat-wachtwoorden-uitlekken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Komende XBOX zou volgens Fortune tussen 1200 en 1800 dollar kunnen kosten</title>
-    <link>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253572</guid>
-    <pubDate>Wed, 21 Oct 2026 09:58:03 +0200</pubDate>
-    <description>Microsoft verwacht dat de volgende XBOX tussen de 1200 en 1800 dollar kan kosten voor consumenten. Dat zou de prijs zijn als Microsoft geen deel van de kosten voor eigen rekening neemt. Dat zijn Microsofts interne verwachtingen, zeggen bronnen tegen Fortune. De console zou eind 2028 op de markt komen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Gaming / Consoles</category>
-    <comments>https://tweakers.net/nieuws/253572/komende-xbox-zou-volgens-fortune-tussen-1200-en-1800-dollar-kunnen-kosten.html#reacties</comments>
   </item>
 </channel>
 </rss>

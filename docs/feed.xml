@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 12:51:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 13:07:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Duitsland zegt dat investeerders TikTok EU voor 25 miljard euro willen overnemen</title>
+    <link>https://tweakers.net/nieuws/254762/duitsland-zegt-dat-investeerders-tiktok-eu-voor-25-miljard-euro-willen-overnemen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254762</guid>
+    <pubDate>Fri, 20 Nov 2026 13:52:27 +0100</pubDate>
+    <description>De Duitse minister van Cultuur, Wolfram Weimer, zegt tijdens een persconferentie investeerders te hebben gevonden die de Europese tak van TikTok willen overnemen voor ongeveer 25 miljard euro. Daarvoor zouden ze zo'n 75 tot 80 procent van de aandelen krijgen. TikTok zelf verzet zich tegen de poging om het sociale medium, net als in de VS, af te splitsen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254762/duitsland-zegt-dat-investeerders-tiktok-eu-voor-25-miljard-euro-willen-overnemen.html#reacties</comments>
+  </item>
   <item>
     <title>Signal blokkeert screenshotmogelijkheid in mobiele apps om AI-agents te weren</title>
     <link>https://tweakers.net/nieuws/254760/signal-blokkeert-screenshotmogelijkheid-in-mobiele-apps-om-ai-agents-te-weren.html</link>

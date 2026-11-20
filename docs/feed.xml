@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 14:22:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 14:52:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ubisoft start bedrijf voor 'AI-gameplayinnovatie' en ontslaat 166 ontwikkelaars</title>
+    <link>https://tweakers.net/nieuws/254768/ubisoft-start-bedrijf-voor-ai-gameplayinnovatie-en-ontslaat-166-ontwikkelaars.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254768</guid>
+    <pubDate>Fri, 20 Nov 2026 15:49:00 +0100</pubDate>
+    <description>Ubisoft richt dochterbedrijf Motherbrain op, een studio die AI-oplossingen voor gameplay moet ontwikkelen. De producten zouden ook buiten Ubisoft-games kunnen verschijnen en 'alle gamemakers' kunnen ondersteunen. Tegelijkertijd ontslaat het bedrijf 166 werknemers van Canadese studio's.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254768/ubisoft-start-bedrijf-voor-ai-gameplayinnovatie-en-ontslaat-166-ontwikkelaars.html#reacties</comments>
+  </item>
   <item>
     <title>Valve sluit wachtlijst voor 2TB-versie Steam Machine en hint op prijsverhoging</title>
     <link>https://tweakers.net/nieuws/254764/valve-sluit-wachtlijst-voor-2tb-versie-steam-machine-en-hint-op-prijsverhoging.html</link>
@@ -5334,16 +5344,6 @@
     <dc:creator>Dennis de Vries</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253602/oppo-find-x10-pro-max-krijgt-600-megapixelcamerasysteem-voor-1800-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Sharma wil gebruikers eigen XBOX Game Pass-abo laten bouwen'</title>
-    <link>https://tweakers.net/nieuws/253594/sharma-wil-gebruikers-eigen-xbox-game-pass-abo-laten-bouwen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253594</guid>
-    <pubDate>Wed, 21 Oct 2026 16:42:00 +0200</pubDate>
-    <description>XBOX-ceo Asha Sharma wil het XBOX Game Pass-abonnement naar verluidt op de schop gooien. Zij zou spelers hun eigen abonnement willen laten 'bouwen'. Gamers zouden dan verschillende onderdelen, zoals cloudgaming en multiplayer, kunnen kiezen. Zij betalen dan alleen voor wat ze gebruiken.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Gaming / Game-accessoires</category>
-    <comments>https://tweakers.net/nieuws/253594/sharma-wil-gebruikers-eigen-xbox-game-pass-abo-laten-bouwen.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 03:01:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 04:02:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Zelfbouw-pc's werden in een jaar tijd gemiddeld 51 procent duurder</title>
-    <link>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253552</guid>
-    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
-    <description>In iets meer dan een jaar tijd zijn zelfbouw-pc's meer dan de helft duurder geworden. Dat blijkt uit een analyse van Tweakers op basis van de zes pc-builds uit de Desktop Best Buy Guide, variërend van een basis-pc tot game-pc's en een krachtig workstation.</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Nieuws / Computers / Pc's</category>
-    <comments>https://tweakers.net/nieuws/253552/zelfbouw-pcs-werden-in-een-jaar-tijd-gemiddeld-51-procent-duurder.html#reacties</comments>
   </item>
 </channel>
 </rss>

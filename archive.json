@@ -43,17 +43,6 @@
   "pubDate": "Tue, 17 Nov 2026 06:00:00 +0100",
   "title": "Best Buy Guide - Beste ultrawidemonitoren"
  },
- "https://tweakers.net/nieuws/253566": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html#reacties",
-  "description": "Acht intermediate certificaten van het Indiase eMudhra lijken te zijn gecompromitteerd. Onbekenden hebben op een website een bericht geplaatst dat is ondertekend met de keys achter die certificaten, een teken dat die certificaten voortaan onveilig zijn. Met de gecompromitteerde certificaten kan iedereen eigen TLS-certificaten uitbrengen die browsers vervolgens accepteren.",
-  "first": "Wed, 21 Oct 2026 07:03:38 +0000",
-  "guid": "https://tweakers.net/nieuws/253566",
-  "link": "https://tweakers.net/nieuws/253566/intermediate-tls-certs-zijn-gecompromitteerd-kan-leiden-tot-afluisteren.html",
-  "pubDate": "Wed, 21 Oct 2026 08:59:41 +0200",
-  "title": "Intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren"
- },
  "https://tweakers.net/nieuws/253572": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Gaming / Consoles",

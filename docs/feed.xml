@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 07:02:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 07:17:29 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Cyberleek zet 209GB aan vermeende GTA VI-bestanden online, executable ontbreekt</title>
+    <link>https://tweakers.net/nieuws/254748/cyberleek-zet-209gb-aan-vermeende-gta-vi-bestanden-online-executable-ontbreekt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254748</guid>
+    <pubDate>Fri, 20 Nov 2026 08:06:56 +0100</pubDate>
+    <description>GTA VI-leaker Cyberleek heeft de vermeende XBOX-build van GTA VI online gezet. De leaker claimt dat het gaat om alle bestanden van de XBOX-versie van de game, minus de executable. Cyberleek dreigt die ook te lekken.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254748/cyberleek-zet-209gb-aan-vermeende-gta-vi-bestanden-online-executable-ontbreekt.html#reacties</comments>
+  </item>
   <item>
     <title>Rond 40.000 mensen bij Europese Commissie hebben op Matrix gebaseerde chatapp</title>
     <link>https://tweakers.net/nieuws/254744/rond-40000-mensen-bij-europese-commissie-hebben-op-matrix-gebaseerde-chatapp.html</link>

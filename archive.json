@@ -54,17 +54,6 @@
   "pubDate": "Wed, 21 Oct 2026 08:59:41 +0200",
   "title": "Intermediate TLS-certs zijn gecompromitteerd, kan leiden tot afluisteren"
  },
- "https://tweakers.net/nieuws/253568": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html#reacties",
-  "description": "De makers van PHP waarschuwen website- en softwarebeheerders voor twee ernstige kwetsbaarheden in PHP. Het gaat om remote code execution-bugs die eenvoudig kunnen worden uitgebuit. PHP wil zelf later op woensdag details naar buiten brengen, maar er lijkt inmiddels een proof-of-concept openbaar beschikbaar te zijn.",
-  "first": "Wed, 21 Oct 2026 06:03:33 +0000",
-  "guid": "https://tweakers.net/nieuws/253568",
-  "link": "https://tweakers.net/nieuws/253568/php-waarschuwt-voor-twee-ernstige-bugs-die-makkelijk-uit-te-buiten-lijken.html",
-  "pubDate": "Wed, 21 Oct 2026 07:46:19 +0200",
-  "title": "PHP waarschuwt voor twee ernstige bugs die makkelijk uit te buiten lijken"
- },
  "https://tweakers.net/nieuws/253572": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Gaming / Consoles",

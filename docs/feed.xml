@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 20 Nov 2026 15:22:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 15:52:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Bending Spoons doet duurste aankoop: Mailchimp voor 3,35 miljard euro</title>
+    <link>https://tweakers.net/nieuws/254770/bending-spoons-doet-duurste-aankoop-mailchimp-voor-3-komma-35-miljard-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254770</guid>
+    <pubDate>Fri, 20 Nov 2026 16:44:23 +0100</pubDate>
+    <description>De Italiaanse 'serieopkoper' Bending Spoons heeft Mailchimp overgenomen voor een bedrag van bijna 3,35 miljard euro. Marktautoriteiten moeten de deal nog goedkeuren. Naar verwachting wordt de overname begin 2027 afgerond. Het is nog niet duidelijk welke gevolgen de overname heeft voor Mailchimp als dienst.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254770/bending-spoons-doet-duurste-aankoop-mailchimp-voor-3-komma-35-miljard-euro.html#reacties</comments>
+  </item>
   <item>
     <title>Weheat-klanten konden kort data van andermans warmtepomp inzien</title>
     <link>https://tweakers.net/nieuws/254758/weheat-klanten-konden-kort-data-van-andermans-warmtepomp-inzien.html</link>
@@ -5314,16 +5324,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253606/elon-musk-zou-starshield-in-oekraine-hebben-laten-inperken.html#reacties</comments>
-  </item>
-  <item>
-    <title>Reuters: Chinese techbedrijven kopen voor 35 miljard dollar aan RTX PRO-gpu's</title>
-    <link>https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253596</guid>
-    <pubDate>Wed, 21 Oct 2026 17:44:00 +0200</pubDate>
-    <description>ByteDance, Alibaba en Tencent hebben meer dan drie miljoen Nvidia RTX PRO 5500-videokaarten besteld, schrijft Reuters. De totale waarde van al die kaarten zou meer dan 35 miljard dollar zijn, melden twee bronnen aan het persbureau.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/253596/reuters-chinese-techbedrijven-kopen-voor-35-miljard-dollar-aan-rtx-pro-gpus.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

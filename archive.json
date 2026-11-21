@@ -4837,7 +4837,7 @@
   "guid": "https://tweakers.net/nieuws/254728",
   "link": "https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html",
   "pubDate": "Thu, 19 Nov 2026 15:53:27 +0100",
-  "title": "Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten"
+  "title": "Canva laat gebruikers alle generatieve-AI-functies met één knop uitzetten"
  },
  "https://tweakers.net/nieuws/254730": {
   "author": "Arnoud Wokke",
@@ -5146,6 +5146,17 @@
   "link": "https://tweakers.net/nieuws/254798/datacenterbouw-kost-meta-zijn-klimaatdoel-voor-2030-tijdlijn-heroverwegen.html",
   "pubDate": "Sat, 21 Nov 2026 12:20:49 +0100",
   "title": "Datacenterbouw kost Meta zijn klimaatdoel voor 2030: 'tijdlijn heroverwegen'"
+ },
+ "https://tweakers.net/nieuws/254802": {
+  "author": "Yannick Spinner",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html#reacties",
+  "description": "Een crimineel heeft toegang gekregen tot 'een deel' van de routers en KVM-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.",
+  "first": "Sat, 21 Nov 2026 12:01:34 +0000",
+  "guid": "https://tweakers.net/nieuws/254802",
+  "link": "https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html",
+  "pubDate": "Sat, 21 Nov 2026 12:52:49 +0100",
+  "title": "GL.iNet: crimineel kreeg toegang tot routers en kvm's door kwetsbaarheid"
  },
  "https://tweakers.net/reviews/15298": {
   "author": "Willem de Moor",

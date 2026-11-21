@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 21 Nov 2026 11:46:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:01:34 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GL.iNet: crimineel kreeg toegang tot routers en kvm's door kwetsbaarheid</title>
+    <link>https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254802</guid>
+    <pubDate>Sat, 21 Nov 2026 12:52:49 +0100</pubDate>
+    <description>Een crimineel heeft toegang gekregen tot 'een deel' van de routers en KVM-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html#reacties</comments>
+  </item>
   <item>
     <title>Datacenterbouw kost Meta zijn klimaatdoel voor 2030: 'tijdlijn heroverwegen'</title>
     <link>https://tweakers.net/nieuws/254798/datacenterbouw-kost-meta-zijn-klimaatdoel-voor-2030-tijdlijn-heroverwegen.html</link>
@@ -356,7 +366,7 @@
     <comments>https://tweakers.net/nieuws/254730/streamingdienst-skyshowtime-stopt-eind-volgend-jaar.html#reacties</comments>
   </item>
   <item>
-    <title>Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten</title>
+    <title>Canva laat gebruikers alle generatieve-AI-functies met één knop uitzetten</title>
     <link>https://tweakers.net/nieuws/254728/canva-laat-gebruikers-alle-generatieve-ai-functies-met-een-knop-uitzetten.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254728</guid>
     <pubDate>Thu, 19 Nov 2026 15:53:27 +0100</pubDate>

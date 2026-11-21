@@ -138,7 +138,7 @@ De afgelopen paar weken zijn er diverse incidenten geweest waarbij normale sites
 
 [Lees het hele artikel](https://tweakers.net/reviews/15632/malware-via-ikea-en-vi-punt-nl-zo-konden-gewone-sites-iphones-infecteren.html)
 
-## Canva laat gebruikers alle generatieve AI-functies met één knop uitzetten
+## Canva laat gebruikers alle generatieve-AI-functies met één knop uitzetten
 
 Designtool Canva introduceert een knop om alle functies die gebruikmaken van generatieve AI in één keer uit te schakelen. De functie is per direct beschikbaar. Ook is er een schakelaar om minder door AI gemaakte content te zien bij het zoeken.
 

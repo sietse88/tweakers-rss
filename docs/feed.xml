@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 21 Nov 2026 10:46:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 11:31:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Datacenterbouw kost Meta zijn klimaatdoel voor 2030: 'tijdlijn heroverwegen'</title>
+    <link>https://tweakers.net/nieuws/254798/datacenterbouw-kost-meta-zijn-klimaatdoel-voor-2030-tijdlijn-heroverwegen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254798</guid>
+    <pubDate>Sat, 21 Nov 2026 12:20:49 +0100</pubDate>
+    <description>Meta gaat zijn eigen klimaatdoelen waarschijnlijk niet halen vanwege de ontwikkelingen in de AI-sector. Daarom gaat het bedrijf zijn 'tijdlijn heroverwegen'. Het doel was om in 2030 klimaatneutraal te zijn, maar vermoedelijk wordt het doel opgeschoven naar een later jaar. Google, Amazon en Microsoft hebben vergelijkbare doelen die vooralsnog onveranderd zijn.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254798/datacenterbouw-kost-meta-zijn-klimaatdoel-voor-2030-tijdlijn-heroverwegen.html#reacties</comments>
+  </item>
   <item>
     <title>Hotfix voor Nvidia-driver moet onnodig data naar ssd schrijven verhelpen</title>
     <link>https://tweakers.net/nieuws/254796/hotfix-voor-nvidia-driver-moet-onnodig-data-naar-ssd-schrijven-verhelpen.html</link>

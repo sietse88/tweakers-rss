@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 21 Nov 2026 04:00:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 05:15:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Jackery SolarVault 3 Pro Max AC-thuisbatterij - Modulair met hoog rendement</title>
+    <link>https://tweakers.net/reviews/15602/jackery-solarvault-3-pro-max-ac-thuisbatterij-modulair-met-hoog-rendement.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15602</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+    <description>De door ons geteste SolarVault 3 Pro Max AC-thuisbatterij heeft een capaciteit van 2,5kWh. We hebben ook een uitgebreide versie met 5,04kWh capaciteit getest.</description>
+    <dc:creator>Willem de Moor</dc:creator>
+    <category>Review / Beeld en geluid / Thuisbatterijen</category>
+    <comments>https://tweakers.net/reviews/15602/jackery-solarvault-3-pro-max-ac-thuisbatterij-modulair-met-hoog-rendement.html#reacties</comments>
+  </item>
   <item>
     <title>Artiesten keren Etsy de rug toe nu het platform AI-modellen gaat trainen</title>
     <link>https://tweakers.net/nieuws/254790/artiesten-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html</link>

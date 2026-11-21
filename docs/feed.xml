@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 21 Nov 2026 09:16:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 10:01:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hotfix voor Nvidia-driver moet onnodig data naar ssd schrijven verhelpen</title>
+    <link>https://tweakers.net/nieuws/254796/hotfix-voor-nvidia-driver-moet-onnodig-data-naar-ssd-schrijven-verhelpen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254796</guid>
+    <pubDate>Sat, 21 Nov 2026 10:49:55 +0100</pubDate>
+    <description>Nvidia brengt GeForce Hotfix Driver 621.35 uit om een recente bug te verhelpen waarbij de driver op de achtergrond onnodig tot tientallen gigabytes per uur naar ssd's schreef. Eerder hadden AMD-drivers een vergelijkbaar probleem.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254796/hotfix-voor-nvidia-driver-moet-onnodig-data-naar-ssd-schrijven-verhelpen.html#reacties</comments>
+  </item>
   <item>
     <title>Rockstar: GTA VI verdiende niet 2,4 maar 3,8 miljard dollar op de eerste dag</title>
     <link>https://tweakers.net/nieuws/254792/rockstar-gta-vi-verdiende-niet-2-komma-4-maar-3-komma-8-miljard-dollar-op-de-eerste-dag.html</link>

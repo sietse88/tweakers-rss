@@ -76,17 +76,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253686": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html#reacties",
-  "description": "Node.js heeft een patch uitgebracht voor een ernstige bug die het mogelijk maakte op afstand code uit te voeren. De kwetsbaarheid zat in compressielibrary Brotli. Het Nationaal Cyber Security Centrum (NCSC) schat de kans op misbruik niet heel hoog in, maar áls de bug wordt uitgebuit, kan de schade ernstig zijn.",
-  "first": "Fri, 23 Oct 2026 19:11:47 +0000",
-  "guid": "https://tweakers.net/nieuws/253686",
-  "link": "https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html",
-  "pubDate": "Fri, 23 Oct 2026 20:59:18 +0200",
-  "title": "Bug in Node.js maakte op afstand uitvoeren van code mogelijk"
- },
  "https://tweakers.net/nieuws/253704": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Gaming / Games",

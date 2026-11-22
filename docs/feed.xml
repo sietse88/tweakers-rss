@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 18:43:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 19:13:06 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5004,16 +5004,6 @@
     <dc:creator>Willem de Moor</dc:creator>
     <category>Benchmark / Beeld en geluid / Thuisbatterijen</category>
     <comments>https://tweakers.net/reviews/15476/testmethode-thuisbatterijen-zo-testen-we-plug-inbatterijen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bug in Node.js maakte op afstand uitvoeren van code mogelijk</title>
-    <link>https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253686</guid>
-    <pubDate>Fri, 23 Oct 2026 20:59:18 +0200</pubDate>
-    <description>Node.js heeft een patch uitgebracht voor een ernstige bug die het mogelijk maakte op afstand code uit te voeren. De kwetsbaarheid zat in compressielibrary Brotli. Het Nationaal Cyber Security Centrum (NCSC) schat de kans op misbruik niet heel hoog in, maar áls de bug wordt uitgebuit, kan de schade ernstig zijn.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253686/bug-in-node-punt-js-maakte-op-afstand-uitvoeren-van-code-mogelijk.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

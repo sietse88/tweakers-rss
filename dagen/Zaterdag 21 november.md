@@ -62,6 +62,6 @@ Meta gaat zijn eigen klimaatdoelen waarschijnlijk niet halen vanwege de ontwikke
 
 ## GL.iNet: crimineel kreeg toegang tot routers en kvm's door kwetsbaarheid
 
-Een crimineel heeft toegang gekregen tot 'een deel' van de routers en KVM-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.
+Een crimineel heeft toegang gekregen tot 'een deel' van de routers en kvm-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html)

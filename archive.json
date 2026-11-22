@@ -4942,7 +4942,7 @@
   "author": "Yannick Spinner",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
   "comments": "https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html#reacties",
-  "description": "Een crimineel heeft toegang gekregen tot 'een deel' van de routers en KVM-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.",
+  "description": "Een crimineel heeft toegang gekregen tot 'een deel' van de routers en kvm-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.",
   "first": "Sat, 21 Nov 2026 12:01:34 +0000",
   "guid": "https://tweakers.net/nieuws/254802",
   "link": "https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html",
@@ -4981,6 +4981,17 @@
   "link": "https://tweakers.net/nieuws/254810/tesla-fsd-krijgt-gta-vi-achtige-visualisatie-maar-nog-niet-in-europa.html",
   "pubDate": "Sun, 22 Nov 2026 11:47:06 +0100",
   "title": "Tesla FSD krijgt 'GTA VI-achtige' visualisatie, maar nog niet in Europa"
+ },
+ "https://tweakers.net/nieuws/254812": {
+  "author": "Hayte Hugo",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254812/hackers-treffen-fbi-mogelijk-voor-tweede-keer-dit-jaar-nu-criminelendatabase.html#reacties",
+  "description": "De FBI onderzoekt of de dienst voor een tweede keer dit jaar gehackt is, zegt CNN. Daarbij zou een nationale criminelendatabase zijn gehackt. De vrees is dat hackers informatie hebben gestolen of aangepast. In september werden verschillende werknemersdatabases van de FBI gehackt.",
+  "first": "Sun, 22 Nov 2026 11:45:14 +0000",
+  "guid": "https://tweakers.net/nieuws/254812",
+  "link": "https://tweakers.net/nieuws/254812/hackers-treffen-fbi-mogelijk-voor-tweede-keer-dit-jaar-nu-criminelendatabase.html",
+  "pubDate": "Sun, 22 Nov 2026 12:35:41 +0100",
+  "title": "'Hackers treffen FBI mogelijk voor tweede keer dit jaar, nu criminelendatabase'"
  },
  "https://tweakers.net/reviews/15298": {
   "author": "Willem de Moor",

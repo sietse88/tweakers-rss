@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 11:15:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 11:45:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Hackers treffen FBI mogelijk voor tweede keer dit jaar, nu criminelendatabase'</title>
+    <link>https://tweakers.net/nieuws/254812/hackers-treffen-fbi-mogelijk-voor-tweede-keer-dit-jaar-nu-criminelendatabase.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254812</guid>
+    <pubDate>Sun, 22 Nov 2026 12:35:41 +0100</pubDate>
+    <description>De FBI onderzoekt of de dienst voor een tweede keer dit jaar gehackt is, zegt CNN. Daarbij zou een nationale criminelendatabase zijn gehackt. De vrees is dat hackers informatie hebben gestolen of aangepast. In september werden verschillende werknemersdatabases van de FBI gehackt.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254812/hackers-treffen-fbi-mogelijk-voor-tweede-keer-dit-jaar-nu-criminelendatabase.html#reacties</comments>
+  </item>
   <item>
     <title>Tesla FSD krijgt 'GTA VI-achtige' visualisatie, maar nog niet in Europa</title>
     <link>https://tweakers.net/nieuws/254810/tesla-fsd-krijgt-gta-vi-achtige-visualisatie-maar-nog-niet-in-europa.html</link>
@@ -70,7 +80,7 @@
     <link>https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254802</guid>
     <pubDate>Sat, 21 Nov 2026 12:52:49 +0100</pubDate>
-    <description>Een crimineel heeft toegang gekregen tot 'een deel' van de routers en KVM-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.</description>
+    <description>Een crimineel heeft toegang gekregen tot 'een deel' van de routers en kvm-switches (keyboard, video, mouse) van GL.iNet. Mogelijk is hierbij schadelijke software geïnstalleerd. Het bedrijf werkt aan een oplossing en gaat getroffenen op de hoogte stellen. Het is onduidelijk wat de omvang van het incident is.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/254802/gl-punt-inet-crimineel-kreeg-toegang-tot-routers-en-kvms-door-kwetsbaarheid.html#reacties</comments>

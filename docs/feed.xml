@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:00:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 10:30:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5084,16 +5084,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Gaming / Consoles</category>
     <comments>https://tweakers.net/nieuws/253678/atari-stopt-volgend-jaar-volledig-met-ondersteuning-voor-geflopte-vcs-console.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlandse Defensie sluit contract met SAP voor ontwikkeling 'soevereine' cloud</title>
-    <link>https://tweakers.net/nieuws/253676/nederlandse-defensie-sluit-contract-met-sap-voor-ontwikkeling-soevereine-cloud.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253676</guid>
-    <pubDate>Fri, 23 Oct 2026 12:18:53 +0200</pubDate>
-    <description>Het Nederlandse ministerie van Defensie heeft een overeenkomst gesloten met het Duitse softwarebedrijf SAP voor de ontwikkeling van een soevereine clouddienst. Het is de bedoeling dat deze in 2028 operationeel is.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253676/nederlandse-defensie-sluit-contract-met-sap-voor-ontwikkeling-soevereine-cloud.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

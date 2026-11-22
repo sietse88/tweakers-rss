@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 17:27:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 18:12:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5024,16 +5024,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / IT Pro / Privacy</category>
     <comments>https://tweakers.net/nieuws/253702/meta-mag-niet-alleen-facebook-paginas-scrapen-maar-ook-websites-van-gebruikers.html#reacties</comments>
-  </item>
-  <item>
-    <title>Videobeelden tonen hoe Chinezen op grote schaal RTX 5090's ombouwen voor servers</title>
-    <link>https://tweakers.net/nieuws/253700/videobeelden-tonen-hoe-chinezen-op-grote-schaal-rtx-5090s-ombouwen-voor-servers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253700</guid>
-    <pubDate>Fri, 23 Oct 2026 20:06:15 +0200</pubDate>
-    <description>In een uitgelekte video op sociale media is te zien hoe Chinese fabriekswerkers in een professioneel ogende productielijn RTX 5090-videokaarten uit elkaar halen om de hardware te gebruiken in AI-clusters. Deze videokaarten mogen officieel niet verkocht worden in China.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/nieuws/253700/videobeelden-tonen-hoe-chinezen-op-grote-schaal-rtx-5090s-ombouwen-voor-servers.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

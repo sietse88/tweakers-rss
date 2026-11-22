@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 07:44:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 08:44:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5084,16 +5084,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253674/auditeurs-vinden-353-hoogrisicokwetsbaarheden-bij-vlaamse-gemeenten.html#reacties</comments>
-  </item>
-  <item>
-    <title>1Password laat AI-agents inloggen zonder wachtwoorden prijs te geven</title>
-    <link>https://tweakers.net/nieuws/253672/1password-laat-ai-agents-inloggen-zonder-wachtwoorden-prijs-te-geven.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253672</guid>
-    <pubDate>Fri, 23 Oct 2026 10:07:07 +0200</pubDate>
-    <description>Wachtwoordmanager 1Password komt met een functie waarmee AI-agents kunnen inloggen op gekoppelde accounts, zonder dat ze toegang krijgen tot de bijbehorende inloggegevens. Gebruikers moeten voor iedere inlogpoging wel eerst toestemming geven.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253672/1password-laat-ai-agents-inloggen-zonder-wachtwoorden-prijs-te-geven.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

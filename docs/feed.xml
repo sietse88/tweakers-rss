@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 08:44:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 09:14:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>OpenAI-investeerder SoftBank overwoog geheugenmaker SK hynix over te nemen</title>
+    <link>https://tweakers.net/nieuws/254806/openai-investeerder-softbank-overwoog-geheugenmaker-sk-hynix-over-te-nemen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254806</guid>
+    <pubDate>Sun, 22 Nov 2026 09:57:13 +0100</pubDate>
+    <description>De grote Japanse techinvesteerder SoftBank overwoog de Zuid-Koreaanse geheugenchipmaker SK hynix over te nemen. Vermoedelijk had die overname ongeveer 1 biljoen dollar gekost. De overname is op dit moment niet in 'actieve overweging', zegt SoftBank.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254806/openai-investeerder-softbank-overwoog-geheugenmaker-sk-hynix-over-te-nemen.html#reacties</comments>
+  </item>
   <item>
     <title>Round-up - Vijf 32"-monitoren met nieuwste QD-oled - Luxe 4k-gaming op modern oledpaneel</title>
     <link>https://tweakers.net/reviews/15556/vijf-32-inch-monitoren-met-nieuwste-qd-oled-luxe-4k-gaming-op-modern-oledpaneel.html</link>

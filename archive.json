@@ -87,39 +87,6 @@
   "pubDate": "Fri, 23 Oct 2026 20:59:18 +0200",
   "title": "Bug in Node.js maakte op afstand uitvoeren van code mogelijk"
  },
- "https://tweakers.net/nieuws/253690": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html#reacties",
-  "description": "De makers van PHP raden aan om naast het patchen van de recente bugs ook een mitigatie door te voeren. Volgens de makers is het in zeldzame gevallen alsnog mogelijk dat een aanvaller de bug uitbuit. Dat is echter dermate ingewikkeld dat PHP dat pas tijdens een komende release officieel aanpast.",
-  "first": "Fri, 23 Oct 2026 14:41:00 +0000",
-  "guid": "https://tweakers.net/nieuws/253690",
-  "link": "https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html",
-  "pubDate": "Fri, 23 Oct 2026 16:25:52 +0200",
-  "title": "Makers van PHP raden alsnog mitigatie aan voor minder gevaarlijke potentiële bug"
- },
- "https://tweakers.net/nieuws/253692": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / IT Pro / Economie en maatschappij",
-  "comments": "https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html#reacties",
-  "description": "Iedere ondernemer kan in de toekomst een filiaal van MediaMarkt beginnen. De elektronicawinkelketen begint een franchisemodel waardoor ondernemers een eigen vestiging kunnen openen en zeggenschap houden over bijvoorbeeld personeelszaken en lokale aanbiedingen. MediaMarkt werd onlangs overgenomen door een Chinese investeerder, die op deze manier meer winkels in het straatbeeld wil krijgen.",
-  "first": "Fri, 23 Oct 2026 15:11:04 +0000",
-  "guid": "https://tweakers.net/nieuws/253692",
-  "link": "https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html",
-  "pubDate": "Fri, 23 Oct 2026 17:00:31 +0200",
-  "title": "MediaMarkt wordt een franchise zodat er mogelijk meer winkels bij kunnen komen"
- },
- "https://tweakers.net/nieuws/253694": {
-  "author": "Tijs Hofmans",
-  "category": "Nieuws / IT Pro / Software development",
-  "comments": "https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html#reacties",
-  "description": "Mistral heeft spraakmodel Voxtral 3 vrijgegeven. Voxtral 3, dat onder andere Nederlands en Frans ondersteunt, bestaat uit een software development kit voor ontwikkelaars en uit spraak-naar-tekst- en tekst-naar-spraakmodellen. Daarmee kunnen ontwikkelaars stembesturing aan software toevoegen, waardoor gebruikers in normale spraak met een llm kunnen praten.",
-  "first": "Fri, 23 Oct 2026 16:11:23 +0000",
-  "guid": "https://tweakers.net/nieuws/253694",
-  "link": "https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html",
-  "pubDate": "Fri, 23 Oct 2026 18:05:49 +0200",
-  "title": "Mistrals nieuwe spraakmodellen zijn goedkoper dan die van concurrenten"
- },
  "https://tweakers.net/nieuws/253698": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Tablets en telefoons / Smartphones",

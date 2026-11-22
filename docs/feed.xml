@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sun, 22 Nov 2026 14:00:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:42:48 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5044,36 +5044,6 @@
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Tablets en telefoons / Smartphones</category>
     <comments>https://tweakers.net/nieuws/253698/hackers-tonen-op-iphone-18-eerste-persistente-untethered-jailbreak-sinds-ios-9.html#reacties</comments>
-  </item>
-  <item>
-    <title>Mistrals nieuwe spraakmodellen zijn goedkoper dan die van concurrenten</title>
-    <link>https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253694</guid>
-    <pubDate>Fri, 23 Oct 2026 18:05:49 +0200</pubDate>
-    <description>Mistral heeft spraakmodel Voxtral 3 vrijgegeven. Voxtral 3, dat onder andere Nederlands en Frans ondersteunt, bestaat uit een software development kit voor ontwikkelaars en uit spraak-naar-tekst- en tekst-naar-spraakmodellen. Daarmee kunnen ontwikkelaars stembesturing aan software toevoegen, waardoor gebruikers in normale spraak met een llm kunnen praten.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253694/mistrals-nieuwe-spraakmodellen-zijn-goedkoper-dan-die-van-concurrenten.html#reacties</comments>
-  </item>
-  <item>
-    <title>MediaMarkt wordt een franchise zodat er mogelijk meer winkels bij kunnen komen</title>
-    <link>https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253692</guid>
-    <pubDate>Fri, 23 Oct 2026 17:00:31 +0200</pubDate>
-    <description>Iedere ondernemer kan in de toekomst een filiaal van MediaMarkt beginnen. De elektronicawinkelketen begint een franchisemodel waardoor ondernemers een eigen vestiging kunnen openen en zeggenschap houden over bijvoorbeeld personeelszaken en lokale aanbiedingen. MediaMarkt werd onlangs overgenomen door een Chinese investeerder, die op deze manier meer winkels in het straatbeeld wil krijgen.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253692/mediamarkt-wordt-een-franchise-zodat-er-mogelijk-meer-winkels-bij-kunnen-komen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Makers van PHP raden alsnog mitigatie aan voor minder gevaarlijke potentiële bug</title>
-    <link>https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253690</guid>
-    <pubDate>Fri, 23 Oct 2026 16:25:52 +0200</pubDate>
-    <description>De makers van PHP raden aan om naast het patchen van de recente bugs ook een mitigatie door te voeren. Volgens de makers is het in zeldzame gevallen alsnog mogelijk dat een aanvaller de bug uitbuit. Dat is echter dermate ingewikkeld dat PHP dat pas tijdens een komende release officieel aanpast.</description>
-    <dc:creator>Tijs Hofmans</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253690/makers-van-php-raden-alsnog-mitigatie-aan-voor-minder-gevaarlijke-potentiele-bug.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

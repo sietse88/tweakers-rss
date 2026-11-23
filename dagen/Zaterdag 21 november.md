@@ -30,11 +30,11 @@ Google stopt definitief met de losstaande Nest-app. Die werkt vanaf 25 januari v
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254782/google-trekt-in-januari-definitief-de-stekker-uit-de-nest-app.html)
 
-## Artiesten keren Etsy de rug toe nu het platform AI-modellen gaat trainen
+## Kunstenaars keren Etsy de rug toe nu het platform AI-modellen gaat trainen
 
-Veel contentmakers keren Etsy de rug toe omdat het artiestenplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.
+Veel contentmakers keren Etsy de rug toe omdat het kunstenaarsplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254790/artiesten-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254790/kunstenaars-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html)
 
 ## Review - Jackery SolarVault 3 Pro Max AC-thuisbatterij - Modulair met hoog rendement
 

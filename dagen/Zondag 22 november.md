@@ -26,7 +26,7 @@ Britse supermarkten en andere bedrijven hebben de afgelopen weken tienduizenden 
 
 ## Tesla FSD krijgt 'GTA VI-achtige' visualisatie, maar nog niet in Europa
 
-Tesla's Full Self-Driving (FSD) krijgt met V15 een nieuwe visualisatie die laat zien wat de software ziet en hoe de auto daarop reageert. Deze visualisatie ziet er een stuk realistischer uit dan voorheen en wordt op internet vergeleken met GTA VI. De nieuwe visualisatie gebruikt generatieve AI. Het is niet bekend wanneer V15 naar Europa komt.
+Tesla's Full Self-Driving (FSD) krijgt met V15 een nieuwe visualisatie, die laat zien wat de software ziet en hoe de auto daarop reageert. Deze visualisatie ziet er een stuk realistischer uit dan voorheen en wordt op internet vergeleken met GTA VI. De nieuwe visualisatie gebruikt generatieve AI. Het is niet bekend wanneer V15 naar Europa komt.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254810/tesla-fsd-krijgt-gta-vi-achtige-visualisatie-maar-nog-niet-in-europa.html)
 

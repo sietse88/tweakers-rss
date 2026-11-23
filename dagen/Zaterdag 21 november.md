@@ -8,21 +8,21 @@ Rockstar Games zou na de release van GTA VI al bijna 24,6 miljoen kopieën van d
 
 ## Tweede Kamer wil geen ministerie van Digitale Zaken
 
-Nederland krijgt ook in het volgende kabinet waarschijnlijk geen ministerie van Digitale Zaken. Althans, als het aan de huidige Tweede Kamer ligt. Die heeft een motie verworpen die opriep alvast voorbereidingen te treffen om zo'n ministerie in een volgend kabinet op te zetten.
+Nederland krijgt ook in het volgende kabinet waarschijnlijk geen ministerie van Digitale Zaken. Althans, dat is het geval als het aan de huidige Tweede Kamer ligt. Die heeft een motie verworpen die opriep om alvast voorbereidingen te treffen om zo'n ministerie in een volgend kabinet op te zetten.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254780/tweede-kamer-wil-geen-ministerie-van-digitale-zaken.html)
 
 ## Microsoft stopt met To Do, persoonlijke gebruikers raken alle taken kwijt
 
-Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt volledig geïntegreerd in Microsoft Planner. Planner is alleen beschikbaar voor zakelijke gebruikers. Persoonlijke gebruikers hebben daarmee pech. Ook zakelijke gebruikers hebben trouwens een probleem, want Microsoft migreert bestaande to-do's niet bij de overstap.
+Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt volledig geïntegreerd in Microsoft Planner. Planner is alleen beschikbaar voor zakelijke gebruikers. Persoonlijke gebruikers hebben daarmee pech. Ook zakelijke gebruikers hebben een probleem, want Microsoft migreert bestaande to do's niet bij de overstap.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html)
 
-## Ernstige bugs in nginx maken het uitvoeren van code op webservers mogelijk
+## Ernstige bugs in nginx maken het mogelijk om op webservers code uit te voeren
 
-Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.
+Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk om code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy, waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-mogelijk-om-op-webservers-code-uit-te-voeren.html)
 
 ## Google trekt in januari definitief de stekker uit de Nest-app
 
@@ -32,7 +32,7 @@ Google stopt definitief met de losstaande Nest-app. Die werkt vanaf 25 januari v
 
 ## Kunstenaars keren Etsy de rug toe nu het platform AI-modellen gaat trainen
 
-Veel contentmakers keren Etsy de rug toe omdat het kunstenaarsplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.
+Veel contentmakers keren Etsy de rug toe omdat het kunstenaarsplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten om AI-content op het platform aan te pakken.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254790/kunstenaars-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html)
 
@@ -42,11 +42,11 @@ De door ons geteste SolarVault 3 Pro Max AC-thuisbatterij heeft een capaciteit v
 
 [Lees het hele artikel](https://tweakers.net/reviews/15602/jackery-solarvault-3-pro-max-ac-thuisbatterij-modulair-met-hoog-rendement.html)
 
-## Rockstar: GTA VI verdiende niet 2,4 maar 3,8 miljard dollar op de eerste dag
+## Rockstar: GTA VI bracht niet 2,4 maar 3,8 miljard dollar omzet op op eerste dag
 
 Grand Theft Auto VI, ofwel GTA VI, heeft na de eerste dag maar liefst 3,8 miljard dollar opgebracht, omgerekend 3,45 miljard euro. Eerder werd nog geschat dat de openwereldgame 'maar' 2,4 miljard dollar had opgeleverd. GTA VI is daarmee voor zover bekend verreweg de grootste entertainmentrelease aller tijden.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254792/rockstar-gta-vi-verdiende-niet-2-komma-4-maar-3-komma-8-miljard-dollar-op-de-eerste-dag.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254792/rockstar-gta-vi-bracht-niet-2-komma-4-maar-3-komma-8-miljard-dollar-omzet-op-op-eerste-dag.html)
 
 ## Hotfix voor Nvidia-driver moet onnodig data naar ssd schrijven verhelpen
 

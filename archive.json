@@ -76,28 +76,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253706": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html#reacties",
-  "description": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang, na een reeks ontsnappingen door AI-agents. Het bedrijf zegt dat te blijven doen totdat de benodigde safeguards voldoende zijn verbeterd.",
-  "first": "Sat, 24 Oct 2026 09:28:41 +0000",
-  "guid": "https://tweakers.net/nieuws/253706",
-  "link": "https://tweakers.net/nieuws/253706/openai-traint-zijn-krachtigste-ai-modellen-voortaan-zonder-internettoegang.html",
-  "pubDate": "Sat, 24 Oct 2026 11:14:39 +0200",
-  "title": "OpenAI traint zijn krachtigste AI-modellen voortaan zonder internettoegang"
- },
- "https://tweakers.net/nieuws/253710": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Moederborden",
-  "comments": "https://tweakers.net/nieuws/253710/gigabyte-levert-grote-ramkoeler-mee-met-wrx90-ai-top-moederbord.html#reacties",
-  "description": "Gigabyte maakt meer details bekend over zijn WRX90 AI TOP-moederbord voor AMD's Threadripper PRO 7000- en 9000-processors. De fabrikant levert een actieve koeler mee voor de DDR5-modules. De prijs is nog niet bekend.",
-  "first": "Sat, 24 Oct 2026 10:28:48 +0000",
-  "guid": "https://tweakers.net/nieuws/253710",
-  "link": "https://tweakers.net/nieuws/253710/gigabyte-levert-grote-ramkoeler-mee-met-wrx90-ai-top-moederbord.html",
-  "pubDate": "Sat, 24 Oct 2026 12:17:20 +0200",
-  "title": "Gigabyte levert grote ramkoeler mee met WRX90 AI TOP-moederbord"
- },
  "https://tweakers.net/nieuws/253712": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / IT Pro / Politiek en recht",
@@ -4732,19 +4710,19 @@
  "https://tweakers.net/nieuws/254774": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html#reacties",
-  "description": "Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.",
+  "comments": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-mogelijk-om-op-webservers-code-uit-te-voeren.html#reacties",
+  "description": "Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk om code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy, waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.",
   "first": "Fri, 20 Nov 2026 18:52:14 +0000",
   "guid": "https://tweakers.net/nieuws/254774",
-  "link": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html",
+  "link": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-mogelijk-om-op-webservers-code-uit-te-voeren.html",
   "pubDate": "Fri, 20 Nov 2026 19:11:20 +0100",
-  "title": "Ernstige bugs in nginx maken het uitvoeren van code op webservers mogelijk"
+  "title": "Ernstige bugs in nginx maken het mogelijk om op webservers code uit te voeren"
  },
  "https://tweakers.net/nieuws/254778": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Internettoegang",
   "comments": "https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html#reacties",
-  "description": "Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt volledig geïntegreerd in Microsoft Planner. Planner is alleen beschikbaar voor zakelijke gebruikers. Persoonlijke gebruikers hebben daarmee pech. Ook zakelijke gebruikers hebben trouwens een probleem, want Microsoft migreert bestaande to-do's niet bij de overstap.",
+  "description": "Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt volledig geïntegreerd in Microsoft Planner. Planner is alleen beschikbaar voor zakelijke gebruikers. Persoonlijke gebruikers hebben daarmee pech. Ook zakelijke gebruikers hebben een probleem, want Microsoft migreert bestaande to do's niet bij de overstap.",
   "first": "Fri, 20 Nov 2026 18:52:14 +0000",
   "guid": "https://tweakers.net/nieuws/254778",
   "link": "https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html",
@@ -4755,7 +4733,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Politiek en recht",
   "comments": "https://tweakers.net/nieuws/254780/tweede-kamer-wil-geen-ministerie-van-digitale-zaken.html#reacties",
-  "description": "Nederland krijgt ook in het volgende kabinet waarschijnlijk geen ministerie van Digitale Zaken. Althans, als het aan de huidige Tweede Kamer ligt. Die heeft een motie verworpen die opriep alvast voorbereidingen te treffen om zo'n ministerie in een volgend kabinet op te zetten.",
+  "description": "Nederland krijgt ook in het volgende kabinet waarschijnlijk geen ministerie van Digitale Zaken. Althans, dat is het geval als het aan de huidige Tweede Kamer ligt. Die heeft een motie verworpen die opriep om alvast voorbereidingen te treffen om zo'n ministerie in een volgend kabinet op te zetten.",
   "first": "Fri, 20 Nov 2026 18:52:14 +0000",
   "guid": "https://tweakers.net/nieuws/254780",
   "link": "https://tweakers.net/nieuws/254780/tweede-kamer-wil-geen-ministerie-van-digitale-zaken.html",
@@ -4777,7 +4755,7 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / IT Pro / Websites en community's",
   "comments": "https://tweakers.net/nieuws/254790/kunstenaars-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html#reacties",
-  "description": "Veel contentmakers keren Etsy de rug toe omdat het kunstenaarsplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten AI-content op het platform aan te pakken.",
+  "description": "Veel contentmakers keren Etsy de rug toe omdat het kunstenaarsplatform hun kunst en content gaat gebruiken om AI-modellen te trainen. Etsy veranderde onlangs de algemene voorwaarden, kort nadat het juist had besloten om AI-content op het platform aan te pakken.",
   "first": "Fri, 20 Nov 2026 20:22:24 +0000",
   "guid": "https://tweakers.net/nieuws/254790",
   "link": "https://tweakers.net/nieuws/254790/kunstenaars-keren-etsy-de-rug-toe-nu-het-platform-ai-modellen-gaat-trainen.html",
@@ -4787,13 +4765,13 @@
  "https://tweakers.net/nieuws/254792": {
   "author": "Yannick Spinner",
   "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/254792/rockstar-gta-vi-verdiende-niet-2-komma-4-maar-3-komma-8-miljard-dollar-op-de-eerste-dag.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254792/rockstar-gta-vi-bracht-niet-2-komma-4-maar-3-komma-8-miljard-dollar-omzet-op-op-eerste-dag.html#reacties",
   "description": "Grand Theft Auto VI, ofwel GTA VI, heeft na de eerste dag maar liefst 3,8 miljard dollar opgebracht, omgerekend 3,45 miljard euro. Eerder werd nog geschat dat de openwereldgame 'maar' 2,4 miljard dollar had opgeleverd. GTA VI is daarmee voor zover bekend verreweg de grootste entertainmentrelease aller tijden.",
   "first": "Sat, 21 Nov 2026 09:01:18 +0000",
   "guid": "https://tweakers.net/nieuws/254792",
-  "link": "https://tweakers.net/nieuws/254792/rockstar-gta-vi-verdiende-niet-2-komma-4-maar-3-komma-8-miljard-dollar-op-de-eerste-dag.html",
+  "link": "https://tweakers.net/nieuws/254792/rockstar-gta-vi-bracht-niet-2-komma-4-maar-3-komma-8-miljard-dollar-omzet-op-op-eerste-dag.html",
   "pubDate": "Sat, 21 Nov 2026 09:50:23 +0100",
-  "title": "Rockstar: GTA VI verdiende niet 2,4 maar 3,8 miljard dollar op de eerste dag"
+  "title": "Rockstar: GTA VI bracht niet 2,4 maar 3,8 miljard dollar omzet op op eerste dag"
  },
  "https://tweakers.net/nieuws/254794": {
   "author": "Hayte Hugo",
@@ -4865,7 +4843,7 @@
   "author": "Hayte Hugo",
   "category": "Nieuws / Beeld en geluid / Cartech",
   "comments": "https://tweakers.net/nieuws/254810/tesla-fsd-krijgt-gta-vi-achtige-visualisatie-maar-nog-niet-in-europa.html#reacties",
-  "description": "Tesla's Full Self-Driving (FSD) krijgt met V15 een nieuwe visualisatie die laat zien wat de software ziet en hoe de auto daarop reageert. Deze visualisatie ziet er een stuk realistischer uit dan voorheen en wordt op internet vergeleken met GTA VI. De nieuwe visualisatie gebruikt generatieve AI. Het is niet bekend wanneer V15 naar Europa komt.",
+  "description": "Tesla's Full Self-Driving (FSD) krijgt met V15 een nieuwe visualisatie, die laat zien wat de software ziet en hoe de auto daarop reageert. Deze visualisatie ziet er een stuk realistischer uit dan voorheen en wordt op internet vergeleken met GTA VI. De nieuwe visualisatie gebruikt generatieve AI. Het is niet bekend wanneer V15 naar Europa komt.",
   "first": "Sun, 22 Nov 2026 11:00:08 +0000",
   "guid": "https://tweakers.net/nieuws/254810",
   "link": "https://tweakers.net/nieuws/254810/tesla-fsd-krijgt-gta-vi-achtige-visualisatie-maar-nog-niet-in-europa.html",
@@ -4904,6 +4882,39 @@
   "link": "https://tweakers.net/nieuws/254816/antwerps-waterbedrijf-vervangt-digitale-watermeters-die-stukgaan-door-water.html",
   "pubDate": "Mon, 23 Nov 2026 08:34:48 +0100",
   "title": "Antwerps waterbedrijf vervangt digitale watermeters die stukgaan door water"
+ },
+ "https://tweakers.net/nieuws/254820": {
+  "author": "Hayte Hugo",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254820/microsoft-waarschuwt-klanten-voor-misbruikt-lek-in-entra-connect-health.html#reacties",
+  "description": "Microsoft waarschuwt sommige klanten in een e-mail dat een lek in Entra Connect Health is misbruikt. Daardoor zijn bepaalde gegevens van tenants uitgelekt. Het gaat om de mailadressen van technische contactpersonen en om metadata. Aanvallers zouden de data kunnen gebruiken voor phishing.",
+  "first": "Mon, 23 Nov 2026 12:16:31 +0000",
+  "guid": "https://tweakers.net/nieuws/254820",
+  "link": "https://tweakers.net/nieuws/254820/microsoft-waarschuwt-klanten-voor-misbruikt-lek-in-entra-connect-health.html",
+  "pubDate": "Mon, 23 Nov 2026 10:01:16 +0100",
+  "title": "Microsoft waarschuwt klanten voor misbruikt lek in Entra Connect Health"
+ },
+ "https://tweakers.net/nieuws/254828": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Computerhulp",
+  "comments": "https://tweakers.net/nieuws/254828/google-schrapt-zoekknop-ten-gunste-van-ai-knoppen-in-zoekmachine.html#reacties",
+  "description": "Google schrapt de knop 'Google Zoeken' onder het tekstveld van zijn zoekmachine. In plaats daarvan biedt het bedrijf op zijn desktophomepage drie nieuwe knoppen die AI-functies aanroepen. Sommige Nederlandse gebruikers krijgen die al te zien. Zoekopdrachten zijn nog wel mogelijk met de entertoets.",
+  "first": "Mon, 23 Nov 2026 12:16:31 +0000",
+  "guid": "https://tweakers.net/nieuws/254828",
+  "link": "https://tweakers.net/nieuws/254828/google-schrapt-zoekknop-ten-gunste-van-ai-knoppen-in-zoekmachine.html",
+  "pubDate": "Mon, 23 Nov 2026 11:29:04 +0100",
+  "title": "Google schrapt zoekknop ten gunste van AI-knoppen in zoekmachine"
+ },
+ "https://tweakers.net/nieuws/254830": {
+  "author": "Hayte Hugo",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254830/crowdstrike-neemt-securitybedrijf-zscaler-over-voor-43-komma-9-miljard-dollar.html#reacties",
+  "description": "Cybersecuritybedrijf CrowdStrike neemt branchegenoot Zscaler over voor 43,9 miljard dollar. Met de deal gaat CrowdStrike Zscaler-producten verkopen. Zo krijgen beide bedrijven toegang tot meer klanten, is het idee. Ze bedienen andere delen van de securitymarkt.",
+  "first": "Mon, 23 Nov 2026 12:16:31 +0000",
+  "guid": "https://tweakers.net/nieuws/254830",
+  "link": "https://tweakers.net/nieuws/254830/crowdstrike-neemt-securitybedrijf-zscaler-over-voor-43-komma-9-miljard-dollar.html",
+  "pubDate": "Mon, 23 Nov 2026 12:52:05 +0100",
+  "title": "CrowdStrike neemt securitybedrijf Zscaler over voor 43,9 miljard dollar"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",
@@ -5476,5 +5487,16 @@
   "link": "https://tweakers.net/reviews/15644/black-friday-tv-deals-de-beste-deals-volgens-de-redactie-en-community.html",
   "pubDate": "Mon, 23 Nov 2026 09:30:00 +0100",
   "title": ".Deals - Black Friday TV deals - De beste deals volgens de redactie en community"
+ },
+ "https://tweakers.net/reviews/15650": {
+  "author": "Michiel Berkhout",
+  "category": ".Community / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/reviews/15650/terugblik-abodag-2026-van-thuisbatterijen-tot-team-zeezout.html#reacties",
+  "description": "Ruim honderd abonnees bezochten op 14 november de Tweakers Abodag. Een terugblik op sessies over thuisbatterijen en AI, rallyrijden, retrohardware en een pubquiz.",
+  "first": "Mon, 23 Nov 2026 12:16:31 +0000",
+  "guid": "https://tweakers.net/reviews/15650",
+  "link": "https://tweakers.net/reviews/15650/terugblik-abodag-2026-van-thuisbatterijen-tot-team-zeezout.html",
+  "pubDate": "Mon, 23 Nov 2026 10:37:15 +0100",
+  "title": ".Community - Terugblik Abodag 2026 - Van thuisbatterijen tot team Zeezout"
  }
 }

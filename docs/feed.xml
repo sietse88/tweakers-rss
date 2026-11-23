@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 15:31:57 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 16:02:01 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers exploiteren kritieke bug in jaren oud ASP.net-library</title>
+    <link>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254836</guid>
+    <pubDate>Mon, 23 Nov 2026 16:55:54 +0100</pubDate>
+    <description>Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html#reacties</comments>
+  </item>
   <item>
     <title>Lapsus$-hacker die eerste GTA VI-beelden lekte is voorwaardelijk vrijgelaten</title>
     <link>https://tweakers.net/nieuws/254844/lapsus-hacker-die-eerste-gta-vi-beelden-lekte-is-voorwaardelijk-vrijgelaten.html</link>

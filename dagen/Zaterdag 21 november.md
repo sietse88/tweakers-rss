@@ -42,11 +42,11 @@ De door ons geteste SolarVault 3 Pro Max AC-thuisbatterij heeft een capaciteit v
 
 [Lees het hele artikel](https://tweakers.net/reviews/15602/jackery-solarvault-3-pro-max-ac-thuisbatterij-modulair-met-hoog-rendement.html)
 
-## Rockstar: GTA VI bracht niet 2,4 maar 3,8 miljard dollar omzet op op eerste dag
+## Rockstar: GTA VI bracht niet 2,4 maar 3,8 miljard dollar omzet op na eerste dag
 
 Grand Theft Auto VI, ofwel GTA VI, heeft na de eerste dag maar liefst 3,8 miljard dollar opgebracht, omgerekend 3,45 miljard euro. Eerder werd nog geschat dat de openwereldgame 'maar' 2,4 miljard dollar had opgeleverd. GTA VI is daarmee voor zover bekend verreweg de grootste entertainmentrelease aller tijden.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254792/rockstar-gta-vi-bracht-niet-2-komma-4-maar-3-komma-8-miljard-dollar-omzet-op-op-eerste-dag.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254792/rockstar-gta-vi-bracht-niet-2-komma-4-maar-3-komma-8-miljard-dollar-omzet-op-na-eerste-dag.html)
 
 ## Hotfix voor Nvidia-driver moet onnodig data naar ssd schrijven verhelpen
 

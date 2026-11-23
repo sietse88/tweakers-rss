@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 13:16:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 13:46:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Rene Haas blijft ceo van Arm ondanks gerucht over Nvidia-overstap</title>
+    <link>https://tweakers.net/nieuws/254834/rene-haas-blijft-ceo-van-arm-ondanks-gerucht-over-nvidia-overstap.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254834</guid>
+    <pubDate>Mon, 23 Nov 2026 14:41:22 +0100</pubDate>
+    <description>Rene Haas blijft aan als ceo van Arm. Nvidia zou hem hebben benaderd om Jensen Huang op te volgen. Dat bevestigt Haas niet, maar hij zegt te geloven in de toekomst van Arm en bij het bedrijf te blijven. Hij heeft een nieuw contract getekend dat tot 2033 loopt.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254834/rene-haas-blijft-ceo-van-arm-ondanks-gerucht-over-nvidia-overstap.html#reacties</comments>
+  </item>
+  <item>
+    <title>Rechter verbiedt verkoop BYD-suv wegens gelijkenis met Land Rover</title>
+    <link>https://tweakers.net/nieuws/254832/rechter-verbiedt-verkoop-byd-suv-wegens-gelijkenis-met-land-rover.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254832</guid>
+    <pubDate>Mon, 23 Nov 2026 14:38:58 +0100</pubDate>
+    <description>BYD mag de Ti7-suv niet verkopen in de Europese Unie, zo heeft de rechtbank in Den Haag besloten. Volgens de rechter lijkt de auto te veel op de Land Rover Defender uit 2019. BYD mag de auto wel verkopen in het Verenigd Koninkrijk.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Beeld en geluid / Cartech</category>
+    <comments>https://tweakers.net/nieuws/254832/rechter-verbiedt-verkoop-byd-suv-wegens-gelijkenis-met-land-rover.html#reacties</comments>
+  </item>
   <item>
     <title>CrowdStrike neemt securitybedrijf Zscaler over voor 43,9 miljard dollar</title>
     <link>https://tweakers.net/nieuws/254830/crowdstrike-neemt-securitybedrijf-zscaler-over-voor-43-komma-9-miljard-dollar.html</link>

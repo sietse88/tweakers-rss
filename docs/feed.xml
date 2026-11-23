@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 14:16:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 14:46:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>BNP Paribas wordt eigenaar van het Belgische glasvezelnetwerk van Orange</title>
+    <link>https://tweakers.net/nieuws/254838/bnp-paribas-wordt-eigenaar-van-het-belgische-glasvezelnetwerk-van-orange.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254838</guid>
+    <pubDate>Mon, 23 Nov 2026 15:36:24 +0100</pubDate>
+    <description>De Franse bank BNP Paribas wil 800 miljoen euro steken in het glasvezelnetwerk van de Belgische provider Orange in Brussel en Wallonië. In ruil daarvoor wordt de bank eigenaar van het netwerk en mag Orange het 15 jaar gebruiken. De provider wil de komende 14 jaar een groot deel van zijn huidige coaxnetwerk verglazen.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/254838/bnp-paribas-wordt-eigenaar-van-het-belgische-glasvezelnetwerk-van-orange.html#reacties</comments>
+  </item>
   <item>
     <title>Start-up Clicks stelt BlackBerry-achtige Communicator uit tot eind januari</title>
     <link>https://tweakers.net/nieuws/254840/start-up-clicks-stelt-blackberry-achtige-communicator-uit-tot-eind-januari.html</link>

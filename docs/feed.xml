@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 13:46:45 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 14:16:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Start-up Clicks stelt BlackBerry-achtige Communicator uit tot eind januari</title>
+    <link>https://tweakers.net/nieuws/254840/start-up-clicks-stelt-blackberry-achtige-communicator-uit-tot-eind-januari.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254840</guid>
+    <pubDate>Mon, 23 Nov 2026 15:13:57 +0100</pubDate>
+    <description>De Amerikaanse start-up Clicks stelt de levering van zijn eerste smartphone, de Communicator, uit. De eerste exemplaren gaan eind januari volgend jaar de deur uit, in plaats van voor het einde van dit jaar. Wie al besteld heeft, krijgt het toestel uiterlijk eind februari.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254840/start-up-clicks-stelt-blackberry-achtige-communicator-uit-tot-eind-januari.html#reacties</comments>
+  </item>
+  <item>
+    <title>Jensen Huang komt terug als ceo van Nvidia</title>
+    <link>https://tweakers.net/nieuws/254842/jensen-huang-komt-terug-als-ceo-van-nvidia.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254842</guid>
+    <pubDate>Mon, 23 Nov 2026 15:13:10 +0100</pubDate>
+    <description>Jensen Huang keert terug als directeur van chipbedrijf Nvidia. Dat zegt het bedrijf. Huang trad twee weken geleden af na de onthulling over buitenechtelijke affaires, waaronder eentje met een vrouw die vermoedelijk een Chinese spion is.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254842/jensen-huang-komt-terug-als-ceo-van-nvidia.html#reacties</comments>
+  </item>
   <item>
     <title>Rene Haas blijft ceo van Arm ondanks gerucht over Nvidia-overstap</title>
     <link>https://tweakers.net/nieuws/254834/rene-haas-blijft-ceo-van-arm-ondanks-gerucht-over-nvidia-overstap.html</link>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:10:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 08:40:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>.Deals - Black Friday TV deals - De beste deals volgens de redactie en community</title>
+    <link>https://tweakers.net/reviews/15644/black-friday-tv-deals-de-beste-deals-volgens-de-redactie-en-community.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15644</guid>
+    <pubDate>Mon, 23 Nov 2026 09:30:00 +0100</pubDate>
+    <description>Op deze pagina vind je de beste Black Friday-tv-deals van dit moment, handmatig geselecteerd door de redactie en community van Tweakers.</description>
+    <dc:creator>Eric van Ballegoie</dc:creator>
+    <category>.Deals / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15644/black-friday-tv-deals-de-beste-deals-volgens-de-redactie-en-community.html#reacties</comments>
+  </item>
   <item>
     <title>Antwerps waterbedrijf vervangt digitale watermeters die stukgaan door water</title>
     <link>https://tweakers.net/nieuws/254816/antwerps-waterbedrijf-vervangt-digitale-watermeters-die-stukgaan-door-water.html</link>

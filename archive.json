@@ -4941,13 +4941,13 @@
  "https://tweakers.net/nieuws/254836": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html#reacties",
+  "comments": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html#reacties",
   "description": "Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.",
   "first": "Mon, 23 Nov 2026 16:02:01 +0000",
   "guid": "https://tweakers.net/nieuws/254836",
-  "link": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html",
+  "link": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html",
   "pubDate": "Mon, 23 Nov 2026 16:55:54 +0100",
-  "title": "Hackers exploiteren kritieke bug in jaren oud ASP.net-library"
+  "title": "Hackers exploiteren kritieke bug in jaren oude ASP.net-library"
  },
  "https://tweakers.net/nieuws/254838": {
   "author": "Hayte Hugo",
@@ -4992,6 +4992,17 @@
   "link": "https://tweakers.net/nieuws/254844/lapsus-hacker-die-eerste-gta-vi-beelden-lekte-is-voorwaardelijk-vrijgelaten.html",
   "pubDate": "Mon, 23 Nov 2026 16:21:35 +0100",
   "title": "Lapsus$-hacker die eerste GTA VI-beelden lekte is voorwaardelijk vrijgelaten"
+ },
+ "https://tweakers.net/nieuws/254846": {
+  "author": "Jasper Bakker",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html#reacties",
+  "description": "De regering-Trump beperkt leveringen van bepaalde chips aan Chinese bedrijven. Het gaat om chips gemaakt op een productieproces onder de 16nm. Fabrikanten als TSMC en Samsung mogen die niet meer zelf goedkeuren voor export. Dit raakt ook smartphonemakers als OPPO, vivo en Xiaomi.",
+  "first": "Mon, 23 Nov 2026 16:17:05 +0000",
+  "guid": "https://tweakers.net/nieuws/254846",
+  "link": "https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html",
+  "pubDate": "Mon, 23 Nov 2026 17:01:28 +0100",
+  "title": "VS beperken verkoop van TSMC- en Samsung-chips aan Chinese bedrijven"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",
@@ -5575,5 +5586,16 @@
   "link": "https://tweakers.net/reviews/15650/terugblik-abodag-2026-van-thuisbatterijen-tot-team-zeezout.html",
   "pubDate": "Mon, 23 Nov 2026 10:37:15 +0100",
   "title": ".Community - Terugblik Abodag 2026 - Van thuisbatterijen tot team Zeezout"
+ },
+ "https://tweakers.net/reviews/15668": {
+  "author": "Arnoud Wokke",
+  "category": "Achtergrond / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html#reacties",
+  "description": "Jensen Huang keert na bijna twee weken terug als ceo van Nvidia. Waarom gebeurt dat juist nu?",
+  "first": "Mon, 23 Nov 2026 16:17:05 +0000",
+  "guid": "https://tweakers.net/reviews/15668",
+  "link": "https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html",
+  "pubDate": "Mon, 23 Nov 2026 17:00:00 +0100",
+  "title": "Achtergrond - Waarom Jensen Huang nu terugkeert als ceo van Nvidia"
  }
 }

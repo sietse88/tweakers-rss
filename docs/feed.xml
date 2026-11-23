@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 16:02:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 16:17:05 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,34 @@
     <height>192</height>
   </image>
   <item>
-    <title>Hackers exploiteren kritieke bug in jaren oud ASP.net-library</title>
-    <link>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html</link>
+    <title>VS beperken verkoop van TSMC- en Samsung-chips aan Chinese bedrijven</title>
+    <link>https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254846</guid>
+    <pubDate>Mon, 23 Nov 2026 17:01:28 +0100</pubDate>
+    <description>De regering-Trump beperkt leveringen van bepaalde chips aan Chinese bedrijven. Het gaat om chips gemaakt op een productieproces onder de 16nm. Fabrikanten als TSMC en Samsung mogen die niet meer zelf goedkeuren voor export. Dit raakt ook smartphonemakers als OPPO, vivo en Xiaomi.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html#reacties</comments>
+  </item>
+  <item>
+    <title>Achtergrond - Waarom Jensen Huang nu terugkeert als ceo van Nvidia</title>
+    <link>https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15668</guid>
+    <pubDate>Mon, 23 Nov 2026 17:00:00 +0100</pubDate>
+    <description>Jensen Huang keert na bijna twee weken terug als ceo van Nvidia. Waarom gebeurt dat juist nu?</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackers exploiteren kritieke bug in jaren oude ASP.net-library</title>
+    <link>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254836</guid>
     <pubDate>Mon, 23 Nov 2026 16:55:54 +0100</pubDate>
     <description>Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oud-asp-punt-net-library.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html#reacties</comments>
   </item>
   <item>
     <title>Lapsus$-hacker die eerste GTA VI-beelden lekte is voorwaardelijk vrijgelaten</title>

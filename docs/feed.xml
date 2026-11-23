@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:10:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 07:40:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Antwerps waterbedrijf vervangt digitale watermeters die stukgaan door water</title>
+    <link>https://tweakers.net/nieuws/254816/antwerps-waterbedrijf-vervangt-digitale-watermeters-die-stukgaan-door-water.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254816</guid>
+    <pubDate>Mon, 23 Nov 2026 08:34:48 +0100</pubDate>
+    <description>Het Antwerpse waterbedrijf Pidpa vervangt een klein deel van de digitale watermeters omdat ze kunnen haperen als ze te nat worden. Getroffen huishoudens krijgen dan weer een analoge meter. Het waterbedrijf werkt nog aan een watermeter die beter tegen water kan.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254816/antwerps-waterbedrijf-vervangt-digitale-watermeters-die-stukgaan-door-water.html#reacties</comments>
+  </item>
+  <item>
+    <title>NYT: Alice Huang had maandenlang contact met Chinese spionagedienst</title>
+    <link>https://tweakers.net/nieuws/254814/nyt-alice-huang-had-maandenlang-contact-met-chinese-spionagedienst.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254814</guid>
+    <pubDate>Mon, 23 Nov 2026 08:30:25 +0100</pubDate>
+    <description>Alice Huang – met wie de toenmalige Nvidia-ceo Jensen Huang een affaire had – was van de lente van 2025 tot de herfst van 2026 in contact met een Chinese inlichtingendienst. Dat meldt The New York Times. Dit overlapt met de periode waarin Alice en Jensen Huang (geen familie) een relatie met elkaar hadden.</description>
+    <dc:creator>Hayte Hugo</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254814/nyt-alice-huang-had-maandenlang-contact-met-chinese-spionagedienst.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - AI-tools maken modden, porten én klonen van games makkelijker: 'Beangstigend'</title>
     <link>https://tweakers.net/reviews/15610/ai-tools-maken-modden-porten-en-klonen-van-games-makkelijker-beangstigend.html</link>

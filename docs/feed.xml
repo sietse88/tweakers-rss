@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 17:02:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 17:32:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Ladybird-browser met eigen engine komt uit als alfaversie voor macOS en Linux</title>
+    <link>https://tweakers.net/nieuws/254852/ladybird-browser-met-eigen-engine-komt-uit-als-alfaversie-voor-macos-en-linux.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254852</guid>
+    <pubDate>Mon, 23 Nov 2026 18:27:15 +0100</pubDate>
+    <description>De eerste publieke versie van Ladybird is nu beschikbaar als alfaversie. Deze versie van de opensourcebrowserengine is niet bedoeld voor dagelijks gebruik, maar kan worden gebruikt om websites en functies te testen. De volledige release van Ladybird staat vooralsnog gepland voor ergens in 2028.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Browsers</category>
+    <comments>https://tweakers.net/nieuws/254852/ladybird-browser-met-eigen-engine-komt-uit-als-alfaversie-voor-macos-en-linux.html#reacties</comments>
+  </item>
   <item>
     <title>Cyberleek deelt vermeende GTA VI-executable, recompilatie theoretisch mogelijk</title>
     <link>https://tweakers.net/nieuws/254850/cyberleek-deelt-vermeende-gta-vi-executable-recompilatie-theoretisch-mogelijk.html</link>

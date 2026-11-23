@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 05:10:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 06:25:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -166,11 +166,11 @@
     <comments>https://tweakers.net/nieuws/254782/google-trekt-in-januari-definitief-de-stekker-uit-de-nest-app.html#reacties</comments>
   </item>
   <item>
-    <title>Ernstige bugs in Nginx maken het uitvoeren van code op webservers mogelijk</title>
+    <title>Ernstige bugs in nginx maken het uitvoeren van code op webservers mogelijk</title>
     <link>https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254774</guid>
     <pubDate>Fri, 20 Nov 2026 19:11:20 +0100</pubDate>
-    <description>Er zit een reeks ernstige kwetsbaarheden in Nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat Nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.</description>
+    <description>Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.</description>
     <dc:creator>Tijs Hofmans</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html#reacties</comments>

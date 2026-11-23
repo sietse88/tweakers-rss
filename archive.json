@@ -4744,12 +4744,12 @@
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
   "comments": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html#reacties",
-  "description": "Er zit een reeks ernstige kwetsbaarheden in Nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat Nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.",
+  "description": "Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.",
   "first": "Fri, 20 Nov 2026 18:52:14 +0000",
   "guid": "https://tweakers.net/nieuws/254774",
   "link": "https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html",
   "pubDate": "Fri, 20 Nov 2026 19:11:20 +0100",
-  "title": "Ernstige bugs in Nginx maken het uitvoeren van code op webservers mogelijk"
+  "title": "Ernstige bugs in nginx maken het uitvoeren van code op webservers mogelijk"
  },
  "https://tweakers.net/nieuws/254778": {
   "author": "Tijs Hofmans",

@@ -18,9 +18,9 @@ Microsoft stopt volgend jaar met de app To Do. De losstaande takenlijst wordt vo
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254778/microsoft-stopt-met-to-do-persoonlijke-gebruikers-raken-alle-taken-kwijt.html)
 
-## Ernstige bugs in Nginx maken het uitvoeren van code op webservers mogelijk
+## Ernstige bugs in nginx maken het uitvoeren van code op webservers mogelijk
 
-Er zit een reeks ernstige kwetsbaarheden in Nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat Nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.
+Er zit een reeks ernstige kwetsbaarheden in nginx. Die maken het mogelijk code uit te voeren op webservers waar de tool op draait. Dat is extra gevaarlijk, omdat nginx vaak gebruikt wordt als een reverse proxy waardoor servers vanaf internet bereikbaar zijn. De bug heet Nginx2Root en bestaat feitelijk uit vijf verschillende kwetsbaarheden, waarvan er twee extra ernstig zijn.
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254774/ernstige-bugs-in-nginx-maken-het-uitvoeren-van-code-op-webservers-mogelijk.html)
 

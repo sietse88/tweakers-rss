@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 16:47:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 17:02:13 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Cyberleek deelt vermeende GTA VI-executable, recompilatie theoretisch mogelijk</title>
+    <link>https://tweakers.net/nieuws/254850/cyberleek-deelt-vermeende-gta-vi-executable-recompilatie-theoretisch-mogelijk.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254850</guid>
+    <pubDate>Mon, 23 Nov 2026 17:55:03 +0100</pubDate>
+    <description>Leaker Cyberleek deelt de vermeende executable van GTA VI. Eerder deelde de cybercrimineel ook al de gamebestanden van de XBOX-versie van de openwereldgame. Met al deze bestanden kunnen hackers de game in theorie recompileren, waardoor deze speelbaar wordt op de pc. Het is onbekend of dit in de praktijk ook lukt.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254850/cyberleek-deelt-vermeende-gta-vi-executable-recompilatie-theoretisch-mogelijk.html#reacties</comments>
+  </item>
   <item>
     <title>VS beperken verkoop van TSMC- en Samsung-chips aan Chinese bedrijven</title>
     <link>https://tweakers.net/nieuws/254846/vs-beperken-verkoop-van-tsmc-en-samsung-chips-aan-chinese-bedrijven.html</link>

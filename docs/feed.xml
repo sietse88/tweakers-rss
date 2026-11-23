@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 14:46:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 15:31:57 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Lapsus$-hacker die eerste GTA VI-beelden lekte is voorwaardelijk vrijgelaten</title>
+    <link>https://tweakers.net/nieuws/254844/lapsus-hacker-die-eerste-gta-vi-beelden-lekte-is-voorwaardelijk-vrijgelaten.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254844</guid>
+    <pubDate>Mon, 23 Nov 2026 16:21:35 +0100</pubDate>
+    <description>De Lapsus$-hacker die in 2022 beelden van het destijds onaangekondigde GTA VI lekte, is op vrije voeten. Hij werd veroordeeld tot zeven jaar gevangenisstraf, maar heeft het gros daarvan in voorarrest uitgezeten en is daarom voorwaardelijk vrijgelaten.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254844/lapsus-hacker-die-eerste-gta-vi-beelden-lekte-is-voorwaardelijk-vrijgelaten.html#reacties</comments>
+  </item>
   <item>
     <title>BNP Paribas wordt eigenaar van het Belgische glasvezelnetwerk van Orange</title>
     <link>https://tweakers.net/nieuws/254838/bnp-paribas-wordt-eigenaar-van-het-belgische-glasvezelnetwerk-van-orange.html</link>

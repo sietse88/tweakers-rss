@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 11:21:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 11:51:20 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Kagi brengt advertentie- en trackingvrije maildienst uit voor 99 dollar per jaar</title>
+    <link>https://tweakers.net/nieuws/254870/kagi-brengt-advertentie-en-trackingvrije-maildienst-uit-voor-99-dollar-per-jaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254870</guid>
+    <pubDate>Tue, 24 Nov 2026 12:36:13 +0100</pubDate>
+    <description>Kagi heeft een e-maildienst uitgebracht als openbare bèta. De maker belooft dat Kagi Mail geen advertenties bevat en geen gegevens van gebruikers verwerkt. Het op privacy gerichte bedrijf heeft al een betaalde zoekdienst en browser.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254870/kagi-brengt-advertentie-en-trackingvrije-maildienst-uit-voor-99-dollar-per-jaar.html#reacties</comments>
+  </item>
   <item>
     <title>Nothing werkt aan oortjes voor samenvatten en transcriberen van gesprekken</title>
     <link>https://tweakers.net/nieuws/254868/nothing-werkt-aan-oortjes-voor-samenvatten-en-transcriberen-van-gesprekken.html</link>
@@ -5164,16 +5174,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Mediaspelers</category>
     <comments>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html#reacties</comments>
-  </item>
-  <item>
-    <title>Scherm iPhone Duo breekt bij tientallen klanten op hetzelfde punt</title>
-    <link>https://tweakers.net/nieuws/253722/scherm-iphone-duo-breekt-bij-tientallen-klanten-op-hetzelfde-punt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253722</guid>
-    <pubDate>Sun, 25 Oct 2026 12:44:00 +0100</pubDate>
-    <description>Het scherm van de vouwbare smartphone Apple iPhone Duo breekt bij tientallen klanten op dezelfde manier, op hetzelfde punt boven een scharnier. Dat blijkt uit meldingen. De telefoon kwam vrijdag uit.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253722/scherm-iphone-duo-breekt-bij-tientallen-klanten-op-hetzelfde-punt.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

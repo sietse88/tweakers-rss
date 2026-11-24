@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 10:06:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 10:21:10 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5174,16 +5174,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253720/steam-gaat-aanbevelingen-doen-voor-games-die-onlangs-zijn-uitgekomen.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Ontwikkelaars mogen van Apple niet langer apps updaten op oude iOS-versies'</title>
-    <link>https://tweakers.net/nieuws/253718/ontwikkelaars-mogen-van-apple-niet-langer-apps-updaten-op-oude-ios-versies.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253718</guid>
-    <pubDate>Sun, 25 Oct 2026 11:10:00 +0100</pubDate>
-    <description>Ontwikkelaars mogen van Apple niet langer apps updaten op oude iOS-versies, zo claimt youtuber Hugh Jeffreys. Sinds kort komt er dan een foutmelding dat de app geen iOS 12 of lager mag ondersteunen.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253718/ontwikkelaars-mogen-van-apple-niet-langer-apps-updaten-op-oude-ios-versies.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

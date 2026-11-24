@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 13:36:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:51:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia-ceo Jensen Huang getuigt op 3 december voor Amerikaanse Senaat</title>
+    <link>https://tweakers.net/nieuws/254884/nvidia-ceo-jensen-huang-getuigt-op-3-december-voor-amerikaanse-senaat.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254884</guid>
+    <pubDate>Tue, 24 Nov 2026 14:50:38 +0100</pubDate>
+    <description>Jensen Huang, de recent herbenoemde ceo van Nvidia, getuigt op 3 december openbaar voor de Amerikaanse Senaatscommissie voor Bankzaken. Die commissie verzocht hem eerder deze maand te getuigen na zijn affaire met Alice Huang (geen familie). Zij spioneerde mogelijk voor de Chinese overheid.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254884/nvidia-ceo-jensen-huang-getuigt-op-3-december-voor-amerikaanse-senaat.html#reacties</comments>
+  </item>
   <item>
     <title>Vlaanderen maakt archief van 25.000 radio- en tv-fragmenten gratis beschikbaar</title>
     <link>https://tweakers.net/nieuws/254878/vlaanderen-maakt-archief-van-25000-radio-en-tv-fragmenten-gratis-beschikbaar.html</link>

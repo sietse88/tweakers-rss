@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 11:51:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 12:06:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Spotify heeft last van storing</title>
+    <link>https://tweakers.net/nieuws/254876/spotify-heeft-last-van-storing.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254876</guid>
+    <pubDate>Tue, 24 Nov 2026 13:03:45 +0100</pubDate>
+    <description>Spotify is getroffen door een storing. Daardoor kunnen gebruikers de muziekstreamingdienst niet gebruiken. Het bedrijf zegt de storing te onderzoeken.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Internet</category>
+    <comments>https://tweakers.net/nieuws/254876/spotify-heeft-last-van-storing.html#reacties</comments>
+  </item>
+  <item>
+    <title>'XBOX overwoog betaalde multiplayer voor Project Helix te schrappen'</title>
+    <link>https://tweakers.net/nieuws/254872/xbox-overwoog-betaalde-multiplayer-voor-project-helix-te-schrappen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254872</guid>
+    <pubDate>Tue, 24 Nov 2026 13:00:46 +0100</pubDate>
+    <description>XBOX overwoog om betaalde multiplayer af te schaffen voor zijn volgende console, die de codenaam Project Helix heeft. Dat meldt Windows Central. Het bedrijf heeft de plannen naar verluidt gewijzigd en wil van het apparaat een traditionelere console maken.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Consoles</category>
+    <comments>https://tweakers.net/nieuws/254872/xbox-overwoog-betaalde-multiplayer-voor-project-helix-te-schrappen.html#reacties</comments>
+  </item>
   <item>
     <title>Kagi brengt advertentie- en trackingvrije maildienst uit voor 99 dollar per jaar</title>
     <link>https://tweakers.net/nieuws/254870/kagi-brengt-advertentie-en-trackingvrije-maildienst-uit-voor-99-dollar-per-jaar.html</link>
@@ -5164,16 +5184,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Software development</category>
     <comments>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Doomscrollen op groot scherm: Instagram komt uit voor Apple TV</title>
-    <link>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253726</guid>
-    <pubDate>Sun, 25 Oct 2026 13:03:00 +0100</pubDate>
-    <description>Instagram heeft een app voor Apple TV uitgebracht. De app kan onder meer Reels op een groot scherm tonen. Instagram verscheen afgelopen jaar al op meer tv-platforms.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Mediaspelers</category>
-    <comments>https://tweakers.net/nieuws/253726/doomscrollen-op-groot-scherm-instagram-komt-uit-voor-apple-tv.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

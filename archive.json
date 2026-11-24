@@ -76,28 +76,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253712": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / IT Pro / Politiek en recht",
-  "comments": "https://tweakers.net/nieuws/253712/musk-beperkte-starlink-in-oekraine-vanwege-offensieve-droneacties.html#reacties",
-  "description": "Directeur Elon Musk beperkte Starlink in Oekraïne omdat het systeem werd gebruikt voor offensieve droneacties in Rusland, waarbij burgers zouden zijn gestorven. Volgens Musk is dat in strijd met de voorwaarden van het satellietcommunicatiesysteem.",
-  "first": "Sun, 25 Oct 2026 09:16:10 +0000",
-  "guid": "https://tweakers.net/nieuws/253712",
-  "link": "https://tweakers.net/nieuws/253712/musk-beperkte-starlink-in-oekraine-vanwege-offensieve-droneacties.html",
-  "pubDate": "Sun, 25 Oct 2026 10:11:00 +0100",
-  "title": "Musk beperkte Starlink in Oekraïne vanwege offensieve droneacties"
- },
- "https://tweakers.net/nieuws/253714": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Tablets en telefoons / Smartphones",
-  "comments": "https://tweakers.net/nieuws/253714/realme-krijgt-vertegenwoordiging-in-nederland-en-belgie-net-nu-oneplus-weggaat.html#reacties",
-  "description": "Smartphonemerk realme heeft vertegenwoordiging gekregen in Nederland en België. Dat meldt Androidworld. Realme valt net als OnePlus onder OPPO. OnePlus is dit jaar juist vertrokken uit Europa.",
-  "first": "Sun, 25 Oct 2026 08:16:04 +0000",
-  "guid": "https://tweakers.net/nieuws/253714",
-  "link": "https://tweakers.net/nieuws/253714/realme-krijgt-vertegenwoordiging-in-nederland-en-belgie-net-nu-oneplus-weggaat.html",
-  "pubDate": "Sun, 25 Oct 2026 09:13:00 +0100",
-  "title": "Realme krijgt vertegenwoordiging in Nederland en België, net nu OnePlus weggaat"
- },
  "https://tweakers.net/nieuws/253718": {
   "author": "Arnoud Wokke",
   "category": "Nieuws / Tablets en telefoons / Smartphones",
@@ -4941,13 +4919,13 @@
  "https://tweakers.net/nieuws/254836": {
   "author": "Lumen Heijdendael",
   "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html#reacties",
-  "description": "Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.",
+  "comments": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html#reacties",
+  "description": "Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek van een derde partij. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.",
   "first": "Mon, 23 Nov 2026 16:02:01 +0000",
   "guid": "https://tweakers.net/nieuws/254836",
-  "link": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library.html",
+  "link": "https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html",
   "pubDate": "Mon, 23 Nov 2026 16:55:54 +0100",
-  "title": "Hackers exploiteren kritieke bug in jaren oude ASP.net-library"
+  "title": "Hackers exploiteren kritieke bug in jaren oude ASP.net-library van derde partij"
  },
  "https://tweakers.net/nieuws/254838": {
   "author": "Hayte Hugo",
@@ -5069,6 +5047,39 @@
   "link": "https://tweakers.net/nieuws/254860/eerste-patch-gta-vi-moet-crashes-en-problemen-met-autosaves-verhelpen.html",
   "pubDate": "Mon, 23 Nov 2026 21:19:03 +0100",
   "title": "Eerste patch GTA VI moet crashes en problemen met autosaves verhelpen"
+ },
+ "https://tweakers.net/nieuws/254862": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/254862/vs-legt-handelsverbod-op-aan-megaspeed-voor-doorsluizen-nvidia-chips-naar-china.html#reacties",
+  "description": "De Amerikaanse overheid heeft het Singaporese bedrijf Megaspeed en aanverwante partijen toegevoegd aan haar Entity List. Een daarvan is een dochterbedrijf van de Chinese webwinkel Alibaba. Amerikaanse bedrijven mogen alleen nog met een speciale licentie handelen met Megaspeed. Dat bedrijf zou Nvidia-chips naar China hebben gesmokkeld.",
+  "first": "Tue, 24 Nov 2026 10:06:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254862",
+  "link": "https://tweakers.net/nieuws/254862/vs-legt-handelsverbod-op-aan-megaspeed-voor-doorsluizen-nvidia-chips-naar-china.html",
+  "pubDate": "Tue, 24 Nov 2026 08:21:20 +0100",
+  "title": "VS legt handelsverbod op aan Megaspeed voor doorsluizen Nvidia-chips naar China"
+ },
+ "https://tweakers.net/nieuws/254864": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / Tablets en telefoons / Smartwatches",
+  "comments": "https://tweakers.net/nieuws/254864/samsung-brengt-minder-galaxy-watches-uit-door-tegenvallende-verkoopcijfers.html#reacties",
+  "description": "Samsung zou niet langer ieder jaar een nieuw model van zijn Galaxy Watches willen uitbrengen. Dat claimt het Zuid-Koreaanse ETNews. Het laatste model verkocht naar verluidt beneden verwachting.",
+  "first": "Tue, 24 Nov 2026 10:06:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254864",
+  "link": "https://tweakers.net/nieuws/254864/samsung-brengt-minder-galaxy-watches-uit-door-tegenvallende-verkoopcijfers.html",
+  "pubDate": "Tue, 24 Nov 2026 08:51:39 +0100",
+  "title": "'Samsung brengt minder Galaxy Watches uit door tegenvallende verkoopcijfers'"
+ },
+ "https://tweakers.net/nieuws/254866": {
+  "author": "Kevin Krikhaar",
+  "category": "Nieuws / IT Pro / Politiek en recht",
+  "comments": "https://tweakers.net/nieuws/254866/bumastemra-dreigt-met-rechtszaak-tegen-nederlandse-aanbieder-van-ai-muziek.html#reacties",
+  "description": "BumaStemra dreigt met juridische stappen tegen een aanbieder van AI-muziek. De muziekorganisatie wil dat het Nederlandse YourNeuroTune stopt AI-muziek aanbieden die onrechtmatig werk van muziekmakers gebruikt.",
+  "first": "Tue, 24 Nov 2026 10:06:07 +0000",
+  "guid": "https://tweakers.net/nieuws/254866",
+  "link": "https://tweakers.net/nieuws/254866/bumastemra-dreigt-met-rechtszaak-tegen-nederlandse-aanbieder-van-ai-muziek.html",
+  "pubDate": "Tue, 24 Nov 2026 10:18:34 +0100",
+  "title": "BumaStemra dreigt met rechtszaak tegen Nederlandse aanbieder van AI-muziek"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",
@@ -5663,6 +5674,17 @@
   "link": "https://tweakers.net/reviews/15650/terugblik-abodag-2026-van-thuisbatterijen-tot-team-zeezout.html",
   "pubDate": "Mon, 23 Nov 2026 10:37:15 +0100",
   "title": ".Community - Terugblik Abodag 2026 - Van thuisbatterijen tot team Zeezout"
+ },
+ "https://tweakers.net/reviews/15652": {
+  "author": "Friso Weijers",
+  "category": ".Deals / Computers / Monitors",
+  "comments": "https://tweakers.net/reviews/15652/black-friday-monitordeals-de-beste-deals-volgens-de-redactie-en-community.html#reacties",
+  "description": "Op deze pagina vind je de beste Black Friday-monitordeals van dit moment, handmatig geselecteerd door de redactie en community van Tweakers.",
+  "first": "Tue, 24 Nov 2026 10:06:07 +0000",
+  "guid": "https://tweakers.net/reviews/15652",
+  "link": "https://tweakers.net/reviews/15652/black-friday-monitordeals-de-beste-deals-volgens-de-redactie-en-community.html",
+  "pubDate": "Tue, 24 Nov 2026 09:15:00 +0100",
+  "title": ".Deals - Black Friday-monitordeals - De beste deals volgens de redactie en community"
  },
  "https://tweakers.net/reviews/15668": {
   "author": "Arnoud Wokke",

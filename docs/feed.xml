@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 15:21:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 20:42:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,56 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft roept intern code rood uit na storing van 36 uur</title>
+    <link>https://tweakers.net/nieuws/254896/microsoft-roept-intern-code-rood-uit-na-storing-van-36-uur.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254896</guid>
+    <pubDate>Tue, 24 Nov 2026 20:57:47 +0100</pubDate>
+    <description>Microsoft heeft intern code rood uitgeroepen na de grote storing van anderhalve week geleden. Daardoor waren verschillende diensten, zoals Outlook, Microsoft 365, Teams en OneDrive, onbruikbaar. De storing duurde in totaal ongeveer 36 uur.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Software development</category>
+    <comments>https://tweakers.net/nieuws/254896/microsoft-roept-intern-code-rood-uit-na-storing-van-36-uur.html#reacties</comments>
+  </item>
+  <item>
+    <title>DNB vreest cyberaanvallen op banken en pleit voor oefeningen voor systeemuitval</title>
+    <link>https://tweakers.net/nieuws/254894/dnb-vreest-cyberaanvallen-op-banken-en-pleit-voor-oefeningen-voor-systeemuitval.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254894</guid>
+    <pubDate>Tue, 24 Nov 2026 20:07:06 +0100</pubDate>
+    <description>De Nederlandsche Bank waarschuwt voor de mogelijke gevolgen van cyberaanvallen op banken. DNB schrijft in een halfjaarlijks rapport dat de risico's voor financiële instellingen toenemen, vooral door de snelle ontwikkeling van AI.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254894/dnb-vreest-cyberaanvallen-op-banken-en-pleit-voor-oefeningen-voor-systeemuitval.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bambu Lab P3C-3d-printer heeft plek voor zeven printkoppen en kost 1149 euro</title>
+    <link>https://tweakers.net/nieuws/254892/bambu-lab-p3c-3d-printer-heeft-plek-voor-zeven-printkoppen-en-kost-1149-euro.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254892</guid>
+    <pubDate>Tue, 24 Nov 2026 19:05:23 +0100</pubDate>
+    <description>Bambu Lab heeft de P3C-3d-printer aangekondigd. Het apparaat heeft ruimte voor maximaal zeven printkoppen, hoewel de fabrikant maar vijf 0,4mm-nozzles meelevert. De printer kan daarmee ook tussen verschillende materialen wisselen. De P3C kost minimaal 1149 euro.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / 3D-printers</category>
+    <comments>https://tweakers.net/nieuws/254892/bambu-lab-p3c-3d-printer-heeft-plek-voor-zeven-printkoppen-en-kost-1149-euro.html#reacties</comments>
+  </item>
+  <item>
+    <title>Sony: GTA VI is grootste PlayStation-launch ooit met 39 miljoen spelers op PS5</title>
+    <link>https://tweakers.net/nieuws/254890/sony-gta-vi-is-grootste-playstation-launch-ooit-met-39-miljoen-spelers-op-ps5.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254890</guid>
+    <pubDate>Tue, 24 Nov 2026 17:40:01 +0100</pubDate>
+    <description>De introductie van Grand Theft Auto VI was de grootste launch ooit voor PlayStation, meldt Sony. In de eerste vier dagen speelden meer dan 39 miljoen unieke spelers het spel op de PlayStation 5. Zij waren goed voor 683 miljoen speeluren, gemiddeld 17,4 uur per speler.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254890/sony-gta-vi-is-grootste-playstation-launch-ooit-met-39-miljoen-spelers-op-ps5.html#reacties</comments>
+  </item>
+  <item>
+    <title>'Apple geeft iPhone 18e bijna vierkant camerablok en iPhone Air 2 tweede camera'</title>
+    <link>https://tweakers.net/nieuws/254886/apple-geeft-iphone-18e-bijna-vierkant-camerablok-en-iphone-air-2-tweede-camera.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254886</guid>
+    <pubDate>Tue, 24 Nov 2026 16:30:00 +0100</pubDate>
+    <description>De iPhone 18e krijgt naar verluidt een bijna vierkant camera-eiland. Dat meldt Engadget op basis van cadtekeningen afkomstig van een bron binnen Apples toeleveringsketen. Ook lijkt de iPhone Air 2 een tweede camera te krijgen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254886/apple-geeft-iphone-18e-bijna-vierkant-camerablok-en-iphone-air-2-tweede-camera.html#reacties</comments>
+  </item>
   <item>
     <title>Anthropic bewaart niet langer data van alle klanten van Fable 5 en Mythos 5</title>
     <link>https://tweakers.net/nieuws/254888/anthropic-bewaart-niet-langer-data-van-alle-klanten-van-fable-5-en-mythos-5.html</link>

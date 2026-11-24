@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 00:06:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 05:06:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Philips PQS8601-qled-tv – Goedkope Ambilight-tv mist beeldprecisie</title>
+    <link>https://tweakers.net/reviews/15580/philips-pqs8601-qled-tv-goedkope-ambilight-tv-mist-beeldprecisie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15580</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Wil je een sfeervolle tv die vooral niet te veel mag kosten? We checken of de Philips PQS8601 een interessant Ambilight-instapmodel is.</description>
+    <dc:creator>Sjef Weller</dc:creator>
+    <category>Review / Beeld en geluid / Televisies</category>
+    <comments>https://tweakers.net/reviews/15580/philips-pqs8601-qled-tv-goedkope-ambilight-tv-mist-beeldprecisie.html#reacties</comments>
+  </item>
   <item>
     <title>Eerste patch GTA VI moet crashes en problemen met autosaves verhelpen</title>
     <link>https://tweakers.net/nieuws/254860/eerste-patch-gta-vi-moet-crashes-en-problemen-met-autosaves-verhelpen.html</link>

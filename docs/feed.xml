@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 12:51:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:36:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Vlaanderen maakt archief van 25.000 radio- en tv-fragmenten gratis beschikbaar</title>
+    <link>https://tweakers.net/nieuws/254878/vlaanderen-maakt-archief-van-25000-radio-en-tv-fragmenten-gratis-beschikbaar.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254878</guid>
+    <pubDate>Tue, 24 Nov 2026 14:30:40 +0100</pubDate>
+    <description>Het Vlaamse archiveringsinstituut meemoo heeft een archief met 25.000 audio- en videofragmenten gratis beschikbaar gemaakt. In tegenstelling tot bij het soortgelijke archief van Nederland, de Schatkamer, gaat het veelal om losse fragmenten in plaats van hele uitzendingen.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Beeld en geluid / TV en home cinema</category>
+    <comments>https://tweakers.net/nieuws/254878/vlaanderen-maakt-archief-van-25000-radio-en-tv-fragmenten-gratis-beschikbaar.html#reacties</comments>
+  </item>
+  <item>
+    <title>Samsung Galaxy S27 krijgt mogelijk Dynamic Island-achtige meldingen</title>
+    <link>https://tweakers.net/nieuws/254882/samsung-galaxy-s27-krijgt-mogelijk-dynamic-island-achtige-meldingen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254882</guid>
+    <pubDate>Tue, 24 Nov 2026 14:23:24 +0100</pubDate>
+    <description>Samsung wil de meldingen in de Now Bar op de Galaxy S27 mogelijk in een Dynamic Island-achtig ontwerp weergeven. De fabrikant wil de meldingen naar verluidt naar het midden bovenaan het scherm verplaatsen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/254882/samsung-galaxy-s27-krijgt-mogelijk-dynamic-island-achtige-meldingen.html#reacties</comments>
+  </item>
   <item>
     <title>Google Meet zet 1080p-kwaliteit aan voor alle videogesprekken via browser</title>
     <link>https://tweakers.net/nieuws/254874/google-meet-zet-1080p-kwaliteit-aan-voor-alle-videogesprekken-via-browser.html</link>

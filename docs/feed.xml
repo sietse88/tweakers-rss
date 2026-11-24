@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Mon, 23 Nov 2026 17:32:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 00:06:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,46 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Eerste patch GTA VI moet crashes en problemen met autosaves verhelpen</title>
+    <link>https://tweakers.net/nieuws/254860/eerste-patch-gta-vi-moet-crashes-en-problemen-met-autosaves-verhelpen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254860</guid>
+    <pubDate>Mon, 23 Nov 2026 21:19:03 +0100</pubDate>
+    <description>Rockstar Games brengt de eerste patch voor GTA VI uit voor de PlayStation 5- en XBOX Series-versies van de game. De update moet verschillende problemen met crashes, autosaves en het starten van verhaalmissies oplossen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254860/eerste-patch-gta-vi-moet-crashes-en-problemen-met-autosaves-verhelpen.html#reacties</comments>
+  </item>
+  <item>
+    <title>NASA zoekt partners voor bouw van 20kW-kernreactor voor op de maan</title>
+    <link>https://tweakers.net/nieuws/254858/nasa-zoekt-partners-voor-bouw-van-20kw-kernreactor-voor-op-de-maan.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254858</guid>
+    <pubDate>Mon, 23 Nov 2026 20:55:58 +0100</pubDate>
+    <description>NASA zoekt partners voor de bouw en het testen van een 20kW-kernreactor voor op de maan. De kleine energiecentrale moet een uiteindelijke maanbasis van stroom kunnen voorzien. In 2030 moet het project klaar zijn voor lancering.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254858/nasa-zoekt-partners-voor-bouw-van-20kw-kernreactor-voor-op-de-maan.html#reacties</comments>
+  </item>
+  <item>
+    <title>Amazon koopt bedrijf Decart achter AI-modellen voor realtimesimulatie</title>
+    <link>https://tweakers.net/nieuws/254856/amazon-koopt-bedrijf-decart-achter-ai-modellen-voor-realtimesimulatie.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254856</guid>
+    <pubDate>Mon, 23 Nov 2026 20:28:08 +0100</pubDate>
+    <description>Amazon koopt de Israëlische start-up Decart. Het bedrijf maakt AI-modellen voor realtimesimulaties en moet Amazon-klanten helpen bij AI-prestaties en het trainen van modellen. Het is onbekend wat Amazon voor Decart heeft betaald, al gaat het volgens bronnen van Bloomberg om 7,5 miljard dollar.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254856/amazon-koopt-bedrijf-decart-achter-ai-modellen-voor-realtimesimulatie.html#reacties</comments>
+  </item>
+  <item>
+    <title>Europese Commissie meldt datalek na cyberaanval op Academy-platform</title>
+    <link>https://tweakers.net/nieuws/254854/europese-commissie-meldt-datalek-na-cyberaanval-op-academy-platform.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254854</guid>
+    <pubDate>Mon, 23 Nov 2026 19:02:15 +0100</pubDate>
+    <description>De Europese Commissie meldt dat er een datalek heeft plaatsgevonden na een cyberaanval op het openbare EU Academy-onlineonderwijsplatform met cursussen en workshops. Vooralsnog gaat het om namen en e-mailadressen van gebruikers van het platform. De aanval op de EU Academy is een klein deel van een grootschalige aanval op de Europese Commissie.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254854/europese-commissie-meldt-datalek-na-cyberaanval-op-academy-platform.html#reacties</comments>
+  </item>
   <item>
     <title>Ladybird-browser met eigen engine komt uit als alfaversie voor macOS en Linux</title>
     <link>https://tweakers.net/nieuws/254852/ladybird-browser-met-eigen-engine-komt-uit-als-alfaversie-voor-macos-en-linux.html</link>

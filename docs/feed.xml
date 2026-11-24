@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Tue, 24 Nov 2026 14:21:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 14:36:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Anthropic bewaart niet langer data van alle klanten van Fable 5 en Mythos 5</title>
+    <link>https://tweakers.net/nieuws/254888/anthropic-bewaart-niet-langer-data-van-alle-klanten-van-fable-5-en-mythos-5.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254888</guid>
+    <pubDate>Tue, 24 Nov 2026 15:25:14 +0100</pubDate>
+    <description>Anthropic bewaart niet langer zelf dertig dagen lang alle input van zijn Claude Fable 5- en Mythos 5-modellen. De fabrikant vereist nog steeds dat de prompts en antwoorden dertig dagen bewaard blijven, maar voortaan mogen zakelijke klanten de gegevens in hun eigen omgeving opslaan.</description>
+    <dc:creator>Kevin Krikhaar</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254888/anthropic-bewaart-niet-langer-data-van-alle-klanten-van-fable-5-en-mythos-5.html#reacties</comments>
+  </item>
   <item>
     <title>Nvidia-ceo Jensen Huang getuigt op 3 december voor Amerikaanse Senaat</title>
     <link>https://tweakers.net/nieuws/254884/nvidia-ceo-jensen-huang-getuigt-op-3-december-voor-amerikaanse-senaat.html</link>

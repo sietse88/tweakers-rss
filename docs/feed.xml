@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 07:19:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 07:34:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Amerikaanse jury veroordeelt Huawei voor diefstal, fraude en verboden handel</title>
+    <link>https://tweakers.net/nieuws/254898/amerikaanse-jury-veroordeelt-huawei-voor-diefstal-fraude-en-verboden-handel.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254898</guid>
+    <pubDate>Wed, 25 Nov 2026 08:25:51 +0100</pubDate>
+    <description>De jury in de Amerikaanse strafzaak tegen Huawei oordeelt dat het Chinese bedrijf schuldig is aan diefstal van bedrijfsgeheimen, financiële fraude en illegale leveringen aan landen als Iran. In de beschuldiging van Justitie dat Huawei een criminele organisatie zou zijn, gaat de jury niet mee.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254898/amerikaanse-jury-veroordeelt-huawei-voor-diefstal-fraude-en-verboden-handel.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Deals - Black Friday-laptopdeals - De beste deals volgens de redactie en community</title>
+    <link>https://tweakers.net/reviews/15654/black-friday-laptopdeals-de-beste-deals-volgens-de-redactie-en-community.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15654</guid>
+    <pubDate>Wed, 25 Nov 2026 08:15:00 +0100</pubDate>
+    <description>Op deze pagina vind je de beste Black Friday-laptopdeals van dit moment, handmatig geselecteerd door de redactie en community van Tweakers.</description>
+    <dc:creator>Jelle Stuip</dc:creator>
+    <category>.Deals / Computers / Laptops en systemen</category>
+    <comments>https://tweakers.net/reviews/15654/black-friday-laptopdeals-de-beste-deals-volgens-de-redactie-en-community.html#reacties</comments>
+  </item>
   <item>
     <title>Achtergrond - Black Friday: oledmonitoren koop je nu voor lcd-prijzen, maar let op</title>
     <link>https://tweakers.net/reviews/15648/black-friday-oledmonitoren-koop-je-nu-voor-lcd-prijzen-maar-let-op.html</link>
@@ -5284,16 +5304,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html#reacties</comments>
-  </item>
-  <item>
-    <title>Best Buy Guide - Beste gamingmonitoren</title>
-    <link>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</link>
-    <guid isPermaLink="false">https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor</guid>
-    <pubDate>Wed, 21 Oct 2026 11:30:00 +0200</pubDate>
-    <description>Ontdek de beste gamingmonitoren in diverse formaten en resoluties, beoordeeld op features, beeldkwaliteit en een sterke prijs-kwaliteitverhouding.</description>
-    <dc:creator>Friso Weijers</dc:creator>
-    <category>Best Buy Guide / Computers / Monitors</category>
-    <comments>https://tweakers.net/best-buy-guide/monitors/beste-gamingmonitor#reacties</comments>
   </item>
 </channel>
 </rss>

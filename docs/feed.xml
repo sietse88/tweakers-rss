@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:04:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 07:19:12 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5284,16 +5284,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html#reacties</comments>
-  </item>
-  <item>
-    <title>Ontwikkelaars kunnen nieuwe systemd-componenten voortaan in Rust bouwen</title>
-    <link>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253730</guid>
-    <pubDate>Mon, 26 Oct 2026 08:14:07 +0100</pubDate>
-    <description>Met Systemd kunnen ontwikkelaars voortaan programma's in Rust schrijven. Dat meldt Linux-kernelontwikkelaar Christian Brauner op GitHub. Systemd is een systeem- en servicemanager voor Linux, die het opstarten van het systeem regelt en achtergrondprocessen beheert.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Software development</category>
-    <comments>https://tweakers.net/nieuws/253730/ontwikkelaars-kunnen-nieuwe-systemd-componenten-voortaan-in-rust-bouwen.html#reacties</comments>
   </item>
   <item>
     <title>Best Buy Guide - Beste gamingmonitoren</title>

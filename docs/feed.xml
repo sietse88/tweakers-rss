@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 09:04:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 13:42:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,66 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>BumaStemra spant rechtszaak aan tegen Nederlandse aanbieder van AI-muziek</title>
+    <link>https://tweakers.net/nieuws/254916/bumastemra-spant-rechtszaak-aan-tegen-nederlandse-aanbieder-van-ai-muziek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254916</guid>
+    <pubDate>Wed, 25 Nov 2026 14:08:07 +0100</pubDate>
+    <description>BumaStemra spant een rechtszaak aan tegen YourNeuroTune. Dat Nederlandse bedrijf zou geld verdienen aan AI-muziek waarin werk van muziekmakers onrechtmatig is verwerkt. BumaStemra had het AI-muziekbedrijf een ultimatum gegeven om AI-gegenereerde muziek niet langer commercieel te leveren.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
+    <comments>https://tweakers.net/nieuws/254916/bumastemra-spant-rechtszaak-aan-tegen-nederlandse-aanbieder-van-ai-muziek.html#reacties</comments>
+  </item>
+  <item>
+    <title>Tidal verbiedt AI-muziek en gooit vanaf 9 december 29 miljoen AI-songs weg</title>
+    <link>https://tweakers.net/nieuws/254908/tidal-verbiedt-ai-muziek-en-gooit-vanaf-9-december-29-miljoen-ai-songs-weg.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254908</guid>
+    <pubDate>Wed, 25 Nov 2026 13:43:37 +0100</pubDate>
+    <description>Tidal zet de naar eigen zeggen drastische stap om AI-muziek in de ban te doen. Het muziekstreamingplatform had AI-gegenereerde songs al gelabeld en inkomsten uit AI-muziek stopgezet. Vanaf 9 december verwijdert het 29 miljoen muzieknummers die volledig met AI zijn gemaakt.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254908/tidal-verbiedt-ai-muziek-en-gooit-vanaf-9-december-29-miljoen-ai-songs-weg.html#reacties</comments>
+  </item>
+  <item>
+    <title>Pop_OS voegt thema's en automatische updates toe in versie 26.04 LTS</title>
+    <link>https://tweakers.net/nieuws/254912/pop_os-voegt-themas-en-automatische-updates-toe-in-versie-2604-lts.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254912</guid>
+    <pubDate>Wed, 25 Nov 2026 13:20:50 +0100</pubDate>
+    <description>System76 heeft Pop_OS 26.04 LTS uitgebracht. De nieuwe release van de Linux-distributie ondersteunt onder meer thema's via het nieuwe Constellations-systeem. Ook kunnen gebruikers nu automatische updates inplannen.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/254912/pop_os-voegt-themas-en-automatische-updates-toe-in-versie-2604-lts.html#reacties</comments>
+  </item>
+  <item>
+    <title>Hackersgroep steelt met DeepSeek ID-kaartgegevens van 1,2 miljoen Vlamingen</title>
+    <link>https://tweakers.net/nieuws/254906/hackersgroep-steelt-met-deepseek-id-kaartgegevens-van-1-komma-2-miljoen-vlamingen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254906</guid>
+    <pubDate>Wed, 25 Nov 2026 13:02:07 +0100</pubDate>
+    <description>Hackersgroep Ghost Hunters heeft gegevens van 1,2 miljoen Vlamingen gestolen. De hackers maakten namen, adressen, geboortedata, geslacht, rijksregister- en identiteitskaartnummers, IBAN-nummers en kentekens buit. Volgens cyberbeveiligingsbedrijf Secutec gebruikte de hackersgroep het Chinese AI-model DeepSeek voor de hack.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254906/hackersgroep-steelt-met-deepseek-id-kaartgegevens-van-1-komma-2-miljoen-vlamingen.html#reacties</comments>
+  </item>
+  <item>
+    <title>VS: afluisterende ex-OpenAI-werknemer nam mogelijk bedrijfsgeheimen op</title>
+    <link>https://tweakers.net/nieuws/254910/vs-afluisterende-ex-openai-werknemer-nam-mogelijk-bedrijfsgeheimen-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254910</guid>
+    <pubDate>Wed, 25 Nov 2026 11:19:11 +0100</pubDate>
+    <description>De voormalige OpenAI-werknemer die afluisterapparatuur zou hebben geplaatst in een vergaderzaal van het bedrijf, nam volgens Amerikaanse aanklagers mogelijk ook bedrijfsgeheimen op. De man zou honderden audio-opnames hebben. Dit staat in processtukken die Bloomberg heeft ingezien.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254910/vs-afluisterende-ex-openai-werknemer-nam-mogelijk-bedrijfsgeheimen-op.html#reacties</comments>
+  </item>
+  <item>
+    <title>New York Times verbiedt Photoshop 2027 voor fotojournalisten vanwege AI-functies</title>
+    <link>https://tweakers.net/nieuws/254904/new-york-times-verbiedt-photoshop-2027-voor-fotojournalisten-vanwege-ai-functies.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254904</guid>
+    <pubDate>Wed, 25 Nov 2026 10:02:34 +0100</pubDate>
+    <description>De New York Times deelt freelance fotojournalisten mee dat ze Photoshop 2027 niet moeten gebruiken, omdat die software ingebouwde AI-functies heeft 'die mogelijk niet duidelijk zijn voor gebruikers'. Hierdoor kan metadata aangeven dat een foto AI-gegenereerd is.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Fotografie en video</category>
+    <comments>https://tweakers.net/nieuws/254904/new-york-times-verbiedt-photoshop-2027-voor-fotojournalisten-vanwege-ai-functies.html#reacties</comments>
+  </item>
   <item>
     <title>Voormalige ASML-cto Martin van den Brink krijgt deze week eredoctoraat van UT</title>
     <link>https://tweakers.net/nieuws/254900/voormalige-asml-cto-martin-van-den-brink-krijgt-deze-week-eredoctoraat-van-ut.html</link>
@@ -326,14 +386,14 @@
     <comments>https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html#reacties</comments>
   </item>
   <item>
-    <title>Hackers exploiteren kritieke bug in jaren oude ASP.net-library van derde partij</title>
-    <link>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html</link>
+    <title>Hackers misbruiken kritieke bug in jaren oude ASP.net-library van derde partij</title>
+    <link>https://tweakers.net/nieuws/254836/hackers-misbruiken-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254836</guid>
     <pubDate>Mon, 23 Nov 2026 16:55:54 +0100</pubDate>
     <description>Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek van een derde partij. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.</description>
     <dc:creator>Lumen Heijdendael</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254836/hackers-misbruiken-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html#reacties</comments>
   </item>
   <item>
     <title>Lapsus$-hacker die eerste GTA VI-beelden lekte is voorwaardelijk vrijgelaten</title>
@@ -5274,36 +5334,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253752/deens-ministerie-trekt-binnen-halfjaar-stekker-uit-proef-met-office-alternatief.html#reacties</comments>
-  </item>
-  <item>
-    <title>KPN verhuist e-mails en bestanden naar nieuwe dienst binnen EU</title>
-    <link>https://tweakers.net/nieuws/253748/kpn-verhuist-e-mails-en-bestanden-naar-nieuwe-dienst-binnen-eu.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253748</guid>
-    <pubDate>Mon, 26 Oct 2026 13:24:24 +0100</pubDate>
-    <description>KPN introduceert een vernieuwde e-mail- en opslagdienst, genaamd KPN Mail en Cloud. De dienst slaat gegevens binnen de Europese Unie op. Ook bevat de dienst extra beveiligingsmaatregelen, zoals bescherming tegen phishing en virussen.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253748/kpn-verhuist-e-mails-en-bestanden-naar-nieuwe-dienst-binnen-eu.html#reacties</comments>
-  </item>
-  <item>
-    <title>IFixit: scharnier en binnenste scherm iPhone Duo zijn lastig te repareren</title>
-    <link>https://tweakers.net/nieuws/253740/ifixit-scharnier-en-binnenste-scherm-iphone-duo-zijn-lastig-te-repareren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253740</guid>
-    <pubDate>Mon, 26 Oct 2026 12:08:45 +0100</pubDate>
-    <description>De iPhone Duo krijgt van iFixit een vijf op een schaal van tien voor repareerbaarheid. Daarnaast ontdekte de site dat er stof in het scharnier kan komen, waardoor het scherm kapot kan gaan. Toch vindt iFixit de iPhone Duo de best te repareren vouwbare smartphone tot nu toe.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253740/ifixit-scharnier-en-binnenste-scherm-iphone-duo-zijn-lastig-te-repareren.html#reacties</comments>
-  </item>
-  <item>
-    <title>ICC behoudt toegang tot Amerikaanse techdiensten ondanks sancties</title>
-    <link>https://tweakers.net/nieuws/253738/icc-behoudt-toegang-tot-amerikaanse-techdiensten-ondanks-sancties.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253738</guid>
-    <pubDate>Mon, 26 Oct 2026 11:41:16 +0100</pubDate>
-    <description>Het Internationaal Strafhof in Den Haag (ICC) kan diensten van Amerikaanse techbedrijven blijven gebruiken, ondanks eerdere sancties van de VS. Dat meldt de Volkskrant op basis van een vergunningsdocument van het Amerikaanse ministerie van Financiën.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253738/icc-behoudt-toegang-tot-amerikaanse-techdiensten-ondanks-sancties.html#reacties</comments>
   </item>
 </channel>
 </rss>

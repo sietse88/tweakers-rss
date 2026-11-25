@@ -1,10 +1,10 @@
 # Dinsdag 24 november
 
-## Hackers exploiteren kritieke bug in jaren oude ASP.net-library van derde partij
+## Hackers misbruiken kritieke bug in jaren oude ASP.net-library van derde partij
 
 Google heeft een kritieke kwetsbaarheid gevonden in een oude ASP.net Anti-CSRF-bibliotheek van een derde partij. Hackers kunnen via de kwetsbaarheid code op afstand uitvoeren. De kwetsbaarheid is al uitgebuit door hackers.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254836/hackers-exploiteren-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254836/hackers-misbruiken-kritieke-bug-in-jaren-oude-asp-punt-net-library-van-derde-partij.html)
 
 ## Achtergrond - Waarom Jensen Huang nu terugkeert als ceo van Nvidia
 

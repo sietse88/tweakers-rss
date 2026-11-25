@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 13:42:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 13:57:14 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft laat AI meeluisteren in Teams-gesprekken om phishing te herkennen</title>
+    <link>https://tweakers.net/nieuws/254922/microsoft-laat-ai-meeluisteren-in-teams-gesprekken-om-phishing-te-herkennen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254922</guid>
+    <pubDate>Wed, 25 Nov 2026 14:54:54 +0100</pubDate>
+    <description>Microsoft geeft Teams een AI-functie om in externe gesprekken phishing en fraude te detecteren. Deze spraakherkenning let op tekenen van social engineering en waarschuwt gebruikers dan. Hiervoor luistert de AI van Microsoft mee in Teams-gesprekken met iemand buiten de organisatie van de gebruiker.</description>
+    <dc:creator>Jasper Bakker</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254922/microsoft-laat-ai-meeluisteren-in-teams-gesprekken-om-phishing-te-herkennen.html#reacties</comments>
+  </item>
+  <item>
+    <title>NYT: datalek treft CIA en twee andere inlichtingendiensten VS</title>
+    <link>https://tweakers.net/nieuws/254918/nyt-datalek-treft-cia-en-twee-andere-inlichtingendiensten-vs.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254918</guid>
+    <pubDate>Wed, 25 Nov 2026 14:54:54 +0100</pubDate>
+    <description>De Central Intelligence Agency (CIA) en twee andere Amerikaanse inlichtingendiensten waren doelwit van een cyberaanval die tot een datalek leidde. Voor zover bekend is er geen geclassificeerde informatie uitgelekt, maar het is onduidelijk wat er is gestolen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254918/nyt-datalek-treft-cia-en-twee-andere-inlichtingendiensten-vs.html#reacties</comments>
+  </item>
   <item>
     <title>BumaStemra spant rechtszaak aan tegen Nederlandse aanbieder van AI-muziek</title>
     <link>https://tweakers.net/nieuws/254916/bumastemra-spant-rechtszaak-aan-tegen-nederlandse-aanbieder-van-ai-muziek.html</link>
@@ -5324,16 +5344,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / Tablets en telefoons / Tablets</category>
     <comments>https://tweakers.net/nieuws/253756/nieuwe-ipad-mini-heeft-8-komma-5-inch-oledscherm-en-a20-pro-chip.html#reacties</comments>
-  </item>
-  <item>
-    <title>Deens ministerie trekt binnen halfjaar stekker uit proef met Office-alternatief</title>
-    <link>https://tweakers.net/nieuws/253752/deens-ministerie-trekt-binnen-halfjaar-stekker-uit-proef-met-office-alternatief.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253752</guid>
-    <pubDate>Mon, 26 Oct 2026 14:48:43 +0100</pubDate>
-    <description>Het Deense ministerie van Digitalisering is eerder dit jaar stilletjes gestopt met een project om over te stappen op een open source-alternatief voor Microsoft Office. De bedoeling was om over te stappen op Collabora. Dat meldt Tom's Hardware op basis van Deense media.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253752/deens-ministerie-trekt-binnen-halfjaar-stekker-uit-proef-met-office-alternatief.html#reacties</comments>
   </item>
 </channel>
 </rss>

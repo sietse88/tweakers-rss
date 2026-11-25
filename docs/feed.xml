@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:57:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 17:27:44 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>SpaceX krijgt toestemming: 1 miljoen satellieten voor datacenters in de ruimte</title>
+    <link>https://tweakers.net/nieuws/254936/spacex-krijgt-toestemming-1-miljoen-satellieten-voor-datacenters-in-de-ruimte.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254936</guid>
+    <pubDate>Wed, 25 Nov 2026 18:13:17 +0100</pubDate>
+    <description>De Amerikaanse Federal Communications Commission (FCC) geeft SpaceX toestemming om een miljoen satellieten en modules in een baan om de aarde te brengen voor een datacenter in de ruimte. Het is onduidelijk of SpaceX hiermee alle benodigde toestemming heeft om met het zogenoemde Starmind-project te starten.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Wetenschap</category>
+    <comments>https://tweakers.net/nieuws/254936/spacex-krijgt-toestemming-1-miljoen-satellieten-voor-datacenters-in-de-ruimte.html#reacties</comments>
+  </item>
   <item>
     <title>Onderzoekers vinden openbaar toegankelijke databases met miljarden inloggegevens</title>
     <link>https://tweakers.net/nieuws/254934/onderzoekers-vinden-openbaar-toegankelijke-databases-met-miljarden-inloggegevens.html</link>

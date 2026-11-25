@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:42:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 16:57:41 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253770/microsoft-biedt-60000-werknemers-vertrekregeling-niet-in-nederland-en-belgie.html#reacties</comments>
-  </item>
-  <item>
-    <title>NPO, Talpa en DPG willen dat politiek meer doet tegen illegale streaming</title>
-    <link>https://tweakers.net/nieuws/253766/npo-talpa-en-dpg-willen-dat-politiek-meer-doet-tegen-illegale-streaming.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253766</guid>
-    <pubDate>Mon, 26 Oct 2026 17:57:28 +0100</pubDate>
-    <description>De Nederlandse mediaorganisaties NPO, Talpa en DPG Media hebben samen vier ministers een brief gestuurd met het verzoek om meer actie tegen illegale streaming. Het ondermijnt volgens de bedrijven het legale aanbod en stelt consumenten bloot aan malware en fraude.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Televisies</category>
-    <comments>https://tweakers.net/nieuws/253766/npo-talpa-en-dpg-willen-dat-politiek-meer-doet-tegen-illegale-streaming.html#reacties</comments>
   </item>
 </channel>
 </rss>

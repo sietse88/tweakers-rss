@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 14:27:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 14:42:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>GTA VI is via Sony's cloudstreaming speelbaar op de PS Portal</title>
+    <link>https://tweakers.net/nieuws/254926/gta-vi-is-via-sonys-cloudstreaming-speelbaar-op-de-ps-portal.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254926</guid>
+    <pubDate>Wed, 25 Nov 2026 15:38:21 +0100</pubDate>
+    <description>Afnemers van een PlayStation Plus Premium-abonnement kunnen hun kopie van GTA VI dankzij cloudstreaming via hun PlayStation Portal spelen. Ook hoeven gebruikers met een PlayStation 5-console de game van ruim 200GB daardoor niet te downloaden.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Gaming / Games</category>
+    <comments>https://tweakers.net/nieuws/254926/gta-vi-is-via-sonys-cloudstreaming-speelbaar-op-de-ps-portal.html#reacties</comments>
+  </item>
   <item>
     <title>NYT: datalek treft CIA en twee andere inlichtingendiensten VS</title>
     <link>https://tweakers.net/nieuws/254918/nyt-datalek-treft-cia-en-twee-andere-inlichtingendiensten-vs.html</link>
@@ -5304,16 +5314,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253762/anthropic-meldt-nettoverlies-van-80-komma-7-miljard-dollar-in-aanvraag-voor-beursgang.html#reacties</comments>
-  </item>
-  <item>
-    <title>EasyJet biedt vanaf volgend jaar Starlink-internet aan tijdens vluchten</title>
-    <link>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253758</guid>
-    <pubDate>Mon, 26 Oct 2026 15:29:39 +0100</pubDate>
-    <description>EasyJet gaat vanaf 2027 tijdens vluchten satellietinternet van Starlink aanbieden. Dat geldt voor de vliegtuigmodellen A320, A320neo en A321neo. Het is voor het eerst dat de budgetvliegmaatschappij wifi aanbiedt.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html#reacties</comments>
   </item>
 </channel>
 </rss>

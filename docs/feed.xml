@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 14:12:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 14:27:19 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,26 +5314,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
     <comments>https://tweakers.net/nieuws/253758/easyjet-biedt-vanaf-volgend-jaar-starlink-internet-aan-tijdens-vluchten.html#reacties</comments>
-  </item>
-  <item>
-    <title>YouTube streamt vanaf begin 2027 video's in hogere kwaliteit met AV2-codec</title>
-    <link>https://tweakers.net/nieuws/253750/youtube-streamt-vanaf-begin-2027-videos-in-hogere-kwaliteit-met-av2-codec.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253750</guid>
-    <pubDate>Mon, 26 Oct 2026 15:17:42 +0100</pubDate>
-    <description>YouTube krijgt begin 2027 ondersteuning voor de AV2-videocodec. Dat moet onder meer zorgen voor een hogere beeldkwaliteit bij lagere bitrates. Google experimenteert ook met de integratie van de nieuwe codec in zijn browser Chrome.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Fotografie en video</category>
-    <comments>https://tweakers.net/nieuws/253750/youtube-streamt-vanaf-begin-2027-videos-in-hogere-kwaliteit-met-av2-codec.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kabinet werkt aan wet voor soepelere uitwisseling van burgerdata</title>
-    <link>https://tweakers.net/nieuws/253754/kabinet-werkt-aan-wet-voor-soepelere-uitwisseling-van-burgerdata.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253754</guid>
-    <pubDate>Mon, 26 Oct 2026 15:12:55 +0100</pubDate>
-    <description>Nederlandse overheidsinstanties moeten onderling gemakkelijker en veiliger gegevens van inwoners kunnen delen om proactieve dienstverlening mogelijk te maken. Dat schrijft staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid Eric van der Burg aan de Tweede Kamer.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253754/kabinet-werkt-aan-wet-voor-soepelere-uitwisseling-van-burgerdata.html#reacties</comments>
   </item>
 </channel>
 </rss>

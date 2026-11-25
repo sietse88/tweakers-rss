@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 08:49:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 09:04:26 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5304,16 +5304,6 @@
     <dc:creator>Eveline Meijer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253738/icc-behoudt-toegang-tot-amerikaanse-techdiensten-ondanks-sancties.html#reacties</comments>
-  </item>
-  <item>
-    <title>SpaceX leent 40 miljard dollar om gpu's te kopen voor AI</title>
-    <link>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253736</guid>
-    <pubDate>Mon, 26 Oct 2026 09:53:59 +0100</pubDate>
-    <description>SpaceX leent 40 miljard dollar, die het bedrijf wil gebruiken om gpu's voor AI aan te schaffen. Dat heeft ceo Elon Musk bekendgemaakt op X. Het is onduidelijk of de deal al helemaal rond is.</description>
-    <dc:creator>Eveline Meijer</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253736/spacex-leent-40-miljard-dollar-om-gpus-te-kopen-voor-ai.html#reacties</comments>
   </item>
 </channel>
 </rss>

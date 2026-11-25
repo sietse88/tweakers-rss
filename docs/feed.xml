@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 14:42:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 15:12:24 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Roep om 'digitale brandoefeningen' neemt toe na grote cloudstoringen en hacks</title>
+    <link>https://tweakers.net/reviews/15634/roep-om-digitale-brandoefeningen-neemt-toe-na-grote-cloudstoringen-en-hacks.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15634</guid>
+    <pubDate>Wed, 25 Nov 2026 16:00:00 +0100</pubDate>
+    <description>Poef! Op een dag gebeurt het ineens. Alle software die je gebruikt voor je werk, doet niets meer. En dan? Wat doe je? Moeten bedrijven ook digitale brandoefeningen houden?</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Achtergrond / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/reviews/15634/roep-om-digitale-brandoefeningen-neemt-toe-na-grote-cloudstoringen-en-hacks.html#reacties</comments>
+  </item>
   <item>
     <title>GTA VI is via Sony's cloudstreaming speelbaar op de PS Portal</title>
     <link>https://tweakers.net/nieuws/254926/gta-vi-is-via-sonys-cloudstreaming-speelbaar-op-de-ps-portal.html</link>

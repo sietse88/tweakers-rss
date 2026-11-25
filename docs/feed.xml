@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 18:57:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 22:49:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,26 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>1Password meldt cyberaanval, maar er zijn geen wachtwoorden gestolen</title>
+    <link>https://tweakers.net/nieuws/254942/1password-meldt-cyberaanval-maar-er-zijn-geen-wachtwoorden-gestolen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254942</guid>
+    <pubDate>Wed, 25 Nov 2026 21:16:38 +0100</pubDate>
+    <description>Wachtwoordmanager 1Password meldt dat is getroffen door een cyberaanval. Daarbij zijn e-mailadressen en inlognamen van een 'beperkt aantal' klanten gestolen. Er zijn geen gegevens uit de 'wachtwoordkluizen' van gebruikers gestolen.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254942/1password-meldt-cyberaanval-maar-er-zijn-geen-wachtwoorden-gestolen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Bouw Belgisch Google-datacenter gaat door tijdens bezwaar vergunning - update</title>
+    <link>https://tweakers.net/nieuws/254940/bouw-belgisch-google-datacenter-gaat-door-tijdens-bezwaar-vergunning.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254940</guid>
+    <pubDate>Wed, 25 Nov 2026 20:32:35 +0100</pubDate>
+    <description>Google werkt volgens de Belgische omroep VRT door aan een datacenter waarvoor de vergunning eerder dit jaar werd ingetrokken. Uit beelden van omwonenden en satellietbeelden lijkt te blijken dat de bouw van het datacenter vordert. Mogelijk houdt Google zich wel aan een eerdere vergunning en is het dus niet illegaal bezig.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / IT Pro / Politiek en recht</category>
+    <comments>https://tweakers.net/nieuws/254940/bouw-belgisch-google-datacenter-gaat-door-tijdens-bezwaar-vergunning.html#reacties</comments>
+  </item>
   <item>
     <title>WhatsApp krijgt optie om berichten in te plannen: tot 14 dagen later sturen</title>
     <link>https://tweakers.net/nieuws/254938/whatsapp-krijgt-optie-om-berichten-in-te-plannen-tot-14-dagen-later-sturen.html</link>
@@ -5294,26 +5314,6 @@
     <dc:creator>Reinoud Dik</dc:creator>
     <category>Benchmark / Computers / Videokaarten</category>
     <comments>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html#reacties</comments>
-  </item>
-  <item>
-    <title>Duitse Volkswagen zou Chinese software willen gebruiken in Europa</title>
-    <link>https://tweakers.net/nieuws/253778/duitse-volkswagen-zou-chinese-software-willen-gebruiken-in-europa.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253778</guid>
-    <pubDate>Mon, 26 Oct 2026 20:42:09 +0100</pubDate>
-    <description>Het Duitse concern Volkswagen zou voor zijn Europese modellen mogelijk overstappen op Chinese software. Dat meldt persbureau Reuters. Momenteel hebben Europese Volkswagen-modellen software die Volkswagen maakt met Rivian.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Beeld en geluid / Cartech</category>
-    <comments>https://tweakers.net/nieuws/253778/duitse-volkswagen-zou-chinese-software-willen-gebruiken-in-europa.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple erkent probleem met scherm iPhone Duo en vervangt getroffen exemplaren</title>
-    <link>https://tweakers.net/nieuws/253774/apple-erkent-probleem-met-scherm-iphone-duo-en-vervangt-getroffen-exemplaren.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253774</guid>
-    <pubDate>Mon, 26 Oct 2026 20:16:05 +0100</pubDate>
-    <description>Apple erkent het probleem met het vouwbare scherm van de iPhone Duo, waarbij gebruikers binnen korte tijd lijnen zien. Getroffen klanten kunnen hun telefoon direct vervangen bij de fabrikant.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253774/apple-erkent-probleem-met-scherm-iphone-duo-en-vervangt-getroffen-exemplaren.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:12:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 16:27:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5314,16 +5314,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Nieuws / Beeld en geluid / Televisies</category>
     <comments>https://tweakers.net/nieuws/253766/npo-talpa-en-dpg-willen-dat-politiek-meer-doet-tegen-illegale-streaming.html#reacties</comments>
-  </item>
-  <item>
-    <title>Bitonic is gehackt: criminelen stalen bitcoin van klanten</title>
-    <link>https://tweakers.net/nieuws/253764/bitonic-is-gehackt-criminelen-stalen-bitcoin-van-klanten.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253764</guid>
-    <pubDate>Mon, 26 Oct 2026 17:12:49 +0100</pubDate>
-    <description>De Nederlandse cryptobeurs Bitonic is gehackt. Criminelen hebben bij drie klanten bitcoin opgenomen zonder toestemming, zo zegt het bedrijf. Bitonic heeft alle klanten automatisch uitgelogd en houdt opnames in de gaten.</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253764/bitonic-is-gehackt-criminelen-stalen-bitcoin-van-klanten.html#reacties</comments>
   </item>
 </channel>
 </rss>

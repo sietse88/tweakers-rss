@@ -114,8 +114,8 @@ Poef! Op een dag gebeurt het ineens. Alle software die je gebruikt voor je werk,
 
 [Lees het hele artikel](https://tweakers.net/reviews/15634/roep-om-digitale-brandoefeningen-neemt-toe-na-grote-cloudstoringen-en-hacks.html)
 
-## DIVD vermoedt dat AI-tool Artex werd gebruikt bij eigen hack
+## DIVD vermoedt dat AI-tool Artex werd gebruikt bij hack op collectief
 
 Het Dutch Institute for Vulnerability Disclosure (DIVD) vermoedt dat de recente cyberaanval op het hackerscollectief uitgevoerd werd door AI-agents van de tool Artex. Bij de aanval werden ruim 4100 e-mailadressen, enkele tientallen telefoonnummers en drie adressen gestolen.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-eigen-hack.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-hack-op-collectief.html)

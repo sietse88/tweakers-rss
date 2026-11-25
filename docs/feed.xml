@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:27:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 16:42:39 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,24 @@
     <height>192</height>
   </image>
   <item>
-    <title>DIVD vermoedt dat AI-tool Artex werd gebruikt bij eigen hack</title>
-    <link>https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-eigen-hack.html</link>
+    <title>Onderzoekers vinden openbaar toegankelijke databases met miljarden inloggegevens</title>
+    <link>https://tweakers.net/nieuws/254934/onderzoekers-vinden-openbaar-toegankelijke-databases-met-miljarden-inloggegevens.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254934</guid>
+    <pubDate>Wed, 25 Nov 2026 17:30:44 +0100</pubDate>
+    <description>Twee verschillende onderzoekers ontdekken kort na elkaar enorme databases met gestolen inloggegevens en andere gevoelige informatie. Naar schatting gaat het om anderhalf miljard inloggegevens van Chinezen en nog eens twee miljard inloggegevens van mensen uit de hele wereld. Beide databases waren openbaar en zonder beveiliging toegankelijk.</description>
+    <dc:creator>Yannick Spinner</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254934/onderzoekers-vinden-openbaar-toegankelijke-databases-met-miljarden-inloggegevens.html#reacties</comments>
+  </item>
+  <item>
+    <title>DIVD vermoedt dat AI-tool Artex werd gebruikt bij hack op collectief</title>
+    <link>https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-hack-op-collectief.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254928</guid>
     <pubDate>Wed, 25 Nov 2026 16:38:38 +0100</pubDate>
     <description>Het Dutch Institute for Vulnerability Disclosure (DIVD) vermoedt dat de recente cyberaanval op het hackerscollectief uitgevoerd werd door AI-agents van de tool Artex. Bij de aanval werden ruim 4100 e-mailadressen, enkele tientallen telefoonnummers en drie adressen gestolen.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-eigen-hack.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/254928/divd-vermoedt-dat-ai-tool-artex-werd-gebruikt-bij-hack-op-collectief.html#reacties</comments>
   </item>
   <item>
     <title>Achtergrond - Roep om 'digitale brandoefeningen' neemt toe na grote cloudstoringen en hacks</title>

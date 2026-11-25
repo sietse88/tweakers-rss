@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Wed, 25 Nov 2026 01:58:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:04:02 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Black Friday: oledmonitoren koop je nu voor lcd-prijzen, maar let op</title>
+    <link>https://tweakers.net/reviews/15648/black-friday-oledmonitoren-koop-je-nu-voor-lcd-prijzen-maar-let-op.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15648</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Met Black Friday waren oledmonitoren nog nooit zo goedkoop. Niet ieder betaalbaar oledscherm is een even goede deal.</description>
+    <dc:creator>Friso Weijers</dc:creator>
+    <category>Achtergrond / Computers / Monitors</category>
+    <comments>https://tweakers.net/reviews/15648/black-friday-oledmonitoren-koop-je-nu-voor-lcd-prijzen-maar-let-op.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft roept intern code rood uit na storing van 36 uur</title>
     <link>https://tweakers.net/nieuws/254896/microsoft-roept-intern-code-rood-uit-na-storing-van-36-uur.html</link>

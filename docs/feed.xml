@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 07:22:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:52:35 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -60,7 +60,7 @@
     <link>https://tweakers.net/nieuws/254938/whatsapp-krijgt-optie-om-berichten-in-te-plannen-tot-14-dagen-later-sturen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254938</guid>
     <pubDate>Wed, 25 Nov 2026 19:16:12 +0100</pubDate>
-    <description>WhatsApp krijgt ergens in de komende weken een functie om berichten in te plannen en automatisch op het ingeplande moment te versturen. Gebruikers kunnen berichten tussen 10 minuten en 14 dagen van tevoren inplannen. De functie komt uit voor iOS en Android, en werkt voor berichten, foto's en video's, maar voor zover bekend niet voor spraakberichten en documenten.</description>
+    <description>WhatsApp krijgt ergens in de komende weken een functie om berichten in te plannen en automatisch op het ingeplande moment te versturen. Gebruikers kunnen berichten tussen tien minuten en veertien dagen van tevoren inplannen. De functie komt uit voor iOS en Android, en werkt voor berichten, foto's en video's, maar voor zover bekend niet voor spraakberichten en documenten.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/254938/whatsapp-krijgt-optie-om-berichten-in-te-plannen-tot-14-dagen-later-sturen.html#reacties</comments>

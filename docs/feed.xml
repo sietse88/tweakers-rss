@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 04:05:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 05:07:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - ASUS ZenWiFi BN12-meshset - Duur wachten op Wi-Fi 8-clients</title>
+    <link>https://tweakers.net/reviews/15662/asus-zenwifi-bn12-meshset-duur-wachten-op-wi-fi-8-clients.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15662</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+    <description>In dit artikel kijken we naar de ASUS ZenWiFi BN12, die snel en goed is, maar zijn tijd te ver vooruit is.</description>
+    <dc:creator>Olaf Weijers</dc:creator>
+    <category>Review / Computers / Modems en routers</category>
+    <comments>https://tweakers.net/reviews/15662/asus-zenwifi-bn12-meshset-duur-wachten-op-wi-fi-8-clients.html#reacties</comments>
+  </item>
   <item>
     <title>1Password meldt cyberaanval, maar er zijn geen wachtwoorden gestolen</title>
     <link>https://tweakers.net/nieuws/254942/1password-meldt-cyberaanval-maar-er-zijn-geen-wachtwoorden-gestolen.html</link>
@@ -5304,16 +5314,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Videokaarten</category>
     <comments>https://tweakers.net/nieuws/253782/videokaartenbouwer-we-kunnen-geen-rtx-5090-chips-meer-bestellen-bij-nvidia.html#reacties</comments>
-  </item>
-  <item>
-    <title>Benchmark - Hoeveel vram heb je nodig voor gaming? 17 videokaarten van 6GB tot 24GB getest</title>
-    <link>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15486</guid>
-    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
-    <description>Moderne games vereisen steeds meer geheugen om goed te draaien. In dit artikel lees je hoeveel videogeheugen in 2026 aan te bevelen is.</description>
-    <dc:creator>Reinoud Dik</dc:creator>
-    <category>Benchmark / Computers / Videokaarten</category>
-    <comments>https://tweakers.net/reviews/15486/hoeveel-vram-heb-je-nodig-voor-gaming-17-videokaarten-van-6gb-tot-24gb-getest.html#reacties</comments>
   </item>
 </channel>
 </rss>

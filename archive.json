@@ -65,17 +65,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253784": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Tablets en telefoons / Smartphones",
-  "comments": "https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html#reacties",
-  "description": "Apple heeft iOS 27.2 uitgebracht. Deze update bevat verschillende wijzigingen voor de iPhone Duo, waaronder Apple Pencil-ondersteuning. Siri AI krijgt ondersteuning voor meer talen, maar nog niet voor het Nederlands.",
-  "first": "Tue, 27 Oct 2026 08:22:42 +0000",
-  "guid": "https://tweakers.net/nieuws/253784",
-  "link": "https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html",
-  "pubDate": "Tue, 27 Oct 2026 09:14:23 +0100",
-  "title": "Apple brengt iOS 27.2 uit met Apple Pencil-ondersteuning voor iPhone Duo"
- },
  "https://tweakers.net/nieuws/253786": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -5179,6 +5168,17 @@
   "link": "https://tweakers.net/nieuws/254944/canonical-brengt-in-januari-ai-launcher-voor-ubuntu-uit.html",
   "pubDate": "Thu, 26 Nov 2026 08:05:58 +0100",
   "title": "Canonical brengt in januari AI-launcher voor Ubuntu uit"
+ },
+ "https://tweakers.net/nieuws/254946": {
+  "author": "Imre Himmelbauer",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html#reacties",
+  "description": "De krachtigste Intel Core 4000-desktop-cpu krijgt 144MB L3-cache en 28 cores met een maximale kloksnelheid van 5,5GHz. Dat meldt VideoCardz. Het medium baseert zich op een specificatiedocument op basis van qualification samples van Intel.",
+  "first": "Thu, 26 Nov 2026 08:22:40 +0000",
+  "guid": "https://tweakers.net/nieuws/254946",
+  "link": "https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html",
+  "pubDate": "Thu, 26 Nov 2026 09:20:43 +0100",
+  "title": "'Topmodel Intel Nova Lake-S krijgt 28 cores en 144MB L3-cache'"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",

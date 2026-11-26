@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 08:07:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 08:22:40 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Topmodel Intel Nova Lake-S krijgt 28 cores en 144MB L3-cache'</title>
+    <link>https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254946</guid>
+    <pubDate>Thu, 26 Nov 2026 09:20:43 +0100</pubDate>
+    <description>De krachtigste Intel Core 4000-desktop-cpu krijgt 144MB L3-cache en 28 cores met een maximale kloksnelheid van 5,5GHz. Dat meldt VideoCardz. Het medium baseert zich op een specificatiedocument op basis van qualification samples van Intel.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html#reacties</comments>
+  </item>
   <item>
     <title>Canonical brengt in januari AI-launcher voor Ubuntu uit</title>
     <link>https://tweakers.net/nieuws/254944/canonical-brengt-in-januari-ai-launcher-voor-ubuntu-uit.html</link>
@@ -5304,16 +5314,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253786/openai-brengt-gpt-61-terra-uit-met-50-procent-lagere-api-tarieven-dan-sol.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple brengt iOS 27.2 uit met Apple Pencil-ondersteuning voor iPhone Duo</title>
-    <link>https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253784</guid>
-    <pubDate>Tue, 27 Oct 2026 09:14:23 +0100</pubDate>
-    <description>Apple heeft iOS 27.2 uitgebracht. Deze update bevat verschillende wijzigingen voor de iPhone Duo, waaronder Apple Pencil-ondersteuning. Siri AI krijgt ondersteuning voor meer talen, maar nog niet voor het Nederlands.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253784/apple-brengt-ios-272-uit-met-apple-pencil-ondersteuning-voor-iphone-duo.html#reacties</comments>
   </item>
 </channel>
 </rss>

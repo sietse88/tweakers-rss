@@ -76,17 +76,6 @@
   "pubDate": "Tue, 27 Oct 2026 17:43:00 +0100",
   "title": "Gerucht: OPPO Find X10 Ultra krijgt 100MP-selfiecamera met vierkante sensor"
  },
- "https://tweakers.net/nieuws/253826": {
-  "author": "Arnoud Wokke",
-  "category": "Nieuws / Beeld en geluid / Audio",
-  "comments": "https://tweakers.net/nieuws/253826/brein-haalt-weer-illegale-iptv-aanbieder-offline-teller-staat-op-200-dit-jaar.html#reacties",
-  "description": "Stichting Brein heeft weer een illegale IPTV-aanbieder offline gehaald. De teller staat dit jaar intussen op tweehonderd van zulke aanbieders. Mediamerken vroegen juist deze week de politiek om meer te doen tegen zulke diensten.",
-  "first": "Tue, 27 Oct 2026 16:24:17 +0000",
-  "guid": "https://tweakers.net/nieuws/253826",
-  "link": "https://tweakers.net/nieuws/253826/brein-haalt-weer-illegale-iptv-aanbieder-offline-teller-staat-op-200-dit-jaar.html",
-  "pubDate": "Tue, 27 Oct 2026 17:11:00 +0100",
-  "title": "Brein haalt weer illegale IPTV-aanbieder offline, teller staat op 200 dit jaar"
- },
  "https://tweakers.net/nieuws/253828": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Politiek en recht",
@@ -5114,6 +5103,17 @@
   "pubDate": "Thu, 26 Nov 2026 15:41:31 +0100",
   "title": "X rolt ouderlijk toezicht voor tieners van 13 tot 17 jaar wereldwijd uit"
  },
+ "https://tweakers.net/nieuws/254972": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Grafisch ontwerp en 3d visualisatie",
+  "comments": "https://tweakers.net/nieuws/254972/bambu-lab-brengt-draadloze-3d-scanner-s1-uit-voor-1699-euro.html#reacties",
+  "description": "Bambu Lab komt met een 3d-scanner. Deze S1 laat gebruikers objecten in de echte wereld omzetten naar digitale 3d-modellen, bijvoorbeeld om mee te 3d-printen. Het apparaat kost 1699 euro en is per direct beschikbaar via de webwinkel van de fabrikant.",
+  "first": "Thu, 26 Nov 2026 16:17:20 +0000",
+  "guid": "https://tweakers.net/nieuws/254972",
+  "link": "https://tweakers.net/nieuws/254972/bambu-lab-brengt-draadloze-3d-scanner-s1-uit-voor-1699-euro.html",
+  "pubDate": "Thu, 26 Nov 2026 17:06:38 +0100",
+  "title": "Bambu Lab brengt draadloze 3d-scanner S1 uit voor 1699 euro"
+ },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",
   "category": "Review / Tablets en telefoons / E-readers",
@@ -5762,5 +5762,16 @@
   "link": "https://tweakers.net/reviews/15668/waarom-jensen-huang-nu-terugkeert-als-ceo-van-nvidia.html",
   "pubDate": "Mon, 23 Nov 2026 17:00:00 +0100",
   "title": "Achtergrond - Waarom Jensen Huang nu terugkeert als ceo van Nvidia"
+ },
+ "https://tweakers.net/reviews/15682": {
+  "author": "Lumen Heijdendael",
+  "category": "Achtergrond / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/reviews/15682/meta-schuift-verantwoordelijkheid-voor-misbruik-camerabrillen-naar-gebruikers.html#reacties",
+  "description": "Bij de rechtzaak tegen Meta om de privacyproblemen van de camerabril nam de techgigant weinig verantwoordelijkheid: \"De gebruikers zijn de verantwoordelijke gegevensverwerkers.\"",
+  "first": "Thu, 26 Nov 2026 16:17:20 +0000",
+  "guid": "https://tweakers.net/reviews/15682",
+  "link": "https://tweakers.net/reviews/15682/meta-schuift-verantwoordelijkheid-voor-misbruik-camerabrillen-naar-gebruikers.html",
+  "pubDate": "Thu, 26 Nov 2026 17:03:37 +0100",
+  "title": "Achtergrond - Meta schuift verantwoordelijkheid voor misbruik camerabrillen naar gebruikers"
  }
 }

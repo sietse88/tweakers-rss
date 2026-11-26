@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 05:07:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:07:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Canonical brengt in januari AI-launcher voor Ubuntu uit</title>
+    <link>https://tweakers.net/nieuws/254944/canonical-brengt-in-januari-ai-launcher-voor-ubuntu-uit.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254944</guid>
+    <pubDate>Thu, 26 Nov 2026 08:05:58 +0100</pubDate>
+    <description>Canonical brengt in januari een door AI aangedreven launcher voor Ubuntu uit. Dat meldt Didier Roche, ontwikkelaar bij het bedrijf. De Warty-launcher moet gebruikers 'een nieuwe manier om met je Ubuntu-desktop om te gaan' bieden.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / Computers / Software</category>
+    <comments>https://tweakers.net/nieuws/254944/canonical-brengt-in-januari-ai-launcher-voor-ubuntu-uit.html#reacties</comments>
+  </item>
   <item>
     <title>Review - ASUS ZenWiFi BN12-meshset - Duur wachten op Wi-Fi 8-clients</title>
     <link>https://tweakers.net/reviews/15662/asus-zenwifi-bn12-meshset-duur-wachten-op-wi-fi-8-clients.html</link>
@@ -30,7 +40,7 @@
     <link>https://tweakers.net/nieuws/254942/1password-meldt-cyberaanval-maar-er-zijn-geen-wachtwoorden-gestolen.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254942</guid>
     <pubDate>Wed, 25 Nov 2026 21:16:38 +0100</pubDate>
-    <description>Wachtwoordmanager 1Password meldt dat is getroffen door een cyberaanval. Daarbij zijn e-mailadressen en inlognamen van een 'beperkt aantal' klanten gestolen. Er zijn geen gegevens uit de 'wachtwoordkluizen' van gebruikers gestolen.</description>
+    <description>Wachtwoordmanager 1Password meldt dat hij is getroffen door een cyberaanval. Daarbij zijn e-mailadressen en inlognamen van een 'beperkt aantal' klanten gestolen. Er zijn geen gegevens uit de 'wachtwoordkluizen' van gebruikers gestolen.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/254942/1password-meldt-cyberaanval-maar-er-zijn-geen-wachtwoorden-gestolen.html#reacties</comments>

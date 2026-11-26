@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 18:32:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 19:02:42 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5244,16 +5244,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253834/grand-theft-auto-vi-is-naar-verluidt-210gb-groot.html#reacties</comments>
-  </item>
-  <item>
-    <title>Tailscale waarschuwt voor lek waarmee hackers rootrechten kunnen krijgen</title>
-    <link>https://tweakers.net/nieuws/253832/tailscale-waarschuwt-voor-lek-waarmee-hackers-rootrechten-kunnen-krijgen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253832</guid>
-    <pubDate>Tue, 27 Oct 2026 19:57:40 +0100</pubDate>
-    <description>De ontwikkelaars van vpn-software Tailscale werken aan patches voor elf kwetsbaarheden die samen bekendstaan als Tailworm. Het bedrijf verwacht die patches op dinsdag uit te brengen. De kwetsbaarheden maken het volgens onderzoekers onder andere mogelijk om rootrechten te krijgen.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253832/tailscale-waarschuwt-voor-lek-waarmee-hackers-rootrechten-kunnen-krijgen.html#reacties</comments>
   </item>
 </channel>
 </rss>

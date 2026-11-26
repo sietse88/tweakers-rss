@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 16:47:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 17:02:28 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nvidia treft schikking van 290 miljoen dollar in zaak over cryptominers</title>
+    <link>https://tweakers.net/nieuws/254976/nvidia-treft-schikking-van-290-miljoen-dollar-in-zaak-over-cryptominers.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254976</guid>
+    <pubDate>Thu, 26 Nov 2026 17:52:12 +0100</pubDate>
+    <description>Nvidia treft een schikking van 290 miljoen dollar met beleggers die het bedrijf in 2018 aanklaagden. Zij stelden dat de gpu-maker onvoldoende bekendmaakte hoeveel cryptominers bijdroegen aan de verkoopcijfers van gaming-gpu's.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/254976/nvidia-treft-schikking-van-290-miljoen-dollar-in-zaak-over-cryptominers.html#reacties</comments>
+  </item>
   <item>
     <title>Bambu Lab brengt draadloze 3d-scanner S1 uit voor 1699 euro</title>
     <link>https://tweakers.net/nieuws/254972/bambu-lab-brengt-draadloze-3d-scanner-s1-uit-voor-1699-euro.html</link>
@@ -5244,16 +5254,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Politiek en recht</category>
     <comments>https://tweakers.net/nieuws/253830/eu-lidstaten-willen-nog-dit-jaar-akkoord-bereiken-over-digitale-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Noyb dient onder meer bij AP klacht in tegen Scale AI om tracken van AI-trainers</title>
-    <link>https://tweakers.net/nieuws/253828/noyb-dient-onder-meer-bij-ap-klacht-in-tegen-scale-ai-om-tracken-van-ai-trainers.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253828</guid>
-    <pubDate>Tue, 27 Oct 2026 17:56:53 +0100</pubDate>
-    <description>Privacyorganisatie noyb heeft bij vier Europese toezichthouders klachten ingediend over Scale AI. Die liggen bij de Nederlandse Autoriteit Persoonsgegevens, de Franse Commission nationale de l'informatique et des libertés (CNIL), de Italiaanse Garante per la protezione dei dati personali (GPDP) en de Oostenrijkse Datenschutzbehörde.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253828/noyb-dient-onder-meer-bij-ap-klacht-in-tegen-scale-ai-om-tracken-van-ai-trainers.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 17:02:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 17:47:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5244,16 +5244,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Nieuws / IT Pro / Internet</category>
     <comments>https://tweakers.net/nieuws/253832/tailscale-waarschuwt-voor-lek-waarmee-hackers-rootrechten-kunnen-krijgen.html#reacties</comments>
-  </item>
-  <item>
-    <title>EU-lidstaten willen nog dit jaar akkoord bereiken over digitale euro</title>
-    <link>https://tweakers.net/nieuws/253830/eu-lidstaten-willen-nog-dit-jaar-akkoord-bereiken-over-digitale-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253830</guid>
-    <pubDate>Tue, 27 Oct 2026 18:36:26 +0100</pubDate>
-    <description>De lidstaten van de Europese Unie willen nog dit jaar een akkoord sluiten over de invoering van de digitale euro. Dat schrijft minister Eelco Heinen van Financiën in een verslag van een bijeenkomst van de Europese Raad Economische en Financiële Zaken. Die vond plaats op 8 en 9 oktober.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253830/eu-lidstaten-willen-nog-dit-jaar-akkoord-bereiken-over-digitale-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

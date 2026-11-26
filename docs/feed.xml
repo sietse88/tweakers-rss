@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 19:48:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 23:16:00 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt</title>
+    <link>https://tweakers.net/nieuws/254982/nederland-verzet-zich-tegen-vs-wet-die-asml-export-naar-china-verder-inperkt.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254982</guid>
+    <pubDate>Thu, 26 Nov 2026 20:57:34 +0100</pubDate>
+    <description>Nederland blijft zich verzetten tegen de Amerikaanse Match Act. Dat zegt minister Sjoerd Sjoerdsma van Buitenlandse Handel en Ontwikkelingssamenwerking. Dat wetsvoorstel zou landen dwingen om de export van chipmachines naar China verder in te perken. In Nederland zou dat vooral gevolgen hebben voor ASML.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/254982/nederland-verzet-zich-tegen-vs-wet-die-asml-export-naar-china-verder-inperkt.html#reacties</comments>
+  </item>
   <item>
     <title>Temu schrapt nepkortingen en 'rad van fortuin' in Europa na EU-actie</title>
     <link>https://tweakers.net/nieuws/254980/temu-schrapt-nepkortingen-en-rad-van-fortuin-in-europa-na-eu-actie.html</link>
@@ -5234,16 +5244,6 @@
     <dc:creator>Imre Himmelbauer</dc:creator>
     <category>Achtergrond / IT Pro / Internettoegang</category>
     <comments>https://tweakers.net/reviews/15510/hoe-ziggo-als-eerste-europese-provider-zijn-netwerk-ombouwde-voor-docsis-40.html#reacties</comments>
-  </item>
-  <item>
-    <title>Redmi K100-smartphone heeft 10.000 mAh-accu en Snapdragon 8 Elite-soc</title>
-    <link>https://tweakers.net/nieuws/253836/redmi-k100-smartphone-heeft-10000-mah-accu-en-snapdragon-8-elite-soc.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253836</guid>
-    <pubDate>Tue, 27 Oct 2026 21:36:31 +0100</pubDate>
-    <description>Xiaomi heeft de Redmi K100 uitgebracht in China. De telefoon heeft onder meer een 10.000mAh-accu, die met maximaal 100W kan worden opgeladen. Hij kost omgerekend minimaal 404 euro. De levering begint op 31 oktober.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253836/redmi-k100-smartphone-heeft-10000-mah-accu-en-snapdragon-8-elite-soc.html#reacties</comments>
   </item>
 </channel>
 </rss>

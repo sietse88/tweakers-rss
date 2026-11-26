@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 07:52:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 08:07:37 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -80,7 +80,7 @@
     <link>https://tweakers.net/nieuws/254934/onderzoekers-vinden-openbaar-toegankelijke-databases-met-miljarden-inloggegevens.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/254934</guid>
     <pubDate>Wed, 25 Nov 2026 17:30:44 +0100</pubDate>
-    <description>Twee verschillende onderzoekers ontdekken kort na elkaar enorme databases met gestolen inloggegevens en andere gevoelige informatie. Naar schatting gaat het om anderhalf miljard inloggegevens van Chinezen en nog eens twee miljard inloggegevens van mensen uit de hele wereld. Beide databases waren openbaar en zonder beveiliging toegankelijk.</description>
+    <description>Twee verschillende onderzoekers ontdekken kort na elkaar enorme databases met gestolen inloggegevens en andere gevoelige informatie. Naar schatting gaat het om 1,5 miljard inloggegevens van Chinezen en nog eens 2 miljard inloggegevens van mensen uit de hele wereld. Beide databases waren openbaar en zonder beveiliging toegankelijk.</description>
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/254934/onderzoekers-vinden-openbaar-toegankelijke-databases-met-miljarden-inloggegevens.html#reacties</comments>

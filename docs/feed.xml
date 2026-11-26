@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Thu, 26 Nov 2026 08:22:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 09:07:43 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Hackers stelen klantgegevens van Belgische tak Eneco</title>
+    <link>https://tweakers.net/nieuws/254950/hackers-stelen-klantgegevens-van-belgische-tak-eneco.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254950</guid>
+    <pubDate>Thu, 26 Nov 2026 09:55:24 +0100</pubDate>
+    <description>Hackers hebben volgens het Centrum voor Cybersecurity België gegevens van klanten gestolen bij de Belgische tak van energieleverancier Eneco. Dat zegt een woordvoerder van Eneco tegen persbureau Belga. Het bedrijf ontkende eerder dat zijn database was gehackt.</description>
+    <dc:creator>Imre Himmelbauer</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/254950/hackers-stelen-klantgegevens-van-belgische-tak-eneco.html#reacties</comments>
+  </item>
   <item>
     <title>'Topmodel Intel Nova Lake-S krijgt 28 cores en 144MB L3-cache'</title>
     <link>https://tweakers.net/nieuws/254946/topmodel-intel-nova-lake-s-krijgt-28-cores-en-144mb-l3-cache.html</link>

@@ -24,11 +24,11 @@ Nvidia pauzeert zijn leveringen van AI-chips aan Zuidoost-Azië. Dat zeggen inge
 
 [Lees het hele artikel](https://tweakers.net/nieuws/254978/nvidia-legt-leveringen-ai-chips-aan-zuidoost-azie-stil.html)
 
-## Temu schrapt nepkortingen en 'rad van fortuin' in Europa na EU-actie
+## Temu stopt met nepkortingen en 'rad van fortuin' in Europa na EU-actie
 
 Chinese webwinkel Temu past in Europa zijn handelspraktijken aan onder druk van de EU en toezichthouders. Eerder bleek al dat Temu de Europese consumentenwetgeving schendt. De EU is akkoord met de aanpassingen die het platform doorvoert.
 
-[Lees het hele artikel](https://tweakers.net/nieuws/254980/temu-schrapt-nepkortingen-en-rad-van-fortuin-in-europa-na-eu-actie.html)
+[Lees het hele artikel](https://tweakers.net/nieuws/254980/temu-stopt-met-nepkortingen-en-rad-van-fortuin-in-europa-na-eu-actie.html)
 
 ## Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt
 

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 18:19:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 19:04:15 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Stichting sleept Odido voor de rechter, eist 500 euro per persoon wegens datalek</title>
+    <link>https://tweakers.net/nieuws/255022/stichting-sleept-odido-voor-de-rechter-eist-500-euro-per-persoon-wegens-datalek.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255022</guid>
+    <pubDate>Fri, 27 Nov 2026 19:50:36 +0100</pubDate>
+    <description>Nederlandse stichting CUIC heeft Odido officieel voor de rechter gesleept. Dat doet ze vanwege het grote datalek eerder dit jaar, waarbij de gegevens van miljoenen klanten op straat kwamen te liggen. CUIC eist een schadevergoeding van minimaal 500 euro per gedupeerde.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/255022/stichting-sleept-odido-voor-de-rechter-eist-500-euro-per-persoon-wegens-datalek.html#reacties</comments>
+  </item>
   <item>
     <title>Vimexx verhoogt verlengtarieven van domeinnamen, vps'en en meer per 1 januari</title>
     <link>https://tweakers.net/nieuws/255020/vimexx-verhoogt-verlengtarieven-van-domeinnamen-vpsen-en-meer-per-1-januari.html</link>

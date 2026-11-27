@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 15:33:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>'Nvidia Blackwell-chips duiken op in Chinees datacenter gelinkt aan Alice Huang'</title>
+    <link>https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255012</guid>
+    <pubDate>Fri, 27 Nov 2026 16:29:07 +0100</pubDate>
+    <description>Chinese bedrijven installeerden Nvidia Blackwell-chips in een datacenter in Shanghai. Dat meldt persbureau Bloomberg. Die chips mogen niet geleverd worden aan China. Het datacenter heeft banden met Alice Huang, een van de vrouwen met wie Nvidia-baas Jensen Huang een affaire had.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html#reacties</comments>
+  </item>
   <item>
     <title>Kwetsbare Nederlanders krijgen toeslag door deels digitale fout op privérekening</title>
     <link>https://tweakers.net/nieuws/254930/kwetsbare-nederlanders-krijgen-toeslag-door-deels-digitale-fout-op-priverekening.html</link>
@@ -5224,16 +5234,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html#reacties</comments>
-  </item>
-  <item>
-    <title>HomeWizard maakt oplaadbare temperatuur- en luchtvochtigheidsmeter van 28 euro</title>
-    <link>https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253870</guid>
-    <pubDate>Wed, 28 Oct 2026 16:18:59 +0100</pubDate>
-    <description>HomeWizard introduceert de Temperature Humidity Meter voor het meten van de temperatuur en luchtvochtigheid. Het apparaatje werkt op een oplaadbare accu en vereist geen hub of bridge. De Temperature Humidity Meter is vanaf 27,95 euro verkrijgbaar en wordt vanaf 30 november geleverd.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
-    <comments>https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

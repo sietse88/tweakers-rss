@@ -65,17 +65,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253870": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Beeld en geluid / Smarthome-accessoires",
-  "comments": "https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html#reacties",
-  "description": "HomeWizard introduceert de Temperature Humidity Meter voor het meten van de temperatuur en luchtvochtigheid. Het apparaatje werkt op een oplaadbare accu en vereist geen hub of bridge. De Temperature Humidity Meter is vanaf 27,95 euro verkrijgbaar en wordt vanaf 30 november geleverd.",
-  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
-  "guid": "https://tweakers.net/nieuws/253870",
-  "link": "https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html",
-  "pubDate": "Wed, 28 Oct 2026 16:18:59 +0100",
-  "title": "HomeWizard maakt oplaadbare temperatuur- en luchtvochtigheidsmeter van 28 euro"
- },
  "https://tweakers.net/nieuws/253872": {
   "author": "Kevin Krikhaar",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
@@ -5080,6 +5069,17 @@
   "link": "https://tweakers.net/nieuws/255010/reuters-hackers-drongen-cloudplatform-van-amerikaanse-luchtmacht-binnen.html",
   "pubDate": "Fri, 27 Nov 2026 15:45:47 +0100",
   "title": "Reuters: hackers drongen cloudplatform van Amerikaanse luchtmacht binnen"
+ },
+ "https://tweakers.net/nieuws/255012": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
+  "comments": "https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html#reacties",
+  "description": "Chinese bedrijven installeerden Nvidia Blackwell-chips in een datacenter in Shanghai. Dat meldt persbureau Bloomberg. Die chips mogen niet geleverd worden aan China. Het datacenter heeft banden met Alice Huang, een van de vrouwen met wie Nvidia-baas Jensen Huang een affaire had.",
+  "first": "Fri, 27 Nov 2026 15:33:49 +0000",
+  "guid": "https://tweakers.net/nieuws/255012",
+  "link": "https://tweakers.net/nieuws/255012/nvidia-blackwell-chips-duiken-op-in-chinees-datacenter-gelinkt-aan-alice-huang.html",
+  "pubDate": "Fri, 27 Nov 2026 16:29:07 +0100",
+  "title": "'Nvidia Blackwell-chips duiken op in Chinees datacenter gelinkt aan Alice Huang'"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",

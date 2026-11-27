@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 08:55:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:40:18 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Waals Gewest legt bouw van Google-datacenter stil na verlopen vergunning</title>
+    <link>https://tweakers.net/nieuws/254990/waals-gewest-legt-bouw-van-google-datacenter-stil-na-verlopen-vergunning.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254990</guid>
+    <pubDate>Fri, 27 Nov 2026 10:33:16 +0100</pubDate>
+    <description>Het Waals Gewest heeft de bouw van een datacenter van Google stilgelegd. Google heeft niet meer de juiste vergunning voor die bouw, maar lijkt er wel mee door te gaan. Greenpeace startte eerder deze week al een gerechtelijke procedure om de bouw stil te leggen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254990/waals-gewest-legt-bouw-van-google-datacenter-stil-na-verlopen-vergunning.html#reacties</comments>
+  </item>
   <item>
     <title>.Deals - De allerbeste Black Friday-deals volgens de redactie en community</title>
     <link>https://tweakers.net/reviews/15658/de-allerbeste-black-friday-deals-volgens-de-redactie-en-community.html</link>

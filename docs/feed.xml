@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 07:25:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 07:40:04 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Microsoft repareert met nieuwe hotpatch crashbug uit eigen eerdere hotpatch</title>
+    <link>https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254988</guid>
+    <pubDate>Fri, 27 Nov 2026 08:29:23 +0100</pubDate>
+    <description>Microsoft heeft een update uitgebracht voor Windows Server 2025 die voorkomt dat servers crashen als een tijdelijke IPv6-route verloopt. Opvallend is dat het om een out-of-bandupdate, ofwel een hotpatch, gaat voor een fout die door een eerdere hotpatch in Windows Server is ontstaan.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Serversoftware</category>
+    <comments>https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html#reacties</comments>
+  </item>
   <item>
     <title>Quicktest - Philips Evnia 27M2N3500PF en 34M2C3500L - Gamen op een monitor van 120 euro</title>
     <link>https://tweakers.net/reviews/15612/philips-evnia-27m2n3500pf-en-34m2c3500l-gamen-op-een-monitor-van-120-euro.html</link>
@@ -5204,16 +5214,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
     <comments>https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html#reacties</comments>
-  </item>
-  <item>
-    <title>'Patches voor Linux-kernel Raspberry Pi suggereren komst van goedkope modellen'</title>
-    <link>https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253838</guid>
-    <pubDate>Wed, 28 Oct 2026 08:38:51 +0100</pubDate>
-    <description>Nieuwe toevoegingen aan de Linux-kernel voor Raspberry Pi-microcomputers lijken erop te wijzen dat er twee nieuwe modellen aankomen. Het gaat om de kleine Raspberry Pi Zero 3 W en de goedkope Raspberry Pi 4 Model A. Dit meldt Phoronix op basis van kernelpatches voor nieuwe apparaten.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Computers / Singleboardcomputers</category>
-    <comments>https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html#reacties</comments>
   </item>
 </channel>
 </rss>

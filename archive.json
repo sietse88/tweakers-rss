@@ -65,17 +65,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253838": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / Computers / Singleboardcomputers",
-  "comments": "https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html#reacties",
-  "description": "Nieuwe toevoegingen aan de Linux-kernel voor Raspberry Pi-microcomputers lijken erop te wijzen dat er twee nieuwe modellen aankomen. Het gaat om de kleine Raspberry Pi Zero 3 W en de goedkope Raspberry Pi 4 Model A. Dit meldt Phoronix op basis van kernelpatches voor nieuwe apparaten.",
-  "first": "Wed, 28 Oct 2026 07:41:14 +0000",
-  "guid": "https://tweakers.net/nieuws/253838",
-  "link": "https://tweakers.net/nieuws/253838/patches-voor-linux-kernel-raspberry-pi-suggereren-komst-van-goedkope-modellen.html",
-  "pubDate": "Wed, 28 Oct 2026 08:38:51 +0100",
-  "title": "'Patches voor Linux-kernel Raspberry Pi suggereren komst van goedkope modellen'"
- },
  "https://tweakers.net/nieuws/253846": {
   "author": "Jasper Bakker",
   "category": "Nieuws / IT Pro / Architectuur",
@@ -5069,6 +5058,17 @@
   "link": "https://tweakers.net/nieuws/254982/nederland-verzet-zich-tegen-vs-wet-die-asml-export-naar-china-verder-inperkt.html",
   "pubDate": "Thu, 26 Nov 2026 20:57:34 +0100",
   "title": "Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt"
+ },
+ "https://tweakers.net/nieuws/254988": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Serversoftware",
+  "comments": "https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html#reacties",
+  "description": "Microsoft heeft een update uitgebracht voor Windows Server 2025 die voorkomt dat servers crashen als een tijdelijke IPv6-route verloopt. Opvallend is dat het om een out-of-bandupdate, ofwel een hotpatch, gaat voor een fout die door een eerdere hotpatch in Windows Server is ontstaan.",
+  "first": "Fri, 27 Nov 2026 07:40:04 +0000",
+  "guid": "https://tweakers.net/nieuws/254988",
+  "link": "https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html",
+  "pubDate": "Fri, 27 Nov 2026 08:29:23 +0100",
+  "title": "Microsoft repareert met nieuwe hotpatch crashbug uit eigen eerdere hotpatch"
  },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",

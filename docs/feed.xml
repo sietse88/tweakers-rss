@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 18:04:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 18:19:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Vimexx verhoogt verlengtarieven van domeinnamen, vps'en en meer per 1 januari</title>
+    <link>https://tweakers.net/nieuws/255020/vimexx-verhoogt-verlengtarieven-van-domeinnamen-vpsen-en-meer-per-1-januari.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255020</guid>
+    <pubDate>Fri, 27 Nov 2026 19:02:21 +0100</pubDate>
+    <description>Hostingprovider Vimexx verhoogt per 1 januari 2027 de prijzen van nagenoeg al zijn producten. Domeinnamen, hostingpakketten en vps'en worden bijvoorbeeld duurder. De prijsverhoging verschilt per dienst of domeinnaam, maar kan oplopen tot 30 procent.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
+    <comments>https://tweakers.net/nieuws/255020/vimexx-verhoogt-verlengtarieven-van-domeinnamen-vpsen-en-meer-per-1-januari.html#reacties</comments>
+  </item>
   <item>
     <title>Linux Mint 27-bèta verschijnt met volledige Wayland-ondersteuning en nieuwe apps</title>
     <link>https://tweakers.net/nieuws/255018/linux-mint-27-beta-verschijnt-met-volledige-wayland-ondersteuning-en-nieuwe-apps.html</link>

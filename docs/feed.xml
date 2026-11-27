@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 07:40:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 08:10:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Achtergrond - Hoe de VS kan zorgen dat OPPO en Xiaomi geen telefoonchips meer krijgen</title>
+    <link>https://tweakers.net/reviews/15672/hoe-de-vs-kan-zorgen-dat-oppo-en-xiaomi-geen-telefoonchips-meer-krijgen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15672</guid>
+    <pubDate>Fri, 27 Nov 2026 09:00:00 +0100</pubDate>
+    <description>De VS heeft de exportrestricties strenger gemaakt en daardoor komen OPPO en Xiaomi mogelijk in de knel.</description>
+    <dc:creator>Arnoud Wokke</dc:creator>
+    <category>Achtergrond / Computers / Processors</category>
+    <comments>https://tweakers.net/reviews/15672/hoe-de-vs-kan-zorgen-dat-oppo-en-xiaomi-geen-telefoonchips-meer-krijgen.html#reacties</comments>
+  </item>
   <item>
     <title>Microsoft repareert met nieuwe hotpatch crashbug uit eigen eerdere hotpatch</title>
     <link>https://tweakers.net/nieuws/254988/microsoft-repareert-met-nieuwe-hotpatch-crashbug-uit-eigen-eerdere-hotpatch.html</link>

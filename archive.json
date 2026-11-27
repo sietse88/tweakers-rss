@@ -65,72 +65,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253846": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / Architectuur",
-  "comments": "https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html#reacties",
-  "description": "Door een kritieke kwetsbaarheid in de UEFI-firmware EDK II kunnen kwaadwillenden eigen code uitvoeren op systemen die vanaf het netwerk opstarten. Aanvallers kunnen zonder authenticatie code uitvoeren voordat de beveiligingsfunctie Secure Boot en het OS zelf starten.",
-  "first": "Wed, 28 Oct 2026 10:56:35 +0000",
-  "guid": "https://tweakers.net/nieuws/253846",
-  "link": "https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html",
-  "pubDate": "Wed, 28 Oct 2026 11:53:02 +0100",
-  "title": "Kritiek lek in UEFI-serverfirmware maakt codeuitvoering mogelijk bij netwerkboot"
- },
- "https://tweakers.net/nieuws/253856": {
-  "author": "Yannick Spinner",
-  "category": "Nieuws / Computers / Geheugen intern",
-  "comments": "https://tweakers.net/nieuws/253856/sk-hynix-waarschuwt-dat-geheugentekort-tot-2030-duurt-haalt-recordwinst.html#reacties",
-  "description": "Geheugenfabrikant SK hynix voorspelt dat de huidige geheugentekorten nog tot 2030 duren. Tot dusver was de verwachting dat de problemen uiterlijk in 2028 wel zouden zijn afgenomen. Vanwege de aanhoudende tekorten verwacht het Zuid-Koreaanse bedrijf voorlopig zeer stabiele winsten. Afgelopen kwartaal boekte het bedrijf al een recordwinst.",
-  "first": "Wed, 28 Oct 2026 11:11:38 +0000",
-  "guid": "https://tweakers.net/nieuws/253856",
-  "link": "https://tweakers.net/nieuws/253856/sk-hynix-waarschuwt-dat-geheugentekort-tot-2030-duurt-haalt-recordwinst.html",
-  "pubDate": "Wed, 28 Oct 2026 11:58:55 +0100",
-  "title": "SK hynix waarschuwt dat geheugentekort tot 2030 duurt, haalt recordwinst"
- },
- "https://tweakers.net/nieuws/253858": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / E-commerce",
-  "comments": "https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html#reacties",
-  "description": "De Nederlandse politie heeft in een internationaal onderzoek naar een hostingbedrijf tientallen servers in beslag genomen bij een datacentrum in Limburg. Het bedrijf zou betrokken zijn bij uiteenlopende vormen van cybercrime, van ransomware en infostealers tot phishing en kindermisbruikmateriaal.",
-  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
-  "guid": "https://tweakers.net/nieuws/253858",
-  "link": "https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html",
-  "pubDate": "Wed, 28 Oct 2026 16:15:21 +0100",
-  "title": "Politie neemt tientallen servers in beslag bij 'bulletproof hoster' in Limburg"
- },
- "https://tweakers.net/nieuws/253860": {
-  "author": "Kevin Krikhaar",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html#reacties",
-  "description": "Odido krijgt per direct een nieuwe ceo, Tisha van Lammeren. Ze volgt Søren Abildgaard op, die meer dan negen jaar directeur was bij de Nederlandse provider.",
-  "first": "Wed, 28 Oct 2026 12:41:58 +0000",
-  "guid": "https://tweakers.net/nieuws/253860",
-  "link": "https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html",
-  "pubDate": "Wed, 28 Oct 2026 13:31:55 +0100",
-  "title": "Na ruim negen jaar krijgt Odido met Tisha van Lammeren nieuwe ceo"
- },
- "https://tweakers.net/nieuws/253862": {
-  "author": "Kevin Krikhaar",
-  "category": "Nieuws / IT Pro / Politiek en recht",
-  "comments": "https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html#reacties",
-  "description": "De thuiskopieheffing in Nederland wordt vanaf 2027 op een andere manier berekend. Daardoor stijgen sommige tarieven, zoals die voor e-readers, terwijl andere dalen. Ook zijn sommige apparaten, zoals externe ssd's, nu vrijgesteld van de heffing, terwijl voor nassen nu wel een vergoeding geldt.",
-  "first": "Wed, 28 Oct 2026 13:42:05 +0000",
-  "guid": "https://tweakers.net/nieuws/253862",
-  "link": "https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html",
-  "pubDate": "Wed, 28 Oct 2026 14:27:41 +0100",
-  "title": "Thuiskopieheffing voor e-readers stijgt met 7 euro, tarief smartphones daalt"
- },
- "https://tweakers.net/nieuws/253868": {
-  "author": "Kevin Krikhaar",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties",
-  "description": "OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.",
-  "first": "Wed, 28 Oct 2026 15:27:16 +0000",
-  "guid": "https://tweakers.net/nieuws/253868",
-  "link": "https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html",
-  "pubDate": "Wed, 28 Oct 2026 16:12:26 +0100",
-  "title": "'OpenAI wil chips van Google kopen om minder afhankelijk van Nvidia te worden'"
- },
  "https://tweakers.net/nieuws/253870": {
   "author": "Yannick Spinner",
   "category": "Nieuws / Beeld en geluid / Smarthome-accessoires",
@@ -4806,6 +4740,17 @@
   "pubDate": "Wed, 25 Nov 2026 16:38:38 +0100",
   "title": "DIVD vermoedt dat AI-tool Artex werd gebruikt bij hack op collectief"
  },
+ "https://tweakers.net/nieuws/254930": {
+  "author": "Lumen Heijdendael",
+  "category": "Nieuws / IT Pro / Economie en maatschappij",
+  "comments": "https://tweakers.net/nieuws/254930/kwetsbare-nederlanders-krijgen-toeslag-door-deels-digitale-fout-op-priverekening.html#reacties",
+  "description": "De Nederlandse Belastingdienst heeft maandag door een fout toeslagen gestort op de privérekeningen van 6500 kwetsbare burgers die onder budgetbeheer staan. Die bedragen hadden eigenlijk op een afgeschermde rekening gestort moeten worden. De fout was deels technisch.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254930",
+  "link": "https://tweakers.net/nieuws/254930/kwetsbare-nederlanders-krijgen-toeslag-door-deels-digitale-fout-op-priverekening.html",
+  "pubDate": "Fri, 27 Nov 2026 16:00:00 +0100",
+  "title": "Kwetsbare Nederlanders krijgen toeslag door deels digitale fout op privérekening"
+ },
  "https://tweakers.net/nieuws/254934": {
   "author": "Yannick Spinner",
   "category": "Nieuws / Computers / Beveiliging en antivirus",
@@ -4960,6 +4905,17 @@
   "pubDate": "Thu, 26 Nov 2026 15:03:29 +0100",
   "title": "Todoist bevestigt hack waarbij sommige gehashte wachtwoorden zijn gestolen"
  },
+ "https://tweakers.net/nieuws/254966": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / IT Pro / Privacy",
+  "comments": "https://tweakers.net/nieuws/254966/onderbroekenabonnement-on-that-ass-krijgt-90250-euro-avg-boete.html#reacties",
+  "description": "Onderbroekenabonnementsdienst On That Ass heeft vorig jaar een AVG-boete van 90.250 euro gekregen. De boete gaat vooral over de manier waarop de dienst klanten op de hoogte stelde van hun privacyrechten. Daarmee zou On That Ass 'het transparantiebeginsel van de AVG' hebben overtreden, stelt de Autoriteit Persoonsgegevens.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254966",
+  "link": "https://tweakers.net/nieuws/254966/onderbroekenabonnement-on-that-ass-krijgt-90250-euro-avg-boete.html",
+  "pubDate": "Fri, 27 Nov 2026 13:43:16 +0100",
+  "title": "Onderbroekenabonnement On That Ass krijgt 90.250 euro AVG-boete"
+ },
  "https://tweakers.net/nieuws/254968": {
   "author": "Imre Himmelbauer",
   "category": "Nieuws / IT Pro / Websites en community's",
@@ -5070,6 +5026,61 @@
   "pubDate": "Fri, 27 Nov 2026 11:13:43 +0100",
   "title": "WhatsApp gaat e-simabonnementen vanuit de app aanbieden"
  },
+ "https://tweakers.net/nieuws/254994": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254994/sap-is-gehackt-maar-klantdata-is-volgens-het-bedrijf-niet-ingezien.html#reacties",
+  "description": "SAP is gehackt. Volgens verschillende bronnen zouden aanvallers broncode in coderepo's van het bedrijf hebben kunnen aanpassen. SAP bevestigt het lek aan verschillende media, maar zegt dat er 'geen bewijs is dat de aanvallers klantdata hebben ingezien'.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254994",
+  "link": "https://tweakers.net/nieuws/254994/sap-is-gehackt-maar-klantdata-is-volgens-het-bedrijf-niet-ingezien.html",
+  "pubDate": "Fri, 27 Nov 2026 12:29:40 +0100",
+  "title": "SAP is gehackt, maar klantdata is volgens het bedrijf niet ingezien"
+ },
+ "https://tweakers.net/nieuws/254996": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Processors",
+  "comments": "https://tweakers.net/nieuws/254996/gerucht-intel-razor-lake-ax-krijgt-versies-met-en-zonder-geintegreerd-ram.html#reacties",
+  "description": "Intel werkt naar verluidt aan twee productseries op basis van de toekomstige Razor Lake-AX-processors. De fabrikant komt volgens de bekende leaker Jaykihn met een versie met geïntegreerd werkgeheugen, naast een versie waarbij het ram gewoon op het moederbord zit.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254996",
+  "link": "https://tweakers.net/nieuws/254996/gerucht-intel-razor-lake-ax-krijgt-versies-met-en-zonder-geintegreerd-ram.html",
+  "pubDate": "Fri, 27 Nov 2026 14:18:03 +0100",
+  "title": "Gerucht: Intel Razor Lake-AX krijgt versies met en zonder geïntegreerd ram"
+ },
+ "https://tweakers.net/nieuws/254998": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html#reacties",
+  "description": "Een grote Nederlandse zorgverlener, Lelie Zorggroep, is gehackt. Onbekende hackers hebben 'mogelijk toegang gekregen' tot gevoelige patiëntendossiers en gegevens van werknemers. De omvang van de hack is niet bekend.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/254998",
+  "link": "https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html",
+  "pubDate": "Fri, 27 Nov 2026 14:33:17 +0100",
+  "title": "Nederlandse zorginstelling Lelie is gehackt, mogelijk patiëntgegevens gestolen"
+ },
+ "https://tweakers.net/nieuws/255002": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Videokaarten",
+  "comments": "https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html#reacties",
+  "description": "AMD voegt vroege RDNA 5-ondersteuning toe aan de aanstaande Linux 7.5-kernel. Het bedrijf werkt aan ondersteuning voor 'GC13', de gpu-core die de basis vormt voor RDNA 5-gpu's. Linux 7.5 verschijnt begin 2027, maar AMD's RDNA 5-gpu's zelf laten nog wat langer op zich wachten.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/255002",
+  "link": "https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html",
+  "pubDate": "Fri, 27 Nov 2026 14:53:37 +0100",
+  "title": "Linux 7.5 voegt vroege ondersteuning toe voor AMD RDNA 5-gpu's"
+ },
+ "https://tweakers.net/nieuws/255010": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/255010/reuters-hackers-drongen-cloudplatform-van-amerikaanse-luchtmacht-binnen.html#reacties",
+  "description": "Hackers zijn binnengedrongen in Cloud One, het grootste cloudplatform van de Amerikaanse luchtmacht. Dat zeggen meerdere ingewijden tegen persbureau Reuters. De hack kan volgens het persbureau 'tactische, logistieke en personeelsgegevens in gevaar brengen'.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/nieuws/255010",
+  "link": "https://tweakers.net/nieuws/255010/reuters-hackers-drongen-cloudplatform-van-amerikaanse-luchtmacht-binnen.html",
+  "pubDate": "Fri, 27 Nov 2026 15:45:47 +0100",
+  "title": "Reuters: hackers drongen cloudplatform van Amerikaanse luchtmacht binnen"
+ },
  "https://tweakers.net/reviews/15330": {
   "author": "Jelle Stuip",
   "category": "Review / Tablets en telefoons / E-readers",
@@ -5124,17 +5135,6 @@
   "link": "https://tweakers.net/reviews/15480/philips-oled811-tv-minder-helder-voor-meer-geld.html",
   "pubDate": "Fri, 30 Oct 2026 06:00:00 +0100",
   "title": "Review - Philips OLED811-tv – Minder helder voor meer geld"
- },
- "https://tweakers.net/reviews/15488": {
-  "author": "Tomas Hochstenbach",
-  "category": "Quicktest / Computers / Muizen",
-  "comments": "https://tweakers.net/reviews/15488/corsair-sabre-v3-pro-purevector-brakke-aim-deze-muis-fixt-het-voor-je.html#reacties",
-  "description": "De Corsair Sabre v3 Pro is een ultralichte draadloze muis met een ongetwijfeld controversiële functie voor gamers met een brakke aim.",
-  "first": "Wed, 28 Oct 2026 12:11:56 +0000",
-  "guid": "https://tweakers.net/reviews/15488",
-  "link": "https://tweakers.net/reviews/15488/corsair-sabre-v3-pro-purevector-brakke-aim-deze-muis-fixt-het-voor-je.html",
-  "pubDate": "Wed, 28 Oct 2026 13:00:00 +0100",
-  "title": "Quicktest - Corsair Sabre v3 Pro PureVector - Brakke aim? Deze muis fixt het voor je"
  },
  "https://tweakers.net/reviews/15494": {
   "author": "Daan van Monsjou",
@@ -5718,6 +5718,17 @@
   "link": "https://tweakers.net/reviews/15672/hoe-de-vs-kan-zorgen-dat-oppo-en-xiaomi-geen-telefoonchips-meer-krijgen.html",
   "pubDate": "Fri, 27 Nov 2026 09:00:00 +0100",
   "title": "Achtergrond - Hoe de VS kan zorgen dat OPPO en Xiaomi geen telefoonchips meer krijgen"
+ },
+ "https://tweakers.net/reviews/15680": {
+  "author": "Tijs Hofmans",
+  "category": ".Community / IT Pro / Websites en community's",
+  "comments": "https://tweakers.net/reviews/15680/ebitdas-anticheat-en-seoproblemen-dit-waren-de-beste-+3-reacties-van-oktober.html#reacties",
+  "description": "In dit artikel zetten we alle +3-reacties onder elkaar die in oktober onder artikelen verschenen.",
+  "first": "Fri, 27 Nov 2026 15:18:47 +0000",
+  "guid": "https://tweakers.net/reviews/15680",
+  "link": "https://tweakers.net/reviews/15680/ebitdas-anticheat-en-seoproblemen-dit-waren-de-beste-+3-reacties-van-oktober.html",
+  "pubDate": "Fri, 27 Nov 2026 13:37:00 +0100",
+  "title": ".Community - Ebitda's, anticheat en seoproblemen: dit waren de beste +3-reacties van oktober"
  },
  "https://tweakers.net/reviews/15682": {
   "author": "Lumen Heijdendael",

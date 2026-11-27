@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 10:25:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 15:18:47 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,86 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Kwetsbare Nederlanders krijgen toeslag door deels digitale fout op privérekening</title>
+    <link>https://tweakers.net/nieuws/254930/kwetsbare-nederlanders-krijgen-toeslag-door-deels-digitale-fout-op-priverekening.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254930</guid>
+    <pubDate>Fri, 27 Nov 2026 16:00:00 +0100</pubDate>
+    <description>De Nederlandse Belastingdienst heeft maandag door een fout toeslagen gestort op de privérekeningen van 6500 kwetsbare burgers die onder budgetbeheer staan. Die bedragen hadden eigenlijk op een afgeschermde rekening gestort moeten worden. De fout was deels technisch.</description>
+    <dc:creator>Lumen Heijdendael</dc:creator>
+    <category>Nieuws / IT Pro / Economie en maatschappij</category>
+    <comments>https://tweakers.net/nieuws/254930/kwetsbare-nederlanders-krijgen-toeslag-door-deels-digitale-fout-op-priverekening.html#reacties</comments>
+  </item>
+  <item>
+    <title>Reuters: hackers drongen cloudplatform van Amerikaanse luchtmacht binnen</title>
+    <link>https://tweakers.net/nieuws/255010/reuters-hackers-drongen-cloudplatform-van-amerikaanse-luchtmacht-binnen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255010</guid>
+    <pubDate>Fri, 27 Nov 2026 15:45:47 +0100</pubDate>
+    <description>Hackers zijn binnengedrongen in Cloud One, het grootste cloudplatform van de Amerikaanse luchtmacht. Dat zeggen meerdere ingewijden tegen persbureau Reuters. De hack kan volgens het persbureau 'tactische, logistieke en personeelsgegevens in gevaar brengen'.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/255010/reuters-hackers-drongen-cloudplatform-van-amerikaanse-luchtmacht-binnen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Linux 7.5 voegt vroege ondersteuning toe voor AMD RDNA 5-gpu's</title>
+    <link>https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255002</guid>
+    <pubDate>Fri, 27 Nov 2026 14:53:37 +0100</pubDate>
+    <description>AMD voegt vroege RDNA 5-ondersteuning toe aan de aanstaande Linux 7.5-kernel. Het bedrijf werkt aan ondersteuning voor 'GC13', de gpu-core die de basis vormt voor RDNA 5-gpu's. Linux 7.5 verschijnt begin 2027, maar AMD's RDNA 5-gpu's zelf laten nog wat langer op zich wachten.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Videokaarten</category>
+    <comments>https://tweakers.net/nieuws/255002/linux-75-voegt-vroege-ondersteuning-toe-voor-amd-rdna-5-gpus.html#reacties</comments>
+  </item>
+  <item>
+    <title>Nederlandse zorginstelling Lelie is gehackt, mogelijk patiëntgegevens gestolen</title>
+    <link>https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254998</guid>
+    <pubDate>Fri, 27 Nov 2026 14:33:17 +0100</pubDate>
+    <description>Een grote Nederlandse zorgverlener, Lelie Zorggroep, is gehackt. Onbekende hackers hebben 'mogelijk toegang gekregen' tot gevoelige patiëntendossiers en gegevens van werknemers. De omvang van de hack is niet bekend.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254998/nederlandse-zorginstelling-lelie-is-gehackt-mogelijk-patientgegevens-gestolen.html#reacties</comments>
+  </item>
+  <item>
+    <title>Gerucht: Intel Razor Lake-AX krijgt versies met en zonder geïntegreerd ram</title>
+    <link>https://tweakers.net/nieuws/254996/gerucht-intel-razor-lake-ax-krijgt-versies-met-en-zonder-geintegreerd-ram.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254996</guid>
+    <pubDate>Fri, 27 Nov 2026 14:18:03 +0100</pubDate>
+    <description>Intel werkt naar verluidt aan twee productseries op basis van de toekomstige Razor Lake-AX-processors. De fabrikant komt volgens de bekende leaker Jaykihn met een versie met geïntegreerd werkgeheugen, naast een versie waarbij het ram gewoon op het moederbord zit.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Processors</category>
+    <comments>https://tweakers.net/nieuws/254996/gerucht-intel-razor-lake-ax-krijgt-versies-met-en-zonder-geintegreerd-ram.html#reacties</comments>
+  </item>
+  <item>
+    <title>Onderbroekenabonnement On That Ass krijgt 90.250 euro AVG-boete</title>
+    <link>https://tweakers.net/nieuws/254966/onderbroekenabonnement-on-that-ass-krijgt-90250-euro-avg-boete.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254966</guid>
+    <pubDate>Fri, 27 Nov 2026 13:43:16 +0100</pubDate>
+    <description>Onderbroekenabonnementsdienst On That Ass heeft vorig jaar een AVG-boete van 90.250 euro gekregen. De boete gaat vooral over de manier waarop de dienst klanten op de hoogte stelde van hun privacyrechten. Daarmee zou On That Ass 'het transparantiebeginsel van de AVG' hebben overtreden, stelt de Autoriteit Persoonsgegevens.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Privacy</category>
+    <comments>https://tweakers.net/nieuws/254966/onderbroekenabonnement-on-that-ass-krijgt-90250-euro-avg-boete.html#reacties</comments>
+  </item>
+  <item>
+    <title>.Community - Ebitda's, anticheat en seoproblemen: dit waren de beste +3-reacties van oktober</title>
+    <link>https://tweakers.net/reviews/15680/ebitdas-anticheat-en-seoproblemen-dit-waren-de-beste-+3-reacties-van-oktober.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15680</guid>
+    <pubDate>Fri, 27 Nov 2026 13:37:00 +0100</pubDate>
+    <description>In dit artikel zetten we alle +3-reacties onder elkaar die in oktober onder artikelen verschenen.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>.Community / IT Pro / Websites en community's</category>
+    <comments>https://tweakers.net/reviews/15680/ebitdas-anticheat-en-seoproblemen-dit-waren-de-beste-+3-reacties-van-oktober.html#reacties</comments>
+  </item>
+  <item>
+    <title>SAP is gehackt, maar klantdata is volgens het bedrijf niet ingezien</title>
+    <link>https://tweakers.net/nieuws/254994/sap-is-gehackt-maar-klantdata-is-volgens-het-bedrijf-niet-ingezien.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254994</guid>
+    <pubDate>Fri, 27 Nov 2026 12:29:40 +0100</pubDate>
+    <description>SAP is gehackt. Volgens verschillende bronnen zouden aanvallers broncode in coderepo's van het bedrijf hebben kunnen aanpassen. SAP bevestigt het lek aan verschillende media, maar zegt dat er 'geen bewijs is dat de aanvallers klantdata hebben ingezien'.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/254994/sap-is-gehackt-maar-klantdata-is-volgens-het-bedrijf-niet-ingezien.html#reacties</comments>
+  </item>
   <item>
     <title>WhatsApp gaat e-simabonnementen vanuit de app aanbieden</title>
     <link>https://tweakers.net/nieuws/254992/whatsapp-gaat-e-simabonnementen-vanuit-de-app-aanbieden.html</link>
@@ -5154,76 +5234,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / Beeld en geluid / Smarthome-accessoires</category>
     <comments>https://tweakers.net/nieuws/253870/homewizard-maakt-oplaadbare-temperatuur-en-luchtvochtigheidsmeter-van-28-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Politie neemt tientallen servers in beslag bij 'bulletproof hoster' in Limburg</title>
-    <link>https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253858</guid>
-    <pubDate>Wed, 28 Oct 2026 16:15:21 +0100</pubDate>
-    <description>De Nederlandse politie heeft in een internationaal onderzoek naar een hostingbedrijf tientallen servers in beslag genomen bij een datacentrum in Limburg. Het bedrijf zou betrokken zijn bij uiteenlopende vormen van cybercrime, van ransomware en infostealers tot phishing en kindermisbruikmateriaal.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / E-commerce</category>
-    <comments>https://tweakers.net/nieuws/253858/politie-neemt-tientallen-servers-in-beslag-bij-bulletproof-hoster-in-limburg.html#reacties</comments>
-  </item>
-  <item>
-    <title>'OpenAI wil chips van Google kopen om minder afhankelijk van Nvidia te worden'</title>
-    <link>https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253868</guid>
-    <pubDate>Wed, 28 Oct 2026 16:12:26 +0100</pubDate>
-    <description>OpenAI is van plan om tensor processing units van Google te kopen. Dat melden Bloomberg en The Information op basis van ingewijden. Het bedrijf zou zo minder afhankelijk worden van Nvidia, wiens chips OpenAI nu voornamelijk gebruikt voor het trainen en draaien van zijn AI-modellen.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253868/openai-wil-chips-van-google-kopen-om-minder-afhankelijk-van-nvidia-te-worden.html#reacties</comments>
-  </item>
-  <item>
-    <title>Thuiskopieheffing voor e-readers stijgt met 7 euro, tarief smartphones daalt</title>
-    <link>https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253862</guid>
-    <pubDate>Wed, 28 Oct 2026 14:27:41 +0100</pubDate>
-    <description>De thuiskopieheffing in Nederland wordt vanaf 2027 op een andere manier berekend. Daardoor stijgen sommige tarieven, zoals die voor e-readers, terwijl andere dalen. Ook zijn sommige apparaten, zoals externe ssd's, nu vrijgesteld van de heffing, terwijl voor nassen nu wel een vergoeding geldt.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Politiek en recht</category>
-    <comments>https://tweakers.net/nieuws/253862/thuiskopieheffing-voor-e-readers-stijgt-met-7-euro-tarief-smartphones-daalt.html#reacties</comments>
-  </item>
-  <item>
-    <title>Na ruim negen jaar krijgt Odido met Tisha van Lammeren nieuwe ceo</title>
-    <link>https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253860</guid>
-    <pubDate>Wed, 28 Oct 2026 13:31:55 +0100</pubDate>
-    <description>Odido krijgt per direct een nieuwe ceo, Tisha van Lammeren. Ze volgt Søren Abildgaard op, die meer dan negen jaar directeur was bij de Nederlandse provider.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253860/na-ruim-negen-jaar-krijgt-odido-met-tisha-van-lammeren-nieuwe-ceo.html#reacties</comments>
-  </item>
-  <item>
-    <title>Quicktest - Corsair Sabre v3 Pro PureVector - Brakke aim? Deze muis fixt het voor je</title>
-    <link>https://tweakers.net/reviews/15488/corsair-sabre-v3-pro-purevector-brakke-aim-deze-muis-fixt-het-voor-je.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15488</guid>
-    <pubDate>Wed, 28 Oct 2026 13:00:00 +0100</pubDate>
-    <description>De Corsair Sabre v3 Pro is een ultralichte draadloze muis met een ongetwijfeld controversiële functie voor gamers met een brakke aim.</description>
-    <dc:creator>Tomas Hochstenbach</dc:creator>
-    <category>Quicktest / Computers / Muizen</category>
-    <comments>https://tweakers.net/reviews/15488/corsair-sabre-v3-pro-purevector-brakke-aim-deze-muis-fixt-het-voor-je.html#reacties</comments>
-  </item>
-  <item>
-    <title>SK hynix waarschuwt dat geheugentekort tot 2030 duurt, haalt recordwinst</title>
-    <link>https://tweakers.net/nieuws/253856/sk-hynix-waarschuwt-dat-geheugentekort-tot-2030-duurt-haalt-recordwinst.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253856</guid>
-    <pubDate>Wed, 28 Oct 2026 11:58:55 +0100</pubDate>
-    <description>Geheugenfabrikant SK hynix voorspelt dat de huidige geheugentekorten nog tot 2030 duren. Tot dusver was de verwachting dat de problemen uiterlijk in 2028 wel zouden zijn afgenomen. Vanwege de aanhoudende tekorten verwacht het Zuid-Koreaanse bedrijf voorlopig zeer stabiele winsten. Afgelopen kwartaal boekte het bedrijf al een recordwinst.</description>
-    <dc:creator>Yannick Spinner</dc:creator>
-    <category>Nieuws / Computers / Geheugen intern</category>
-    <comments>https://tweakers.net/nieuws/253856/sk-hynix-waarschuwt-dat-geheugentekort-tot-2030-duurt-haalt-recordwinst.html#reacties</comments>
-  </item>
-  <item>
-    <title>Kritiek lek in UEFI-serverfirmware maakt codeuitvoering mogelijk bij netwerkboot</title>
-    <link>https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253846</guid>
-    <pubDate>Wed, 28 Oct 2026 11:53:02 +0100</pubDate>
-    <description>Door een kritieke kwetsbaarheid in de UEFI-firmware EDK II kunnen kwaadwillenden eigen code uitvoeren op systemen die vanaf het netwerk opstarten. Aanvallers kunnen zonder authenticatie code uitvoeren voordat de beveiligingsfunctie Secure Boot en het OS zelf starten.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Architectuur</category>
-    <comments>https://tweakers.net/nieuws/253846/kritiek-lek-in-uefi-serverfirmware-maakt-codeuitvoering-mogelijk-bij-netwerkboot.html#reacties</comments>
   </item>
 </channel>
 </rss>

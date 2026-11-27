@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 19:49:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 20:04:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5234,16 +5234,6 @@
     <dc:creator>Arnoud Wokke</dc:creator>
     <category>Achtergrond / Computers / Software</category>
     <comments>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html#reacties</comments>
-  </item>
-  <item>
-    <title>Microsoft stopt met bekritiseerde Copilot-app op smart-tv's van Samsung en LG</title>
-    <link>https://tweakers.net/nieuws/253882/microsoft-stopt-met-bekritiseerde-copilot-app-op-smart-tvs-van-samsung-en-lg.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253882</guid>
-    <pubDate>Wed, 28 Oct 2026 20:56:39 +0100</pubDate>
-    <description>Microsoft stopt met de ondersteuning voor Copilot op smart-tv's. Televisies van LG en Samsung kregen vorig jaar een Copilot-app, die in eerste instantie niet te verwijderen was. Daar kwam veel kritiek op.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Beeld en geluid / Televisies</category>
-    <comments>https://tweakers.net/nieuws/253882/microsoft-stopt-met-bekritiseerde-copilot-app-op-smart-tvs-van-samsung-en-lg.html#reacties</comments>
   </item>
 </channel>
 </rss>

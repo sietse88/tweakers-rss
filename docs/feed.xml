@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 10:10:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 10:25:23 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>WhatsApp gaat e-simabonnementen vanuit de app aanbieden</title>
+    <link>https://tweakers.net/nieuws/254992/whatsapp-gaat-e-simabonnementen-vanuit-de-app-aanbieden.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/254992</guid>
+    <pubDate>Fri, 27 Nov 2026 11:13:43 +0100</pubDate>
+    <description>WhatsApp werkt aan de mogelijkheid om e-simabonnementen direct vanuit de app te kopen. Het bedrijf werkt daarvoor samen met verschillende providers. WhatsApp startte onlangs een test en wil de functie definitief uitbrengen in 'bepaalde landen'.</description>
+    <dc:creator>Tijs Hofmans</dc:creator>
+    <category>Nieuws / IT Pro / Internettoegang</category>
+    <comments>https://tweakers.net/nieuws/254992/whatsapp-gaat-e-simabonnementen-vanuit-de-app-aanbieden.html#reacties</comments>
+  </item>
   <item>
     <title>Waals Gewest legt bouw van Google-datacenter stil na verlopen vergunning</title>
     <link>https://tweakers.net/nieuws/254990/waals-gewest-legt-bouw-van-google-datacenter-stil-na-verlopen-vergunning.html</link>

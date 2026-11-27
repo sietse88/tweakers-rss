@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:33:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 15:48:52 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5224,16 +5224,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Beeld en geluid / Speakers</category>
     <comments>https://tweakers.net/nieuws/253874/amazon-brengt-echo-studio-met-ingebouwde-camera-en-echo-time-wekker-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Belgische FOD Financiën haalt sommige diensten offline vanwege cyberaanval</title>
-    <link>https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253872</guid>
-    <pubDate>Wed, 28 Oct 2026 16:48:41 +0100</pubDate>
-    <description>De Belgische Federale Overheidsdienst Financiën is getroffen door een cyberaanval. Daardoor heeft de instantie zijn digitale overheidsdiensten zoals MyMinfin tijdelijk offline gehaald. Volgens de FOD Financiën lijkt er geen data te zijn uitgelekt.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253872/belgische-fod-financien-haalt-sommige-diensten-offline-vanwege-cyberaanval.html#reacties</comments>
   </item>
 </channel>
 </rss>

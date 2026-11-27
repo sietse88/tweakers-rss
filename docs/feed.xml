@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 05:09:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 06:54:59 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5224,16 +5224,6 @@
     <dc:creator>Yannick Spinner</dc:creator>
     <category>Nieuws / IT Pro / Websites en community's</category>
     <comments>https://tweakers.net/nieuws/253842/elke-openbare-discord-server-krijgt-webpagina-tenzij-admin-die-uitzet.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gerucht: nieuwe, goedkope iPhone 18e krijgt 60Hz-scherm, net als de iPad mini</title>
-    <link>https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253844</guid>
-    <pubDate>Wed, 28 Oct 2026 07:42:17 +0100</pubDate>
-    <description>Apple zou de iPhone 18-lijn begin volgend jaar uitbreiden met onder meer een goedkoper model, dat dan een 60Hz-scherm krijgt en een A20-chip. De sensor voor de frontcamera krijgt mogelijk een upgrade naar 24MP. Dit meldt de Chinese leaker Digital Chat Station op Weibo.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / Tablets en telefoons / Smartphones</category>
-    <comments>https://tweakers.net/nieuws/253844/gerucht-nieuwe-goedkope-iphone-18e-krijgt-60hz-scherm-net-als-de-ipad-mini.html#reacties</comments>
   </item>
 </channel>
 </rss>

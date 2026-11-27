@@ -87,17 +87,6 @@
   "pubDate": "Wed, 28 Oct 2026 09:37:35 +0100",
   "title": "DeepMind geeft generator 3d-'spelwerelden' met Genie 4 dynamische audio"
  },
- "https://tweakers.net/nieuws/253850": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html#reacties",
-  "description": "De NS gaat lijnnummers van treinen vanaf 13 december tonen onder meer op de informatieschermen op treinstations. Dit moet reizigers 'extra houvast bieden, vooral bij verstoringen, spoorwijzigingen en overstappen', legt de treinvervoerder uit.",
-  "first": "Wed, 28 Oct 2026 08:26:20 +0000",
-  "guid": "https://tweakers.net/nieuws/253850",
-  "link": "https://tweakers.net/nieuws/253850/ns-toont-lijnnummers-van-treinen-vanaf-13-december-op-stationsschermen.html",
-  "pubDate": "Wed, 28 Oct 2026 09:14:59 +0100",
-  "title": "NS toont lijnnummers van treinen vanaf 13 december op stationsschermen"
- },
  "https://tweakers.net/nieuws/253852": {
   "author": "Yannick Spinner",
   "category": "Nieuws / IT Pro / Bedrijfsnieuws",
@@ -5059,6 +5048,17 @@
   "pubDate": "Thu, 26 Nov 2026 20:57:34 +0100",
   "title": "Nederland verzet zich tegen VS-wet die ASML-export naar China verder inperkt"
  },
+ "https://tweakers.net/nieuws/254986": {
+  "author": "Tijs Hofmans",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/254986/onderzoekers-vinden-linux-kernelbug-die-roottoegang-tot-nfs-systemen-kan-geven.html#reacties",
+  "description": "Onderzoekers hebben een ernstige bug in de NFS-server van de Linux-kernel ontdekt. Als servers via de standaardpoort bereikbaar zijn, kan iedere aanvaller een heap overflow veroorzaken en daarmee volledige rootrechten op de server krijgen. De bug zit al sinds 2014 in de kernel.",
+  "first": "Fri, 27 Nov 2026 08:25:10 +0000",
+  "guid": "https://tweakers.net/nieuws/254986",
+  "link": "https://tweakers.net/nieuws/254986/onderzoekers-vinden-linux-kernelbug-die-roottoegang-tot-nfs-systemen-kan-geven.html",
+  "pubDate": "Fri, 27 Nov 2026 09:14:51 +0100",
+  "title": "Onderzoekers vinden Linux-kernelbug die roottoegang tot NFS-systemen kan geven"
+ },
  "https://tweakers.net/nieuws/254988": {
   "author": "Tijs Hofmans",
   "category": "Nieuws / Computers / Serversoftware",
@@ -5190,17 +5190,6 @@
   "link": "https://tweakers.net/reviews/15530/samduo-nex-e6000-thuisbatterij-goede-prestaties-in-extreem-platte-kast.html",
   "pubDate": "Mon, 16 Nov 2026 06:00:00 +0100",
   "title": "Review - Samduo Nex E6000-thuisbatterij - Goede prestaties in extreem platte kast"
- },
- "https://tweakers.net/reviews/15532": {
-  "author": "Jasper Bakker",
-  "category": "Achtergrond / IT Pro / Netwerk en systeembeheer",
-  "comments": "https://tweakers.net/reviews/15532/de-phpocalypse-bleef-uit-waarom-de-php2shell-waarschuwingen-toch-terecht-waren.html#reacties",
-  "description": "Was de reactie op PHP2Shell overdreven? Security stond op scherp en sites gingen preventief offline. Maar de voorspelde hackgolf bleef uit. Waarom? En kan de PHPocalypse nog komen?",
-  "first": "Wed, 28 Oct 2026 08:26:20 +0000",
-  "guid": "https://tweakers.net/reviews/15532",
-  "link": "https://tweakers.net/reviews/15532/de-phpocalypse-bleef-uit-waarom-de-php2shell-waarschuwingen-toch-terecht-waren.html",
-  "pubDate": "Wed, 28 Oct 2026 09:15:00 +0100",
-  "title": "Achtergrond - De PHPocalypse bleef uit: waarom de PHP2Shell-waarschuwingen toch terecht waren"
  },
  "https://tweakers.net/reviews/15534": {
   "author": "Friso Weijers",

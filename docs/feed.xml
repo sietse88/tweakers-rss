@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 16:03:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 16:33:58 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Linux Mint 27-bèta verschijnt met volledige Wayland-ondersteuning en nieuwe apps</title>
+    <link>https://tweakers.net/nieuws/255018/linux-mint-27-beta-verschijnt-met-volledige-wayland-ondersteuning-en-nieuwe-apps.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255018</guid>
+    <pubDate>Fri, 27 Nov 2026 17:25:31 +0100</pubDate>
+    <description>Het Linux Mint-team heeft donderdag de eerste bètaversie van Linux Mint 27 uitgebracht. De Linux-distributie krijgt daarmee volledige ondersteuning voor Wayland en verschillende nieuwe apps. De stabiele versie wordt rond de feestdagen verwacht.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Besturingssystemen</category>
+    <comments>https://tweakers.net/nieuws/255018/linux-mint-27-beta-verschijnt-met-volledige-wayland-ondersteuning-en-nieuwe-apps.html#reacties</comments>
+  </item>
   <item>
     <title>Gratis 'gigantische' Hollow Knight: Silksong-uitbreiding verschijnt 11 december</title>
     <link>https://tweakers.net/nieuws/255014/gratis-gigantische-hollow-knight-silksong-uitbreiding-verschijnt-11-december.html</link>

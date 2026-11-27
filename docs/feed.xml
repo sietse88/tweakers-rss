@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Fri, 27 Nov 2026 17:04:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 18:04:08 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5224,16 +5224,6 @@
     <dc:creator>Kevin Krikhaar</dc:creator>
     <category>Nieuws / Computers / Software</category>
     <comments>https://tweakers.net/nieuws/253880/google-komt-al-na-twee-weken-met-opvolger-van-zijn-flagshipmodel-gemini-4-argon.html#reacties</comments>
-  </item>
-  <item>
-    <title>Apple MacBook Pro met touchscreen en oledscherm kost minstens 3349 euro</title>
-    <link>https://tweakers.net/nieuws/253878/apple-macbook-pro-met-touchscreen-en-oledscherm-kost-minstens-3349-euro.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253878</guid>
-    <pubDate>Wed, 28 Oct 2026 18:59:23 +0100</pubDate>
-    <description>Apple heeft zijn eerste laptop met touchscreen aangekondigd. Deze MacBook Pro is beschikbaar met een 14"- of 16"-oledscherm en krijgt een M5 Pro- of M5 Max-chip. De laptop kost minstens 3349 euro en is vanaf 6 november verkrijgbaar.</description>
-    <dc:creator>Kevin Krikhaar</dc:creator>
-    <category>Nieuws / Computers / Laptops</category>
-    <comments>https://tweakers.net/nieuws/253878/apple-macbook-pro-met-touchscreen-en-oledscherm-kost-minstens-3349-euro.html#reacties</comments>
   </item>
 </channel>
 </rss>

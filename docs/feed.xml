@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 07:31:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 08:01:32 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5194,16 +5194,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Gaming / Games</category>
     <comments>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html#reacties</comments>
-  </item>
-  <item>
-    <title>Gerucht: Intel werkt aan Moon Lake-cpu's zonder P-cores voor budgetlaptops</title>
-    <link>https://tweakers.net/nieuws/253888/gerucht-intel-werkt-aan-moon-lake-cpus-zonder-p-cores-voor-budgetlaptops.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253888</guid>
-    <pubDate>Thu, 29 Oct 2026 09:00:55 +0100</pubDate>
-    <description>Intel werkt mogelijk aan nieuwe Moon Lake-processors. Dat claimt de bekende leaker Jaykihn. Volgens hem krijgen ze vier extra zuinige LPE-cores en tdp's van 6 tot 15W. Daarmee zijn de cpu's gericht op ultragoedkope instaplaptops. De releasedatum is nog niet bekend.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Processors</category>
-    <comments>https://tweakers.net/nieuws/253888/gerucht-intel-werkt-aan-moon-lake-cpus-zonder-p-cores-voor-budgetlaptops.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -5081,17 +5081,6 @@
   "pubDate": "Fri, 27 Nov 2026 20:43:31 +0100",
   "title": "OpenAI: Apple stal bedrijfsgeheimen en belemmert onze toegang tot leveranciers"
  },
- "https://tweakers.net/reviews/15330": {
-  "author": "Jelle Stuip",
-  "category": "Review / Tablets en telefoons / E-readers",
-  "comments": "https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html#reacties",
-  "description": "Met een prijs van 300 euro is de InkPad One een relatief goedkoop digitaal notitieblok. Maar werkt hij ook een beetje prettig?",
-  "first": "Thu, 29 Oct 2026 05:14:03 +0000",
-  "guid": "https://tweakers.net/reviews/15330",
-  "link": "https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html",
-  "pubDate": "Thu, 29 Oct 2026 06:00:00 +0100",
-  "title": "Review - PocketBook InkPad One - Digitaal notitieblok geeft schrijfkramp"
- },
  "https://tweakers.net/reviews/15416": {
   "author": "Dennis de Vries",
   "category": "Review / Tablets en telefoons / Tablets",
@@ -5113,17 +5102,6 @@
   "link": "https://tweakers.net/reviews/15458/welke-hardware-is-het-snelst-voor-lokale-ai-apple-nvidia-en-amd-getest.html",
   "pubDate": "Sat, 07 Nov 2026 06:00:00 +0100",
   "title": "Benchmark - Welke hardware is het snelst voor lokale AI? Apple, Nvidia en AMD getest"
- },
- "https://tweakers.net/reviews/15464": {
-  "author": "Arnoud Wokke",
-  "category": "Achtergrond / Computers / Software",
-  "comments": "https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html#reacties",
-  "description": "Alle AI-diensten bouwen watermerken in om later te kunnen zien of bijvoorbeeld een tekst door AI is gemaakt. Hoe werkt dat?",
-  "first": "Thu, 29 Oct 2026 05:14:03 +0000",
-  "guid": "https://tweakers.net/reviews/15464",
-  "link": "https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html",
-  "pubDate": "Thu, 29 Oct 2026 06:00:00 +0100",
-  "title": "Achtergrond - EU maakt AI-watermerken verplicht, maar niet waterdicht"
  },
  "https://tweakers.net/reviews/15480": {
   "author": "Sjef Weller",
@@ -5740,5 +5718,16 @@
   "link": "https://tweakers.net/reviews/15682/meta-schuift-verantwoordelijkheid-voor-misbruik-camerabrillen-naar-gebruikers.html",
   "pubDate": "Thu, 26 Nov 2026 17:03:37 +0100",
   "title": "Achtergrond - Meta schuift verantwoordelijkheid voor misbruik camerabrillen naar gebruikers"
+ },
+ "https://tweakers.net/reviews/15684": {
+  "author": "Jurian Ubachs",
+  "category": "Review / Gaming / Games",
+  "comments": "https://tweakers.net/reviews/15684/grand-theft-auto-vi-iconische-game-overtreft-verwachtingen.html#reacties",
+  "description": "Grand Theft Auto VI voldoet niet alleen aan de hooggespannen verwachtingen, maar weet ze zelfs te overtreffen.",
+  "first": "Sat, 28 Nov 2026 05:01:21 +0000",
+  "guid": "https://tweakers.net/reviews/15684",
+  "link": "https://tweakers.net/reviews/15684/grand-theft-auto-vi-iconische-game-overtreft-verwachtingen.html",
+  "pubDate": "Sat, 28 Nov 2026 06:00:00 +0100",
+  "title": "Review - Grand Theft Auto VI - Iconische game overtreft verwachtingen"
  }
 }

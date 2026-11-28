@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 04:52:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 05:01:21 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Review - Grand Theft Auto VI - Iconische game overtreft verwachtingen</title>
+    <link>https://tweakers.net/reviews/15684/grand-theft-auto-vi-iconische-game-overtreft-verwachtingen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/reviews/15684</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
+    <description>Grand Theft Auto VI voldoet niet alleen aan de hooggespannen verwachtingen, maar weet ze zelfs te overtreffen.</description>
+    <dc:creator>Jurian Ubachs</dc:creator>
+    <category>Review / Gaming / Games</category>
+    <comments>https://tweakers.net/reviews/15684/grand-theft-auto-vi-iconische-game-overtreft-verwachtingen.html#reacties</comments>
+  </item>
   <item>
     <title>OpenAI: Apple stal bedrijfsgeheimen en belemmert onze toegang tot leveranciers</title>
     <link>https://tweakers.net/nieuws/255024/openai-apple-stal-bedrijfsgeheimen-en-belemmert-onze-toegang-tot-leveranciers.html</link>
@@ -5214,26 +5224,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Pc's</category>
     <comments>https://tweakers.net/nieuws/253884/apple-mac-studio-met-512gb-geheugen-kost-minstens-25129-euro.html#reacties</comments>
-  </item>
-  <item>
-    <title>Review - PocketBook InkPad One - Digitaal notitieblok geeft schrijfkramp</title>
-    <link>https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15330</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-    <description>Met een prijs van 300 euro is de InkPad One een relatief goedkoop digitaal notitieblok. Maar werkt hij ook een beetje prettig?</description>
-    <dc:creator>Jelle Stuip</dc:creator>
-    <category>Review / Tablets en telefoons / E-readers</category>
-    <comments>https://tweakers.net/reviews/15330/pocketbook-inkpad-one-digitaal-notitieblok-geeft-schrijfkramp.html#reacties</comments>
-  </item>
-  <item>
-    <title>Achtergrond - EU maakt AI-watermerken verplicht, maar niet waterdicht</title>
-    <link>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html</link>
-    <guid isPermaLink="false">https://tweakers.net/reviews/15464</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
-    <description>Alle AI-diensten bouwen watermerken in om later te kunnen zien of bijvoorbeeld een tekst door AI is gemaakt. Hoe werkt dat?</description>
-    <dc:creator>Arnoud Wokke</dc:creator>
-    <category>Achtergrond / Computers / Software</category>
-    <comments>https://tweakers.net/reviews/15464/eu-maakt-ai-watermerken-verplicht-maar-niet-waterdicht.html#reacties</comments>
   </item>
 </channel>
 </rss>

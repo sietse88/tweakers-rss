@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 16:06:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 16:36:45 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5114,16 +5114,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Marktontwikkelingen</category>
     <comments>https://tweakers.net/nieuws/253922/nieuwe-heffing-voor-pakketjes-van-buiten-de-eu-is-2-euro-en-gaat-1-november-in.html#reacties</comments>
-  </item>
-  <item>
-    <title>Nederlandse overheid adviseert onderzoek naar overstap van Edge naar Firefox</title>
-    <link>https://tweakers.net/nieuws/253918/nederlandse-overheid-adviseert-onderzoek-naar-overstap-van-edge-naar-firefox.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253918</guid>
-    <pubDate>Thu, 29 Oct 2026 17:34:39 +0100</pubDate>
-    <description>In een onderzoek van de Nederlandse Rijksoverheid naar de privacyvriendelijkheid van vier browsers scoort Microsoft Edge slechter dan de concurrentie. Het interne advies aan sharedserviceorganisaties (SSO's) is om op korte termijn een overstap naar Mozilla Firefox Enterprise te onderzoeken.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / Computers / Browsers</category>
-    <comments>https://tweakers.net/nieuws/253918/nederlandse-overheid-adviseert-onderzoek-naar-overstap-van-edge-naar-firefox.html#reacties</comments>
   </item>
 </channel>
 </rss>

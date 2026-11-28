@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 10:16:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 14:06:30 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,36 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>TrendForce ziet geheugenprijzen in 2028 dalen, mogelijk iets eerder</title>
+    <link>https://tweakers.net/nieuws/255032/trendforce-ziet-geheugenprijzen-in-2028-dalen-mogelijk-iets-eerder.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255032</guid>
+    <pubDate>Sat, 28 Nov 2026 13:29:27 +0100</pubDate>
+    <description>De geheugenprijzen dalen mogelijk in 2028 of iets eerder, blijkt uit een analyse van marktanalist TrendForce. Fabrikanten twijfelen over hun productieplannen vanwege de recente verkiezingsuitslag in de VS en de situatie bij Nvidia.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Geheugen intern</category>
+    <comments>https://tweakers.net/nieuws/255032/trendforce-ziet-geheugenprijzen-in-2028-dalen-mogelijk-iets-eerder.html#reacties</comments>
+  </item>
+  <item>
+    <title>Ook Chili wil dat Apple zijn iOS-ecosysteem openbreekt en dreigt met boete</title>
+    <link>https://tweakers.net/nieuws/255030/ook-chili-wil-dat-apple-zijn-ios-ecosysteem-openbreekt-en-dreigt-met-boete.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255030</guid>
+    <pubDate>Sat, 28 Nov 2026 12:35:12 +0100</pubDate>
+    <description>De Chileense markttoezichthouder FNE wil Apple een boete van omgerekend zo'n 80 miljoen dollar geven. De toezichthouder beschuldigt Apple ervan de 'vrije concurrentie' op het iOS-besturingssysteem te belemmeren. Een rechtbank gaat het verzoek beoordelen.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Tablets en telefoons / Smartphones</category>
+    <comments>https://tweakers.net/nieuws/255030/ook-chili-wil-dat-apple-zijn-ios-ecosysteem-openbreekt-en-dreigt-met-boete.html#reacties</comments>
+  </item>
+  <item>
+    <title>Wachtwoordmanager pCloud Pass bevestigt cyberaanval na vreemde inlogmeldingen</title>
+    <link>https://tweakers.net/nieuws/255026/wachtwoordmanager-pcloud-pass-bevestigt-cyberaanval-na-vreemde-inlogmeldingen.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255026</guid>
+    <pubDate>Sat, 28 Nov 2026 11:36:37 +0100</pubDate>
+    <description>Wachtwoordmanager pCloud Pass is getroffen door een cyberaanval. Dat bevestigt het bedrijf, nadat gebruikers notificaties kregen dat nieuwe apparaten waren gekoppeld aan hun accounts. PCloud spreekt van 'inlogpogingen' nadat 'een klein aantal e-mailadressen' uitlekte.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Beveiliging en antivirus</category>
+    <comments>https://tweakers.net/nieuws/255026/wachtwoordmanager-pcloud-pass-bevestigt-cyberaanval-na-vreemde-inlogmeldingen.html#reacties</comments>
+  </item>
   <item>
     <title>Thermal Grizzly-tool kan cpu's helpen delidden door ze te bakken in de oven</title>
     <link>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-helpen-delidden-door-ze-te-bakken-in-de-oven.html</link>
@@ -5134,66 +5164,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / Computers / Besturingssystemen</category>
     <comments>https://tweakers.net/nieuws/253908/android-16-is-meestgebruikte-versie-blijkt-uit-actuele-cijfers-van-google.html#reacties</comments>
-  </item>
-  <item>
-    <title>Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging</title>
-    <link>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253906</guid>
-    <pubDate>Thu, 29 Oct 2026 15:03:07 +0100</pubDate>
-    <description>Alpine Linux heeft zijn GitLab-server compleet opnieuw opgebouwd. De ontwikkelaars zagen dat hackers probeerden een kritieke kwetsbaarheid in het Git-platform uit te buiten. Er zijn geen aanwijzingen dat dat is gelukt, maar het team greep toch uit voorzorg in.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Besturingssystemen</category>
-    <comments>https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html#reacties</comments>
-  </item>
-  <item>
-    <title>CISA: hackers misbruiken PHP-lek in combinatie met Linux-kernelbug uit mei</title>
-    <link>https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253904</guid>
-    <pubDate>Thu, 29 Oct 2026 14:58:44 +0100</pubDate>
-    <description>Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.</description>
-    <dc:creator>Imre Himmelbauer</dc:creator>
-    <category>Nieuws / IT Pro / Internet</category>
-    <comments>https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html#reacties</comments>
-  </item>
-  <item>
-    <title>Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties</title>
-    <link>https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253902</guid>
-    <pubDate>Thu, 29 Oct 2026 14:40:36 +0100</pubDate>
-    <description>Jongeren zijn mediawijzer dan ouderen: ze herkennen AI-beeldmateriaal sneller, begrijpen algoritmes beter en hebben een goed besef van de invloed van sociale media. Dit blijkt uit onderzoek in opdracht van de Vlaamse minister van Media onder 4456 Vlamingen van 16 tot 98 jaar.</description>
-    <dc:creator>Jasper Bakker</dc:creator>
-    <category>Nieuws / IT Pro / Marktontwikkelingen</category>
-    <comments>https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html#reacties</comments>
-  </item>
-  <item>
-    <title>No Man's Sky is uit voor iPhones en iPads, krijgt opnieuw gratis update</title>
-    <link>https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253898</guid>
-    <pubDate>Thu, 29 Oct 2026 13:48:56 +0100</pubDate>
-    <description>Hello Games brengt No Man's Sky uit voor iPhones en iPads. Tegelijkertijd krijgt de game opnieuw een gratis update genaamd Forsaken. De nieuwste update heeft een Halloween-thema. Daarin verkennen spelers de 'duistere kant van het universum'.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html#reacties</comments>
-  </item>
-  <item>
-    <title>Google gaat in meer landen reclame tonen in AI-modus, maar nog niet in de EU</title>
-    <link>https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253890</guid>
-    <pubDate>Thu, 29 Oct 2026 13:20:47 +0100</pubDate>
-    <description>Google gaat in meer landen advertenties tonen in zijn AI-zoekresultaten. Het bedrijf deed dat tot nu toe alleen in de VS, maar breidt nu uit naar tien andere landen. Later dit jaar volgen nóg meer landen. Voorlopig zitten Nederland en België er niet tussen.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / IT Pro / Bedrijfsnieuws</category>
-    <comments>https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html#reacties</comments>
-  </item>
-  <item>
-    <title>Hackers zetten gegevens van ruim 41.000 medewerkers Amerikaans ministerie online</title>
-    <link>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253896</guid>
-    <pubDate>Thu, 29 Oct 2026 11:27:26 +0100</pubDate>
-    <description>Hackers hebben de gegevens van meer dan 41.000 medewerkers van het Amerikaanse ministerie van Binnenlandse Veiligheid online gezet. Het gaat onder andere om namen, telefoonnummers en e-mailadressen van personeelsleden, waaronder werknemers met 'gevoelige functies'.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Computers / Beveiliging en antivirus</category>
-    <comments>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html#reacties</comments>
   </item>
 </channel>
 </rss>

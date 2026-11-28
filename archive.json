@@ -65,72 +65,6 @@
   "pubDate": "Fri, 20 Nov 2026 10:00:00 +0100",
   "title": "Best Buy Guide - Beste oledtelevisies"
  },
- "https://tweakers.net/nieuws/253890": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / IT Pro / Bedrijfsnieuws",
-  "comments": "https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html#reacties",
-  "description": "Google gaat in meer landen advertenties tonen in zijn AI-zoekresultaten. Het bedrijf deed dat tot nu toe alleen in de VS, maar breidt nu uit naar tien andere landen. Later dit jaar volgen nóg meer landen. Voorlopig zitten Nederland en België er niet tussen.",
-  "first": "Thu, 29 Oct 2026 12:34:48 +0000",
-  "guid": "https://tweakers.net/nieuws/253890",
-  "link": "https://tweakers.net/nieuws/253890/google-gaat-in-meer-landen-reclame-tonen-in-ai-modus-maar-nog-niet-in-de-eu.html",
-  "pubDate": "Thu, 29 Oct 2026 13:20:47 +0100",
-  "title": "Google gaat in meer landen reclame tonen in AI-modus, maar nog niet in de EU"
- },
- "https://tweakers.net/nieuws/253896": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Beveiliging en antivirus",
-  "comments": "https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html#reacties",
-  "description": "Hackers hebben de gegevens van meer dan 41.000 medewerkers van het Amerikaanse ministerie van Binnenlandse Veiligheid online gezet. Het gaat onder andere om namen, telefoonnummers en e-mailadressen van personeelsleden, waaronder werknemers met 'gevoelige functies'.",
-  "first": "Thu, 29 Oct 2026 10:34:38 +0000",
-  "guid": "https://tweakers.net/nieuws/253896",
-  "link": "https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html",
-  "pubDate": "Thu, 29 Oct 2026 11:27:26 +0100",
-  "title": "Hackers zetten gegevens van ruim 41.000 medewerkers Amerikaans ministerie online"
- },
- "https://tweakers.net/nieuws/253898": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Gaming / Games",
-  "comments": "https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html#reacties",
-  "description": "Hello Games brengt No Man's Sky uit voor iPhones en iPads. Tegelijkertijd krijgt de game opnieuw een gratis update genaamd Forsaken. De nieuwste update heeft een Halloween-thema. Daarin verkennen spelers de 'duistere kant van het universum'.",
-  "first": "Thu, 29 Oct 2026 13:04:52 +0000",
-  "guid": "https://tweakers.net/nieuws/253898",
-  "link": "https://tweakers.net/nieuws/253898/no-mans-sky-is-uit-voor-iphones-en-ipads-krijgt-opnieuw-gratis.html",
-  "pubDate": "Thu, 29 Oct 2026 13:48:56 +0100",
-  "title": "No Man's Sky is uit voor iPhones en iPads, krijgt opnieuw gratis update"
- },
- "https://tweakers.net/nieuws/253902": {
-  "author": "Jasper Bakker",
-  "category": "Nieuws / IT Pro / Marktontwikkelingen",
-  "comments": "https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html#reacties",
-  "description": "Jongeren zijn mediawijzer dan ouderen: ze herkennen AI-beeldmateriaal sneller, begrijpen algoritmes beter en hebben een goed besef van de invloed van sociale media. Dit blijkt uit onderzoek in opdracht van de Vlaamse minister van Media onder 4456 Vlamingen van 16 tot 98 jaar.",
-  "first": "Thu, 29 Oct 2026 13:49:58 +0000",
-  "guid": "https://tweakers.net/nieuws/253902",
-  "link": "https://tweakers.net/nieuws/253902/vlaamse-jongeren-herkennen-ai-beelden-vaker-dan-oudere-generaties.html",
-  "pubDate": "Thu, 29 Oct 2026 14:40:36 +0100",
-  "title": "Vlaamse jongeren herkennen AI-beelden vaker dan oudere generaties"
- },
- "https://tweakers.net/nieuws/253904": {
-  "author": "Imre Himmelbauer",
-  "category": "Nieuws / IT Pro / Internet",
-  "comments": "https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html#reacties",
-  "description": "Het Amerikaanse cybersecurityagentschap CISA heeft de Fragnesia-bug in de Linux-kernel toegevoegd aan de Known Exploited Vulnerabilities-database. De organisatie heeft bewijs dat hackers de bug actief misbruiken.",
-  "first": "Thu, 29 Oct 2026 14:05:00 +0000",
-  "guid": "https://tweakers.net/nieuws/253904",
-  "link": "https://tweakers.net/nieuws/253904/cisa-hackers-misbruiken-php-lek-in-combinatie-met-linux-kernelbug-uit-mei.html",
-  "pubDate": "Thu, 29 Oct 2026 14:58:44 +0100",
-  "title": "CISA: hackers misbruiken PHP-lek in combinatie met Linux-kernelbug uit mei"
- },
- "https://tweakers.net/nieuws/253906": {
-  "author": "Daan van Monsjou",
-  "category": "Nieuws / Computers / Besturingssystemen",
-  "comments": "https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html#reacties",
-  "description": "Alpine Linux heeft zijn GitLab-server compleet opnieuw opgebouwd. De ontwikkelaars zagen dat hackers probeerden een kritieke kwetsbaarheid in het Git-platform uit te buiten. Er zijn geen aanwijzingen dat dat is gelukt, maar het team greep toch uit voorzorg in.",
-  "first": "Thu, 29 Oct 2026 14:20:03 +0000",
-  "guid": "https://tweakers.net/nieuws/253906",
-  "link": "https://tweakers.net/nieuws/253906/alpine-linux-bouwt-gitlab-server-volledig-opnieuw-op-na-hackpoging.html",
-  "pubDate": "Thu, 29 Oct 2026 15:03:07 +0100",
-  "title": "Alpine Linux bouwt GitLab-server volledig opnieuw op na hackpoging"
- },
  "https://tweakers.net/nieuws/253908": {
   "author": "Jasper Bakker",
   "category": "Nieuws / Computers / Besturingssystemen",
@@ -5037,6 +4971,17 @@
   "pubDate": "Fri, 27 Nov 2026 20:43:31 +0100",
   "title": "OpenAI: Apple stal bedrijfsgeheimen en belemmert onze toegang tot leveranciers"
  },
+ "https://tweakers.net/nieuws/255026": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Beveiliging en antivirus",
+  "comments": "https://tweakers.net/nieuws/255026/wachtwoordmanager-pcloud-pass-bevestigt-cyberaanval-na-vreemde-inlogmeldingen.html#reacties",
+  "description": "Wachtwoordmanager pCloud Pass is getroffen door een cyberaanval. Dat bevestigt het bedrijf, nadat gebruikers notificaties kregen dat nieuwe apparaten waren gekoppeld aan hun accounts. PCloud spreekt van 'inlogpogingen' nadat 'een klein aantal e-mailadressen' uitlekte.",
+  "first": "Sat, 28 Nov 2026 14:06:30 +0000",
+  "guid": "https://tweakers.net/nieuws/255026",
+  "link": "https://tweakers.net/nieuws/255026/wachtwoordmanager-pcloud-pass-bevestigt-cyberaanval-na-vreemde-inlogmeldingen.html",
+  "pubDate": "Sat, 28 Nov 2026 11:36:37 +0100",
+  "title": "Wachtwoordmanager pCloud Pass bevestigt cyberaanval na vreemde inlogmeldingen"
+ },
  "https://tweakers.net/nieuws/255028": {
   "author": "Daan van Monsjou",
   "category": "Nieuws / Computers / Overclocking",
@@ -5047,6 +4992,28 @@
   "link": "https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-helpen-delidden-door-ze-te-bakken-in-de-oven.html",
   "pubDate": "Sat, 28 Nov 2026 10:15:55 +0100",
   "title": "Thermal Grizzly-tool kan cpu's helpen delidden door ze te bakken in de oven"
+ },
+ "https://tweakers.net/nieuws/255030": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Tablets en telefoons / Smartphones",
+  "comments": "https://tweakers.net/nieuws/255030/ook-chili-wil-dat-apple-zijn-ios-ecosysteem-openbreekt-en-dreigt-met-boete.html#reacties",
+  "description": "De Chileense markttoezichthouder FNE wil Apple een boete van omgerekend zo'n 80 miljoen dollar geven. De toezichthouder beschuldigt Apple ervan de 'vrije concurrentie' op het iOS-besturingssysteem te belemmeren. Een rechtbank gaat het verzoek beoordelen.",
+  "first": "Sat, 28 Nov 2026 14:06:30 +0000",
+  "guid": "https://tweakers.net/nieuws/255030",
+  "link": "https://tweakers.net/nieuws/255030/ook-chili-wil-dat-apple-zijn-ios-ecosysteem-openbreekt-en-dreigt-met-boete.html",
+  "pubDate": "Sat, 28 Nov 2026 12:35:12 +0100",
+  "title": "Ook Chili wil dat Apple zijn iOS-ecosysteem openbreekt en dreigt met boete"
+ },
+ "https://tweakers.net/nieuws/255032": {
+  "author": "Daan van Monsjou",
+  "category": "Nieuws / Computers / Geheugen intern",
+  "comments": "https://tweakers.net/nieuws/255032/trendforce-ziet-geheugenprijzen-in-2028-dalen-mogelijk-iets-eerder.html#reacties",
+  "description": "De geheugenprijzen dalen mogelijk in 2028 of iets eerder, blijkt uit een analyse van marktanalist TrendForce. Fabrikanten twijfelen over hun productieplannen vanwege de recente verkiezingsuitslag in de VS en de situatie bij Nvidia.",
+  "first": "Sat, 28 Nov 2026 14:06:30 +0000",
+  "guid": "https://tweakers.net/nieuws/255032",
+  "link": "https://tweakers.net/nieuws/255032/trendforce-ziet-geheugenprijzen-in-2028-dalen-mogelijk-iets-eerder.html",
+  "pubDate": "Sat, 28 Nov 2026 13:29:27 +0100",
+  "title": "TrendForce ziet geheugenprijzen in 2028 dalen, mogelijk iets eerder"
  },
  "https://tweakers.net/reviews/15416": {
   "author": "Dennis de Vries",

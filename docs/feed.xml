@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 08:01:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:16:36 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -15,6 +15,16 @@
     <width>192</width>
     <height>192</height>
   </image>
+  <item>
+    <title>Thermal Grizzly-tool kan cpu's delidden door ze te bakken in de oven</title>
+    <link>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-delidden-door-ze-te-bakken-in-de-oven.html</link>
+    <guid isPermaLink="false">https://tweakers.net/nieuws/255028</guid>
+    <pubDate>Sat, 28 Nov 2026 10:15:55 +0100</pubDate>
+    <description>Thermal Grizzly introduceert zijn Delid-Heat-Mate, een tool die het makkelijker maakt om cpu's te delidden. Dat gebeurt door de cpu in de tool te plaatsen en die vervolgens in de oven te stoppen. Door de cpu daarin te bakken, moet de heatspreader vanzelf loslaten.</description>
+    <dc:creator>Daan van Monsjou</dc:creator>
+    <category>Nieuws / Computers / Overclocking</category>
+    <comments>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-delidden-door-ze-te-bakken-in-de-oven.html#reacties</comments>
+  </item>
   <item>
     <title>Review - Grand Theft Auto VI - Iconische game overtreft verwachtingen</title>
     <link>https://tweakers.net/reviews/15684/grand-theft-auto-vi-iconische-game-overtreft-verwachtingen.html</link>
@@ -5184,16 +5194,6 @@
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Beveiliging en antivirus</category>
     <comments>https://tweakers.net/nieuws/253896/hackers-zetten-gegevens-van-ruim-41000-medewerkers-amerikaans-ministerie-online.html#reacties</comments>
-  </item>
-  <item>
-    <title>Rockstar: GTA VI krijgt bijna evenveel land als GTA IV, GTA V en RDR2 samen</title>
-    <link>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253892</guid>
-    <pubDate>Thu, 29 Oct 2026 10:04:20 +0100</pubDate>
-    <description>Grand Theft Auto VI wordt 'bijna even groot' als GTA IV, GTA V en Red Dead Redemption 2 samen. Dat zegt ontwikkelaar Rockstar Games tegen Edge Magazine. De studio zei eerder al dat de kaart van het spel grofweg twee keer zo groot is als die van GTA V.</description>
-    <dc:creator>Daan van Monsjou</dc:creator>
-    <category>Nieuws / Gaming / Games</category>
-    <comments>https://tweakers.net/nieuws/253892/rockstar-gta-vi-krijgt-bijna-evenveel-land-als-gta-iv-gta-v-en-rdr2-samen.html#reacties</comments>
   </item>
 </channel>
 </rss>

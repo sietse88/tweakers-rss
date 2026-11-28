@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 14:36:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 15:36:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -5134,16 +5134,6 @@
     <dc:creator>Jasper Bakker</dc:creator>
     <category>Nieuws / IT Pro / Netwerk en systeembeheer</category>
     <comments>https://tweakers.net/nieuws/253920/sidn-stelt-verhuizing-van-nl-naar-hello-registry-weer-uit.html#reacties</comments>
-  </item>
-  <item>
-    <title>Na verzet stelt Meta nieuwe zakelijke voorwaarden voor onbepaalde tijd uit</title>
-    <link>https://tweakers.net/nieuws/253910/na-verzet-stelt-meta-nieuwe-zakelijke-voorwaarden-voor-onbepaalde-tijd-uit.html</link>
-    <guid isPermaLink="false">https://tweakers.net/nieuws/253910</guid>
-    <pubDate>Thu, 29 Oct 2026 16:30:24 +0100</pubDate>
-    <description>Meta stelt de invoering van nieuwe voorwaarden voor zakelijke gebruikers voor onbepaalde tijd uit. Oorspronkelijk stelde Meta het al uit tot 20 november, maar door weerstand uit de uitgeverswereld en de advertentiesector stelt het bedrijf de invoering nu voor onbepaalde tijd uit. Meta zou content van derden mogen gebruiken voor AI-training.</description>
-    <dc:creator>Lumen Heijdendael</dc:creator>
-    <category>Nieuws / IT Pro / Economie en maatschappij</category>
-    <comments>https://tweakers.net/nieuws/253910/na-verzet-stelt-meta-nieuwe-zakelijke-voorwaarden-voor-onbepaalde-tijd-uit.html#reacties</comments>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://sietse88.github.io/tweakers-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Tweakers nieuws en reviews, met de artikelen van de afgelopen 30 dagen.</description>
   <language>nl-NL</language>
-  <lastBuildDate>Sat, 28 Nov 2026 09:16:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:31:38 +0000</lastBuildDate>
   <ttl>60</ttl>
   <image>
     <url>https://tweakers.net/icon-192.png</url>
@@ -16,14 +16,14 @@
     <height>192</height>
   </image>
   <item>
-    <title>Thermal Grizzly-tool kan cpu's delidden door ze te bakken in de oven</title>
-    <link>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-delidden-door-ze-te-bakken-in-de-oven.html</link>
+    <title>Thermal Grizzly-tool kan cpu's helpen delidden door ze te bakken in de oven</title>
+    <link>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-helpen-delidden-door-ze-te-bakken-in-de-oven.html</link>
     <guid isPermaLink="false">https://tweakers.net/nieuws/255028</guid>
     <pubDate>Sat, 28 Nov 2026 10:15:55 +0100</pubDate>
     <description>Thermal Grizzly introduceert zijn Delid-Heat-Mate, een tool die het makkelijker maakt om cpu's te delidden. Dat gebeurt door de cpu in de tool te plaatsen en die vervolgens in de oven te stoppen. Door de cpu daarin te bakken, moet de heatspreader vanzelf loslaten.</description>
     <dc:creator>Daan van Monsjou</dc:creator>
     <category>Nieuws / Computers / Overclocking</category>
-    <comments>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-delidden-door-ze-te-bakken-in-de-oven.html#reacties</comments>
+    <comments>https://tweakers.net/nieuws/255028/thermal-grizzly-tool-kan-cpus-helpen-delidden-door-ze-te-bakken-in-de-oven.html#reacties</comments>
   </item>
   <item>
     <title>Review - Grand Theft Auto VI - Iconische game overtreft verwachtingen</title>
